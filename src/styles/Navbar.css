@@ -1,0 +1,21 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--green-light);
+  box-shadow: 0 5px 3px rgba(0, 0, 0, 0.5);
+  padding: 5px 30px;
+}
+#NavbarBrandImg {
+  max-height: 80px;
+  aspect-ratio: 1/1;
+  display: flex;
+  align-items: center;
+}
+#NavbarBrandImg > img {
+  width: 100%;
+  vertical-align: center;
+}
+#NavbarBrand {
+  font-size: 40px;
+}
