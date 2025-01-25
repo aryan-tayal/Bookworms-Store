@@ -3,6 +3,8 @@ nav {
   justify-content: space-between;
   align-items: center;
   background-color: var(--green-light);
+  position: relative;
+  z-index: 1000;
   box-shadow: 0 5px 3px rgba(0, 0, 0, 0.5);
   padding: 5px 30px;
 }
@@ -17,5 +19,5 @@ nav {
   vertical-align: center;
 }
 #NavbarBrand {
-  font-size: 40px;
+  font-size: 2.5rem;
 }

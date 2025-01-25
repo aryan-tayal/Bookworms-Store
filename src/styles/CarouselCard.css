@@ -1,0 +1,28 @@
+.CarouselCard {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  align-items: center;
+  padding: 20px 50px;
+}
+.CarouselCard.active {
+  width: 80%;
+}
+.CarouselCardImg > img {
+  width: 100%;
+}
+.CarouselCardContent {
+  padding: 0 50px;
+}
+.CarouselCardTitle {
+  font-size: 1.5rem;
+}
+.CarouselCardAuthor {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+.CarouselCard .category {
+  margin: 15px 0;
+}
+.CarouselCard .price-button {
+  border: none;
+}

@@ -1,0 +1,15 @@
+.category {
+  font-size: 1.2rem;
+}
+.category > i {
+  display: inline-block;
+  margin-right: 10px;
+}
+.price-button {
+  padding: 5px 20px;
+  font-weight: 700;
+  font-size: 1.2rem;
+  display: inline-block;
+  background-color: var(--green-main);
+  border: 1px solid var(--green-accent);
+}
