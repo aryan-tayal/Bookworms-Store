@@ -13,3 +13,8 @@
   background-color: var(--green-main);
   border: 1px solid var(--green-accent);
 }
+.tag {
+  background-color: var(--green-main);
+  padding: 5px 10px;
+  display: inline-block;
+}
