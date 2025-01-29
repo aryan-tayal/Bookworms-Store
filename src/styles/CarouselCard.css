@@ -1,11 +1,15 @@
 .CarouselCard {
+  width: 100%;
   display: grid;
   grid-template-columns: 20% 80%;
   align-items: center;
   padding: 20px 50px;
 }
-.CarouselCard.active {
-  width: 80%;
+.CarouselCard.hide{
+  display: none;
+}
+.CarouselCard.neighbour *{
+  display: none;
 }
 .CarouselCardImg > img {
   width: 100%;

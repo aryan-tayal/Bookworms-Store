@@ -8,6 +8,8 @@ const App = () => {
       <Navbar />
       <Carousel />
       <BookCard />
+      <BookCard />
+      <BookCard />
     </div>
   );
 };
