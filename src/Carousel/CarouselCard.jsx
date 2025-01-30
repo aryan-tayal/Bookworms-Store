@@ -2,8 +2,7 @@ import "../styles/Carousel/CarouselCard.css";
 import { Category, PriceButton } from "../Utils";
 
 const CarouselCard = ({
-  hide,
-  neighbour,
+  active,
   bgcolor,
   color,
   bookTitle,
@@ -12,11 +11,13 @@ const CarouselCard = ({
   bookCover,
   bookCategory,
   price,
+  handleCardClick
 }) => {
   return (
     <div
-      className={`CarouselCard ${hide && "hide"} ${neighbour && "neighbour"}`}
+      className={`CarouselCard ${active && "active"}`}
       style={{ backgroundColor: bgcolor }}
+      onClick={handleCardClick}
     >
       <div className="CarouselCardImg">
         <img src={bookCover} alt={`Book Cover - ${bookTitle}`} />

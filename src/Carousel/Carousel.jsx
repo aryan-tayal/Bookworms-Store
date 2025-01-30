@@ -1,13 +1,15 @@
-import { useState } from "react";
-import CarouselCard from "./CarouselCard";
+import CarouselCardGroup from "./CarouselCardGroup";
+import CarouselNav from "./CarouselNav";
 
 import "../styles/Carousel/Carousel.css";
+
+import { useState } from "react";
 
 const carouselData = [
   {
     bookCover:
       "https://m.media-amazon.com/images/I/815qVQVm0QL._AC_UF1000,1000_QL80_.jpg",
-    bookTitle: "Book Title",
+    bookTitle: "Book Title 1",
     bookAuthor: "Book Title",
     bookBlurb:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reprehenderit quod velit, voluptatum illo quidem ab rem minima sapiente deleniti. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam et modi corrupti repellendus magni totam dolor accusamus incidunt nostrum, dolorum a voluptatem dolorem autem placeat tempore error saepe deserunt sed officiis numquam! Porro vitae est quis ullam suscipit quo dolorem eius expedita nobis officiis eos, natus similique sit modi vero.",
@@ -19,7 +21,7 @@ const carouselData = [
   {
     bookCover:
       "https://m.media-amazon.com/images/I/815qVQVm0QL._AC_UF1000,1000_QL80_.jpg",
-    bookTitle: "Book Title",
+    bookTitle: "Book Title 2",
     bookAuthor: "Book Title",
     bookBlurb:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reprehenderit quod velit, voluptatum illo quidem ab rem minima sapiente deleniti. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam et modi corrupti repellendus magni totam dolor accusamus incidunt nostrum, dolorum a voluptatem dolorem autem placeat tempore error saepe deserunt sed officiis numquam! Porro vitae est quis ullam suscipit quo dolorem eius expedita nobis officiis eos, natus similique sit modi vero.",
@@ -31,7 +33,7 @@ const carouselData = [
   {
     bookCover:
       "https://m.media-amazon.com/images/I/815qVQVm0QL._AC_UF1000,1000_QL80_.jpg",
-    bookTitle: "Book Title",
+    bookTitle: "Book Title 3",
     bookAuthor: "Book Title",
     bookBlurb:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reprehenderit quod velit, voluptatum illo quidem ab rem minima sapiente deleniti. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam et modi corrupti repellendus magni totam dolor accusamus incidunt nostrum, dolorum a voluptatem dolorem autem placeat tempore error saepe deserunt sed officiis numquam! Porro vitae est quis ullam suscipit quo dolorem eius expedita nobis officiis eos, natus similique sit modi vero.",
@@ -43,7 +45,7 @@ const carouselData = [
   {
     bookCover:
       "https://m.media-amazon.com/images/I/815qVQVm0QL._AC_UF1000,1000_QL80_.jpg",
-    bookTitle: "Book Title",
+    bookTitle: "Book Title 4",
     bookAuthor: "Book Title",
     bookBlurb:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reprehenderit quod velit, voluptatum illo quidem ab rem minima sapiente deleniti. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam et modi corrupti repellendus magni totam dolor accusamus incidunt nostrum, dolorum a voluptatem dolorem autem placeat tempore error saepe deserunt sed officiis numquam! Porro vitae est quis ullam suscipit quo dolorem eius expedita nobis officiis eos, natus similique sit modi vero.",
@@ -55,7 +57,7 @@ const carouselData = [
   {
     bookCover:
       "https://m.media-amazon.com/images/I/815qVQVm0QL._AC_UF1000,1000_QL80_.jpg",
-    bookTitle: "Book Title",
+    bookTitle: "Book Title 5",
     bookAuthor: "Book Title",
     bookBlurb:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reprehenderit quod velit, voluptatum illo quidem ab rem minima sapiente deleniti. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam et modi corrupti repellendus magni totam dolor accusamus incidunt nostrum, dolorum a voluptatem dolorem autem placeat tempore error saepe deserunt sed officiis numquam! Porro vitae est quis ullam suscipit quo dolorem eius expedita nobis officiis eos, natus similique sit modi vero.",
@@ -67,7 +69,7 @@ const carouselData = [
   {
     bookCover:
       "https://m.media-amazon.com/images/I/815qVQVm0QL._AC_UF1000,1000_QL80_.jpg",
-    bookTitle: "Book Title",
+    bookTitle: "Book Title 6",
     bookAuthor: "Book Title",
     bookBlurb:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reprehenderit quod velit, voluptatum illo quidem ab rem minima sapiente deleniti. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam et modi corrupti repellendus magni totam dolor accusamus incidunt nostrum, dolorum a voluptatem dolorem autem placeat tempore error saepe deserunt sed officiis numquam! Porro vitae est quis ullam suscipit quo dolorem eius expedita nobis officiis eos, natus similique sit modi vero.",
@@ -79,23 +81,22 @@ const carouselData = [
 ];
 
 const Carousel = () => {
-  const [pageDisplayed, setPageDisplayed] = useState(1);
+  const [cardPage, setCardPage] = useState(0);
+  const chunkToThree = (arr) =>
+    arr.reduce(
+      (r, e, i) => (i % 3 ? r[r.length - 1].push(e) : r.push([e])) && r,
+      []
+    );
   return (
     <div id="carousel">
-      {carouselData.map((book, i) => {
-        if (i === pageDisplayed) {
-          return <CarouselCard key={i} {...book} />;
-        }
-        if (
-          (pageDisplayed === 0 && i === carouselData.length - 1) ||
-          i === pageDisplayed - 1 ||
-          i === pageDisplayed + 1
-        ) {
-          return <CarouselCard key={i} {...book} neighbour={true} />;
-        } else {
-          return <CarouselCard key={i} {...book} hide={true} />;
-        }
-      })}
+      {chunkToThree(carouselData).map((group, i) => (
+        <CarouselCardGroup key={i} group={group} active={i === cardPage} />
+      ))}
+      <CarouselNav
+        cardGroup={chunkToThree(carouselData)}
+        currentPage={cardPage}
+        changeCardPage={setCardPage}
+      />
     </div>
   );
 };
