@@ -1,4 +1,5 @@
-import "./styles/CarouselCard.css";
+import "../styles/Carousel/CarouselCard.css";
+import { Category, PriceButton } from "../Utils";
 
 const CarouselCard = ({
   hide,
@@ -10,6 +11,7 @@ const CarouselCard = ({
   bookBlurb,
   bookCover,
   bookCategory,
+  price,
 }) => {
   return (
     <div
@@ -23,13 +25,8 @@ const CarouselCard = ({
         <h2 className="CarouselCardTitle text-700">{bookTitle}</h2>
         <h3 className="CarouselCardAuthor">{bookAuthor}</h3>
         <p className="CarouselCardBlurb">{bookBlurb}</p>
-        <div className="category">
-          <i className="fa-solid fa-circle-user"></i>
-          <span>{bookCategory}</span>
-        </div>
-        <div className="price-button" style={{ backgroundColor: color }}>
-          <i className="fa-solid fa-indian-rupee-sign"></i> 125
-        </div>
+        <Category category={bookCategory} />
+        <PriceButton price={price} color={color} />
       </div>
     </div>
   );

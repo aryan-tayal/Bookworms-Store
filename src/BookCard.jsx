@@ -1,4 +1,5 @@
 import "./styles/BookCard.css";
+import { Category, Tag, PriceButton } from "./Utils";
 
 const BookCard = () => {
   return (
@@ -19,17 +20,12 @@ const BookCard = () => {
             pariatur aspernatur blanditiis earum consectetur! Aperiam
             accusantium natus necessitatibus illum laboriosam praesentium.
           </p>
-          <span className="tag">Bestseller</span>
+          <Tag tag="Bestseller" />
         </div>
       </div>
       <div className="BookCardFooter">
-        <div className="category">
-          <i className="fa-solid fa-circle-user"></i>
-          <span>Young Adults</span>
-        </div>
-        <div className="price-button">
-          <i className="fa-solid fa-indian-rupee-sign"></i> 125
-        </div>
+        <Category category="Young Adult" />
+        <PriceButton price={125} />
       </div>
     </div>
   );

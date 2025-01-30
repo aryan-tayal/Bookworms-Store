@@ -1,5 +1,5 @@
 import Navbar from "./Navbar";
-import Carousel from "./Carousel";
+import Carousel from "./Carousel/Carousel";
 import BookCard from "./BookCard";
 
 const App = () => {
