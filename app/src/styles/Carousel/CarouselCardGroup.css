@@ -1,0 +1,6 @@
+.CarouselCardGroup {
+  display: none;
+}
+.CarouselCardGroup.active {
+  display: flex;
+}
