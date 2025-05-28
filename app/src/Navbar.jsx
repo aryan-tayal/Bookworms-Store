@@ -10,10 +10,18 @@ const Navbar = () => {
       <h1 id="NavbarBrand">
         <span className="text-900">Bookworms</span> Store
       </h1>
-      <div id="search">
-        <i className="fa-solid fa-magnifying-glass"></i>
-        <input type="text" />
-      </div>
+      <form id="search">
+        <input
+          type="text"
+          id="searchInput"
+          name="searchInput"
+          placeholder="Book Title or Author"
+        />
+
+        <button type="submit">
+          <i className="fa-solid fa-magnifying-glass"></i>
+        </button>
+      </form>
     </nav>
   );
 };

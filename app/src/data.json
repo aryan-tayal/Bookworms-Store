@@ -1,0 +1,10 @@
+{
+  "title": "eijef",
+  "author": "eidje",
+  "image": "", // will integrate google books api hoopefully
+  "fiction": true,
+  "genre": "thriller",
+  "ageCategory": "ya",
+  "price": 200,
+  "bestseller": false
+}

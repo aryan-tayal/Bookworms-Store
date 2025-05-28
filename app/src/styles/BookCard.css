@@ -22,6 +22,7 @@
 .BookCardImg > img {
   width: 90%;
   height: 90%;
+  box-shadow: 0 5px 10px var(--card-accent);
 }
 .BookCardContent {
   width: 60%;
