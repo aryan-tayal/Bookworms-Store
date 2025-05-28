@@ -11,8 +11,11 @@ const Tag = ({ tag, color }) => (
   </span>
 );
 
-const PriceButton = ({ price, color }) => (
-  <div className="price-button" style={{ backgroundColor: color }}>
+const PriceButton = ({ price, color, borderColor }) => (
+  <div
+    className="price-button"
+    style={{ backgroundColor: color, borderColor: borderColor }}
+  >
     <i className="fa-solid fa-indian-rupee-sign"></i> {price}
   </div>
 );

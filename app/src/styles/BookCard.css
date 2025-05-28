@@ -1,40 +1,48 @@
 .BookCard {
-  position: relative;
-  width: 50%;
-  background-color: var(--green-light);
-  border: 1px solid var(--green-accent);
-  padding: 10px;
-  margin-top: 50px;
-}
-.BookCardMain {
-  display: grid;
-  grid-template-columns: 25% 75%;
+  display: flex;
+  justify-content: space-between;
   align-items: center;
+  position: relative;
+  padding: 10px;
+}
+.BookCardBg {
+  position: absolute;
+  background-color: var(--card-light);
+  border: 1px solid var(--card-accent);
+  height: 70%;
+  width: 100%;
+  z-index: -1;
 }
 .BookCardImg {
-  width: 100%;
+  width: 35%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .BookCardImg > img {
-  width: 100%;
-  margin-top: -40px;
+  width: 90%;
+  height: 90%;
 }
 .BookCardContent {
-  margin: 0 20px;
+  width: 60%;
 }
 .BookCardContent > h3 {
   font-weight: 600;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 }
 .BookCardContent > h4 {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
-.BookCardContent > p {
-  margin: 15px 0;
+.BookCardTags {
+  margin: 20px 0;
+}
+.BookCardTags > .tag {
+  margin-right: 15px;
 }
 .BookCardFooter {
   display: flex;
-  align-items: center;
   justify-content: space-between;
-  border-top: 1px solid black;
-  padding-top: 10px;
+  align-items: center;
+  border-top: 1px solid var(--card-accent);
+  padding-top: 20px;
 }
