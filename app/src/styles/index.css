@@ -18,6 +18,7 @@
 }
 body {
   background-color: var(--bg);
+  width: 100%;
 }
 .text-700 {
   font-weight: 700;

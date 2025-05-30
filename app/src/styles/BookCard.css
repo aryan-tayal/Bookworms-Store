@@ -35,15 +35,23 @@
   font-size: 1.2rem;
 }
 .BookCardTags {
-  margin: 20px 0;
+  margin: 15px 0;
 }
 .BookCardTags > .tag {
   margin-right: 15px;
+}
+.BookCardCondition {
+  margin-bottom: 15px;
+  font-size: 1.1rem;
+}
+.BookCardCondition > i {
+  display: inline-block;
+  margin-right: 10px;
 }
 .BookCardFooter {
   display: flex;
   justify-content: space-between;
   align-items: center;
   border-top: 1px solid var(--card-accent);
-  padding-top: 20px;
+  padding-top: 15px;
 }

@@ -1,10 +1,86 @@
-{
-  "title": "eijef",
-  "author": "eidje",
-  "image": "", // will integrate google books api hoopefully
-  "fiction": true,
-  "genre": "thriller",
-  "ageCategory": "ya",
-  "price": 200,
-  "bestseller": false
-}
+[
+  {
+    "id": 0,
+    "title": "A Little Life",
+    "author": "Hanya Yanagihara",
+    "fiction": true,
+    "ageCategory": "Adult",
+    "bestseller": true,
+    "discount": false,
+    "price": 150,
+    "sold": false,
+    "issued": false
+  },
+  {
+    "id": 0,
+    "title": "Too Big to Fail",
+    "author": "Andrew Ross Sorkin",
+    "fiction": false,
+    "ageCategory": "All",
+    "bestseller": true,
+    "discount": false,
+    "price": 150,
+    "sold": false,
+    "issued": false
+  },
+  {
+    "id": 0,
+    "title": "The Forest of Enchantments",
+    "author": "Chitra Banerjee Divakaruni",
+    "fiction": true,
+    "ageCategory": "Adult",
+    "bestseller": true,
+    "discount": false,
+    "price": 300,
+    "sold": false,
+    "issued": false
+  },
+  {
+    "id": 0,
+    "title": "Five Point Someone",
+    "author": "Chetan Bhagat",
+    "fiction": true,
+    "ageCategory": "Adult",
+    "bestseller": false,
+    "discount": false,
+    "price": 100,
+    "sold": false,
+    "issued": false
+  },
+  {
+    "id": 0,
+    "title": "The Mistrese of Spices",
+    "author": "Chitra Banerjee Divakaruni",
+    "fiction": true,
+    "ageCategory": "Adult",
+    "bestseller": true,
+    "discount": false,
+    "price": 200,
+    "sold": false,
+    "issued": false
+  },
+  {
+    "id": 0,
+    "title": "In Other Words",
+    "author": "Jhumpa Lahiri",
+    "fiction": true,
+    "ageCategory": "Adult",
+    "bestseller": true,
+    "discount": false,
+    "price": 250,
+    "sold": false,
+    "issued": false
+  },
+  {
+    "id": 0,
+    "title": "The Inheritance of Loss",
+    "author": "Kiran Desai",
+    "fiction": true,
+    "ageCategory": "Adult",
+    "bestseller": false,
+    "discount": false,
+    "price": 100,
+    "sold": false,
+    "issued": false
+  }
+]
