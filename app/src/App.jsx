@@ -6,7 +6,7 @@ import MainSection from "./MainSection";
 
 import data from "./data.json";
 
-import { search } from "./helpers/filters";
+import { search, filters } from "./helpers/filters";
 
 const App = () => {
   const [bookData, setBookData] = useState(data);
@@ -14,11 +14,20 @@ const App = () => {
   const handleSearch = (searchQuery) => {
     setBookData(search(searchQuery));
   };
+  const handleFilters = {
+    handleFiction: (isFictionChecked, isNonFictionChecked) => {
+      setBookData(filters.fiction(isFictionChecked, isNonFictionChecked));
+    },
+    handleNonFiction: (isNonFictionChecked) => {
+      setBookData(filters.nonFiction(isNonFictionChecked));
+    },
+  };
+
   return (
     <div>
       <Navbar handleSearch={handleSearch} />
       {/* <Carousel /> */}
-      <MainSection bookData={bookData} />
+      <MainSection bookData={bookData} handleFilters={handleFilters} />
 
       {/* 
         <BookCard image="https://m.media-amazon.com/images/I/910vYI-gm0L._AC_UF1000,1000_QL80_.jpg   " />

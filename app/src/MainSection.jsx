@@ -2,11 +2,11 @@ import BookCardContainer from "./BookCardContainer";
 import Filters from "./Filters.jsx";
 import "./styles/MainSection.css";
 
-const MainSection = ({ bookData }) => {
+const MainSection = ({ bookData, handleFilters }) => {
   return (
     <div className="MainSection">
       <BookCardContainer bookData={bookData} />
-      <Filters />
+      <Filters handleFilters = {handleFilters} />
     </div>
   );
 };

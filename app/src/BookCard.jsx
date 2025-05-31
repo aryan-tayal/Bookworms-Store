@@ -80,7 +80,7 @@ const BookCard = ({
         <div className="BookCardTags">
           <Tag tag={fiction ? "Fiction" : "Non Fiction"} color={mainColor} />
           {bestseller && <Tag tag="We Loved" color={mainColor} />}
-          <Tag tag={genre} color={mainColor} />
+          <Tag tag={genre ? genre : "Novel"} color={mainColor} />
         </div>
         <div className="BookCardCondition">
           <i className="fa-solid fa-book"></i>
