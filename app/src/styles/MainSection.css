@@ -1,0 +1,9 @@
+.MainSection {
+  display: grid;
+  grid-template-columns: 75% auto;
+  padding: 10px;
+  margin-top: 150px;
+  gap: 1rem;
+  width: 100vw;
+  border: 1px solid black;
+}

@@ -1,0 +1,10 @@
+.FilterContainer {
+  border: 1px solid black;
+  position: relative;
+  padding: 10px;
+}
+.Filters {
+  position: fixed;
+  width: calc(25% - 40px);
+  background-color: var(--green-main);
+}
