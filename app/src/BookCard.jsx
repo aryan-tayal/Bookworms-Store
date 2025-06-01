@@ -44,7 +44,7 @@ const BookCard = ({
 
   const { colors, dominantColor, darkerColor, lighterColor, loading, error } =
     useExtractColors(imgRef.current, { format: "hex" });
-  console.log(`Dominant Color ${dominantColor} of ${image}`);
+  // console.log(`Dominant Color ${dominantColor} of ${image}`);
 
   useEffect(() => {
     if (colors) {
