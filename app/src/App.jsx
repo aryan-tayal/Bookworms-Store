@@ -4,12 +4,15 @@ import Navbar from "./Navbar";
 import Carousel from "./Carousel/Carousel";
 import MainSection from "./MainSection";
 
-import data from "./data.json";
+import data from "./data_with_isbn.json";
 
 import handleFilters, { search, filters } from "./helpers/filters";
 
 const App = () => {
   const [bookData, setBookData] = useState(data);
+
+  // const [page, setPage] = useState(1);
+  const countPerPage = 10;
 
   const handleSearch = (searchQuery) => {
     setBookData(search(searchQuery));
@@ -26,6 +29,14 @@ const App = () => {
   const handleFiltersChange = (filters) => {
     setBookData(handleFilters(filters));
   };
+
+  const handleScroll = () => {
+    if (document.body.scrollHeight < window.scrollY + window.innerHeight) {
+      // setPage((page) => (page += 1));
+    }
+  };
+
+  window.addEventListener("scroll", handleScroll);
 
   return (
     <div>

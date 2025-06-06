@@ -1,4 +1,4 @@
-import data from "../data.json";
+import data from "../data_with_isbn.json";
 
 export const search = (searchTerm) => {
   const filtererData = [];

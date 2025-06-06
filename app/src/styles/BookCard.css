@@ -4,12 +4,12 @@
   align-items: center;
   position: relative;
   padding: 10px;
-  border: 1px solid black;
+  border: 1px solid var(--card-accent);
+  background-color: var(--card-light);
 }
 .BookCardBg {
   position: absolute;
   background-color: var(--card-light);
-  border: 1px solid var(--card-accent);
   height: 70%;
   width: 100%;
   z-index: -1;
@@ -40,6 +40,7 @@
 }
 .BookCardTags > .tag {
   margin-right: 15px;
+  margin-top: 10px;
 }
 .BookCardCondition {
   margin-bottom: 15px;

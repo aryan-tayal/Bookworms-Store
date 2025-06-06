@@ -14,12 +14,13 @@ const BookCard = ({
   ageCategory,
   bestseller,
   condition = "Good",
+  isbn,
 }) => {
-  const [image, setImage] = useState();
+  const [image, setImage] = useState("");
   const [cardColors, setCardColors] = useState({
-    lighterColor: "#dcf0d0",
-    dominantColor: "#a6d28b",
-    darkerColor: "#07a559",
+    lightColor: "#dcf0d0",
+    mainColor: "#a6d28b",
+    darkColor: "#07a559",
   });
 
   const imgRef = useRef(null);
@@ -30,42 +31,44 @@ const BookCard = ({
 
   useEffect(() => {
     const getBookCover = async () => {
-      try {
-        const response = await axios.get(api);
-        const book = response.data.items[0];
-        const cover = book?.volumeInfo?.imageLinks?.thumbnail;
-        setImage(cover);
-      } catch (error) {
-        console.error("Error fetching book cover:", error);
+      const image = `https://covers.openlibrary.org/b/isbn/${isbn}-M.jpg`;
+      if (image) {
+        setImage(image);
       }
     };
-    // getBookCover();
+    getBookCover();
   }, []);
 
   const { colors, dominantColor, darkerColor, lighterColor, loading, error } =
-    useExtractColors(imgRef.current, { format: "hex" });
+    useExtractColors(image, { format: "hex" });
   // console.log(`Dominant Color ${dominantColor} of ${image}`);
 
   useEffect(() => {
     if (colors) {
-      setCardColors(colors);
+      setCardColors({
+        mainColor: `${dominantColor}aa`,
+        lightColor: `${lighterColor}55`,
+        darkColor: darkerColor,
+      });
     }
-  }, [colors]);
+  }, [colors, dominantColor, darkerColor,lighterColor]);
 
-  const lightColor = `${cardColors.lighterColor}55`;
-  const mainColor = `${cardColors.dominantColor}aa`;
-  const darkColor = cardColors.darkerColor;
+  // const lightColor = `${cardColors.lighterColor}55`;
+  // const mainColor = `${cardColors.dominantColor}aa`;
+  // const darkColor = cardColors.darkerColor;
+
+  // console.log(darkColor);
 
   return (
     <div
       className="BookCard"
       style={{
-        "--card-accent": darkColor,
-        "--card-main": mainColor,
-        "--card-light": lightColor,
+        "--card-accent": cardColors.darkColor,
+        "--card-main": cardColors.mainColor,
+        "--card-light": cardColors.lightColor,
       }}
     >
-      <div className="BookCardBg" tabIndex={-1}></div>
+      {/* <div className="BookCardBg" tabIndex={-1}></div> */}
       <div
         className="BookCardImg"
         style={{
@@ -78,9 +81,9 @@ const BookCard = ({
         <h3>{title}</h3>
         <h4>{author}</h4>
         <div className="BookCardTags">
-          <Tag tag={fiction ? "Fiction" : "Non Fiction"} color={mainColor} />
-          {bestseller && <Tag tag="We Loved" color={mainColor} />}
-          <Tag tag={genre ? genre : "Novel"} color={mainColor} />
+          <Tag tag={fiction ? "Fiction" : "Non Fiction"} color={cardColors.mainColor} />
+          {bestseller && <Tag tag="We Loved" color={cardColors.mainColor} />}
+          <Tag tag={genre ? genre : "Novel"} color={cardColors.mainColor} />
         </div>
         <div className="BookCardCondition">
           <i className="fa-solid fa-book"></i>
@@ -90,8 +93,8 @@ const BookCard = ({
           <Category category={ageCategory} />
           <PriceButton
             price={price}
-            color={mainColor}
-            borderColor={darkColor}
+            color={cardColors.mainColor}
+            borderColor={cardColors.darkColor}
           />
         </div>
       </div>
