@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import logo from "./assets/images/bookworms_logo.png";
-import "./styles/NavBar.css";
+import "./styles/Navbar.css";
 
 const Navbar = ({ handleSearch }) => {
   const inputRef = useRef();
