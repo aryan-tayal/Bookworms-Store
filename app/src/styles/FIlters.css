@@ -1,10 +1,53 @@
 .FilterContainer {
-  border: 1px solid black;
   position: relative;
   padding: 10px;
 }
 .Filters {
   position: fixed;
   width: calc(25% - 40px);
-  background-color: var(--green-main);
+  background-color: var(--green-light);
+  border: 1px solid var(--green-accent);
+  padding: 10px;
+}
+.Filters h5 {
+  font-weight: 600;
+  font-size: 1.4rem;
+}
+.FilterCategory {
+  margin: 20px 0;
+  border-top: 1px solid var(--green-accent);
+  padding-top: 20px;
+}
+.FilterCategoryInputs {
+  display: grid;
+  grid-template-columns: auto auto;
+  column-gap: 30px;
+}
+.FilterCategoryInput {
+  display: flex;
+  justify-content: space-between;
+}
+.FilterCategoryInput > label,
+.FilterCategory > input {
+  cursor: pointer;
+  position: relative;
+}
+.Filters h6 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+#resetButton {
+  padding: 5px 10px;
+  font-size: 1rem;
+  border: 1px solid var(--green-accent);
+  background-color: transparent;
+  color: var(--green-accent);
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+#resetButton:hover {
+  background-color: var(--green-accent);
+  color: white;
 }
