@@ -1,4 +1,4 @@
-import BookCardContainer from "./BookCardContainer";
+import BookCardContainer from "./BookCardContainer.jsx";
 import Filters from "./Filters.jsx";
 import "./styles/MainSection.css";
 
