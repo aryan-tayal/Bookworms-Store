@@ -14,7 +14,7 @@ dist-ssr
 
 .env
 
-*.json
+src/assets/data/*
 
 # Editor directories and files
 .vscode/*
