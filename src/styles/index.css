@@ -1,4 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200..1000&display=swap");
+
+@import url("./responsive/tablet.css");
+
 :root {
   --green-light: #dcf0d0;
   --green-main: #a6d28b;

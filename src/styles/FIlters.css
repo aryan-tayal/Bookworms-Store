@@ -32,10 +32,34 @@
   cursor: pointer;
   position: relative;
 }
+.FilterHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.2rem;
+}
 .Filters h6 {
   font-size: 1.2rem;
   font-weight: 500;
   margin-bottom: 10px;
+}
+#filterOverlayClose > label {
+  padding: 5px 10px;
+  border: 1px solid var(--green-accent);
+  cursor: pointer;
+  transition: 0.3s;
+}
+#filterOverlayClose > label > i {
+  color: var(--green-accent);
+}
+#filterOverlayClose:hover > label {
+  background-color: var(--green-accent);
+}
+#filterOverlayClose:hover > label > i {
+  color: white;
+}
+#filterOverlayCloseInput {
+  display: none;
 }
 #resetButton {
   padding: 5px 10px;

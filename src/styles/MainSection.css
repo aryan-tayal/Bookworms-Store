@@ -2,7 +2,46 @@
   display: grid;
   grid-template-columns: 75% auto;
   padding: 10px;
-  margin-top: 150px;
+  margin-top: 120px;
   gap: 1rem;
   width: 100vw;
+}
+#filterOverlayCheck > label {
+  display: flex;
+  font-size: 1.2rem;
+  align-items: center;
+  cursor: pointer;
+  padding: 10px 15px;
+  border: 1px solid var(--green-accent);
+  transition: 0.3s;
+}
+#filterOverlayCheck > label > * {
+  display: inline-block;
+  margin: 0 5px;
+  color: var(--green-accent);
+  transition: 0.3s;
+}
+#filterOverlayCheck > label > span {
+  font-weight: 500;
+}
+#filterOverlayCheck {
+  display: inline-block;
+  margin-left: 85%;
+}
+#filterOverlayCheck:hover > label {
+  background-color: var(--green-accent);
+}
+#filterOverlayCheck:hover > label > * {
+  color: white;
+}
+#filterOverlayCheckInput {
+  display: none;
+}
+@media (min-width: 980px) {
+  #filterOverlayCheck {
+    display: none;
+  }
+  #filterOverlayClose {
+    display: none;
+  }
 }

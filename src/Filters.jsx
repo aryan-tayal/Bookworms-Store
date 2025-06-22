@@ -1,7 +1,7 @@
 import "./styles/Filters.css";
 
 import { useEffect, useState } from "react";
-const Filters = ({ handleFiltersChange }) => {
+const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
   const [isFictionChecked, setIsFictionChecked] = useState(true);
   const [isNonFictionChecked, setIsNonFictionChecked] = useState(true);
   const [areConditionsChecked, setAreConditionsChecked] = useState([
@@ -23,9 +23,22 @@ const Filters = ({ handleFiltersChange }) => {
     setAreConditionsChecked([true, true, true, true]);
   };
   return (
-    <div className="FilterContainer">
+    <div className={`FilterContainer ${isFilterOpen && "open"}`}>
       <div className="Filters">
-        <h5>Filters</h5>
+        <div className="FilterHeader">
+          <h5>Filters</h5>
+          <div id="filterOverlayClose">
+            <label htmlFor="filterOverlayCloseInput">
+              <i className="fa-solid fa-xmark"></i>
+            </label>
+            <input
+              type="checkbox"
+              id="filterOverlayCloseInput"
+              onChange={closeOverlay}
+              checked={isFictionChecked}
+            />
+          </div>
+        </div>
         <div className="FilterCategory">
           <h6>Fiction</h6>
           <div className="FilterCategoryInputs">
