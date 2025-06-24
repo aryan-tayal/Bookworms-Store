@@ -6,6 +6,11 @@
   gap: 1rem;
   width: 100vw;
 }
+#filterOverlayCheckContainer {
+  padding: 0 20px;
+  display: flex;
+  justify-content: flex-end;
+}
 #filterOverlayCheck > label {
   display: flex;
   font-size: 1.2rem;
@@ -26,7 +31,7 @@
 }
 #filterOverlayCheck {
   display: inline-block;
-  margin-left: 85%;
+  /* margin-left: 85%; */
 }
 #filterOverlayCheck:hover > label {
   background-color: var(--green-accent);
@@ -38,7 +43,7 @@
   display: none;
 }
 @media (min-width: 980px) {
-  #filterOverlayCheck {
+  #filterOverlayCheckContainer {
     display: none;
   }
   #filterOverlayClose {

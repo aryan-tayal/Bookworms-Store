@@ -13,16 +13,18 @@ const MainSection = ({ bookData, handleFiltersChange }) => {
   };
   return (
     <div className="MainSection">
-      <div id="filterOverlayCheck">
-        <label htmlFor="filterOverlayCheckInput">
+      <div id="filterOverlayCheckContainer">
+        <div id="filterOverlayCheck">
+          <label htmlFor="filterOverlayCheckInput">
             <span>Filters</span> <i className="fa-solid fa-filter"></i>
-        </label>
-        <input
-          type="checkbox"
-          id="filterOverlayCheckInput"
-          checked={isFilterOpen}
-          onClick={openOverlay}
-        />
+          </label>
+          <input
+            type="checkbox"
+            id="filterOverlayCheckInput"
+            checked={isFilterOpen}
+            onClick={openOverlay}
+          />
+        </div>
       </div>
       <BookCardContainer bookData={bookData} />
       <Filters

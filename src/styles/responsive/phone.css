@@ -1,0 +1,21 @@
+@media (max-width: 480px) {
+  body{
+    background-color: red;
+  }
+  nav{
+    padding:5px 10px;
+  }
+  #NavbarBrand {
+    display: none;
+  }
+  #NavbarBrandImg {
+    max-height: 60px;
+  }
+  #search > input,
+  #search > button {
+    font-size: 1rem;
+  }
+  .BookCardContainer {
+    grid-template-columns: 100%;
+  }
+}
