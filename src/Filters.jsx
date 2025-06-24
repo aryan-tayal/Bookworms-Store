@@ -15,6 +15,8 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
       fiction: [isFictionChecked, isNonFictionChecked],
       condition: areConditionsChecked,
     });
+    setTimeout(closeOverlay, 1000)
+    
   }, [isFictionChecked, isNonFictionChecked, areConditionsChecked]);
 
   const resetFilters = () => {
