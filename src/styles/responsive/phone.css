@@ -1,7 +1,4 @@
 @media (max-width: 480px) {
-  body{
-    background-color: red;
-  }
   nav{
     padding:5px 10px;
   }
@@ -17,5 +14,20 @@
   }
   .BookCardContainer {
     grid-template-columns: 100%;
+  }
+  .BookCardContent > h3{
+    font-size:1.1rem;
+  }
+  .BookCardContent > h4 {
+    font-size: 1rem;
+  }
+  .BookCardCondition{
+    font-size: 1rem;
+  }
+  .category, .price-button{
+    font-size:1.1rem !important;
+  }
+  .tag{
+    font-size: 0.9rem;
   }
 }
