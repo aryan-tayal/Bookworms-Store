@@ -31,7 +31,6 @@
 }
 #filterOverlayCheck {
   display: inline-block;
-  /* margin-left: 85%; */
 }
 #filterOverlayCheck:hover > label {
   background-color: var(--green-accent);

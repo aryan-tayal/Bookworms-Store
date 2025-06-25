@@ -1,7 +1,7 @@
 import CarouselNavButton from "./CarouselNavButton";
 
 const CarouselNav = ({ cardGroup, currentPage, changeCardPage }) => {
-  console.log(cardGroup);
+  e.log(cardGroup);
   return (
     <div>
       {cardGroup.map((c, i) => (

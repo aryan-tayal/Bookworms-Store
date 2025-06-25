@@ -34,7 +34,6 @@ export const filters = {
     isUsedChecked
   ) => {
     const filtererData = [];
-    console.log(bookData);
     bookData.map((book) => {
       if (isNewChecked && book.condition === "New") filtererData.push(book);
       if (isLikeNewChecked && book.condition === "Like New")
@@ -48,19 +47,8 @@ export const filters = {
 };
 
 export default function handleFilters(filterInputs) {
-  console.log(
-    filters.condition(
-      filters.fiction(...filterInputs.fiction),
-      ...filterInputs.condition
-    )
-  );
   return filters.condition(
     filters.fiction(...filterInputs.fiction),
     ...filterInputs.condition
   );
-  // console.log(...filterInputs.condition);
-  // return filters.condition(
-  //   filters.fiction(...filterInputs.fiction),
-  //   filters.condition(...filterInputs.condition)
-  // );
 }
