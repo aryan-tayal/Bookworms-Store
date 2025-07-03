@@ -10,19 +10,32 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
     true,
     true,
   ]);
+  const [areAgesChecked, setAreAgesChecked] = useState([
+    true,
+    true,
+    true,
+    true,
+    true,
+  ]);
   useEffect(() => {
     handleFiltersChange({
       fiction: [isFictionChecked, isNonFictionChecked],
       condition: areConditionsChecked,
+      age: areAgesChecked,
     });
-    setTimeout(closeOverlay, 1000)
-    
-  }, [isFictionChecked, isNonFictionChecked, areConditionsChecked]);
+    setTimeout(closeOverlay, 1000);
+  }, [
+    isFictionChecked,
+    isNonFictionChecked,
+    areConditionsChecked,
+    areAgesChecked,
+  ]);
 
   const resetFilters = () => {
     setIsFictionChecked(true);
     setIsNonFictionChecked(true);
     setAreConditionsChecked([true, true, true, true]);
+    setAreAgesChecked([true, true, true, true, true]);
   };
   return (
     <div className={`FilterContainer ${isFilterOpen && "open"}`}>
@@ -122,6 +135,81 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
                 onChange={() =>
                   setAreConditionsChecked(
                     areConditionsChecked.map((c, i) => (i === 3 ? !c : c))
+                  )
+                }
+              />
+            </div>
+          </div>
+        </div>
+        <div className="FilterCategory">
+          <h6>Ages</h6>
+          <div className="FilterCategoryInputs">
+            <div className="FilterCategoryInput">
+              <label htmlFor="under10">Under 10</label>
+              <input
+                type="checkbox"
+                checked={areAgesChecked[0]}
+                onChange={() =>
+                  setAreAgesChecked(
+                    areAgesChecked.map((c, i) => (i === 0 ? !c : c))
+                  )
+                }
+                id="under10"
+                name="age"
+              />
+            </div>
+            <div className="FilterCategoryInput">
+              <label htmlFor="above10">Above 10</label>
+              <input
+                type="checkbox"
+                checked={areAgesChecked[1]}
+                id="above10"
+                name="age"
+                onChange={() =>
+                  setAreAgesChecked(
+                    areAgesChecked.map((c, i) => (i === 1 ? !c : c))
+                  )
+                }
+              />
+            </div>
+            <div className="FilterCategoryInput">
+              <label htmlFor="youngadult">Young Adult</label>
+              <input
+                type="checkbox"
+                checked={areAgesChecked[2]}
+                id="youngadult"
+                name="age"
+                onChange={() =>
+                  setAreAgesChecked(
+                    areAgesChecked.map((c, i) => (i === 2 ? !c : c))
+                  )
+                }
+              />
+            </div>
+            <div className="FilterCategoryInput">
+              <label htmlFor="adult">Adult</label>
+              <input
+                type="checkbox"
+                checked={areAgesChecked[3]}
+                id="adult"
+                name="age"
+                onChange={() =>
+                  setAreAgesChecked(
+                    areAgesChecked.map((c, i) => (i === 3 ? !c : c))
+                  )
+                }
+              />
+            </div>
+            <div className="FilterCategoryInput">
+              <label htmlFor="all">All Ages</label>
+              <input
+                type="checkbox"
+                checked={areAgesChecked[4]}
+                id="all"
+                name="age"
+                onChange={() =>
+                  setAreAgesChecked(
+                    areAgesChecked.map((c, i) => (i === 4 ? !c : c))
                   )
                 }
               />

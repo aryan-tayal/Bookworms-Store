@@ -44,11 +44,36 @@ export const filters = {
     });
     return filtererData;
   },
+  age: (
+    bookData,
+    isUnder10Checked,
+    isAbove10Checked,
+    isAllChecked,
+    isYoungAdultChecked,
+    isAdultChecked
+  ) => {
+    const filtererData = [];
+    bookData.map((book) => {
+      if (isUnder10Checked && book.ageCategory === "Under 10")
+        filtererData.push(book);
+      if (isAbove10Checked && book.ageCategory === "Above 10")
+        filtererData.push(book);
+      if (isYoungAdultChecked && book.ageCategory === "Young Adult")
+        filtererData.push(book);
+      if (isAdultChecked && book.ageCategory === "Adult")
+        filtererData.push(book);
+      if (isAllChecked && book.ageCategory === "All") filtererData.push(book);
+    });
+    return filtererData;
+  },
 };
 
 export default function handleFilters(filterInputs) {
-  return filters.condition(
-    filters.fiction(...filterInputs.fiction),
-    ...filterInputs.condition
+  return filters.age(
+    filters.condition(
+      filters.fiction(...filterInputs.fiction),
+      ...filterInputs.condition
+    ),
+    ...filterInputs.age
   );
 }
