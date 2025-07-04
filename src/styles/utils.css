@@ -18,3 +18,10 @@
   padding: 5px 10px;
   display: inline-block;
 }
+.tag.bestseller {
+  padding: 7px 10px;
+  border-radius: 50rem;
+}
+.tag.bestseller > i {
+  color: #fff;
+}

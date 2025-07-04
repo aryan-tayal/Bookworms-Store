@@ -5,8 +5,8 @@ const Category = ({ category }) => (
   </div>
 );
 
-const Tag = ({ tag, color }) => (
-  <span className="tag" style={{ backgroundColor: color }}>
+const Tag = ({ tag, color, bestseller }) => (
+  <span className={`tag ${bestseller && "bestseller"}`} style={{ backgroundColor: color }}>
     {tag}
   </span>
 );

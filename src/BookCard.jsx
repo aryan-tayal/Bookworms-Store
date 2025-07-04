@@ -71,8 +71,14 @@ const BookCard = ({
             tag={fiction ? "Fiction" : "Non Fiction"}
             color={cardColors.mainColor}
           />
-          {bestseller && <Tag tag="We Loved" color={cardColors.mainColor} />}
           <Tag tag={genre ? genre : "Novel"} color={cardColors.mainColor} />
+          {bestseller && (
+            <Tag
+              bestseller={true}
+              tag={<i className="fa-solid fa-heart"></i>}
+              color={"#d12009"}
+            />
+          )}
         </div>
         <div className="BookCardCondition">
           <i className="fa-solid fa-book"></i>
