@@ -48,9 +48,9 @@ export const filters = {
     bookData,
     isUnder10Checked,
     isAbove10Checked,
-    isAllChecked,
     isYoungAdultChecked,
-    isAdultChecked
+    isAdultChecked,
+    isAllChecked
   ) => {
     const filtererData = [];
     bookData.map((book) => {

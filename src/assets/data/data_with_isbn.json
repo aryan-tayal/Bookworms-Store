@@ -510,7 +510,7 @@
     "remarks": ""
   },
   {
-    "id": 501697,
+    "id": 501814,
     "title": "Plugged",
     "author": "Eoin Colfer",
     "fiction": true,
@@ -5226,7 +5226,7 @@
     "fiction": true,
     "condition": "Good",
     "genre": "Fiction",
-    "ageCategory": "All",
+    "ageCategory": "Under 10",
     "bestseller": false,
     "price": 50,
     "discount": "",
@@ -5580,21 +5580,6 @@
     "remarks": ""
   },
   {
-    "id": 501692,
-    "title": "The Magic Ice Cream",
-    "author": "Enid Blyton",
-    "fiction": true,
-    "condition": "Good",
-    "genre": "Fiction",
-    "ageCategory": "All",
-    "bestseller": false,
-    "price": 50,
-    "discount": "",
-    "sold": "",
-    "issued": "",
-    "remarks": ""
-  },
-  {
     "id": 501700,
     "title": "Mystery of the Disappearing Cat",
     "author": "Enid Blyton",
@@ -5859,21 +5844,6 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
-    "discount": "",
-    "sold": "",
-    "issued": "",
-    "remarks": ""
-  },
-  {
-    "id": 501453,
-    "title": "Home for a Bunny",
-    "author": "Margaret Wise Brown",
-    "fiction": true,
-    "condition": "Good",
-    "genre": "Fiction",
-    "ageCategory": "Above 10",
-    "bestseller": true,
-    "price": 20,
     "discount": "",
     "sold": "",
     "issued": "",
@@ -6255,7 +6225,7 @@
     "remarks": ""
   },
   {
-    "id": 501992,
+    "id": 501993,
     "title": "Because of Mr.Terrupt",
     "author": "Rob Buyea",
     "fiction": true,
@@ -7185,7 +7155,7 @@
     "remarks": ""
   },
   {
-    "id": 500469,
+    "id": 500467,
     "title": "Gopal the Jester",
     "author": "Amar Chitra Katha",
     "fiction": true,
