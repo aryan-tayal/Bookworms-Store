@@ -2,7 +2,7 @@ import { useRef } from "react";
 import logo from "./assets/images/bookworms_logo.png";
 import "./styles/Navbar.css";
 
-const Navbar = ({ handleSearch }) => {
+const Navbar = ({ search, handleSearch }) => {
   const inputRef = useRef();
   const handleFormSubmit = (e) => {
     e.preventDefault();
@@ -23,6 +23,7 @@ const Navbar = ({ handleSearch }) => {
           name="searchInput"
           onChange={handleFormSubmit}
           placeholder="Book Title or Author"
+          value={search}
           ref={inputRef}
         />
 

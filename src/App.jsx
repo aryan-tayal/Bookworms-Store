@@ -1,25 +1,33 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 import Navbar from "./Navbar";
 import MainSection from "./MainSection";
 
 import data from "./assets/data/data_with_isbn.json";
 
-import handleFilters, { search } from "./helpers/filters";
+import handleSearchAndFilters from "./helpers/filters";
 
 const App = () => {
   const [bookData, setBookData] = useState(data);
-
+  const [search, setSearch] = useState("");
+  const [filters, setFilters] = useState({
+    fiction: [true, true],
+    condition: [true, true, true, true],
+    age: [true, true, true, true, true],
+  });
   const handleSearch = (searchQuery) => {
-    setBookData(search(searchQuery));
+    setSearch(searchQuery);
   };
-  const handleFiltersChange = (filters) => {
-    setBookData(handleFilters(filters));
+  const handleFiltersChange = (filterInputs) => {
+    setFilters(filterInputs);
   };
+  useEffect(() => {
+    setBookData(handleSearchAndFilters(search, filters));
+  }, [filters, search]);
 
   return (
     <div>
-      <Navbar handleSearch={handleSearch} />
+      <Navbar handleSearch={handleSearch} search={search} />
       <MainSection
         bookData={bookData}
         handleFiltersChange={handleFiltersChange}

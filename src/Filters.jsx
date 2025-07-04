@@ -1,7 +1,11 @@
 import "./styles/Filters.css";
 
 import { useEffect, useState } from "react";
-const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
+const Filters = ({
+  handleFiltersChange,
+  closeOverlay,
+  isFilterOpen,
+}) => {
   const [isFictionChecked, setIsFictionChecked] = useState(true);
   const [isNonFictionChecked, setIsNonFictionChecked] = useState(true);
   const [areConditionsChecked, setAreConditionsChecked] = useState([
@@ -18,11 +22,12 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
     true,
   ]);
   useEffect(() => {
-    handleFiltersChange({
+    const filterInputs = {
       fiction: [isFictionChecked, isNonFictionChecked],
       condition: areConditionsChecked,
       age: areAgesChecked,
-    });
+    };
+    handleFiltersChange(filterInputs);
     setTimeout(closeOverlay, 1000);
   }, [
     isFictionChecked,

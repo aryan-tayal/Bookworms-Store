@@ -14,9 +14,9 @@ export const search = (searchTerm) => {
 };
 
 export const filters = {
-  fiction: (isFictionChecked, isNonFictionChecked) => {
+  fiction: (bookData, isFictionChecked, isNonFictionChecked) => {
     const filtererData = [];
-    data.map((book) => {
+    bookData.map((book) => {
       if (isFictionChecked && book.fiction) {
         filtererData.push(book);
       }
@@ -68,10 +68,10 @@ export const filters = {
   },
 };
 
-export default function handleFilters(filterInputs) {
+export default function handleSearchAndFilters(searchTerm, filterInputs) {
   return filters.age(
     filters.condition(
-      filters.fiction(...filterInputs.fiction),
+      filters.fiction(search(searchTerm), ...filterInputs.fiction),
       ...filterInputs.condition
     ),
     ...filterInputs.age
