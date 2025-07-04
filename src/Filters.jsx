@@ -1,11 +1,7 @@
 import "./styles/Filters.css";
 
 import { useEffect, useState } from "react";
-const Filters = ({
-  handleFiltersChange,
-  closeOverlay,
-  isFilterOpen,
-}) => {
+const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
   const [isFictionChecked, setIsFictionChecked] = useState(true);
   const [isNonFictionChecked, setIsNonFictionChecked] = useState(true);
   const [areConditionsChecked, setAreConditionsChecked] = useState([
@@ -21,11 +17,13 @@ const Filters = ({
     true,
     true,
   ]);
+  const [isBestsellerChecked, setIsBestsellerChecked] = useState(false);
   useEffect(() => {
     const filterInputs = {
       fiction: [isFictionChecked, isNonFictionChecked],
       condition: areConditionsChecked,
       age: areAgesChecked,
+      bestseller:isBestsellerChecked
     };
     handleFiltersChange(filterInputs);
   }, [
@@ -33,6 +31,7 @@ const Filters = ({
     isNonFictionChecked,
     areConditionsChecked,
     areAgesChecked,
+    isBestsellerChecked
   ]);
 
   const resetFilters = () => {
@@ -40,6 +39,7 @@ const Filters = ({
     setIsNonFictionChecked(true);
     setAreConditionsChecked([true, true, true, true]);
     setAreAgesChecked([true, true, true, true, true]);
+    setIsBestsellerChecked(false);
   };
   return (
     <div className={`FilterContainer ${isFilterOpen && "open"}`}>
@@ -220,7 +220,26 @@ const Filters = ({
             </div>
           </div>
         </div>
-        <button onClick={closeOverlay} className="filterButton" id="applyButton">
+        <div className="FilterCategory">
+          <h6>Books We Loved</h6>
+          <div className="FilterCategoryInputs">
+            <div className="FilterCategoryInput">
+              <label htmlFor="bestseller">Only Bestsellers</label>
+              <input
+                type="checkbox"
+                checked={isBestsellerChecked}
+                onChange={() => setIsBestsellerChecked((b) => !b)}
+                id="bestseller"
+                name="bestseller"
+              />
+            </div>
+          </div>
+        </div>
+        <button
+          onClick={closeOverlay}
+          className="filterButton"
+          id="applyButton"
+        >
           Apply Filters
         </button>
         <button onClick={resetFilters} className="filterButton">

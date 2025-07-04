@@ -14,6 +14,7 @@ const App = () => {
     fiction: [true, true],
     condition: [true, true, true, true],
     age: [true, true, true, true, true],
+    bestseller: false,
   });
   const handleSearch = (searchQuery) => {
     setSearch(searchQuery);

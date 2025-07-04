@@ -66,14 +66,23 @@ export const filters = {
     });
     return filtererData;
   },
+  bestseller: (bookData, isBestsellerChecked) => {
+    console.log(bookData.filter((book) => book.bestseller));
+    return isBestsellerChecked
+      ? bookData.filter((book) => book.bestseller)
+      : bookData;
+  },
 };
 
 export default function handleSearchAndFilters(searchTerm, filterInputs) {
-  return filters.age(
-    filters.condition(
-      filters.fiction(search(searchTerm), ...filterInputs.fiction),
-      ...filterInputs.condition
+  return filters.bestseller(
+    filters.age(
+      filters.condition(
+        filters.fiction(search(searchTerm), ...filterInputs.fiction),
+        ...filterInputs.condition
+      ),
+      ...filterInputs.age
     ),
-    ...filterInputs.age
+    filterInputs.bestseller
   );
 }
