@@ -28,7 +28,6 @@ const Filters = ({
       age: areAgesChecked,
     };
     handleFiltersChange(filterInputs);
-    setTimeout(closeOverlay, 1000);
   }, [
     isFictionChecked,
     isNonFictionChecked,
@@ -221,7 +220,10 @@ const Filters = ({
             </div>
           </div>
         </div>
-        <button onClick={resetFilters} id="resetButton">
+        <button onClick={closeOverlay} className="filterButton" id="applyButton">
+          Apply Filters
+        </button>
+        <button onClick={resetFilters} className="filterButton">
           Reset All Filters
         </button>
       </div>
