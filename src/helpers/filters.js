@@ -67,7 +67,6 @@ export const filters = {
     return filtererData;
   },
   bestseller: (bookData, isBestsellerChecked) => {
-    console.log(bookData.filter((book) => book.bestseller));
     return isBestsellerChecked
       ? bookData.filter((book) => book.bestseller)
       : bookData;
