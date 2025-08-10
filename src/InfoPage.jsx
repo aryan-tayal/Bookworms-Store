@@ -4,34 +4,66 @@ const InfoPage = () => {
   return (
     <div id="InfoPage">
       <main>
-        <h1>Welcome to our Bookstore!</h1>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum
-          adipisci perspiciatis libero accusantium harum corporis placeat
-          quibusdam consequuntur iure id!
-        </p>
+        <h1>How it Works?</h1>
       </main>
-      <section id="infoSteps">
+      <section className="step-grid">
         <div className="step">
           <h4>1</h4>
           <p>
-            View our collection by clicking on the button in the bottom right
+            Save our number Bookworms{" "}
+            <b style={{ fontWeight: 800 }}>8818010567</b>
           </p>
         </div>
         <div className="step">
           <h4>2</h4>
-          <p>Find books you like using the search and filter options</p>
+          <p>Choose the books you like from here</p>
         </div>
         <div className="step">
           <h4>3</h4>
-          <p>
-            Whatsapp us the titles you would like to buy on our number{" "}
-            <span>8818010567</span>
-          </p>
+          <p>Whatsapp their names or screenshots, whatever works for you</p>
         </div>
         <div className="step">
           <h4>4</h4>
-          <p>The books will be delivered to you shortly</p>
+          <p>
+            Wait for our confirmation before paying online on the same number
+            (delivery charge is Rs.50 anywhere within Hisar)
+          </p>
+        </div>
+        <div className="step">
+          <h4>5</h4>
+          <p>
+            You can pay in cash if you pickup at the bookstore. Book sets will
+            be held for 2 days after confirmation, before being put back on the
+            list of the bookstore
+          </p>
+        </div>
+        <div className="step">
+          <h4>6</h4>
+          <p>Enjoy your reads</p>
+        </div>
+      </section>
+      <main>
+        <h1>How to get involved with Bookworms.</h1>
+      </main>
+      <section className="step-grid">
+        <div className="step">
+          <h4>1</h4>
+          <p>You can donate your books to us after you finish reading.</p>
+        </div>
+        <div className="step">
+          <h4>2</h4>
+          <p>Within 2 business days, you will get a store credit from us.</p>
+        </div>
+        <div className="step">
+          <h4>3</h4>
+          <p>Use the store credit to buy books that you havenot read.</p>
+        </div>
+        <div className="step">
+          <h4>4</h4>
+          <p>
+            Please note : our decision if final about the credit that can be
+            offered.
+          </p>
         </div>
       </section>
       <div className="browseBooks">

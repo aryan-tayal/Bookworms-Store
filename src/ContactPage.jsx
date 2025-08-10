@@ -6,9 +6,11 @@ const ContactPage = () => {
       <main>
         <h1>How to Contact Us?</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum
-          adipisci perspiciatis libero accusantium harum corporis placeat
-          quibusdam consequuntur iure id!
+          1. Whatsapp us about anything books at{" "}
+          <b style={{ fontWeight: 800 }}>8818010567</b>
+          <br />
+          2. You can share your book reviews / suggest new titles and also offer
+          suggestions on how our bookstore can be used.
         </p>
       </main>
       <div className="browseBooks" style={{ marginTop: 30 }}>

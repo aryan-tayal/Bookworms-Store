@@ -1,5 +1,6 @@
 import "./styles/Home.css";
 import { Link } from "react-router";
+import { Tag } from "./Utils";
 
 const Home = () => {
   return (
@@ -7,12 +8,17 @@ const Home = () => {
       <main>
         <h1>Welcome to our Bookstore!</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum
-          adipisci perspiciatis libero accusantium harum corporis placeat
-          quibusdam consequuntur iure id!
+          Bookworms Pre-Loved Bookstore holds books we have hand-picked, read
+          and loved. Look for{" "}
+          <Tag
+            bestseller={true}
+            tag={<i className="fa-solid fa-heart"></i>}
+            color={"#d12009"}
+          />{" "}
+          to pick books we LOVE LOVE LOVE, and join us read..
         </p>
       </main>
-      <section id="infoSteps">
+      <section className="step-grid">
         <div className="step">
           <h4>
             <i className="fa-solid fa-question"></i>
