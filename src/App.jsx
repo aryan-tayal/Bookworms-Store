@@ -8,7 +8,7 @@ import ContactPage from "./ContactPage";
 
 import data from "./assets/data/data_with_isbn.json";
 
-import { BrowserRouter, Routes, Route, Link } from "react-router";
+import { BrowserRouter, Routes, Route } from "react-router";
 
 import handleSearchAndFilters from "./helpers/filters";
 import Sidebar from "./Sidebar";
@@ -53,39 +53,6 @@ const App = () => {
         </Routes>
         <Sidebar />
       </BrowserRouter>
-      {/* <MainSection
-        bookData={bookData}
-        handleFiltersChange={handleFiltersChange}
-      /> */}
-      {/* <Link href="/">Info Page</Link> */}
-      {/* <div id="infoCheckbox">
-        <label htmlFor="infoPage">
-          {isInfoOpen ? (
-            <span>
-              Start Browsing{" "}
-              <i
-                className="fa-solid fa-book"
-                style={{
-                  display: "inline-block",
-                  marginBottom: "-10px",
-                  marginLeft: "10px",
-                }}
-              ></i>
-            </span>
-          ) : (
-            <span>
-              How it Works <i className="fa-solid fa-question"></i>
-            </span>
-          )}
-        </label>
-        <input
-          type="checkbox"
-          id="infoPage"
-          name="infoPage"
-          checked={isInfoOpen}
-          onChange={() => setIsInfoOpen(!isInfoOpen)}
-        />
-      </div> */}
     </div>
   );
 };
