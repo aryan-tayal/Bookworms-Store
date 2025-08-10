@@ -1,0 +1,15 @@
+aside {
+  position: fixed;
+  right: 19px;
+  bottom: 5px;
+  display: flex;
+  padding: 10px 20px;
+  background-color: var(--green-accent);
+}
+aside > div {
+  margin: 0 10px;
+}
+aside a > i {
+  font-size: 1.2rem;
+  color: white;
+}

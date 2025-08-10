@@ -2,14 +2,18 @@ import { useEffect, useState } from "react";
 
 import Navbar from "./Navbar";
 import MainSection from "./MainSection";
+import InfoPage from "./InfoPage";
+import Home from "./Home";
+import ContactPage from "./ContactPage";
 
 import data from "./assets/data/data_with_isbn.json";
 
+import { BrowserRouter, Routes, Route, Link } from "react-router";
+
 import handleSearchAndFilters from "./helpers/filters";
-import InfoPage from "./InfoPage";
+import Sidebar from "./Sidebar";
 
 const App = () => {
-  const [isInfoOpen, setIsInfoOpen] = useState(true);
   const [bookData, setBookData] = useState(data);
   const [search, setSearch] = useState("");
   const [filters, setFilters] = useState({
@@ -31,22 +35,41 @@ const App = () => {
   return (
     <div>
       <Navbar handleSearch={handleSearch} search={search} />
-      {isInfoOpen ? (
-        <InfoPage />
-      ) : (
-        <MainSection
-          bookData={bookData}
-          handleFiltersChange={handleFiltersChange}
-        />
-      )}
-      <div id="infoCheckbox">
+
+      <BrowserRouter>
+        <Routes>
+          <Route index element={<Home />} />
+          <Route
+            path="/books"
+            element={
+              <MainSection
+                bookData={bookData}
+                handleFiltersChange={handleFiltersChange}
+              />
+            }
+          />
+          <Route path="/contact" element={<ContactPage />} />
+          <Route path="/info" element={<InfoPage />} />
+        </Routes>
+        <Sidebar />
+      </BrowserRouter>
+      {/* <MainSection
+        bookData={bookData}
+        handleFiltersChange={handleFiltersChange}
+      /> */}
+      {/* <Link href="/">Info Page</Link> */}
+      {/* <div id="infoCheckbox">
         <label htmlFor="infoPage">
           {isInfoOpen ? (
             <span>
               Start Browsing{" "}
               <i
                 className="fa-solid fa-book"
-                style={{ display: "inline-block", marginBottom: "-10px", marginLeft:"10px" }}
+                style={{
+                  display: "inline-block",
+                  marginBottom: "-10px",
+                  marginLeft: "10px",
+                }}
               ></i>
             </span>
           ) : (
@@ -62,7 +85,7 @@ const App = () => {
           checked={isInfoOpen}
           onChange={() => setIsInfoOpen(!isInfoOpen)}
         />
-      </div>
+      </div> */}
     </div>
   );
 };

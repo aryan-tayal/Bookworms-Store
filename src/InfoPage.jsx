@@ -1,4 +1,5 @@
 import "./styles/InfoPage.css";
+import { Link } from "react-router";
 const InfoPage = () => {
   return (
     <div id="InfoPage">
@@ -33,6 +34,9 @@ const InfoPage = () => {
           <p>The books will be delivered to you shortly</p>
         </div>
       </section>
+      <div className="browseBooks">
+        <Link to="/books">Browse Books</Link>
+      </div>
     </div>
   );
 };
