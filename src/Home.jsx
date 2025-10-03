@@ -1,12 +1,17 @@
 import "./styles/Home.css";
 import { Link } from "react-router";
 import { Tag } from "./Utils";
+import qr from "./assets/images/payment-qr.jpeg";
 
 const Home = () => {
   return (
     <div id="Home">
       <main>
         <h1>Welcome to our Bookstore!</h1>
+        <div id="paymentContainer">
+          <h2>Pay Here</h2>
+          <img src={qr} alt="QR Code for payments" />
+        </div>
         <p>
           Bookworms Pre-Loved Bookstore holds books we have hand-picked, read
           and loved. Look for{" "}
