@@ -1,4 +1,4 @@
-{
+[{
       "id": 502126,
       "title": "A Little Life",
       "author": "Hanya Yanagihara",
@@ -1514,7 +1514,7 @@
     {
       "id": 501071,
       "title": "Chhota Bheem : This Is Not The Right Size",
-      "author": "Nidhi A""d",
+      "author": "Nidhi Anand",
       "isbn": 9789380708324,
       "fiction": true,
       "condition": "Good",
@@ -2024,7 +2024,7 @@
     {
       "id": 501681,
       "title": "Sherlock Holmes : The Silver Blaze",
-      "author": "Aurthur Con"" Doyle",
+      "author": "Aurthur Conan Doyle",
       "isbn": 9780723578307,
       "fiction": true,
       "condition": "Like New",
@@ -2296,7 +2296,7 @@
     {
       "id": 501762,
       "title": "Madam rides the bus",
-      "author": "Vallikan""",
+      "author": "Vallikanan",
       "isbn": 9788123703824,
       "fiction": true,
       "condition": "Good",
@@ -3452,7 +3452,7 @@
     {
       "id": 502069,
       "title": "Dances of India",
-      "author": "Har-A""d",
+      "author": "Har-Anand",
       "isbn": 9789380076478,
       "fiction": false,
       "condition": "Good",
@@ -3842,7 +3842,7 @@
     },
     {
       "id": 660789,
-      "title": "Zen and the Art of Motorcycle mainte""ce",
+      "title": "Zen and the Art of Motorcycle maintenance",
       "author": "Robert M Pirseg",
       "isbn": 9781593979829,
       "fiction": false,
@@ -6120,7 +6120,7 @@
     },
     {
       "id": 623151,
-      "title": """cy Drew : The Chocolate Covered Contest",
+      "title": "Nancy Drew : The Chocolate Covered Contest",
       "author": "Enid Blyton",
       "isbn": 9780671034436,
       "fiction": true,
@@ -6137,7 +6137,7 @@
     },
     {
       "id": 635470,
-      "title": """cy Drew : En Garde",
+      "title": "Nancy Drew : En Garde",
       "author": "Enid Blyton",
       "isbn": 9781416906032,
       "fiction": true,
@@ -6154,7 +6154,7 @@
     },
     {
       "id": 614350,
-      "title": """cy Drew : Dangerous Plays",
+      "title": "Nancy Drew : Dangerous Plays",
       "author": "Enid Blyton",
       "isbn": 9781416906056,
       "fiction": true,
@@ -6171,7 +6171,7 @@
     },
     {
       "id": 502000,
-      "title": """cy Drew : False Notes",
+      "title": "Nancy Drew : False Notes",
       "author": "Enid Blyton",
       "isbn": 9780689865688,
       "fiction": true,
@@ -6188,7 +6188,7 @@
     },
     {
       "id": 637973,
-      "title": """cy Drew : The Sky Phantom",
+      "title": "Nancy Drew : The Sky Phantom",
       "author": "Enid Blyton",
       "isbn": 9780448095530,
       "fiction": true,
@@ -6205,7 +6205,7 @@
     },
     {
       "id": 698090,
-      "title": """cy Drew : The Secret of the Golden Pavilion",
+      "title": "Nancy Drew : The Secret of the Golden Pavilion",
       "author": "Enid Blyton",
       "isbn": 9780448095363,
       "fiction": true,
@@ -6222,7 +6222,7 @@
     },
     {
       "id": 630795,
-      "title": """cy Drew : The Quest of the Missing Map",
+      "title": "Nancy Drew : The Quest of the Missing Map",
       "author": "Enid Blyton",
       "isbn": 9780448095196,
       "fiction": true,
@@ -6239,7 +6239,7 @@
     },
     {
       "id": 674584,
-      "title": """cy Drew : The Scarlet Macaw Scandal",
+      "title": "Nancy Drew : The Scarlet Macaw Scandal",
       "author": "Enid Blyton",
       "isbn": 9781847381064,
       "fiction": true,
@@ -6256,7 +6256,7 @@
     },
     {
       "id": 626472,
-      "title": """cy Drew : The Quest of the Missing Map",
+      "title": "Nancy Drew : The Quest of the Missing Map",
       "author": "Enid Blyton",
       "isbn": 9780448095196,
       "fiction": true,
@@ -6273,7 +6273,7 @@
     },
     {
       "id": 669742,
-      "title": """cy Drew : A Taste of Danger",
+      "title": "Nancy Drew : A Taste of Danger",
       "author": "Enid Blyton",
       "isbn": 9780689861543,
       "fiction": true,
@@ -6290,7 +6290,7 @@
     },
     {
       "id": 648680,
-      "title": """cy Drew : Pit of Vipers",
+      "title": "Nancy Drew : Pit of Vipers",
       "author": "Enid Blyton",
       "isbn": 9781416911807,
       "fiction": true,
@@ -9147,7 +9147,7 @@
     {
       "id": 637553,
       "title": "India Unboxed",
-      "author": "Safir A""d",
+      "author": "Safir Anand",
       "isbn": 9789353769819,
       "fiction": true,
       "condition": "Like New",
@@ -9623,7 +9623,7 @@
     {
       "id": 672745,
       "title": "Private Life of an Indian Prince",
-      "author": "Mulk Raj A""d",
+      "author": "Mulk Raj Anand",
       "isbn": 9780370014074,
       "fiction": false,
       "condition": "Good",
@@ -11132,4 +11132,4 @@
       "issued": false,
       "active": true,
       "remarks": ""
-    }
+    }]
