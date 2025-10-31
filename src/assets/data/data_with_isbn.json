@@ -10,9 +10,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502127,
@@ -21,12 +23,15 @@
     "isbn": 9780670021253,
     "fiction": false,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "All",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502128,
@@ -39,9 +44,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 502129,
@@ -54,9 +61,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502130,
@@ -69,9 +78,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502131,
@@ -84,9 +95,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502132,
@@ -99,9 +112,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502133,
@@ -114,9 +129,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502134,
@@ -129,9 +146,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 641924,
@@ -144,9 +163,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502135,
@@ -159,9 +180,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502136,
@@ -174,9 +197,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502137,
@@ -189,9 +214,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502138,
@@ -204,9 +231,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502139,
@@ -219,9 +248,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502140,
@@ -234,9 +265,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502141,
@@ -249,9 +282,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502142,
@@ -264,9 +299,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502143,
@@ -279,9 +316,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 350,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502144,
@@ -294,9 +333,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502145,
@@ -309,9 +350,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 502146,
@@ -324,9 +367,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502084,
@@ -339,9 +384,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 502148,
@@ -354,9 +401,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502149,
@@ -369,9 +418,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502150,
@@ -384,9 +435,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502093,
@@ -399,9 +452,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502151,
@@ -414,9 +469,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502152,
@@ -429,9 +486,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502153,
@@ -444,9 +503,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502154,
@@ -459,9 +520,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502155,
@@ -474,9 +537,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502156,
@@ -489,9 +554,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501814,
@@ -504,9 +571,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501442,
@@ -515,12 +584,15 @@
     "isbn": 9780717268481,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501428,
@@ -529,12 +601,15 @@
     "isbn": 9781442467453,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 30,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501388,
@@ -543,12 +618,15 @@
     "isbn": 9789353786380,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502044,
@@ -557,25 +635,32 @@
     "isbn": 9781884839733,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501425,
     "title": "Splash",
     "author": "Jim Kernel",
+    "isbn": "",
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501736,
@@ -584,12 +669,15 @@
     "isbn": 9780794518127,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 40,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501722,
@@ -598,12 +686,15 @@
     "isbn": 9780007339617,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500254,
@@ -612,12 +703,15 @@
     "isbn": 9781785989889,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 30,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 500845,
@@ -626,12 +720,15 @@
     "isbn": 9788131936290,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501512,
@@ -640,12 +737,15 @@
     "isbn": 9788176861182,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501566,
@@ -654,12 +754,15 @@
     "isbn": 9781452138107,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 501628,
@@ -668,12 +771,15 @@
     "isbn": 9780375912467,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501754,
@@ -682,12 +788,15 @@
     "isbn": 9788183006019,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500861,
@@ -696,12 +805,15 @@
     "isbn": 9780143427278,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501447,
@@ -710,12 +822,15 @@
     "isbn": 9780755442058,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501623,
@@ -724,25 +839,32 @@
     "isbn": 9780062086525,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 501735,
     "title": "Sonu and the Metal Elephant",
     "author": "Scholastic",
+    "isbn": "",
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501446,
@@ -751,12 +873,15 @@
     "isbn": 9788131904671,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501531,
@@ -765,25 +890,32 @@
     "isbn": 9788173012143,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501687,
     "title": "Mimmi aur Bhainsa (Hindi)",
     "author": "Rukmani Bannerjee",
+    "isbn": "",
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501757,
@@ -792,12 +924,15 @@
     "isbn": 9788187108320,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501086,
@@ -806,12 +941,15 @@
     "isbn": 9788182634190,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500600,
@@ -820,12 +958,15 @@
     "isbn": 9788176860222,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 501726,
@@ -834,12 +975,15 @@
     "isbn": 9780060246624,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501724,
@@ -848,12 +992,15 @@
     "isbn": 9788123741925,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501714,
@@ -862,12 +1009,15 @@
     "isbn": 9781839942013,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501474,
@@ -876,12 +1026,15 @@
     "isbn": 9780060282134,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501386,
@@ -890,12 +1043,15 @@
     "isbn": 9789387340190,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500224,
@@ -904,12 +1060,15 @@
     "isbn": 9781409307211,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 30,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501444,
@@ -918,12 +1077,15 @@
     "isbn": 9781452879499,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 40,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500250,
@@ -932,12 +1094,15 @@
     "isbn": 9780001361751,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501730,
@@ -946,12 +1111,15 @@
     "isbn": 9788170265009,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501677,
@@ -960,12 +1128,15 @@
     "isbn": 9780064441643,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501731,
@@ -974,12 +1145,15 @@
     "isbn": 9780064440523,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500193,
@@ -988,12 +1162,15 @@
     "isbn": 9788176933384,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501725,
@@ -1002,12 +1179,15 @@
     "isbn": 9788173790485,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501423,
@@ -1016,12 +1196,15 @@
     "isbn": 9781730119231,
     "fiction": true,
     "condition": "Like New",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 80,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501716,
@@ -1030,12 +1213,15 @@
     "isbn": 9798170118731,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500237,
@@ -1044,12 +1230,15 @@
     "isbn": 9780746063200,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501166,
@@ -1058,12 +1247,15 @@
     "isbn": 9788128603419,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 30,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501453,
@@ -1072,12 +1264,15 @@
     "isbn": 9780307930095,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501395,
@@ -1086,12 +1281,15 @@
     "isbn": 9788966298792,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500871,
@@ -1100,12 +1298,15 @@
     "isbn": 9789387779457,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501432,
@@ -1114,12 +1315,15 @@
     "isbn": 9788181902597,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 30,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500536,
@@ -1128,12 +1332,15 @@
     "isbn": 9780399578489,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 40,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501755,
@@ -1142,12 +1349,15 @@
     "isbn": 9788189020194,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501060,
@@ -1156,12 +1366,15 @@
     "isbn": 9788124301630,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 30,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500822,
@@ -1170,12 +1383,15 @@
     "isbn": 9781406364477,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500210,
@@ -1184,12 +1400,15 @@
     "isbn": 9789350897638,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500430,
@@ -1198,12 +1417,15 @@
     "isbn": 9780140544510,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500086,
@@ -1212,12 +1434,15 @@
     "isbn": 9780895774170,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501434,
@@ -1226,12 +1451,15 @@
     "isbn": 9781948807579,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 40,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500707,
@@ -1240,12 +1468,15 @@
     "isbn": 9780099296713,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501636,
@@ -1254,12 +1485,15 @@
     "isbn": 9780962891410,
     "fiction": true,
     "condition": "Like New",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502048,
@@ -1268,12 +1502,15 @@
     "isbn": 9780866471329,
     "fiction": false,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501071,
@@ -1282,12 +1519,15 @@
     "isbn": 9789380708324,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": true,
     "price": 40,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500046,
@@ -1296,12 +1536,15 @@
     "isbn": 9780563476511,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501640,
@@ -1310,12 +1553,15 @@
     "isbn": 9780517885406,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501611,
@@ -1324,12 +1570,15 @@
     "isbn": 9781338106480,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 80,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501366,
@@ -1338,12 +1587,15 @@
     "isbn": 9781684127542,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 502092,
@@ -1352,12 +1604,15 @@
     "isbn": 9788184992892,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Under 10",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 5000502,
@@ -1366,12 +1621,15 @@
     "isbn": 9788181900548,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 30,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501697,
@@ -1380,12 +1638,15 @@
     "isbn": 9781842706848,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500299,
@@ -1394,12 +1655,15 @@
     "isbn": 9781503215672,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 30,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500306,
@@ -1408,12 +1672,15 @@
     "isbn": 9788179920077,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501751,
@@ -1422,12 +1689,15 @@
     "isbn": 9788128831706,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502020,
@@ -1436,12 +1706,15 @@
     "isbn": 9781580893084,
     "fiction": true,
     "condition": "Like New",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500697,
@@ -1450,12 +1723,15 @@
     "isbn": 9780345260796,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 30,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502065,
@@ -1464,12 +1740,15 @@
     "isbn": 9781445425917,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501569,
@@ -1478,12 +1757,15 @@
     "isbn": 9781858810706,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 30,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501169,
@@ -1492,25 +1774,32 @@
     "isbn": 9788129101464,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501676,
     "title": "Vikram and Betal",
     "author": "Evergreen",
+    "isbn": "",
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501756,
@@ -1519,12 +1808,15 @@
     "isbn": 9780735841406,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501647,
@@ -1533,12 +1825,15 @@
     "isbn": 9780593127278,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501699,
@@ -1547,12 +1842,15 @@
     "isbn": 9781481447867,
     "fiction": true,
     "condition": "Like New",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501506,
@@ -1561,12 +1859,15 @@
     "isbn": 9780439160223,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 30,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502045,
@@ -1575,12 +1876,15 @@
     "isbn": 9781616081089,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 5001137,
@@ -1589,12 +1893,15 @@
     "isbn": 9789351039860,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500490,
@@ -1603,12 +1910,15 @@
     "isbn": 9788181900333,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501430,
@@ -1617,12 +1927,15 @@
     "isbn": 9780717284849,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 502073,
@@ -1631,12 +1944,15 @@
     "isbn": 9781445466491,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 502068,
@@ -1645,12 +1961,15 @@
     "isbn": 9789380069326,
     "fiction": true,
     "condition": "Like New",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501768,
@@ -1659,12 +1978,15 @@
     "isbn": 9780439963060,
     "fiction": true,
     "condition": "Like New",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500873,
@@ -1673,12 +1995,15 @@
     "isbn": 9780717284849,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501713,
@@ -1687,12 +2012,15 @@
     "isbn": 9810063049,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 501681,
@@ -1701,12 +2029,15 @@
     "isbn": 9780723578307,
     "fiction": true,
     "condition": "Like New",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 30,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 501764,
@@ -1715,12 +2046,15 @@
     "isbn": 9789391589509,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501307,
@@ -1729,12 +2063,15 @@
     "isbn": 9781853267338,
     "fiction": true,
     "condition": "Like New",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501588,
@@ -1743,12 +2080,15 @@
     "isbn": 9789352231713,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500089,
@@ -1757,12 +2097,15 @@
     "isbn": 9788124305355,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501045,
@@ -1771,12 +2114,15 @@
     "isbn": 9788124305201,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 5000429,
@@ -1785,12 +2131,15 @@
     "isbn": 9788170119029,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502066,
@@ -1799,12 +2148,15 @@
     "isbn": 9781407187921,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500104,
@@ -1813,12 +2165,15 @@
     "isbn": 9780809492541,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500107,
@@ -1827,12 +2182,15 @@
     "isbn": 9780809492664,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500116,
@@ -1841,12 +2199,15 @@
     "isbn": 9780809493074,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500040,
@@ -1855,12 +2216,15 @@
     "isbn": 9788181467690,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501765,
@@ -1869,12 +2233,15 @@
     "isbn": 9788184822564,
     "fiction": true,
     "condition": "Like New",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501712,
@@ -1883,12 +2250,15 @@
     "isbn": 9780794414344,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501742,
@@ -1897,12 +2267,15 @@
     "isbn": 9788184774689,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 30,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500810,
@@ -1911,12 +2284,15 @@
     "isbn": 9780689710537,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501762,
@@ -1925,12 +2301,15 @@
     "isbn": 9788123703824,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501746,
@@ -1939,26 +2318,32 @@
     "isbn": 9788179930618,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501522,
     "title": "Tell me How,Why,When and Where (Part3)",
     "author": "Sneha VIJ",
+    "isbn": "",
     "fiction": false,
     "condition": "Good",
     "genre": "Knowledge",
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501718,
@@ -1967,12 +2352,15 @@
     "isbn": 9788131007914,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500285,
@@ -1985,9 +2373,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501717,
@@ -2000,9 +2390,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502053,
@@ -2015,9 +2407,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501770,
@@ -2030,9 +2424,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501267,
@@ -2045,9 +2441,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501519,
@@ -2060,9 +2458,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501665,
@@ -2075,9 +2475,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501122,
@@ -2090,9 +2492,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 500017,
@@ -2105,9 +2509,11 @@
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501250,
@@ -2120,9 +2526,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 500,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500702,
@@ -2135,9 +2543,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 70,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501682,
@@ -2150,9 +2560,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501280,
@@ -2165,9 +2577,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500168,
@@ -2180,9 +2594,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501779,
@@ -2195,9 +2611,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501281,
@@ -2210,9 +2628,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501560,
@@ -2225,9 +2645,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 500,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501279,
@@ -2240,21 +2662,28 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501220,
     "title": "Nursery Songs and Rhymes",
     "author": "Eric Kincaid",
+    "isbn": "",
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "All",
+    "bestseller": "",
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500005,
@@ -2263,37 +2692,49 @@
     "isbn": 9780399553578,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "All",
+    "bestseller": "",
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501199,
     "title": "Amazing Quiz Challenge",
     "author": "Readers Digest Kids",
+    "isbn": "",
     "fiction": false,
     "condition": "Good",
     "genre": "Knowledge",
     "ageCategory": "All",
+    "bestseller": "",
     "price": 500,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501278,
     "title": "Sky and Earth",
     "author": "A Child’s First Library of Learning",
+    "isbn": "",
     "fiction": false,
     "condition": "Good",
     "genre": "Knowledge",
     "ageCategory": "All",
+    "bestseller": "",
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502052,
@@ -2306,65 +2747,79 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 400,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501262,
     "title": "Flowers and Trees",
     "author": "A Child’s First Library of Learning",
+    "isbn": "",
     "fiction": false,
     "condition": "Good",
     "genre": "Knowledge",
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501269,
     "title": "Ecology and Environment",
     "author": "A Child’s First Library of Learning",
+    "isbn": "",
     "fiction": false,
     "condition": "Good",
     "genre": "Knowledge",
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501276,
     "title": "Wild Animals",
     "author": "A Child’s First Library of Learning",
+    "isbn": "",
     "fiction": false,
     "condition": "Good",
     "genre": "Knowledge",
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501266,
     "title": "Famous Places",
     "author": "A Child’s First Library of Learning",
+    "isbn": "",
     "fiction": false,
     "condition": "Good",
     "genre": "Knowledge",
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 500169,
@@ -2377,9 +2832,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501261,
@@ -2392,9 +2849,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501282,
@@ -2407,9 +2866,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502054,
@@ -2422,9 +2883,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 400,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501773,
@@ -2437,9 +2900,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501255,
@@ -2452,23 +2917,28 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 400,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501520,
     "title": "Tell me How,Why,When and Where (Part2)",
     "author": "Reinu Bhanot",
+    "isbn": "",
     "fiction": false,
     "condition": "Good",
     "genre": "Knowledge",
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500431,
@@ -2481,9 +2951,11 @@
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501477,
@@ -2496,9 +2968,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500701,
@@ -2511,9 +2985,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 70,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500691,
@@ -2526,9 +3002,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501059,
@@ -2541,9 +3019,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501207,
@@ -2556,23 +3036,28 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502159,
     "title": "Answer Book",
     "author": "National Geographic",
+    "isbn": "",
     "fiction": false,
     "condition": "Good",
     "genre": "Knowledge",
     "ageCategory": "All",
     "bestseller": false,
     "price": 500,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502158,
@@ -2585,9 +3070,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500184,
@@ -2600,9 +3087,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500182,
@@ -2615,9 +3104,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500174,
@@ -2630,9 +3121,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502157,
@@ -2645,9 +3138,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500079,
@@ -2656,12 +3151,15 @@
     "isbn": 9788172344221,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "All",
     "bestseller": true,
     "price": 30,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501720,
@@ -2670,11 +3168,15 @@
     "isbn": 9789387340251,
     "fiction": true,
     "condition": "Like New",
+    "genre": "",
     "ageCategory": "All",
+    "bestseller": "",
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502071,
@@ -2683,12 +3185,15 @@
     "isbn": 9789389567830,
     "fiction": true,
     "condition": "Like New",
+    "genre": "",
     "ageCategory": "All",
     "bestseller": true,
     "price": 40,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501732,
@@ -2701,9 +3206,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 30,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500545,
@@ -2716,9 +3223,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501076,
@@ -2731,9 +3240,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501626,
@@ -2746,9 +3257,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 40,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 644061,
@@ -2761,9 +3274,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501123,
@@ -2776,9 +3291,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 618181,
@@ -2791,9 +3308,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 400,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502070,
@@ -2806,9 +3325,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500814,
@@ -2821,9 +3342,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 70,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500212,
@@ -2836,9 +3359,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 615752,
@@ -2851,9 +3376,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500780,
@@ -2866,9 +3393,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 70,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500226,
@@ -2881,9 +3410,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501769,
@@ -2896,9 +3427,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501553,
@@ -2911,9 +3444,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502069,
@@ -2926,9 +3461,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 673027,
@@ -2941,9 +3478,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 642098,
@@ -2956,9 +3495,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 620692,
@@ -2971,9 +3512,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 621435,
@@ -2986,9 +3529,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 646008,
@@ -3001,9 +3546,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 654492,
@@ -3016,9 +3563,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 689925,
@@ -3031,9 +3580,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 500,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 633764,
@@ -3042,12 +3593,15 @@
     "isbn": 9781401303273,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "All",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502103,
@@ -3056,12 +3610,15 @@
     "isbn": 9780316311533,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "All",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500190,
@@ -3074,9 +3631,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 400,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 658812,
@@ -3085,12 +3644,15 @@
     "isbn": 9780751536140,
     "fiction": true,
     "condition": "Used",
+    "genre": "",
     "ageCategory": "All",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 694492,
@@ -3099,12 +3661,15 @@
     "isbn": 9780099282853,
     "fiction": true,
     "condition": "Used",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 627788,
@@ -3117,9 +3682,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 698002,
@@ -3132,9 +3699,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500880,
@@ -3147,9 +3716,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 500858,
@@ -3162,9 +3733,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 648666,
@@ -3177,9 +3750,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 684288,
@@ -3192,9 +3767,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500801,
@@ -3207,9 +3784,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 635391,
@@ -3218,12 +3797,15 @@
     "isbn": 9780312428112,
     "fiction": false,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "All",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 642823,
@@ -3232,12 +3814,15 @@
     "isbn": 9780312428112,
     "fiction": false,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "All",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 629062,
@@ -3250,9 +3835,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 660789,
@@ -3265,9 +3852,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502055,
@@ -3280,9 +3869,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 689965,
@@ -3295,9 +3886,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 642730,
@@ -3310,9 +3903,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 662338,
@@ -3325,9 +3920,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 624203,
@@ -3340,9 +3937,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 632544,
@@ -3351,12 +3950,15 @@
     "isbn": 9788190585811,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adults",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 627193,
@@ -3369,9 +3971,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 612379,
@@ -3380,12 +3984,15 @@
     "isbn": 9789380283777,
     "fiction": false,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adults",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 629918,
@@ -3398,9 +4005,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502100,
@@ -3413,9 +4022,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502101,
@@ -3428,9 +4039,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502102,
@@ -3443,9 +4056,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 645622,
@@ -3458,9 +4073,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 650176,
@@ -3469,12 +4086,15 @@
     "isbn": 9781472207180,
     "fiction": false,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "All",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502082,
@@ -3487,9 +4107,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502080,
@@ -3502,9 +4124,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 657090,
@@ -3517,9 +4141,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500287,
@@ -3528,25 +4154,32 @@
     "isbn": 9780794517205,
     "fiction": false,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502057,
     "title": "The Luminous Life of Adolf Hitler",
     "author": "Printline Books",
+    "isbn": "",
     "fiction": false,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502008,
@@ -3559,9 +4192,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 689596,
@@ -3574,9 +4209,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 628945,
@@ -3589,9 +4226,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 689292,
@@ -3604,9 +4243,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 669619,
@@ -3619,9 +4260,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 640270,
@@ -3634,9 +4277,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 625135,
@@ -3649,9 +4294,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 616399,
@@ -3664,9 +4311,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 639656,
@@ -3679,9 +4328,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 616213,
@@ -3694,9 +4345,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 672356,
@@ -3709,9 +4362,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500403,
@@ -3724,9 +4379,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 617463,
@@ -3739,9 +4396,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 639647,
@@ -3754,9 +4413,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 681797,
@@ -3769,9 +4430,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 623630,
@@ -3784,9 +4447,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 679797,
@@ -3799,9 +4464,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 687068,
@@ -3814,9 +4481,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 640999,
@@ -3829,9 +4498,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 671611,
@@ -3844,9 +4515,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 684090,
@@ -3859,9 +4532,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 668770,
@@ -3874,9 +4549,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 673500,
@@ -3889,9 +4566,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 688914,
@@ -3904,9 +4583,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 682790,
@@ -3919,9 +4600,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 682880,
@@ -3934,9 +4617,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 698237,
@@ -3949,9 +4634,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 681787,
@@ -3964,9 +4651,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 670898,
@@ -3979,9 +4668,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 683264,
@@ -3994,9 +4685,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 639255,
@@ -4009,9 +4702,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 677551,
@@ -4024,9 +4719,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 628279,
@@ -4039,9 +4736,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 690153,
@@ -4054,9 +4753,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 623310,
@@ -4069,9 +4770,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 615228,
@@ -4084,9 +4787,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 699159,
@@ -4099,9 +4804,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500642,
@@ -4114,9 +4821,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 699561,
@@ -4129,9 +4838,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 648129,
@@ -4144,9 +4855,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 641253,
@@ -4159,9 +4872,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 689428,
@@ -4174,9 +4889,11 @@
     "ageCategory": "Adults",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500733,
@@ -4189,9 +4906,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502050,
@@ -4204,9 +4923,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502047,
@@ -4219,9 +4940,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 642385,
@@ -4234,9 +4957,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501413,
@@ -4249,9 +4974,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501662,
@@ -4264,9 +4991,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502099,
@@ -4279,9 +5008,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 625286,
@@ -4294,9 +5025,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 624123,
@@ -4309,9 +5042,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501652,
@@ -4324,9 +5059,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501678,
@@ -4339,9 +5076,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501355,
@@ -4354,9 +5093,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501698,
@@ -4369,9 +5110,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 637313,
@@ -4384,9 +5127,11 @@
     "ageCategory": "Young Adult",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500390,
@@ -4399,9 +5144,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 689860,
@@ -4414,9 +5161,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500357,
@@ -4429,9 +5178,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501989,
@@ -4444,9 +5195,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500354,
@@ -4459,9 +5212,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501589,
@@ -4474,9 +5229,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 648797,
@@ -4489,9 +5246,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501024,
@@ -4504,9 +5263,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501406,
@@ -4519,9 +5280,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501570,
@@ -4534,9 +5297,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501572,
@@ -4549,9 +5314,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501594,
@@ -4564,9 +5331,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501384,
@@ -4579,9 +5348,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501245,
@@ -4594,9 +5365,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501101,
@@ -4609,9 +5382,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501198,
@@ -4624,9 +5399,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501197,
@@ -4639,9 +5416,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501196,
@@ -4654,9 +5433,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501705,
@@ -4669,9 +5450,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501727,
@@ -4684,9 +5467,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500155,
@@ -4699,9 +5484,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 688852,
@@ -4714,9 +5501,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501108,
@@ -4729,9 +5518,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501649,
@@ -4744,9 +5535,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502058,
@@ -4759,9 +5552,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500877,
@@ -4774,9 +5569,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502086,
@@ -4789,9 +5586,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502097,
@@ -4804,9 +5603,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500345,
@@ -4819,9 +5620,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502096,
@@ -4834,9 +5637,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 502085,
@@ -4849,9 +5654,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 674130,
@@ -4864,23 +5671,28 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501538,
     "title": "Star Wars : Jedi Apprentice",
     "author": "Jude Watson",
+    "isbn": "",
     "fiction": true,
     "condition": "Good",
     "genre": "Fiction",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501353,
@@ -4893,9 +5705,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502091,
@@ -4908,9 +5722,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502089,
@@ -4923,9 +5739,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502090,
@@ -4938,9 +5756,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 677523,
@@ -4953,9 +5773,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 650488,
@@ -4968,9 +5790,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 676695,
@@ -4983,9 +5807,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500302,
@@ -4998,9 +5824,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500301,
@@ -5013,9 +5841,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500358,
@@ -5028,9 +5858,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501001,
@@ -5043,18 +5875,28 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 692033,
     "title": "The Famous Five : Five on Finniston Farm",
     "author": "Enid Blyton",
     "isbn": 9780340104316,
+    "fiction": "",
+    "condition": "",
+    "genre": "",
+    "ageCategory": "",
+    "bestseller": "",
+    "price": "",
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502079,
@@ -5067,9 +5909,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502076,
@@ -5082,9 +5926,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500372,
@@ -5097,9 +5943,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502077,
@@ -5112,9 +5960,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500423,
@@ -5127,9 +5977,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500304,
@@ -5142,9 +5994,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500376,
@@ -5157,9 +6011,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501181,
@@ -5172,9 +6028,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501303,
@@ -5187,9 +6045,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502088,
@@ -5202,9 +6062,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501739,
@@ -5217,9 +6079,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500515,
@@ -5232,9 +6096,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502078,
@@ -5247,9 +6113,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 623151,
@@ -5262,9 +6130,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 635470,
@@ -5277,9 +6147,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 614350,
@@ -5292,9 +6164,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502000,
@@ -5307,9 +6181,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 637973,
@@ -5322,9 +6198,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 698090,
@@ -5337,9 +6215,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 630795,
@@ -5352,9 +6232,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 674584,
@@ -5367,9 +6249,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 626472,
@@ -5382,9 +6266,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 669742,
@@ -5397,9 +6283,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 648680,
@@ -5412,9 +6300,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501692,
@@ -5427,9 +6317,11 @@
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501700,
@@ -5442,9 +6334,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501481,
@@ -5457,9 +6351,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500286,
@@ -5472,9 +6368,11 @@
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500291,
@@ -5487,9 +6385,11 @@
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 501711,
@@ -5502,9 +6402,11 @@
     "ageCategory": "Under 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501251,
@@ -5517,9 +6419,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 657436,
@@ -5532,9 +6436,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502087,
@@ -5547,9 +6453,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502098,
@@ -5562,9 +6470,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501702,
@@ -5577,9 +6487,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501706,
@@ -5592,9 +6504,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 617849,
@@ -5607,9 +6521,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501708,
@@ -5622,9 +6538,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501704,
@@ -5637,9 +6555,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 630409,
@@ -5652,9 +6572,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501579,
@@ -5667,9 +6589,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501701,
@@ -5682,9 +6606,11 @@
     "ageCategory": "Under 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501689,
@@ -5697,9 +6623,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501326,
@@ -5712,9 +6640,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 50144,
@@ -5727,9 +6657,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501187,
@@ -5742,9 +6674,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501673,
@@ -5757,9 +6691,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501580,
@@ -5772,9 +6708,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501658,
@@ -5787,9 +6725,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500890,
@@ -5802,9 +6742,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501545,
@@ -5817,9 +6759,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501541,
@@ -5832,9 +6776,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502094,
@@ -5847,9 +6793,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501581,
@@ -5862,9 +6810,11 @@
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501133,
@@ -5877,9 +6827,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501675,
@@ -5892,9 +6844,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501210,
@@ -5907,9 +6861,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501452,
@@ -5922,9 +6878,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501654,
@@ -5937,9 +6895,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501550,
@@ -5952,9 +6912,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501539,
@@ -5967,9 +6929,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501991,
@@ -5982,9 +6946,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501990,
@@ -5997,9 +6963,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501500,
@@ -6012,9 +6980,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500870,
@@ -6027,9 +6997,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501599,
@@ -6042,9 +7014,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 651457,
@@ -6057,9 +7031,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500851,
@@ -6072,9 +7048,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501107,
@@ -6087,9 +7065,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500803,
@@ -6102,9 +7082,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501997,
@@ -6117,9 +7099,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501672,
@@ -6132,9 +7116,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500158,
@@ -6147,9 +7133,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 501609,
@@ -6162,9 +7150,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501371,
@@ -6177,9 +7167,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501869,
@@ -6192,9 +7184,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501015,
@@ -6207,9 +7201,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500150,
@@ -6222,9 +7218,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501696,
@@ -6237,9 +7235,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500855,
@@ -6252,51 +7252,62 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 618722,
     "title": "Bookworms and Reado",
     "author": "Bookworms",
+    "isbn": "",
     "fiction": true,
     "condition": "Good",
     "genre": "Fiction",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 652870,
     "title": "Bookworms and Reado",
     "author": "Bookworms",
+    "isbn": "",
     "fiction": true,
     "condition": "Good",
     "genre": "Fiction",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 621590,
     "title": "Bookworms and Reado",
     "author": "Bookworms",
+    "isbn": "",
     "fiction": true,
     "condition": "Good",
     "genre": "Fiction",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501737,
@@ -6309,9 +7320,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501721,
@@ -6324,9 +7337,11 @@
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 674603,
@@ -6339,9 +7354,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502095,
@@ -6354,9 +7371,11 @@
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501747,
@@ -6369,9 +7388,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 655141,
@@ -6384,9 +7405,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 501703,
@@ -6399,9 +7422,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 648449,
@@ -6414,9 +7439,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501598,
@@ -6429,9 +7456,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501061,
@@ -6444,9 +7473,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501610,
@@ -6459,9 +7490,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501130,
@@ -6474,9 +7507,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501540,
@@ -6489,23 +7524,28 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501178,
     "title": "Hurry-Berry and other tales",
     "author": "V.K.Rajan",
+    "isbn": "",
     "fiction": true,
     "condition": "Good",
     "genre": "Fiction",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501710,
@@ -6518,9 +7558,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501688,
@@ -6533,9 +7575,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501733,
@@ -6548,9 +7592,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501674,
@@ -6563,9 +7609,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501134,
@@ -6578,9 +7626,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502004,
@@ -6593,9 +7643,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 626392,
@@ -6608,9 +7660,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 690797,
@@ -6623,9 +7677,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501036,
@@ -6638,9 +7694,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500504,
@@ -6653,9 +7711,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500522,
@@ -6668,9 +7728,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500484,
@@ -6683,9 +7745,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500485,
@@ -6698,9 +7762,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500455,
@@ -6713,9 +7779,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500495,
@@ -6728,9 +7796,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501527,
@@ -6743,9 +7813,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500453,
@@ -6758,9 +7830,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501205,
@@ -6773,9 +7847,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500482,
@@ -6788,9 +7864,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500468,
@@ -6803,9 +7881,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500506,
@@ -6818,9 +7898,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500460,
@@ -6833,23 +7915,28 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500478,
     "title": "Panchatantra",
     "author": "Amar Chitra Katha",
+    "isbn": "",
     "fiction": true,
     "condition": "Good",
     "genre": "Fiction",
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500475,
@@ -6862,9 +7949,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500489,
@@ -6877,9 +7966,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500465,
@@ -6892,9 +7983,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500462,
@@ -6907,9 +8000,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500492,
@@ -6922,9 +8017,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 623353,
@@ -6937,9 +8034,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500454,
@@ -6952,9 +8051,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500499,
@@ -6967,9 +8068,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500467,
@@ -6982,9 +8085,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500469,
@@ -6997,9 +8102,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500561,
@@ -7012,9 +8119,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500014,
@@ -7027,9 +8136,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501035,
@@ -7042,9 +8153,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501032,
@@ -7057,9 +8170,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501729,
@@ -7072,9 +8187,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500497,
@@ -7087,9 +8204,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500351,
@@ -7102,23 +8221,28 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 10,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501744,
     "title": "Khazane ka Thela (Hindi)",
     "author": "Scholastic",
+    "isbn": "",
     "fiction": true,
     "condition": "Good",
     "genre": "Fiction",
     "ageCategory": "All",
     "bestseller": false,
     "price": 20,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 501163,
@@ -7131,9 +8255,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501734,
@@ -7146,9 +8272,11 @@
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502005,
@@ -7161,9 +8289,11 @@
     "ageCategory": "Young Adult",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501995,
@@ -7176,9 +8306,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501996,
@@ -7187,12 +8319,15 @@
     "isbn": 9780763613976,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 615053,
@@ -7201,12 +8336,15 @@
     "isbn": 9789385724831,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502002,
@@ -7215,12 +8353,15 @@
     "isbn": 9780375850875,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Young Adult",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501992,
@@ -7233,9 +8374,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501998,
@@ -7245,11 +8388,14 @@
     "fiction": true,
     "condition": "Good",
     "genre": "Classics",
+    "ageCategory": "",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502007,
@@ -7262,9 +8408,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501408,
@@ -7273,12 +8421,15 @@
     "isbn": 9788592783808,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 654317,
@@ -7291,9 +8442,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 639558,
@@ -7306,9 +8459,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 648109,
@@ -7321,9 +8476,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 666586,
@@ -7336,9 +8493,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 662125,
@@ -7351,9 +8510,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 698872,
@@ -7366,9 +8527,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 661078,
@@ -7381,9 +8544,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 692435,
@@ -7396,9 +8561,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 350,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 690885,
@@ -7411,9 +8578,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 657295,
@@ -7426,9 +8595,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 671104,
@@ -7441,9 +8612,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 623348,
@@ -7456,9 +8629,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 624606,
@@ -7471,9 +8646,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 683767,
@@ -7486,9 +8663,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 626053,
@@ -7501,9 +8680,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 638422,
@@ -7516,9 +8697,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 693413,
@@ -7531,9 +8714,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 663436,
@@ -7546,9 +8731,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 664794,
@@ -7561,9 +8748,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 663790,
@@ -7576,9 +8765,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 677516,
@@ -7591,9 +8782,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 350,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 673471,
@@ -7606,9 +8799,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 665387,
@@ -7621,9 +8816,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 686752,
@@ -7636,9 +8833,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501695,
@@ -7651,9 +8850,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 694407,
@@ -7666,9 +8867,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 634771,
@@ -7681,9 +8884,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 617646,
@@ -7696,9 +8901,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 633908,
@@ -7711,9 +8918,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 665399,
@@ -7726,9 +8935,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 685606,
@@ -7741,9 +8952,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 669294,
@@ -7756,9 +8969,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 661499,
@@ -7771,9 +8986,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 670728,
@@ -7786,9 +9003,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 657688,
@@ -7801,9 +9020,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 662288,
@@ -7816,9 +9037,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 632877,
@@ -7831,9 +9054,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 651118,
@@ -7846,9 +9071,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 670439,
@@ -7861,9 +9088,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 610663,
@@ -7876,9 +9105,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 661430,
@@ -7891,9 +9122,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 627772,
@@ -7906,9 +9139,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 637553,
@@ -7921,9 +9156,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 617962,
@@ -7936,9 +9173,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 624368,
@@ -7951,9 +9190,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 671133,
@@ -7966,9 +9207,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 684043,
@@ -7977,12 +9220,15 @@
     "isbn": 9780060987565,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 635925,
@@ -7991,12 +9237,15 @@
     "isbn": 9780007528646,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 642261,
@@ -8009,9 +9258,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 611652,
@@ -8024,9 +9275,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 650542,
@@ -8039,9 +9292,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 613828,
@@ -8050,12 +9305,15 @@
     "isbn": 9780061752223,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 621880,
@@ -8064,12 +9322,15 @@
     "isbn": 9780099464464,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502011,
@@ -8078,12 +9339,15 @@
     "isbn": 9780141333632,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502010,
@@ -8092,12 +9356,15 @@
     "isbn": 9780141338743,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 625853,
@@ -8106,12 +9373,15 @@
     "isbn": 9780747255413,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 667374,
@@ -8120,12 +9390,15 @@
     "isbn": 9780312317126,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 699006,
@@ -8134,12 +9407,15 @@
     "isbn": 9780060554385,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 620137,
@@ -8148,12 +9424,15 @@
     "isbn": 9780140255669,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 672751,
@@ -8162,12 +9441,15 @@
     "isbn": 9780140255669,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 616939,
@@ -8176,12 +9458,15 @@
     "isbn": 9780061130366,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 632927,
@@ -8190,12 +9475,15 @@
     "isbn": 9780451234995,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 632384,
@@ -8204,12 +9492,15 @@
     "isbn": 9780140104806,
     "fiction": true,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 693118,
@@ -8222,9 +9513,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 669949,
@@ -8237,9 +9530,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 652595,
@@ -8252,9 +9547,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 641325,
@@ -8267,9 +9564,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500167,
@@ -8282,9 +9581,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 669655,
@@ -8297,9 +9598,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": false
+    "active": false,
+    "remarks": ""
   },
   {
     "id": 662923,
@@ -8312,9 +9615,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 350,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 672745,
@@ -8323,12 +9628,15 @@
     "isbn": 9780370014074,
     "fiction": false,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 638915,
@@ -8337,12 +9645,15 @@
     "isbn": 9780060888565,
     "fiction": false,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 691260,
@@ -8351,12 +9662,15 @@
     "isbn": 9780701189051,
     "fiction": false,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 622841,
@@ -8365,12 +9679,15 @@
     "isbn": 9781408704028,
     "fiction": false,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 655328,
@@ -8379,12 +9696,15 @@
     "isbn": 9789352640287,
     "fiction": false,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 690477,
@@ -8393,12 +9713,15 @@
     "isbn": 9780553275292,
     "fiction": false,
     "condition": "Good",
+    "genre": "",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 692643,
@@ -8411,9 +9734,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500523,
@@ -8426,9 +9751,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 500,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 632024,
@@ -8441,9 +9768,11 @@
     "ageCategory": "Young Adult",
     "bestseller": false,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 653748,
@@ -8456,9 +9785,11 @@
     "ageCategory": "Young Adult",
     "bestseller": false,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 652477,
@@ -8471,9 +9802,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 662651,
@@ -8486,9 +9819,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 687827,
@@ -8501,9 +9836,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 635435,
@@ -8516,9 +9853,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 622523,
@@ -8531,9 +9870,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 689800,
@@ -8546,9 +9887,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501316,
@@ -8561,9 +9904,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 680544,
@@ -8576,9 +9921,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 626993,
@@ -8591,9 +9938,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 663630,
@@ -8606,9 +9955,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 651855,
@@ -8621,9 +9972,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 696450,
@@ -8636,9 +9989,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501596,
@@ -8651,9 +10006,11 @@
     "ageCategory": "Young Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 633904,
@@ -8666,9 +10023,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 660657,
@@ -8681,9 +10040,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 660590,
@@ -8696,9 +10057,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 693726,
@@ -8711,9 +10074,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 637406,
@@ -8726,9 +10091,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 651616,
@@ -8741,9 +10108,11 @@
     "ageCategory": "Young Adult",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 619660,
@@ -8756,23 +10125,28 @@
     "ageCategory": "Young Adult",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 659614,
     "title": "Classic Short Stories",
     "author": "Readers Digest",
+    "isbn": "",
     "fiction": true,
     "condition": "Good",
     "genre": "Classics",
     "ageCategory": "All",
     "bestseller": true,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 689910,
@@ -8785,9 +10159,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 698310,
@@ -8800,9 +10176,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 633712,
@@ -8815,9 +10193,11 @@
     "ageCategory": "Young Adult",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 696837,
@@ -8830,9 +10210,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 624815,
@@ -8845,9 +10227,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 641170,
@@ -8860,9 +10244,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 679377,
@@ -8875,9 +10261,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 691508,
@@ -8890,9 +10278,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 635132,
@@ -8905,9 +10295,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 400,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 675189,
@@ -8920,9 +10312,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500742,
@@ -8935,9 +10329,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 629240,
@@ -8950,9 +10346,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501409,
@@ -8965,9 +10363,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 632988,
@@ -8980,9 +10380,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501671,
@@ -8995,9 +10397,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501669,
@@ -9010,9 +10414,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 670786,
@@ -9025,9 +10431,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 695902,
@@ -9040,9 +10448,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 621482,
@@ -9055,9 +10465,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 660123,
@@ -9070,9 +10482,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 612643,
@@ -9085,9 +10499,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 691749,
@@ -9100,9 +10516,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 400,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501168,
@@ -9115,9 +10533,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 646124,
@@ -9130,9 +10550,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 657358,
@@ -9145,9 +10567,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 617280,
@@ -9160,9 +10584,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 671117,
@@ -9175,9 +10601,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 619102,
@@ -9190,9 +10618,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 612996,
@@ -9205,9 +10635,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 350,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 629851,
@@ -9220,9 +10652,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 666253,
@@ -9235,9 +10669,11 @@
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 650705,
@@ -9250,9 +10686,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 645896,
@@ -9265,9 +10703,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 684374,
@@ -9280,9 +10720,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 672880,
@@ -9295,9 +10737,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 620634,
@@ -9310,9 +10754,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 658457,
@@ -9325,9 +10771,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 657654,
@@ -9340,9 +10788,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501629,
@@ -9355,9 +10805,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 610213,
@@ -9370,9 +10822,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 666680,
@@ -9385,9 +10839,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 615792,
@@ -9400,9 +10856,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501651,
@@ -9415,9 +10873,11 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502009,
@@ -9430,9 +10890,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500425,
@@ -9445,9 +10907,11 @@
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 685590,
@@ -9460,9 +10924,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501608,
@@ -9475,9 +10941,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 500853,
@@ -9490,9 +10958,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 642518,
@@ -9505,9 +10975,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 651335,
@@ -9520,9 +10992,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501758,
@@ -9534,9 +11008,12 @@
     "genre": "Mythology",
     "ageCategory": "Under 10",
     "bestseller": true,
+    "price": "",
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 501641,
@@ -9549,9 +11026,11 @@
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 613940,
@@ -9564,9 +11043,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 674253,
@@ -9579,9 +11060,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 622365,
@@ -9594,9 +11077,11 @@
     "ageCategory": "Young Adult",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 697161,
@@ -9609,9 +11094,11 @@
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 667002,
@@ -9624,9 +11111,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 650945,
@@ -9639,9 +11128,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502165,
@@ -9654,9 +11145,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502164,
@@ -9669,9 +11162,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 170,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502166,
@@ -9684,9 +11179,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502167,
@@ -9699,9 +11196,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 170,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502168,
@@ -9714,9 +11213,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 150,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502169,
@@ -9729,9 +11230,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 170,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502170,
@@ -9744,9 +11247,11 @@
     "ageCategory": "Adults",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502171,
@@ -9759,9 +11264,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502172,
@@ -9774,9 +11281,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502173,
@@ -9789,9 +11298,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502174,
@@ -9804,9 +11315,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502175,
@@ -9819,9 +11332,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502176,
@@ -9834,9 +11349,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502177,
@@ -9849,9 +11366,11 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502178,
@@ -9864,9 +11383,11 @@
     "ageCategory": "All",
     "bestseller": false,
     "price": 50,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
     "id": 502179,
@@ -9879,33 +11400,129 @@
     "ageCategory": "All",
     "bestseller": true,
     "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
+    "id": 502180,
+    "title": "Fearless",
+    "author": "Lauren Roberts",
+    "isbn": 9781665955461,
+    "fiction": true,
+    "condition": "Good",
+    "genre": "Fantasy",
+    "ageCategory": "Young Adult",
+    "bestseller": true,
+    "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
+    "id": 502181,
+    "title": "Reckless",
+    "author": "Lauren Roberts",
+    "isbn": 9781665955430,
+    "fiction": true,
+    "condition": "Good",
+    "genre": "Fantasy",
+    "ageCategory": "Young Adult",
+    "bestseller": true,
+    "price": 300,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
+    "id": 502182,
+    "title": "Powerless",
+    "author": "Lauren Roberts",
+    "isbn": 9798987380406,
+    "fiction": true,
+    "condition": "Good",
+    "genre": "Fantasy",
+    "ageCategory": "Young Adult",
+    "bestseller": true,
+    "price": 250,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
+    "id": 502183,
+    "title": "The Lion Women of Tehran",
+    "author": "Marjan Kamali",
+    "isbn": 9781668036587,
+    "fiction": true,
+    "condition": "Good",
+    "genre": "Novel",
+    "ageCategory": "All",
+    "bestseller": true,
+    "price": 200,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
   },
   {
+    "id": 502184,
+    "title": "Life Impossible",
+    "author": "Matt Haig",
+    "isbn": 9781838855611,
+    "fiction": true,
+    "condition": "Good",
+    "genre": "Novel",
+    "ageCategory": "All",
+    "bestseller": false,
+    "price": 100,
+    "discount": "",
     "sold": false,
     "issued": false,
-    "active": true
+    "active": true,
+    "remarks": ""
+  },
+  {
+    "id": 502185,
+    "title": "The Republic",
+    "author": "Plato",
+    "isbn": 9780140455113,
+    "fiction": false,
+    "condition": "Good",
+    "genre": "Philosophy",
+    "ageCategory": "All",
+    "bestseller": true,
+    "price": 150,
+    "discount": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
+    "remarks": ""
+  },
+  {
+    "id": 502186,
+    "title": "A Court of Silver Flames",
+    "author": "Sarah J. Mass",
+    "isbn": 9781526633460,
+    "fiction": "",
+    "condition": "Like New",
+    "genre": "Fantasy",
+    "ageCategory": "Young Adult",
+    "bestseller": true,
+    "price": 400,
+    "discount": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
+    "remarks": ""
   }
 ]
