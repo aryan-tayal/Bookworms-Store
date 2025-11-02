@@ -4,6 +4,7 @@ import { Category, Tag, PriceButton } from "./Utils";
 import { useExtractColors } from "react-extract-colors";
 
 const BookCard = ({
+  id,
   title,
   author,
   price,
@@ -15,7 +16,7 @@ const BookCard = ({
   isbn,
 }) => {
   const coverRotation = useRef(`${Math.floor(Math.random() * 30) - 15}deg`);
-
+  const path = `./assets/images/covers/${id}`
   const [image, setImage] = useState("");
   const [cardColors, setCardColors] = useState({
     lightColor: "#dcf0d0",
@@ -61,7 +62,7 @@ const BookCard = ({
           transform: `rotate(${coverRotation.current})`,
         }}
       >
-        <img src={image} alt="Book Cover" />
+       <img src={path} onError={(e)=>{e.target.onError = null; e.target.src = image}}/>
       </div>
       <div className="BookCardContent">
         <h3>{title}</h3>
