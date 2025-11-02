@@ -73,7 +73,7 @@ const BookCard = ({
           transform: `rotate(${coverRotation.current})`,
         }}
       >
-       <img src={path} onError={(e)=>{e.target.onError = null; e.target.src = image}}/>
+       <img src={image} alt="Book Cover"/>
       </div>
       <div className="BookCardContent">
         <h3>{title}</h3>
