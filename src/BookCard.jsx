@@ -25,7 +25,7 @@ const BookCard = ({
 
   // 🔹 Main function to get book cover
   useEffect(() => {
-    const localPath = `/assets/images/covers/${id}.png`;
+    const localPath = `/covers/${id}.png`;
     const fallback = `https://covers.openlibrary.org/b/isbn/${isbn}-M.jpg`;
 
     // Try loading local image first
