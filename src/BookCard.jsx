@@ -16,7 +16,7 @@ const BookCard = ({
   isbn,
 }) => {
   const coverRotation = useRef(`${Math.floor(Math.random() * 30) - 15}deg`);
-  const path = `/assets/images/covers/${id}.png`
+  const path = `/covers/${id}.png`
   const [image, setImage] = useState("");
   const [cardColors, setCardColors] = useState({
     lightColor: "#dcf0d0",
@@ -30,17 +30,13 @@ const BookCard = ({
       }
     };
   useEffect(() => {
-      fetch(path)
-      .then((res) => {
-        if (res.ok) {
-          setImage(path);
-        } else {
-          getBookCover();
-        }
-      })
-      .catch(() => {
-       console.error('no image')
-      });
+   const img = new Image();
+  img.onload = () => setImage(path);
+  img.onerror = () => {
+    const fallback = `https://covers.openlibrary.org/b/isbn/${isbn}-M.jpg`;
+    setImage(fallback);
+  };
+  img.src = localPath;
   }, []);
 
   
@@ -73,7 +69,7 @@ const BookCard = ({
           transform: `rotate(${coverRotation.current})`,
         }}
       >
-       <img src={image} alt="Book Cover"/>
+        {img}
       </div>
       <div className="BookCardContent">
         <h3>{title}</h3>
