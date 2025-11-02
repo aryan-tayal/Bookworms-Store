@@ -16,7 +16,7 @@ const BookCard = ({
   isbn,
 }) => {
   const coverRotation = useRef(`${Math.floor(Math.random() * 30) - 15}deg`);
-  const path = `./assets/images/covers/${id}`
+  const path = `/assets/images/covers/${id}.png`
   const [image, setImage] = useState("");
   const [cardColors, setCardColors] = useState({
     lightColor: "#dcf0d0",
