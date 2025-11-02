@@ -23,6 +23,9 @@ const Home = () => {
           to pick books we LOVE LOVE LOVE, and join us read..
         </p>
       </main>
+        <div className="browseBooks">
+        <Link to="/books">Browse Books</Link>
+      </div>
       <section className="step-grid">
         <div className="step">
           <h4>
@@ -43,9 +46,7 @@ const Home = () => {
           </Link>
         </div>
       </section>
-      <div className="browseBooks">
-        <Link to="/books">Browse Books</Link>
-      </div>
+    
     </div>
   );
 };
