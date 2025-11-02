@@ -23,16 +23,27 @@ const BookCard = ({
     mainColor: "#a6d28b",
     darkColor: "#07a559",
   });
-
-  useEffect(() => {
-    const getBookCover = async () => {
+  const getBookCover = async () => {
       const image = `https://covers.openlibrary.org/b/isbn/${isbn}-M.jpg`;
       if (image) {
         setImage(image);
       }
     };
-    getBookCover();
+  useEffect(() => {
+      fetch(path)
+      .then((res) => {
+        if (res.ok) {
+          setImage(path);
+        } else {
+          getBookCover();
+        }
+      })
+      .catch(() => {
+       console.error('no image')
+      });
   }, []);
+
+  
 
   const { colors, dominantColor, darkerColor, lighterColor, loading, error } =
     useExtractColors(image, { format: "hex" });
