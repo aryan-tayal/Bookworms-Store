@@ -15,6 +15,7 @@ const BookCard = ({
   condition = "Good",
   isbn,
 }) => {
+  const colorCache = new Map();
   const [image, setImage] = useState("");
   const [cardColors, setCardColors] = useState({
     lightColor: "#dcf0d0",
@@ -26,36 +27,28 @@ const BookCard = ({
     return `${(hash % 30) - 15}deg`;
   }, [id]);
   // 🔹 Main function to get book cover
-  useEffect(() => {
-    const localPath = `/covers/${id}.png`;
-    const fallback = `https://covers.openlibrary.org/b/isbn/${isbn}-M.jpg`;
-
-    // Try loading local image first
-    const img = new Image();
-    img.onload = () => {
-      // Local image exists
-      setImage(localPath);
-    };
-    img.onerror = () => {
-      // Local image missing → use API fallback
-      setImage(fallback);
-    };
-    img.src = localPath;
-  }, [id, isbn]);
 
   // 🎨 Extract colors from image
   const { colors, dominantColor, darkerColor, lighterColor } =
     useExtractColors(image, { format: "hex" });
 
-  useEffect(() => {
-    if (colors.length > 0) {
-      setCardColors({
-        mainColor: `${dominantColor}aa`,
-        lightColor: `${lighterColor}55`,
-        darkColor: darkerColor,
-      });
-    }
-  }, [colors, dominantColor, darkerColor, lighterColor]);
+useEffect(() => {
+  if (!image || colors.length === 0) return;
+
+  if (colorCache.has(image)) {
+    setCardColors(colorCache.get(image));
+    return;
+  }
+
+  const palette = {
+    mainColor: `${dominantColor}aa`,
+    lightColor: `${lighterColor}55`,
+    darkColor: darkerColor,
+  };
+
+  colorCache.set(image, palette);
+  setCardColors(palette);
+}, [image, colors, dominantColor, lighterColor, darkerColor]);
 
   // 🖼️ Render
   return (
@@ -73,7 +66,16 @@ const BookCard = ({
           transform: `rotate(${rotation})`,
         }}
       >
-        <img src={image} alt={`${title} cover`} />
+        <img
+        src={localSrc}
+        onError={(e) => {
+          e.currentTarget.onerror = null; // prevent infinite loop
+          e.currentTarget.src = fallbackSrc;
+        }}
+        loading="lazy"
+        decoding="async"
+        alt={`${title} cover`}
+        />
       </div>
 
       <div className="BookCardContent">
