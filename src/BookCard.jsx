@@ -1,5 +1,5 @@
 import "./styles/BookCard.css";
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect, useRef, useMemo } from "react";
 import { Category, Tag, PriceButton } from "./Utils";
 import { useExtractColors } from "react-extract-colors";
 
