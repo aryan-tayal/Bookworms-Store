@@ -15,14 +15,16 @@ const BookCard = ({
   condition = "Good",
   isbn,
 }) => {
-  const coverRotation = useRef(`${Math.floor(Math.random() * 30) - 15}deg`);
   const [image, setImage] = useState("");
   const [cardColors, setCardColors] = useState({
     lightColor: "#dcf0d0",
     mainColor: "#a6d28b",
     darkColor: "#07a559",
   });
-
+  const rotation = useMemo(() => {
+    const hash = [...id].reduce((a, c) => a + c.charCodeAt(0), 0);
+    return `${(hash % 30) - 15}deg`;
+  }, [id]);
   // 🔹 Main function to get book cover
   useEffect(() => {
     const localPath = `/covers/${id}.png`;
@@ -68,7 +70,7 @@ const BookCard = ({
       <div
         className="BookCardImg"
         style={{
-          transform: `rotate(${coverRotation.current})`,
+          transform: `rotate(${rotation})`,
         }}
       >
         <img src={image} alt={`${title} cover`} />
@@ -110,4 +112,4 @@ const BookCard = ({
   );
 };
 
-export default BookCard;
+export default React.memo(BookCard);
