@@ -26,10 +26,13 @@ const fallbackSrc = `https://covers.openlibrary.org/b/isbn/${isbn}-M.jpg`;
     darkColor: "#07a559",
   });
 const rotation = useMemo(() => {
-  const str = String(id ?? "");
-  const hash = [...str].reduce((a, c) => a + c.charCodeAt(0), 0);
-  return `${(hash % 30) - 15}deg`;
-}, [id]);
+  const str = String(isbn ?? id ?? "");
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    hash = hash * 33 ^ str.charCodeAt(i);
+  }
+  return `${(Math.abs(hash) % 50) - 25}deg`;
+}, [isbn, id]);
 
   const { colors, dominantColor, darkerColor, lighterColor } =
     useExtractColors(image, { format: "hex" });
@@ -68,16 +71,20 @@ useEffect(() => {
           transform: `rotate(${rotation})`,
         }}
       >
-        <img
-        src={localSrc}
-        onError={(e) => {
-          e.currentTarget.onerror = null; // prevent infinite loop
-          e.currentTarget.src = fallbackSrc;
-        }}
-        loading="lazy"
-        decoding="async"
-        alt={`${title} cover`}
-        />
+    <img
+  src={localSrc}
+  onLoad={(e) => setImage(e.currentTarget.src)}
+  onError={(e) => {
+    e.currentTarget.onerror = null;
+    e.currentTarget.onload = (ev) =>
+      setImage(ev.currentTarget.src);
+    e.currentTarget.src = fallbackSrc;
+  }}
+  loading="lazy"
+  decoding="async"
+  alt={`${title} cover`}
+/>
+
       </div>
 
       <div className="BookCardContent">
