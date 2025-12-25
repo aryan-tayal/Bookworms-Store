@@ -3,6 +3,8 @@ import React, { useState, useEffect, useRef, useMemo } from "react";
 import { Category, Tag, PriceButton } from "./Utils";
 import { useExtractColors } from "react-extract-colors";
 
+const colorCache = new Map();
+
 const BookCard = ({
   id,
   title,
@@ -15,20 +17,20 @@ const BookCard = ({
   condition = "Good",
   isbn,
 }) => {
-  const colorCache = new Map();
+  const localSrc = `/covers/${id}.png`;
+const fallbackSrc = `https://covers.openlibrary.org/b/isbn/${isbn}-M.jpg`;
   const [image, setImage] = useState("");
   const [cardColors, setCardColors] = useState({
     lightColor: "#dcf0d0",
     mainColor: "#a6d28b",
     darkColor: "#07a559",
   });
-  const rotation = useMemo(() => {
-    const hash = [...id].reduce((a, c) => a + c.charCodeAt(0), 0);
-    return `${(hash % 30) - 15}deg`;
-  }, [id]);
-  // 🔹 Main function to get book cover
+const rotation = useMemo(() => {
+  const str = String(id ?? "");
+  const hash = [...str].reduce((a, c) => a + c.charCodeAt(0), 0);
+  return `${(hash % 30) - 15}deg`;
+}, [id]);
 
-  // 🎨 Extract colors from image
   const { colors, dominantColor, darkerColor, lighterColor } =
     useExtractColors(image, { format: "hex" });
 
