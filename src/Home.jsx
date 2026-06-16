@@ -1,9 +1,10 @@
 import "./styles/Home.css";
-import { Link } from "react-router";
+import { Link, Navigate } from "react-router";
 import { Tag } from "./Utils";
 import qr from "./assets/images/payment-qr.jpeg";
 
 const Home = () => {
+  return <Navigate to="/books" />;
   return (
     <div id="Home">
       <main>
@@ -23,7 +24,7 @@ const Home = () => {
           to pick books we LOVE LOVE LOVE, and join us read..
         </p>
       </main>
-        <div className="browseBooks">
+      <div className="browseBooks">
         <Link to="/books">Browse Books</Link>
       </div>
       <section className="step-grid">
@@ -46,7 +47,6 @@ const Home = () => {
           </Link>
         </div>
       </section>
-    
     </div>
   );
 };
