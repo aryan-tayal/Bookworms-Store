@@ -1,9 +1,111 @@
 [
   {
+    "id": 502130,
+    "title": "The Mistress of Spices",
+    "author": "Chitra Banerjee Divakaruni",
+    "isbn": 9780552996709,
+    "fiction": true,
+    "condition": "Good",
+    "genre": "Novel",
+    "ageCategory": "Adult",
+    "bestseller": true,
+    "price": 200,
+    "discount": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
+    "remarks": ""
+  },
+  {
+    "id": 502143,
+    "title": "Killing Commendatore",
+    "author": "Haruki Murakami",
+    "isbn": 9781784707330,
+    "fiction": true,
+    "condition": "Like New",
+    "genre": "Novel",
+    "ageCategory": "Adult",
+    "bestseller": true,
+    "price": 350,
+    "discount": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
+    "remarks": ""
+  },
+  {
+    "id": 502148,
+    "title": "If You Could See Me Now",
+    "author": "Cecelia Aherm",
+    "isbn": 9780007300822,
+    "fiction": true,
+    "condition": "Good",
+    "genre": "Novel",
+    "ageCategory": "Adult",
+    "bestseller": false,
+    "price": 200,
+    "discount": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
+    "remarks": ""
+  },
+  {
+    "id": 501628,
+    "title": "A Crack in the Track",
+    "author": "Thomas and Friends",
+    "isbn": 9780375912467,
+    "fiction": true,
+    "condition": "Good",
+    "genre": "",
+    "ageCategory": "Under 10",
+    "bestseller": false,
+    "price": 100,
+    "discount": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
+    "remarks": ""
+  },
+  {
+    "id": 501697,
+    "title": "Team Trouble",
+    "author": "Sophie Smiley",
+    "isbn": 9781842706848,
+    "fiction": true,
+    "condition": "Good",
+    "genre": "",
+    "ageCategory": "Above 10",
+    "bestseller": false,
+    "price": 50,
+    "discount": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
+    "remarks": ""
+  },
+  {
+    "id": 502020,
+    "title": "Rickshaw Girl",
+    "author": "Mithali Perkins",
+    "isbn": 9781580893084,
+    "fiction": true,
+    "condition": "Like New",
+    "genre": "",
+    "ageCategory": "Above 10",
+    "bestseller": true,
+    "price": 50,
+    "discount": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
+    "remarks": ""
+  },
+  {
     "id": 502127,
     "title": "Too Big to Fail",
     "author": "Andrew Ross Sorkin",
-    "isbn": 9780670021253,
+    "isbn": 9781846142383,
     "fiction": false,
     "condition": "Good",
     "genre": "",
@@ -34,27 +136,10 @@
     "remarks": ""
   },
   {
-    "id": 502130,
-    "title": "The Mistress of Spices",
-    "author": "Chitra Banerjee Divakaruni",
-    "isbn": 9780552996709,
-    "fiction": true,
-    "condition": "Good",
-    "genre": "Novel",
-    "ageCategory": "Adult",
-    "bestseller": true,
-    "price": 200,
-    "discount": "",
-    "sold": false,
-    "issued": false,
-    "active": true,
-    "remarks": ""
-  },
-  {
     "id": 502131,
     "title": "In Other Words",
     "author": "Jhumpa Lahiri",
-    "isbn": 9789386228055,
+    "isbn": 9780345810090,
     "fiction": true,
     "condition": "Good",
     "genre": "Novel",
@@ -85,7 +170,7 @@
     "remarks": ""
   },
   {
-    "id": 641924,
+    "id": 600287,
     "title": "Chicken Soup for the Indian Soul at Work.",
     "author": "Chicken Soup For The Soul",
     "isbn": 9789381626450,
@@ -122,7 +207,7 @@
     "id": 502136,
     "title": "The Legend Of Lakshmi Prasad",
     "author": "Twinkle Khanna",
-    "isbn": "",
+    "isbn": 9789386228055,
     "fiction": true,
     "condition": "Like New",
     "genre": "Novel",
@@ -173,7 +258,7 @@
     "id": 502139,
     "title": "By The Sea",
     "author": "Abdulraza Gurnah",
-    "isbn": 9780746552802,
+    "isbn": 9780747557852,
     "fiction": true,
     "condition": "Like New",
     "genre": "Novel",
@@ -238,23 +323,6 @@
     "remarks": ""
   },
   {
-    "id": 502143,
-    "title": "Killing Commendatore",
-    "author": "Haruki Murakami",
-    "isbn": 9781784707330,
-    "fiction": true,
-    "condition": "Like New",
-    "genre": "Novel",
-    "ageCategory": "Adult",
-    "bestseller": true,
-    "price": 350,
-    "discount": "",
-    "sold": false,
-    "issued": false,
-    "active": true,
-    "remarks": ""
-  },
-  {
     "id": 502144,
     "title": "In The City of Gold And Silver .",
     "author": "Kenizè Mourad",
@@ -264,23 +332,6 @@
     "genre": "Novel",
     "ageCategory": "Adult",
     "bestseller": true,
-    "price": 200,
-    "discount": "",
-    "sold": false,
-    "issued": false,
-    "active": true,
-    "remarks": ""
-  },
-  {
-    "id": 502148,
-    "title": "If You Could See Me Now",
-    "author": "Cecelia Aherm",
-    "isbn": 9780007300822,
-    "fiction": true,
-    "condition": "Good",
-    "genre": "Novel",
-    "ageCategory": "Adult",
-    "bestseller": false,
     "price": 200,
     "discount": "",
     "sold": false,
@@ -469,23 +520,6 @@
     "ageCategory": "Under 10",
     "bestseller": false,
     "price": 20,
-    "discount": "",
-    "sold": false,
-    "issued": false,
-    "active": true,
-    "remarks": ""
-  },
-  {
-    "id": 501628,
-    "title": "A Crack in the Track",
-    "author": "Thomas and Friends",
-    "isbn": 9780375912467,
-    "fiction": true,
-    "condition": "Good",
-    "genre": "",
-    "ageCategory": "Under 10",
-    "bestseller": false,
-    "price": 100,
     "discount": "",
     "sold": false,
     "issued": false,
@@ -850,7 +884,7 @@
     "remarks": ""
   },
   {
-    "id": 5000502,
+    "id": 500502,
     "title": "Fish Friends Three",
     "author": "Karadi Tales",
     "isbn": 9788181900548,
@@ -860,23 +894,6 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 30,
-    "discount": "",
-    "sold": false,
-    "issued": false,
-    "active": true,
-    "remarks": ""
-  },
-  {
-    "id": 501697,
-    "title": "Team Trouble",
-    "author": "Sophie Smiley",
-    "isbn": 9781842706848,
-    "fiction": true,
-    "condition": "Good",
-    "genre": "",
-    "ageCategory": "Above 10",
-    "bestseller": false,
-    "price": 50,
     "discount": "",
     "sold": false,
     "issued": false,
@@ -911,23 +928,6 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 20,
-    "discount": "",
-    "sold": false,
-    "issued": false,
-    "active": true,
-    "remarks": ""
-  },
-  {
-    "id": 502020,
-    "title": "Rickshaw Girl",
-    "author": "Mithali Perkins",
-    "isbn": 9781580893084,
-    "fiction": true,
-    "condition": "Like New",
-    "genre": "",
-    "ageCategory": "Above 10",
-    "bestseller": true,
-    "price": 50,
     "discount": "",
     "sold": false,
     "issued": false,
@@ -1020,7 +1020,7 @@
     "remarks": ""
   },
   {
-    "id": 5001137,
+    "id": 501137,
     "title": "Jake’s Cash Quest",
     "author": "Ken Spillman",
     "isbn": 9789351039860,
@@ -1156,7 +1156,7 @@
     "remarks": ""
   },
   {
-    "id": 5000429,
+    "id": 500429,
     "title": "Stories of Tenali Raman",
     "author": "C.L.L. Jaya Prada",
     "isbn": 9788170119029,
@@ -1234,23 +1234,6 @@
     "ageCategory": "Above 10",
     "bestseller": false,
     "price": 50,
-    "discount": "",
-    "sold": false,
-    "issued": false,
-    "active": true,
-    "remarks": ""
-  },
-  {
-    "id": 501522,
-    "title": "Tell me How,Why,When and Where (Part3)",
-    "author": "Sneha VIJ",
-    "isbn": "",
-    "fiction": false,
-    "condition": "Good",
-    "genre": "Knowledge",
-    "ageCategory": "All",
-    "bestseller": false,
-    "price": 100,
     "discount": "",
     "sold": false,
     "issued": false,
@@ -1686,7 +1669,7 @@
     "id": 502054,
     "title": "Geography Encyclopedia",
     "author": "Om Kids",
-    "isbn": 9789353762841,
+    "isbn": 9780794501082,
     "fiction": false,
     "condition": "Like New",
     "genre": "Knowledge",
@@ -1972,7 +1955,7 @@
     "remarks": ""
   },
   {
-    "id": 644061,
+    "id": 600201,
     "title": "Facts at your fingertips",
     "author": "Readers Digest Kids",
     "isbn": 9780276424984,
@@ -2006,7 +1989,7 @@
     "remarks": ""
   },
   {
-    "id": 618181,
+    "id": 600268,
     "title": "1000 Wonders of Nature",
     "author": "Readers Digest",
     "isbn": 9780276426148,
@@ -2108,7 +2091,7 @@
     "remarks": ""
   },
   {
-    "id": 673027,
+    "id": 600139,
     "title": "M.K.Gandhi : An Autobiography",
     "author": "M.K.Gandhi",
     "isbn": 9788172343118,
@@ -2125,7 +2108,7 @@
     "remarks": ""
   },
   {
-    "id": 642098,
+    "id": 600207,
     "title": "The Wit and Wisdom of Abraham Lincoln",
     "author": "Alex Ayres",
     "isbn": 9780452010895,
@@ -2142,7 +2125,7 @@
     "remarks": ""
   },
   {
-    "id": 620692,
+    "id": 600263,
     "title": "A short history of soviet Society",
     "author": "Y.Polyakov",
     "isbn": 9780898757613,
@@ -2159,7 +2142,7 @@
     "remarks": ""
   },
   {
-    "id": 621435,
+    "id": 600262,
     "title": "The Mahatma and the Millionaire",
     "author": "M.M.Juneja",
     "isbn": 9788187496984,
@@ -2176,7 +2159,7 @@
     "remarks": ""
   },
   {
-    "id": 654492,
+    "id": 600179,
     "title": "India as seen by Babur",
     "author": "R.Nath",
     "isbn": 9788175330009,
@@ -2193,7 +2176,7 @@
     "remarks": ""
   },
   {
-    "id": 633764,
+    "id": 600229,
     "title": "For One More Day",
     "author": "Mitch Albom",
     "isbn": 9780753178157,
@@ -2244,7 +2227,7 @@
     "remarks": ""
   },
   {
-    "id": 694492,
+    "id": 600012,
     "title": "Memoirs of a Geisha",
     "author": "Arthur Golden",
     "isbn": 9780099282853,
@@ -2261,7 +2244,7 @@
     "remarks": ""
   },
   {
-    "id": 627788,
+    "id": 600243,
     "title": "Business Stripped Bare",
     "author": "Richard Branson",
     "isbn": 9780753519691,
@@ -2278,7 +2261,7 @@
     "remarks": ""
   },
   {
-    "id": 698002,
+    "id": 600007,
     "title": "Stay Hungry, Stay Foolish",
     "author": "Rashmi Bansal",
     "isbn": 9789381626719,
@@ -2295,7 +2278,7 @@
     "remarks": ""
   },
   {
-    "id": 648666,
+    "id": 600195,
     "title": "Super Freakonomics",
     "author": "Steven D Levitt",
     "isbn": 9780062312877,
@@ -2312,7 +2295,7 @@
     "remarks": ""
   },
   {
-    "id": 635391,
+    "id": 600224,
     "title": "Indian Summer : The Secret History of the End of an Empire",
     "author": "Alex von Tunzelmall",
     "isbn": 9780312428112,
@@ -2329,7 +2312,7 @@
     "remarks": ""
   },
   {
-    "id": 642823,
+    "id": 600202,
     "title": "Indian Summer : The Secret History of the End of an Empire",
     "author": "Alex von Tunzelmall",
     "isbn": 9780312428112,
@@ -2346,7 +2329,7 @@
     "remarks": ""
   },
   {
-    "id": 629062,
+    "id": 600240,
     "title": "Bhagavad Gita",
     "author": "Signet Classics",
     "isbn": 9780451528445,
@@ -2363,7 +2346,7 @@
     "remarks": ""
   },
   {
-    "id": 660789,
+    "id": 600168,
     "title": "Zen and the Art of Motorcycle maintenance",
     "author": "Robert M Pirseg",
     "isbn": 9781593979829,
@@ -2397,7 +2380,7 @@
     "remarks": ""
   },
   {
-    "id": 689965,
+    "id": 600110,
     "title": "Broadcasting Happiness : The Science of Igniting and Sustaining Positive Change",
     "author": "Michelle Gielan",
     "isbn": 9781941631300,
@@ -2414,7 +2397,7 @@
     "remarks": ""
   },
   {
-    "id": 642730,
+    "id": 600203,
     "title": "Hot Seat : Hard Won Lessons in Challenging Times",
     "author": "Jeff Immelt",
     "isbn": 9781529358728,
@@ -2431,7 +2414,7 @@
     "remarks": ""
   },
   {
-    "id": 662338,
+    "id": 600163,
     "title": "The Dalai Lama : An Open Heart",
     "author": "Nicholas Breeland",
     "isbn": 9780340794319,
@@ -2448,7 +2431,7 @@
     "remarks": ""
   },
   {
-    "id": 624203,
+    "id": 600252,
     "title": "The Old Man and the Sea",
     "author": "Earnest Hemingway",
     "isbn": 9780099908401,
@@ -2465,7 +2448,7 @@
     "remarks": ""
   },
   {
-    "id": 627193,
+    "id": 600244,
     "title": "Chaos Monkeys",
     "author": "Antonio Martinez",
     "isbn": 9780062458209,
@@ -2482,7 +2465,7 @@
     "remarks": ""
   },
   {
-    "id": 612379,
+    "id": 600283,
     "title": "Mafia Queens of Mumbai",
     "author": "S. Hussain Zaidi",
     "isbn": 9789380283777,
@@ -2499,7 +2482,7 @@
     "remarks": ""
   },
   {
-    "id": 629918,
+    "id": 600237,
     "title": "The Power of Now : A Guide to Spiritual Enlightenment",
     "author": "Eckhart Tolle",
     "isbn": 9781577314806,
@@ -2550,7 +2533,7 @@
     "remarks": ""
   },
   {
-    "id": 650176,
+    "id": 600192,
     "title": "Empire of the Moghul : Raiders from the North",
     "author": "Alex Rutherford",
     "isbn": 9781472207180,
@@ -2567,7 +2550,7 @@
     "remarks": ""
   },
   {
-    "id": 657090,
+    "id": 600178,
     "title": "Widening The Circle of Love",
     "author": "Dalai Lama",
     "isbn": 9781846040283,
@@ -2601,7 +2584,7 @@
     "remarks": ""
   },
   {
-    "id": 689596,
+    "id": 600112,
     "title": "The Girl Who Played With Fire",
     "author": "Stieg Larsson",
     "isbn": 9780143170136,
@@ -2618,7 +2601,7 @@
     "remarks": ""
   },
   {
-    "id": 628945,
+    "id": 600241,
     "title": "The Girl Who Kicked The Hornet’s Nest",
     "author": "Stieg Larsson",
     "isbn": 9780307269997,
@@ -2635,7 +2618,7 @@
     "remarks": ""
   },
   {
-    "id": 689292,
+    "id": 600114,
     "title": "Harvesting the Heart",
     "author": "Jodi Picoult",
     "isbn": 9780140230277,
@@ -2652,7 +2635,7 @@
     "remarks": ""
   },
   {
-    "id": 669619,
+    "id": 600149,
     "title": "Chasing Fire",
     "author": "Nora Roberts",
     "isbn": 9780515150636,
@@ -2669,7 +2652,7 @@
     "remarks": ""
   },
   {
-    "id": 640270,
+    "id": 600211,
     "title": "The Girl Who Kicked The Hornet’s Nest",
     "author": "Stieg Larsson",
     "isbn": 9780307269997,
@@ -2686,7 +2669,7 @@
     "remarks": ""
   },
   {
-    "id": 625135,
+    "id": 600249,
     "title": "The Kingdom of Copper",
     "author": "S.A. Chakraborty",
     "isbn": 9780062678133,
@@ -2703,7 +2686,7 @@
     "remarks": ""
   },
   {
-    "id": 616399,
+    "id": 600275,
     "title": "The City of Brass",
     "author": "S.A. Chakraborty",
     "isbn": 9780062678102,
@@ -2720,7 +2703,7 @@
     "remarks": ""
   },
   {
-    "id": 639656,
+    "id": 600212,
     "title": "The Empire of Gold",
     "author": "S.A. Chakraborty",
     "isbn": 9780062678164,
@@ -2737,7 +2720,7 @@
     "remarks": ""
   },
   {
-    "id": 616213,
+    "id": 600276,
     "title": "The Kingdom of Copper",
     "author": "Stieg Larsson",
     "isbn": 9780062678133,
@@ -2771,7 +2754,7 @@
     "remarks": ""
   },
   {
-    "id": 617463,
+    "id": 600272,
     "title": "And Thereby Hangs a Tale",
     "author": "Jeffery Archer",
     "isbn": 9780230531451,
@@ -2788,7 +2771,7 @@
     "remarks": ""
   },
   {
-    "id": 639647,
+    "id": 600213,
     "title": "A Legacy of Spies",
     "author": "John leCarre",
     "isbn": 9780735225138,
@@ -2805,7 +2788,7 @@
     "remarks": ""
   },
   {
-    "id": 681797,
+    "id": 600126,
     "title": "Chaos",
     "author": "Patricia Cornwell",
     "isbn": 9780749386061,
@@ -2822,7 +2805,7 @@
     "remarks": ""
   },
   {
-    "id": 623630,
+    "id": 600254,
     "title": "The Lost Flamingoes of Bombay",
     "author": "Siddharth Dhanvant",
     "isbn": 9780312593490,
@@ -2839,7 +2822,7 @@
     "remarks": ""
   },
   {
-    "id": 679797,
+    "id": 600129,
     "title": "Total Control",
     "author": "David Baldacci",
     "isbn": 9780446604840,
@@ -2856,7 +2839,7 @@
     "remarks": ""
   },
   {
-    "id": 687068,
+    "id": 600118,
     "title": "Deliver us from Evil",
     "author": "David Baldacci",
     "isbn": 9780446564076,
@@ -2873,7 +2856,7 @@
     "remarks": ""
   },
   {
-    "id": 640999,
+    "id": 600210,
     "title": "She Swiped Right Into My Heart",
     "author": "Sudeep Nagarkar",
     "isbn": 9788184007459,
@@ -2890,7 +2873,7 @@
     "remarks": ""
   },
   {
-    "id": 671611,
+    "id": 600142,
     "title": "Half Girlfriend",
     "author": "Chetan Bhagat",
     "isbn": 9788129135728,
@@ -2907,7 +2890,7 @@
     "remarks": ""
   },
   {
-    "id": 668770,
+    "id": 600151,
     "title": "Eighth Confessions",
     "author": "James Patterson",
     "isbn": 9780099576181,
@@ -2924,7 +2907,7 @@
     "remarks": ""
   },
   {
-    "id": 673500,
+    "id": 600137,
     "title": "Private Games",
     "author": "James Patterson",
     "isbn": 9781455513024,
@@ -2941,7 +2924,7 @@
     "remarks": ""
   },
   {
-    "id": 688914,
+    "id": 600115,
     "title": "Murder House",
     "author": "James Patterson",
     "isbn": 9780099594888,
@@ -2958,7 +2941,7 @@
     "remarks": ""
   },
   {
-    "id": 682880,
+    "id": 600125,
     "title": "The Devil Colony",
     "author": "James Rollins",
     "isbn": 9780061784781,
@@ -2975,7 +2958,7 @@
     "remarks": ""
   },
   {
-    "id": 698237,
+    "id": 600005,
     "title": "Killshot",
     "author": "Vince Flynn",
     "isbn": 9781471148903,
@@ -2992,7 +2975,7 @@
     "remarks": ""
   },
   {
-    "id": 681787,
+    "id": 600127,
     "title": "Doors Open",
     "author": "Ian Ranking",
     "isbn": 9781409102014,
@@ -3009,7 +2992,7 @@
     "remarks": ""
   },
   {
-    "id": 639255,
+    "id": 600215,
     "title": "Why Men Don’t Listen and Woman Can’t Read Maps",
     "author": "Allan Barbara Pease",
     "isbn": 9788184980301,
@@ -3026,7 +3009,7 @@
     "remarks": ""
   },
   {
-    "id": 677551,
+    "id": 600131,
     "title": "On Writing Well",
     "author": "William Zinsser",
     "isbn": 9780063026605,
@@ -3043,7 +3026,7 @@
     "remarks": ""
   },
   {
-    "id": 628279,
+    "id": 600242,
     "title": "Glimmer of Hope",
     "author": "March For Our Lives",
     "isbn": 9781984836090,
@@ -3060,7 +3043,7 @@
     "remarks": ""
   },
   {
-    "id": 690153,
+    "id": 600054,
     "title": "I Am Malala",
     "author": "Malala Yousafzai",
     "isbn": 9780316322409,
@@ -3077,7 +3060,7 @@
     "remarks": ""
   },
   {
-    "id": 623310,
+    "id": 600256,
     "title": "Dare To Lead",
     "author": "Brene Brown",
     "isbn": 9781785042140,
@@ -3094,7 +3077,7 @@
     "remarks": ""
   },
   {
-    "id": 615228,
+    "id": 600278,
     "title": "Aarushi",
     "author": "Avirook Sen",
     "isbn": 9780143421214,
@@ -3111,7 +3094,7 @@
     "remarks": ""
   },
   {
-    "id": 699159,
+    "id": 600002,
     "title": "Bradman’s Best",
     "author": "Roland Perry",
     "isbn": 9780593049013,
@@ -3128,7 +3111,7 @@
     "remarks": ""
   },
   {
-    "id": 699561,
+    "id": 600001,
     "title": "Think Like a Rocket Scientist",
     "author": "Ozan Varol",
     "isbn": 9781541762596,
@@ -3145,7 +3128,7 @@
     "remarks": ""
   },
   {
-    "id": 648129,
+    "id": 600197,
     "title": "Steve Jobs",
     "author": "Walter Isaacsom",
     "isbn": 9781451648539,
@@ -3162,7 +3145,7 @@
     "remarks": ""
   },
   {
-    "id": 641253,
+    "id": 600208,
     "title": "Blasphemy",
     "author": "Douglas Preston",
     "isbn": 9780765349668,
@@ -3179,7 +3162,7 @@
     "remarks": ""
   },
   {
-    "id": 689428,
+    "id": 600113,
     "title": "The Mountains Sing",
     "author": "Nguyen Phan Que Mai",
     "isbn": 9780861541331,
@@ -3230,7 +3213,7 @@
     "remarks": ""
   },
   {
-    "id": 642385,
+    "id": 600205,
     "title": "Big Nate : Genius Mode (Comic)",
     "author": "Lincoln Peirce",
     "isbn": 9780007515646,
@@ -3247,7 +3230,7 @@
     "remarks": ""
   },
   {
-    "id": 624123,
+    "id": 600253,
     "title": "The 39 Clues : The Medusa Plot",
     "author": "Gordon Korman",
     "isbn": 9780545298391,
@@ -3332,7 +3315,7 @@
     "remarks": ""
   },
   {
-    "id": 637313,
+    "id": 600220,
     "title": "Skin and Other Stories",
     "author": "Roald Dahl",
     "isbn": 9780141305530,
@@ -3366,7 +3349,7 @@
     "remarks": ""
   },
   {
-    "id": 689860,
+    "id": 600111,
     "title": "Esio Trot",
     "author": "Roald Dahl",
     "isbn": 9780140360998,
@@ -3383,7 +3366,7 @@
     "remarks": ""
   },
   {
-    "id": 648797,
+    "id": 600193,
     "title": "Birds From My Window",
     "author": "Ranjit Lal",
     "isbn": 9788184776690,
@@ -3638,7 +3621,7 @@
     "remarks": ""
   },
   {
-    "id": 688852,
+    "id": 600116,
     "title": "Black Beauty",
     "author": "Anna Sewell",
     "isbn": 9781503251281,
@@ -3876,7 +3859,7 @@
     "remarks": ""
   },
   {
-    "id": 677523,
+    "id": 600132,
     "title": "The Famous Five : Five go to Demon’s Rock",
     "author": "Enid Blyton",
     "isbn": 9780340104330,
@@ -3893,7 +3876,7 @@
     "remarks": ""
   },
   {
-    "id": 650488,
+    "id": 600191,
     "title": "The Famous Five : Five go to Billycock Hill",
     "author": "Enid Blyton",
     "isbn": 9780340104262,
@@ -3910,7 +3893,7 @@
     "remarks": ""
   },
   {
-    "id": 676695,
+    "id": 600134,
     "title": "The Famous Five : Five go off in a Caravan",
     "author": "Enid Blyton",
     "isbn": 9780340040010,
@@ -3995,16 +3978,16 @@
     "remarks": ""
   },
   {
-    "id": 692033,
+    "id": 600017,
     "title": "The Famous Five : Five on Finniston Farm",
     "author": "Enid Blyton",
     "isbn": 9780340104316,
-    "fiction": "",
-    "condition": "",
-    "genre": "",
-    "ageCategory": "",
-    "bestseller": "",
-    "price": "",
+    "fiction": true,
+    "condition": "Good",
+    "genre": "Fiction",
+    "ageCategory": "All",
+    "bestseller": false,
+    "price": 50,
     "discount": "",
     "sold": false,
     "issued": false,
@@ -4233,7 +4216,7 @@
     "remarks": ""
   },
   {
-    "id": 623151,
+    "id": 600257,
     "title": "Nancy Drew : The Chocolate Covered Contest",
     "author": "Carolyn Keene",
     "isbn": 9780671034436,
@@ -4250,7 +4233,7 @@
     "remarks": ""
   },
   {
-    "id": 635470,
+    "id": 600222,
     "title": "Nancy Drew : En Garde",
     "author": "Carolyn Keene",
     "isbn": 9781416906032,
@@ -4267,7 +4250,7 @@
     "remarks": ""
   },
   {
-    "id": 614350,
+    "id": 600279,
     "title": "Nancy Drew : Dangerous Plays",
     "author": "Carolyn Keene",
     "isbn": 9781416906056,
@@ -4301,7 +4284,7 @@
     "remarks": ""
   },
   {
-    "id": 637973,
+    "id": 600217,
     "title": "Nancy Drew : The Sky Phantom",
     "author": "Carolyn Keene",
     "isbn": 9780448095530,
@@ -4318,7 +4301,7 @@
     "remarks": ""
   },
   {
-    "id": 698090,
+    "id": 600006,
     "title": "Nancy Drew : The Secret of the Golden Pavilion",
     "author": "Carolyn Keene",
     "isbn": 9780448095363,
@@ -4335,7 +4318,7 @@
     "remarks": ""
   },
   {
-    "id": 630795,
+    "id": 600235,
     "title": "Nancy Drew : The Quest of the Missing Map",
     "author": "Carolyn Keene",
     "isbn": 9780448095196,
@@ -4352,7 +4335,7 @@
     "remarks": ""
   },
   {
-    "id": 674584,
+    "id": 600136,
     "title": "Nancy Drew : The Scarlet Macaw Scandal",
     "author": "Carolyn Keene",
     "isbn": 9781847381064,
@@ -4369,7 +4352,7 @@
     "remarks": ""
   },
   {
-    "id": 690061,
+    "id": 600089,
     "title": "Nancy Drew : The Scarlet Macaw Scandal",
     "author": "Carolyn Keene",
     "isbn": 9781847381064,
@@ -4386,7 +4369,7 @@
     "remarks": ""
   },
   {
-    "id": 626472,
+    "id": 600246,
     "title": "Nancy Drew : The Quest of the Missing Map",
     "author": "Carolyn Keene",
     "isbn": 9780448095196,
@@ -4403,7 +4386,7 @@
     "remarks": ""
   },
   {
-    "id": 669742,
+    "id": 600148,
     "title": "Nancy Drew : A Taste of Danger",
     "author": "Carolyn Keene",
     "isbn": 9780689861543,
@@ -4420,7 +4403,7 @@
     "remarks": ""
   },
   {
-    "id": 690062,
+    "id": 600088,
     "title": "Nancy Drew : Pit of Vipers",
     "author": "Carolyn Keene",
     "isbn": 9781416911807,
@@ -4437,7 +4420,7 @@
     "remarks": ""
   },
   {
-    "id": 690067,
+    "id": 600083,
     "title": "Nancy Drew : Mystery of Malachite Mansion",
     "author": "Carolyn Keene",
     "isbn": "",
@@ -4454,7 +4437,7 @@
     "remarks": ""
   },
   {
-    "id": 690066,
+    "id": 600084,
     "title": "Nancy Drew : Perfect Cover",
     "author": "Carolyn Keene",
     "isbn": "",
@@ -4471,7 +4454,7 @@
     "remarks": ""
   },
   {
-    "id": 690065,
+    "id": 600085,
     "title": "Nancy Drew : California Schemin'",
     "author": "Carolyn Keene",
     "isbn": "",
@@ -4488,7 +4471,7 @@
     "remarks": ""
   },
   {
-    "id": 690064,
+    "id": 600086,
     "title": "Nancy Drew : Riverboat Roullete",
     "author": "Carolyn Keene",
     "isbn": "",
@@ -4505,7 +4488,7 @@
     "remarks": ""
   },
   {
-    "id": 690063,
+    "id": 600087,
     "title": "Nancy Drew : Mardi Gras Masquerade",
     "author": "Carolyn Keene",
     "isbn": "",
@@ -4522,7 +4505,7 @@
     "remarks": ""
   },
   {
-    "id": 648680,
+    "id": 600194,
     "title": "Nancy Drew : Pit of Vipers",
     "author": "Carolyn Keene",
     "isbn": 9781416911807,
@@ -4607,7 +4590,7 @@
     "remarks": ""
   },
   {
-    "id": 691105,
+    "id": 600021,
     "title": "The Mystery of the Blue Train",
     "author": "Agatha Christie",
     "isbn": 9780007282609,
@@ -4624,7 +4607,7 @@
     "remarks": ""
   },
   {
-    "id": 691106,
+    "id": 600020,
     "title": "Crooked House",
     "author": "Agatha Christie",
     "isbn": 9780008196349,
@@ -4709,7 +4692,7 @@
     "remarks": ""
   },
   {
-    "id": 617849,
+    "id": 600270,
     "title": "Claudine at St. Clare’s",
     "author": "Enid Blyton",
     "isbn": 9781405219839,
@@ -4760,7 +4743,7 @@
     "remarks": ""
   },
   {
-    "id": 630409,
+    "id": 600236,
     "title": "The Secret Island",
     "author": "Enid Blyton",
     "isbn": 9780006904434,
@@ -5066,7 +5049,7 @@
     "remarks": ""
   },
   {
-    "id": 651457,
+    "id": 600186,
     "title": "Because of Mr.Terrupt",
     "author": "Rob Buyea",
     "isbn": 9780375858246,
@@ -5219,7 +5202,7 @@
     "remarks": ""
   },
   {
-    "id": 618722,
+    "id": 600267,
     "title": "Bookworms and Reado",
     "author": "Bookworms",
     "isbn": "",
@@ -5236,7 +5219,7 @@
     "remarks": ""
   },
   {
-    "id": 652870,
+    "id": 600182,
     "title": "Bookworms and Reado",
     "author": "Bookworms",
     "isbn": "",
@@ -5253,7 +5236,7 @@
     "remarks": ""
   },
   {
-    "id": 621590,
+    "id": 600260,
     "title": "Bookworms and Reado",
     "author": "Bookworms",
     "isbn": "",
@@ -5355,7 +5338,7 @@
     "remarks": ""
   },
   {
-    "id": 648449,
+    "id": 600196,
     "title": "The Rents : Lizzie McGuire",
     "author": "Disney",
     "isbn": 9780786846818,
@@ -5953,10 +5936,10 @@
     "id": 502002,
     "title": "Liar & Spy",
     "author": "Rebecca Stead",
-    "isbn": 9780375850875,
+    "isbn": 9780385737432,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Fiction",
     "ageCategory": "Young Adult",
     "bestseller": false,
     "price": 100,
@@ -5974,7 +5957,7 @@
     "fiction": true,
     "condition": "Good",
     "genre": "Classics",
-    "ageCategory": "",
+    "ageCategory": "Under 10",
     "bestseller": false,
     "price": 50,
     "discount": "",
@@ -6007,7 +5990,7 @@
     "isbn": 9788592783808,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Fiction",
     "ageCategory": "All",
     "bestseller": false,
     "price": 100,
@@ -6018,7 +6001,7 @@
     "remarks": ""
   },
   {
-    "id": 654317,
+    "id": 600180,
     "title": "Jack Reacher : Make Me",
     "author": "Lee Child",
     "isbn": 9780593073896,
@@ -6035,7 +6018,7 @@
     "remarks": ""
   },
   {
-    "id": 639558,
+    "id": 600214,
     "title": "Jack Reacher : Personal",
     "author": "Lee Child",
     "isbn": 9780857502827,
@@ -6052,7 +6035,7 @@
     "remarks": ""
   },
   {
-    "id": 648109,
+    "id": 600198,
     "title": "Jack Reacher : Past Tense",
     "author": "Lee Child",
     "isbn": 9780593078198,
@@ -6069,7 +6052,7 @@
     "remarks": ""
   },
   {
-    "id": 666586,
+    "id": 600155,
     "title": "Jack Reacher : Night School",
     "author": "Lee Child",
     "isbn": 9781444834970,
@@ -6086,7 +6069,7 @@
     "remarks": ""
   },
   {
-    "id": 662125,
+    "id": 600165,
     "title": "Jack Reacher : The Hard Way",
     "author": "Lee Child",
     "isbn": 9783442372096,
@@ -6103,7 +6086,7 @@
     "remarks": ""
   },
   {
-    "id": 698872,
+    "id": 600004,
     "title": "Jack Reacher : Bad Luck and Trouble",
     "author": "Lee Child",
     "isbn": 9780440243663,
@@ -6120,7 +6103,7 @@
     "remarks": ""
   },
   {
-    "id": 661078,
+    "id": 600167,
     "title": "Single and Single",
     "author": "John leCarre",
     "isbn": 9780340738979,
@@ -6137,7 +6120,7 @@
     "remarks": ""
   },
   {
-    "id": 692435,
+    "id": 600016,
     "title": "Inferno",
     "author": "Dan Brown",
     "isbn": 9788481094183,
@@ -6154,7 +6137,7 @@
     "remarks": ""
   },
   {
-    "id": 657295,
+    "id": 600177,
     "title": "Digital Fortress",
     "author": "Dan Brown",
     "isbn": 9780312180874,
@@ -6171,7 +6154,7 @@
     "remarks": ""
   },
   {
-    "id": 671104,
+    "id": 600143,
     "title": "Deception Point",
     "author": "Dan Brown",
     "isbn": 9780671027384,
@@ -6188,7 +6171,7 @@
     "remarks": ""
   },
   {
-    "id": 623348,
+    "id": 600255,
     "title": "The Lost Symbol",
     "author": "Dan Brown",
     "isbn": 9780307950680,
@@ -6205,7 +6188,7 @@
     "remarks": ""
   },
   {
-    "id": 624606,
+    "id": 600251,
     "title": "The Lost Symbol",
     "author": "Dan Brown",
     "isbn": 9780307950680,
@@ -6222,7 +6205,7 @@
     "remarks": ""
   },
   {
-    "id": 683767,
+    "id": 600124,
     "title": "Origin",
     "author": "Dan Brown",
     "isbn": 9780385514231,
@@ -6239,7 +6222,7 @@
     "remarks": ""
   },
   {
-    "id": 626053,
+    "id": 600247,
     "title": "Princess Sultana’s Daughters",
     "author": "Jean Sasson",
     "isbn": 9780307274229,
@@ -6256,7 +6239,7 @@
     "remarks": ""
   },
   {
-    "id": 638422,
+    "id": 600216,
     "title": "Love in a Torn Land",
     "author": "Jean Sasson",
     "isbn": 9780553818147,
@@ -6273,7 +6256,7 @@
     "remarks": ""
   },
   {
-    "id": 663790,
+    "id": 600159,
     "title": "Unaccustomed Earth",
     "author": "Jhumpa Lahiri",
     "isbn": 9788184000603,
@@ -6290,7 +6273,7 @@
     "remarks": ""
   },
   {
-    "id": 677516,
+    "id": 600133,
     "title": "Tomb of Sand",
     "author": "Geetanjali Shree",
     "isbn": 9780063299405,
@@ -6307,7 +6290,7 @@
     "remarks": ""
   },
   {
-    "id": 673471,
+    "id": 600138,
     "title": "Running With Scissors",
     "author": "Augusten Burroughs",
     "isbn": 9780312283704,
@@ -6324,7 +6307,7 @@
     "remarks": ""
   },
   {
-    "id": 665387,
+    "id": 600158,
     "title": "The Pearl that Broke It’s Shell",
     "author": "Nadia Hashmi",
     "isbn": 9780062244765,
@@ -6341,7 +6324,7 @@
     "remarks": ""
   },
   {
-    "id": 686752,
+    "id": 600119,
     "title": "21 New Beginnings",
     "author": "Viveik Pandit",
     "isbn": 9788192609102,
@@ -6375,7 +6358,7 @@
     "remarks": ""
   },
   {
-    "id": 694407,
+    "id": 600013,
     "title": "The Winner Stands Alone",
     "author": "Paulo Coelho",
     "isbn": 9780007318681,
@@ -6392,7 +6375,7 @@
     "remarks": ""
   },
   {
-    "id": 634771,
+    "id": 600226,
     "title": "After You",
     "author": "Jojo Moyes",
     "isbn": 9781405926751,
@@ -6409,7 +6392,7 @@
     "remarks": ""
   },
   {
-    "id": 617646,
+    "id": 600271,
     "title": "Still Me",
     "author": "Jojo Moyes",
     "isbn": 9780718183196,
@@ -6426,7 +6409,7 @@
     "remarks": ""
   },
   {
-    "id": 633908,
+    "id": 600227,
     "title": "The Other Half Lives",
     "author": "Sophie Hannah",
     "isbn": 9783988288257,
@@ -6443,7 +6426,7 @@
     "remarks": ""
   },
   {
-    "id": 665399,
+    "id": 600157,
     "title": "The Point of Rescue",
     "author": "Sophie Hannah",
     "isbn": 9780143116301,
@@ -6460,7 +6443,7 @@
     "remarks": ""
   },
   {
-    "id": 685606,
+    "id": 600120,
     "title": "Reading Lolita in Tehran",
     "author": "Azar Nafisi",
     "isbn": 9780812971064,
@@ -6477,7 +6460,7 @@
     "remarks": ""
   },
   {
-    "id": 669294,
+    "id": 600150,
     "title": "An American Marriage",
     "author": "Tayari Jones",
     "isbn": 9781786075192,
@@ -6494,7 +6477,7 @@
     "remarks": ""
   },
   {
-    "id": 661499,
+    "id": 600166,
     "title": "An American Marriage",
     "author": "Tayari Jones",
     "isbn": 9788580419467,
@@ -6511,7 +6494,7 @@
     "remarks": ""
   },
   {
-    "id": 670728,
+    "id": 600145,
     "title": "Victory City",
     "author": "Salman Rushdie",
     "isbn": 9781787333444,
@@ -6528,7 +6511,7 @@
     "remarks": ""
   },
   {
-    "id": 657688,
+    "id": 600174,
     "title": "The Mistress of Spices",
     "author": "Chitra Banerjee Divakaruni",
     "isbn": 9780552996709,
@@ -6545,7 +6528,7 @@
     "remarks": ""
   },
   {
-    "id": 662288,
+    "id": 600164,
     "title": "Sister of My Heart",
     "author": "Chitra Banerjee Divakaruni",
     "isbn": 9780385489515,
@@ -6562,7 +6545,7 @@
     "remarks": ""
   },
   {
-    "id": 632877,
+    "id": 600233,
     "title": "The Kabul Beauty School",
     "author": "Deborah Rodriguez",
     "isbn": 9780751555769,
@@ -6579,7 +6562,7 @@
     "remarks": ""
   },
   {
-    "id": 651118,
+    "id": 600187,
     "title": "And the Mountains Echoed",
     "author": "Khalid Hosseini",
     "isbn": 9781408842454,
@@ -6596,7 +6579,7 @@
     "remarks": ""
   },
   {
-    "id": 670439,
+    "id": 600146,
     "title": "And the Mountains Echoed",
     "author": "Khalid Hosseini",
     "isbn": 9781408842454,
@@ -6613,7 +6596,7 @@
     "remarks": ""
   },
   {
-    "id": 610663,
+    "id": 600285,
     "title": "And the Mountains Echoed",
     "author": "Khalid Hosseini",
     "isbn": 9781408842454,
@@ -6630,7 +6613,7 @@
     "remarks": ""
   },
   {
-    "id": 637553,
+    "id": 600218,
     "title": "India Unboxed",
     "author": "Safir Anand",
     "isbn": 9789353769819,
@@ -6647,7 +6630,7 @@
     "remarks": ""
   },
   {
-    "id": 617962,
+    "id": 600269,
     "title": "Chanakya’s Chant",
     "author": "Ashwin Sanghi",
     "isbn": 9789380658674,
@@ -6664,13 +6647,13 @@
     "remarks": ""
   },
   {
-    "id": 684043,
+    "id": 600123,
     "title": "I Know This Much is True",
     "author": "Wally Lamb",
     "isbn": 9780060987565,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Historical Fiction",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 250,
@@ -6681,13 +6664,13 @@
     "remarks": ""
   },
   {
-    "id": 635925,
+    "id": 600221,
     "title": "Middlesex",
     "author": "Jeffrey Eugenides",
     "isbn": 9780007528646,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Novel",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
@@ -6698,7 +6681,7 @@
     "remarks": ""
   },
   {
-    "id": 642261,
+    "id": 600206,
     "title": "Ford County Series",
     "author": "John Grisham",
     "isbn": 9780553386813,
@@ -6715,7 +6698,7 @@
     "remarks": ""
   },
   {
-    "id": 611652,
+    "id": 600284,
     "title": "The Associate",
     "author": "John Grisham",
     "isbn": 9780440297031,
@@ -6732,7 +6715,7 @@
     "remarks": ""
   },
   {
-    "id": 650542,
+    "id": 600190,
     "title": "The Appeal",
     "author": "John Grisham",
     "isbn": 9780099481768,
@@ -6749,13 +6732,13 @@
     "remarks": ""
   },
   {
-    "id": 613828,
+    "id": 600280,
     "title": "The Sky is Falling",
     "author": "Sidney Sheldon",
     "isbn": 9780061752223,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Thriller",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 150,
@@ -6766,13 +6749,13 @@
     "remarks": ""
   },
   {
-    "id": 621880,
+    "id": 600259,
     "title": "The Time Traveller’s Wife",
     "author": "Audrey Niffenegger",
     "isbn": 9780099464464,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Novel",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 250,
@@ -6789,7 +6772,7 @@
     "isbn": 9780141333632,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Novel",
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
@@ -6806,7 +6789,7 @@
     "isbn": 9780141338743,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Novel",
     "ageCategory": "Above 10",
     "bestseller": true,
     "price": 100,
@@ -6817,13 +6800,13 @@
     "remarks": ""
   },
   {
-    "id": 625853,
+    "id": 600248,
     "title": "Broken",
     "author": "Martina Cole",
     "isbn": 9780747255413,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Novel",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
@@ -6834,13 +6817,13 @@
     "remarks": ""
   },
   {
-    "id": 667374,
+    "id": 600152,
     "title": "Monsoon",
     "author": "Wilbur Smith",
     "isbn": 9780312317126,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Novel",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
@@ -6851,13 +6834,13 @@
     "remarks": ""
   },
   {
-    "id": 699006,
+    "id": 600003,
     "title": "State of Fear",
     "author": "Michael Crichton",
     "isbn": 9780060554385,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Novel",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
@@ -6868,13 +6851,13 @@
     "remarks": ""
   },
   {
-    "id": 620137,
+    "id": 600265,
     "title": "The Collected Novels",
     "author": "Khushwant Singh",
     "isbn": 9780140255669,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Novel",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 250,
@@ -6885,13 +6868,13 @@
     "remarks": ""
   },
   {
-    "id": 672751,
+    "id": 600141,
     "title": "The Collected Novels",
     "author": "Khushwant Singh",
     "isbn": 9780140255669,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Novel",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 200,
@@ -6902,13 +6885,13 @@
     "remarks": ""
   },
   {
-    "id": 616939,
+    "id": 600274,
     "title": "Sacred Games",
     "author": "Vikram Chandra",
     "isbn": 9780061130366,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Novel",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 250,
@@ -6919,13 +6902,13 @@
     "remarks": ""
   },
   {
-    "id": 632927,
+    "id": 600232,
     "title": "A Touch of Crimson",
     "author": "Sylvia Day",
     "isbn": 9780451234995,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Novel",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
@@ -6936,7 +6919,7 @@
     "remarks": ""
   },
   {
-    "id": 693118,
+    "id": 600014,
     "title": "Never say Die",
     "author": "Tes Gerritsen",
     "isbn": 9780727884831,
@@ -6953,7 +6936,7 @@
     "remarks": ""
   },
   {
-    "id": 669949,
+    "id": 600147,
     "title": "Toxic Bachelors",
     "author": "Danielle Steel",
     "isbn": 9789751411471,
@@ -6970,7 +6953,7 @@
     "remarks": ""
   },
   {
-    "id": 652595,
+    "id": 600183,
     "title": "Harry Potter and the Half Blood Prince",
     "author": "J.K. Rowling",
     "isbn": 9780747581086,
@@ -7004,7 +6987,7 @@
     "remarks": ""
   },
   {
-    "id": 662923,
+    "id": 600161,
     "title": "The Three Great Novels",
     "author": "Robert Ludlum",
     "isbn": 9780752513607,
@@ -7021,13 +7004,13 @@
     "remarks": ""
   },
   {
-    "id": 622841,
+    "id": 600258,
     "title": "The Silkworm",
     "author": "Robert Galbraith",
     "isbn": 9781408704028,
     "fiction": false,
     "condition": "Good",
-    "genre": "",
+    "genre": "Novel",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 250,
@@ -7038,13 +7021,13 @@
     "remarks": ""
   },
   {
-    "id": 690477,
+    "id": 600022,
     "title": "Oliver’s Story",
     "author": "Erich Segel",
     "isbn": 9780553275292,
     "fiction": false,
     "condition": "Good",
-    "genre": "",
+    "genre": "Novel",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 150,
@@ -7055,7 +7038,7 @@
     "remarks": ""
   },
   {
-    "id": 692643,
+    "id": 600015,
     "title": "Dark Places",
     "author": "Gillian Flynn",
     "isbn": 9780297852872,
@@ -7089,10 +7072,10 @@
     "remarks": ""
   },
   {
-    "id": 632024,
-    "title": "Realm Breakers",
+    "id": 600234,
+    "title": "Realm Breaker",
     "author": "Victoria Aveyard",
-    "isbn": 9780062872647,
+    "isbn": 9781409193951,
     "fiction": true,
     "condition": "Like New",
     "genre": "Fantasy",
@@ -7106,10 +7089,10 @@
     "remarks": ""
   },
   {
-    "id": 653748,
-    "title": "Blade Breakers",
+    "id": 600181,
+    "title": "Blade Breaker",
     "author": "Victoria Aveyard",
-    "isbn": 9780062872678,
+    "isbn": 9780062872661,
     "fiction": true,
     "condition": "Like New",
     "genre": "Fantasy",
@@ -7123,7 +7106,7 @@
     "remarks": ""
   },
   {
-    "id": 652477,
+    "id": 600184,
     "title": "Red Queen",
     "author": "Victoria Aveyard",
     "isbn": 9780062362711,
@@ -7140,7 +7123,7 @@
     "remarks": ""
   },
   {
-    "id": 662651,
+    "id": 600162,
     "title": "Glass Sword",
     "author": "Victoria Aveyard",
     "isbn": 9780062310668,
@@ -7157,7 +7140,7 @@
     "remarks": ""
   },
   {
-    "id": 687827,
+    "id": 600117,
     "title": "King’s Cage",
     "author": "Victoria Aveyard",
     "isbn": 9781409151197,
@@ -7174,7 +7157,7 @@
     "remarks": ""
   },
   {
-    "id": 635435,
+    "id": 600223,
     "title": "War Storm",
     "author": "Victoria Aveyard",
     "isbn": 9781409178804,
@@ -7208,7 +7191,7 @@
     "remarks": ""
   },
   {
-    "id": 680544,
+    "id": 600128,
     "title": "Artemis  Fowl : The Atlantis Complex",
     "author": "Eoin Colfer",
     "isbn": 9780141328027,
@@ -7225,7 +7208,7 @@
     "remarks": ""
   },
   {
-    "id": 626993,
+    "id": 600245,
     "title": "Artemis  Fowl and the Arctic Incident",
     "author": "Eoin Colfer",
     "isbn": 9780141321325,
@@ -7242,7 +7225,7 @@
     "remarks": ""
   },
   {
-    "id": 663630,
+    "id": 600160,
     "title": "WARP : The Hangman’s Revolution",
     "author": "Eoin Colfer",
     "isbn": 9780141341804,
@@ -7259,7 +7242,7 @@
     "remarks": ""
   },
   {
-    "id": 651855,
+    "id": 600185,
     "title": "WARP : The Forever Man",
     "author": "Eoin Colfer",
     "isbn": 9780141361093,
@@ -7276,7 +7259,7 @@
     "remarks": ""
   },
   {
-    "id": 696450,
+    "id": 600010,
     "title": "WARP : The Reluctant Assassin",
     "author": "Eoin Colfer",
     "isbn": 9780141341767,
@@ -7310,7 +7293,7 @@
     "remarks": ""
   },
   {
-    "id": 633904,
+    "id": 600228,
     "title": "Fowl Twins : Deny All Charges",
     "author": "Eoin Colfer",
     "isbn": 9781368052290,
@@ -7327,7 +7310,7 @@
     "remarks": ""
   },
   {
-    "id": 660657,
+    "id": 600169,
     "title": "Fowl Twins : Get What They Deserve",
     "author": "Eoin Colfer",
     "isbn": 9781368075671,
@@ -7344,7 +7327,7 @@
     "remarks": ""
   },
   {
-    "id": 660590,
+    "id": 600170,
     "title": "Ember in the Ashes",
     "author": "Sabba Tahir",
     "isbn": 9780008108427,
@@ -7361,7 +7344,7 @@
     "remarks": ""
   },
   {
-    "id": 637406,
+    "id": 600219,
     "title": "A Torch Against the Night",
     "author": "Sabba Tahir",
     "isbn": 9781101998878,
@@ -7378,7 +7361,7 @@
     "remarks": ""
   },
   {
-    "id": 659614,
+    "id": 600172,
     "title": "Classic Short Stories",
     "author": "Readers Digest",
     "isbn": "",
@@ -7395,7 +7378,7 @@
     "remarks": ""
   },
   {
-    "id": 633712,
+    "id": 600230,
     "title": "Carve The Mark",
     "author": "Veronica Roth",
     "isbn": 9788427211582,
@@ -7412,7 +7395,7 @@
     "remarks": ""
   },
   {
-    "id": 696837,
+    "id": 600009,
     "title": "Tower of the Dawn",
     "author": "Sarah J. Mass",
     "isbn": 9781408887974,
@@ -7429,7 +7412,7 @@
     "remarks": ""
   },
   {
-    "id": 624815,
+    "id": 600250,
     "title": "Heir of Fire",
     "author": "Sarah J. Mass",
     "isbn": 9783423716536,
@@ -7446,7 +7429,7 @@
     "remarks": ""
   },
   {
-    "id": 641170,
+    "id": 600209,
     "title": "Queen of Shadows",
     "author": "Sarah J. Mass",
     "isbn": 9783423717076,
@@ -7463,7 +7446,7 @@
     "remarks": ""
   },
   {
-    "id": 679377,
+    "id": 600130,
     "title": "Crown of Midnight",
     "author": "Sarah J. Mass",
     "isbn": 9781619630628,
@@ -7480,7 +7463,7 @@
     "remarks": ""
   },
   {
-    "id": 691508,
+    "id": 600019,
     "title": "Empire of Storms",
     "author": "Sarah J. Mass",
     "isbn": 9781408872895,
@@ -7497,7 +7480,7 @@
     "remarks": ""
   },
   {
-    "id": 635132,
+    "id": 600225,
     "title": "Kingdom of Ash",
     "author": "Sarah J. Mass",
     "isbn": 9781408872918,
@@ -7514,7 +7497,7 @@
     "remarks": ""
   },
   {
-    "id": 675189,
+    "id": 600135,
     "title": "The Assassin’s Blade",
     "author": "Sarah J. Mass",
     "isbn": 9781639731091,
@@ -7548,7 +7531,7 @@
     "remarks": ""
   },
   {
-    "id": 629240,
+    "id": 600239,
     "title": "Demigods and Magicians",
     "author": "Rick Riordan",
     "isbn": 9780141367286,
@@ -7582,7 +7565,7 @@
     "remarks": ""
   },
   {
-    "id": 632988,
+    "id": 600231,
     "title": "Magnus Chase and the Ship of Dead",
     "author": "Rick Riordan",
     "isbn": 9780141342580,
@@ -7633,7 +7616,7 @@
     "remarks": ""
   },
   {
-    "id": 670786,
+    "id": 600144,
     "title": "Defend the Dawn",
     "author": "Brigid Kemmerer",
     "isbn": 9781547613229,
@@ -7650,7 +7633,7 @@
     "remarks": ""
   },
   {
-    "id": 695902,
+    "id": 600011,
     "title": "Defy the Night",
     "author": "Brigid Kemmerer",
     "isbn": 9781526632807,
@@ -7667,7 +7650,7 @@
     "remarks": ""
   },
   {
-    "id": 621482,
+    "id": 600261,
     "title": "The White Queen",
     "author": "Philippa Gregory",
     "isbn": 9781476735481,
@@ -7684,7 +7667,7 @@
     "remarks": ""
   },
   {
-    "id": 660123,
+    "id": 600171,
     "title": "Grishaverse : Siege and Storm",
     "author": "Leigh Bardugo",
     "isbn": 9781250044433,
@@ -7701,7 +7684,7 @@
     "remarks": ""
   },
   {
-    "id": 612643,
+    "id": 600282,
     "title": "Ruin and Rising",
     "author": "Leigh Bardugo",
     "isbn": 9781250063168,
@@ -7718,7 +7701,7 @@
     "remarks": ""
   },
   {
-    "id": 691749,
+    "id": 600018,
     "title": "Murtagh",
     "author": "Christopher Paolini",
     "isbn": 9780241651407,
@@ -7752,7 +7735,7 @@
     "remarks": ""
   },
   {
-    "id": 646124,
+    "id": 600199,
     "title": "Inheritance Cycle : Brisingr (Book 3)",
     "author": "Christopher Paolini",
     "isbn": 9780375826726,
@@ -7769,7 +7752,7 @@
     "remarks": ""
   },
   {
-    "id": 657358,
+    "id": 600176,
     "title": "Inheritance Cycle : Inheritance (Book 4)",
     "author": "Christopher Paolini",
     "isbn": 9780375846311,
@@ -7786,7 +7769,7 @@
     "remarks": ""
   },
   {
-    "id": 617280,
+    "id": 600273,
     "title": "Vespertine",
     "author": "Margaret Rogerson",
     "isbn": 9781534477124,
@@ -7803,7 +7786,7 @@
     "remarks": ""
   },
   {
-    "id": 619102,
+    "id": 600266,
     "title": "Miss Peregrine’s Peculiar Children : The Conference of Birds",
     "author": "Ransom Riggs",
     "isbn": 9780241320914,
@@ -7820,7 +7803,7 @@
     "remarks": ""
   },
   {
-    "id": 612996,
+    "id": 600281,
     "title": "Miss Peregrine’s Peculiar Children : A Map of Days",
     "author": "Ransom Riggs",
     "isbn": 9780141385921,
@@ -7837,7 +7820,7 @@
     "remarks": ""
   },
   {
-    "id": 629851,
+    "id": 600238,
     "title": "Legend of Suheldev",
     "author": "Amish",
     "isbn": 9789356291034,
@@ -7854,7 +7837,7 @@
     "remarks": ""
   },
   {
-    "id": 666253,
+    "id": 600156,
     "title": "Before I go to Sleep",
     "author": "S. J. Watson",
     "isbn": 9780062072597,
@@ -7871,7 +7854,7 @@
     "remarks": ""
   },
   {
-    "id": 650705,
+    "id": 600189,
     "title": "The Mahabharata Quest : The Secret of the Druids",
     "author": "Christopher . C. Doyle",
     "isbn": 9789385724220,
@@ -7888,7 +7871,7 @@
     "remarks": ""
   },
   {
-    "id": 645896,
+    "id": 600200,
     "title": "Young Samurai : The Ring of the Wind",
     "author": "Chris Bradford",
     "isbn": 9780141339719,
@@ -7905,7 +7888,7 @@
     "remarks": ""
   },
   {
-    "id": 684374,
+    "id": 600122,
     "title": "The Girl who Drank the Moon",
     "author": "Kelly Barnhill",
     "isbn": 9781641012102,
@@ -7922,7 +7905,7 @@
     "remarks": ""
   },
   {
-    "id": 672880,
+    "id": 600140,
     "title": "Maze Runner : The Death Cure",
     "author": "James Dashner",
     "isbn": 9781908435200,
@@ -7939,7 +7922,7 @@
     "remarks": ""
   },
   {
-    "id": 620634,
+    "id": 600264,
     "title": "Maze Runner : The Scorch Trials",
     "author": "James Dashner",
     "isbn": 9780385738750,
@@ -7956,7 +7939,7 @@
     "remarks": ""
   },
   {
-    "id": 658457,
+    "id": 600173,
     "title": "The Hunger Games : Mockingjay (Book 3)",
     "author": "Suzanne Collins",
     "isbn": 9780439023542,
@@ -7973,7 +7956,7 @@
     "remarks": ""
   },
   {
-    "id": 657654,
+    "id": 600175,
     "title": "The Hunger Games : Catching Fire (Book 2)",
     "author": "Suzanne Collins",
     "isbn": 9780545586177,
@@ -8007,7 +7990,7 @@
     "remarks": ""
   },
   {
-    "id": 610213,
+    "id": 600286,
     "title": "Nightmares & Dreamscapes",
     "author": "Stephen King",
     "isbn": 9781439102565,
@@ -8024,7 +8007,7 @@
     "remarks": ""
   },
   {
-    "id": 666680,
+    "id": 600154,
     "title": "The 5 Greatest Warriors",
     "author": "Matthew Reilly",
     "isbn": 9781409103127,
@@ -8041,7 +8024,7 @@
     "remarks": ""
   },
   {
-    "id": 615792,
+    "id": 600277,
     "title": "Point Blanc",
     "author": "Alex Rider",
     "isbn": 9780399250262,
@@ -8092,7 +8075,7 @@
     "remarks": ""
   },
   {
-    "id": 685590,
+    "id": 600121,
     "title": "Game of Thrones",
     "author": "C.S. Lewis",
     "isbn": 9780060598242,
@@ -8143,7 +8126,7 @@
     "remarks": ""
   },
   {
-    "id": 642518,
+    "id": 600204,
     "title": "Little Dorrit",
     "author": "Charles Dickens",
     "isbn": 9781435116429,
@@ -8177,7 +8160,7 @@
     "remarks": ""
   },
   {
-    "id": 697161,
+    "id": 600008,
     "title": "Normal People",
     "author": "Sally Rooney",
     "isbn": 9780593168202,
@@ -8194,7 +8177,7 @@
     "remarks": ""
   },
   {
-    "id": 667002,
+    "id": 600153,
     "title": "The Stationery Shop of Tehran",
     "author": "Marjan Kamali",
     "isbn": 9781982107482,
@@ -8211,7 +8194,7 @@
     "remarks": ""
   },
   {
-    "id": 650945,
+    "id": 600188,
     "title": "When we were orphans",
     "author": "Kazuo Ishiguro",
     "isbn": 9780375724404,
@@ -8483,7 +8466,7 @@
     "remarks": ""
   },
   {
-    "id": 690001,
+    "id": 600109,
     "title": "Five people you meet in heaven",
     "author": "Mitch Albom",
     "isbn": 9780786868711,
@@ -8500,7 +8483,7 @@
     "remarks": ""
   },
   {
-    "id": 690002,
+    "id": 600108,
     "title": "Jonathan Livingston Seagull",
     "author": "Richard Bach",
     "isbn": "",
@@ -8517,7 +8500,7 @@
     "remarks": ""
   },
   {
-    "id": 690004,
+    "id": 600107,
     "title": "Change of Heart",
     "author": "Jodi Picoult",
     "isbn": 9781602851658,
@@ -8534,7 +8517,7 @@
     "remarks": ""
   },
   {
-    "id": 690005,
+    "id": 600106,
     "title": "The Tenth Circle",
     "author": "Jodi Picoult",
     "isbn": 9780743496711,
@@ -8551,7 +8534,7 @@
     "remarks": ""
   },
   {
-    "id": 690006,
+    "id": 600105,
     "title": "Beartown",
     "author": "Fredrick Backman",
     "isbn": 9781410498120,
@@ -8568,7 +8551,7 @@
     "remarks": ""
   },
   {
-    "id": 690007,
+    "id": 600104,
     "title": "Inheritance Games",
     "author": "Jennifer Lynn Barnes",
     "isbn": 9780241476178,
@@ -8585,7 +8568,7 @@
     "remarks": ""
   },
   {
-    "id": 690008,
+    "id": 600103,
     "title": "The Hawthorne Legacy",
     "author": "Jennifer Lynn Barnes",
     "isbn": 9798885795951,
@@ -8602,7 +8585,7 @@
     "remarks": ""
   },
   {
-    "id": 690009,
+    "id": 600102,
     "title": "The Final Gambit",
     "author": "Jennifer Lynn Barnes",
     "isbn": 9780241573648,
@@ -8619,7 +8602,7 @@
     "remarks": ""
   },
   {
-    "id": 690010,
+    "id": 600101,
     "title": "Brothers Hawthorne",
     "author": "Jennifer Lynn Barnes",
     "isbn": 9780316480772,
@@ -8636,7 +8619,7 @@
     "remarks": ""
   },
   {
-    "id": 690011,
+    "id": 600100,
     "title": "Fourth Wing",
     "author": "Rebecca Yarros",
     "isbn": 9781649374042,
@@ -8653,7 +8636,7 @@
     "remarks": ""
   },
   {
-    "id": 690012,
+    "id": 600099,
     "title": "Iron Flame",
     "author": "Rebecca Yarros",
     "isbn": 9781649377579,
@@ -8670,7 +8653,7 @@
     "remarks": ""
   },
   {
-    "id": 690013,
+    "id": 600098,
     "title": "Onyx Storm",
     "author": "Rebecca Yarros",
     "isbn": 9781649376947,
@@ -8687,7 +8670,7 @@
     "remarks": ""
   },
   {
-    "id": 690014,
+    "id": 600097,
     "title": "Thursday Murder Club : The Bullet That Missed",
     "author": "Richard Osman",
     "isbn": 9780241512432,
@@ -8704,7 +8687,7 @@
     "remarks": ""
   },
   {
-    "id": 690015,
+    "id": 600096,
     "title": "Thursday Murder Club : The Last Devil to Die",
     "author": "Richard Osman",
     "isbn": 9780593299425,
@@ -8721,7 +8704,7 @@
     "remarks": ""
   },
   {
-    "id": 690017,
+    "id": 600095,
     "title": "Mistborn : The Final Empire",
     "author": "Brandon Sanderson",
     "isbn": 9780575089914,
@@ -8738,7 +8721,7 @@
     "remarks": ""
   },
   {
-    "id": 690018,
+    "id": 600094,
     "title": "Mistborn : The Well of Ascension",
     "author": "Brandon Sanderson",
     "isbn": 9780575089938,
@@ -8755,7 +8738,7 @@
     "remarks": ""
   },
   {
-    "id": 690019,
+    "id": 600093,
     "title": "Mistborn : The Hero of Ages",
     "author": "Brandon Sanderson",
     "isbn": 9780575089945,
@@ -8784,8 +8767,8 @@
     "price": 200,
     "discount": "",
     "sold": false,
-    "issued": "",
-    "active": "",
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
@@ -8800,13 +8783,13 @@
     "bestseller": true,
     "price": 500,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690023,
+    "id": 600091,
     "title": "The Flamingo Boy",
     "author": "Michael Morpurgo",
     "isbn": 9780008134662,
@@ -8817,13 +8800,13 @@
     "bestseller": false,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690022,
+    "id": 600092,
     "title": "Snow Flower and the Secret Fan",
     "author": "Lisa See",
     "isbn": 9780812968064,
@@ -8834,13 +8817,13 @@
     "bestseller": true,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690024,
+    "id": 600090,
     "title": "Wow ! Visual Encyclopedia of Everything",
     "author": "DK",
     "isbn": "",
@@ -8851,9 +8834,9 @@
     "bestseller": true,
     "price": 300,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
@@ -8868,9 +8851,9 @@
     "bestseller": false,
     "price": 30,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
@@ -8885,9 +8868,9 @@
     "bestseller": false,
     "price": 10,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
@@ -8902,9 +8885,9 @@
     "bestseller": true,
     "price": 250,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
@@ -8919,13 +8902,13 @@
     "bestseller": false,
     "price": 150,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690026,
+    "id": 600082,
     "title": "Men Without Women",
     "author": "Haruki Murakami",
     "isbn": "",
@@ -8936,13 +8919,13 @@
     "bestseller": true,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690027,
+    "id": 600081,
     "title": "Norwegian Wood",
     "author": "Haruki Murakami",
     "isbn": "",
@@ -8953,13 +8936,13 @@
     "bestseller": true,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690030,
+    "id": 600080,
     "title": "Alias Grace",
     "author": "Margaret Atwood",
     "isbn": "",
@@ -8970,13 +8953,13 @@
     "bestseller": true,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690031,
+    "id": 600079,
     "title": "Easterleigh Hall",
     "author": "Margaret Graham",
     "isbn": "",
@@ -8987,13 +8970,13 @@
     "bestseller": false,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690032,
+    "id": 600078,
     "title": "The Dew Breakers",
     "author": "Edwin Danticat",
     "isbn": "",
@@ -9004,13 +8987,13 @@
     "bestseller": true,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690034,
+    "id": 600077,
     "title": "The Armour Of Light",
     "author": "Ken Follett",
     "isbn": "",
@@ -9021,13 +9004,13 @@
     "bestseller": true,
     "price": 300,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 500507,
+    "id": 600076,
     "title": "Valmiki's Ramayana",
     "author": "Amar Chitra Katha",
     "isbn": "",
@@ -9038,13 +9021,13 @@
     "bestseller": false,
     "price": 10,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690035,
+    "id": 600075,
     "title": "The Yearling",
     "author": "Rawlings",
     "isbn": "",
@@ -9055,13 +9038,13 @@
     "bestseller": false,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690036,
+    "id": 600074,
     "title": "The Pelican Shakespeare",
     "author": "Julius Caesar",
     "isbn": "",
@@ -9072,13 +9055,13 @@
     "bestseller": false,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690037,
+    "id": 600073,
     "title": "The Shadow Cipher",
     "author": "York",
     "isbn": "",
@@ -9089,13 +9072,13 @@
     "bestseller": false,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690039,
+    "id": 600072,
     "title": "Dinosaur School",
     "author": "Dick King-Smith",
     "isbn": "",
@@ -9106,13 +9089,13 @@
     "bestseller": false,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690040,
+    "id": 600071,
     "title": "The Ambrose Deception",
     "author": "Ecton",
     "isbn": "",
@@ -9123,13 +9106,13 @@
     "bestseller": false,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690042,
+    "id": 600070,
     "title": "Swept Up",
     "author": "Hannah Montana",
     "isbn": 9781423120919,
@@ -9140,13 +9123,13 @@
     "bestseller": false,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690045,
+    "id": 600069,
     "title": "Malice",
     "author": "John Gwynne",
     "isbn": 9780316399739,
@@ -9157,13 +9140,13 @@
     "bestseller": true,
     "price": 300,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690046,
+    "id": 600068,
     "title": "Valour",
     "author": "John Gwynne",
     "isbn": 9780316399746,
@@ -9174,13 +9157,13 @@
     "bestseller": true,
     "price": 300,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690047,
+    "id": 600067,
     "title": "Ruin",
     "author": "John Gwynne",
     "isbn": 9780316386326,
@@ -9191,13 +9174,13 @@
     "bestseller": true,
     "price": 300,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690047,
+    "id": 600066,
     "title": "Wrath",
     "author": "John Gwynne",
     "isbn": 9780316386340,
@@ -9208,13 +9191,13 @@
     "bestseller": true,
     "price": 300,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690048,
+    "id": 600065,
     "title": "Putting Out of Your Mind",
     "author": "Dr. Bob Rotella",
     "isbn": 9780743507745,
@@ -9225,13 +9208,13 @@
     "bestseller": false,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690050,
+    "id": 600064,
     "title": "Life in the Water",
     "author": "A Child's First Library of Learning",
     "isbn": "",
@@ -9242,13 +9225,13 @@
     "bestseller": true,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 501690,
+    "id": 600063,
     "title": "Merry Mister Meddle",
     "author": "Enid Blyton",
     "isbn": 9781841356624,
@@ -9259,13 +9242,13 @@
     "bestseller": true,
     "price": 50,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690052,
+    "id": 600062,
     "title": "The Blade Itself",
     "author": "Joe Abercrombie",
     "isbn": 9780575077850,
@@ -9276,13 +9259,13 @@
     "bestseller": true,
     "price": 250,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690053,
+    "id": 600061,
     "title": "Before They Are Hanged",
     "author": "Joe Abercrombie",
     "isbn": 9780316387354,
@@ -9293,13 +9276,13 @@
     "bestseller": true,
     "price": 250,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690054,
+    "id": 600060,
     "title": "Last Argument of Kings",
     "author": "Joe Abercrombie",
     "isbn": 9780316387408,
@@ -9310,13 +9293,13 @@
     "bestseller": true,
     "price": 250,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690057,
+    "id": 600059,
     "title": "Big Book of Why",
     "author": "Time For Kids",
     "isbn": "",
@@ -9327,13 +9310,13 @@
     "bestseller": false,
     "price": 300,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690058,
+    "id": 600058,
     "title": "5 Minute Spiderman Stories",
     "author": "Marvel",
     "isbn": 9781423177869,
@@ -9344,13 +9327,13 @@
     "bestseller": true,
     "price": 300,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690068,
+    "id": 600057,
     "title": "Stranger To History",
     "author": "Aatish Taseer",
     "isbn": "",
@@ -9361,13 +9344,13 @@
     "bestseller": false,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690069,
+    "id": 600056,
     "title": "Sapiens",
     "author": "Yuval Noah Harari",
     "isbn": 9788377059968,
@@ -9378,13 +9361,13 @@
     "bestseller": true,
     "price": 240,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690070,
+    "id": 600055,
     "title": "The Golden Road",
     "author": "William Dalrymple",
     "isbn": "",
@@ -9395,13 +9378,13 @@
     "bestseller": true,
     "price": 350,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690071,
+    "id": 600053,
     "title": "Miss Marple's final cases",
     "author": "Agatha Christie",
     "isbn": 9781444802344,
@@ -9412,13 +9395,13 @@
     "bestseller": true,
     "price": 50,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690072,
+    "id": 600052,
     "title": "Indian Summer : The secret history of the end of an era",
     "author": "Alex Von Tunzelmann",
     "isbn": 9780743285889,
@@ -9429,13 +9412,13 @@
     "bestseller": true,
     "price": 300,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690073,
+    "id": 600051,
     "title": "A Woman is no Man",
     "author": "Etaf Rum",
     "isbn": 9780008341077,
@@ -9446,13 +9429,13 @@
     "bestseller": true,
     "price": 300,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690076,
+    "id": 600050,
     "title": "Shiva Trilogy1 : The immortals of Mehula",
     "author": "Amish",
     "isbn": 9789356290525,
@@ -9463,13 +9446,13 @@
     "bestseller": true,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690077,
+    "id": 600049,
     "title": "Shiva Trilogy2 : The secret of the Nagas",
     "author": "Amish",
     "isbn": 9789381626344,
@@ -9480,13 +9463,13 @@
     "bestseller": true,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690076,
+    "id": 600048,
     "title": "Shiva Trilogy3 : The oath of the vayuputras",
     "author": "Amish",
     "isbn": 9789382618348,
@@ -9497,13 +9480,13 @@
     "bestseller": true,
     "price": 150,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690077,
+    "id": 600047,
     "title": "Twilight Series 2 : Eclipse",
     "author": "Stephenie Meyer",
     "isbn": 9780316008259,
@@ -9514,13 +9497,13 @@
     "bestseller": false,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690078,
+    "id": 600046,
     "title": "Twilight Series 3 : New Moon",
     "author": "Stephenie Meyer",
     "isbn": 9780316065221,
@@ -9531,13 +9514,13 @@
     "bestseller": false,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690079,
+    "id": 600045,
     "title": "Twilight Series 4 : Breaking Dawn",
     "author": "Stephenie Meyer",
     "isbn": 9788937832543,
@@ -9548,13 +9531,13 @@
     "bestseller": false,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690080,
+    "id": 600044,
     "title": "The cloud maker",
     "author": "Patrick Woodhead",
     "isbn": 9781409050643,
@@ -9565,13 +9548,13 @@
     "bestseller": false,
     "price": 150,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690081,
+    "id": 600043,
     "title": "The Winner",
     "author": "David Baldacci",
     "isbn": 9780330419666,
@@ -9582,13 +9565,13 @@
     "bestseller": false,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690082,
+    "id": 600042,
     "title": "The sky is falling",
     "author": "Sidney Sheldon",
     "isbn": "",
@@ -9599,13 +9582,13 @@
     "bestseller": false,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690083,
+    "id": 600041,
     "title": "Only Time will Tell",
     "author": "Jeffery Archer",
     "isbn": 9780330535670,
@@ -9616,115 +9599,115 @@
     "bestseller": false,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690084,
+    "id": 600040,
     "title": "A Gift of Goddess Lakshmi",
     "author": "Manobi Bandopadhyay",
     "isbn": "",
     "fiction": false,
     "condition": "Good",
-    "genre": "",
+    "genre": "Fiction",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690085,
+    "id": 600039,
     "title": "Winter Garden",
     "author": "Kristin Hannah",
     "isbn": 9781447265375,
     "fiction": true,
     "condition": "Like New",
-    "genre": "",
+    "genre": "Fiction",
     "ageCategory": "Adult",
     "bestseller": true,
     "price": 300,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690086,
+    "id": 600038,
     "title": "In the walled gardens",
     "author": "Firouz Anahita",
     "isbn": 9780316711593,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Fiction",
     "ageCategory": "Adult",
     "bestseller": false,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690087,
+    "id": 600037,
     "title": "The Prisoner's Throne",
     "author": "Holly Black",
     "isbn": 9781471411403,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Fiction",
     "ageCategory": "All",
     "bestseller": true,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690088,
+    "id": 600036,
     "title": "The Stolen Heir",
     "author": "Holly Black",
     "isbn": 9780316422260,
     "fiction": true,
     "condition": "Good",
-    "genre": "",
+    "genre": "Fiction",
     "ageCategory": "All",
     "bestseller": true,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690089,
+    "id": 600035,
     "title": "Mother Mary Comes to Me",
     "author": "Arundhati Roy",
     "isbn": 9780241761724,
     "fiction": false,
     "condition": "Good",
-    "genre": "",
+    "genre": "Fiction",
     "ageCategory": "All",
     "bestseller": true,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690090,
+    "id": 600034,
     "title": "Artemis  Fowl and the Arctic Incident",
     "author": "Eoin Colfer",
     "isbn": 9780141321325,
@@ -9741,41 +9724,41 @@
     "remarks": ""
   },
   {
-    "id": 690091,
-    "title": "Donisaur Stories",
-    "author": "",
+    "id": 600033,
+    "title": "Dinosaur Stories",
+    "author": "Scholastic",
     "isbn": "",
-    "fiction": "",
-    "condition": "",
-    "genre": "",
-    "ageCategory": "",
-    "bestseller": "",
-    "price": "",
+    "fiction": true,
+    "condition": "Good",
+    "genre": "Superhero",
+    "ageCategory": "Under 10",
+    "bestseller": false,
+    "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690092,
-    "title": "5 minute Avengers stories",
-    "author": "",
+    "id": 600032,
+    "title": "5 Minute Avengers Stories",
+    "author": "Marvel",
     "isbn": 9781484743317,
-    "fiction": "",
-    "condition": "",
-    "genre": "",
-    "ageCategory": "",
-    "bestseller": "",
-    "price": "",
+    "fiction": true,
+    "condition": "Good",
+    "genre": "Knowledge",
+    "ageCategory": "Above 10",
+    "bestseller": true,
+    "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690093,
+    "id": 600031,
     "title": "5000 Awesome facts",
     "author": "National Geographics",
     "isbn": 9781426324536,
@@ -9786,15 +9769,15 @@
     "bestseller": true,
     "price": 500,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690094,
+    "id": 600030,
     "title": "A Short History of U.S.S.R",
-    "author": "",
+    "author": "S. Schmidt",
     "isbn": "",
     "fiction": false,
     "condition": "Used",
@@ -9803,81 +9786,81 @@
     "bestseller": false,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690095,
+    "id": 600029,
     "title": "City of Ashes",
     "author": "Cassandra Clare",
     "isbn": 9781416914297,
     "fiction": false,
     "condition": "Good",
-    "genre": "",
+    "genre": "Fantasy",
     "ageCategory": "Young Adult Fantasy",
     "bestseller": true,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690095,
+    "id": 600028,
     "title": "City of Fallen Angels",
     "author": "Cassandra Clare",
     "isbn": 9781406362190,
     "fiction": false,
     "condition": "Good",
-    "genre": "",
+    "genre": "Fantasy",
     "ageCategory": "Young Adult Fantasy",
     "bestseller": true,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690096,
+    "id": 600027,
     "title": "City of Glass",
     "author": "Cassandra Clare",
     "isbn": 9780606377331,
     "fiction": false,
     "condition": "Good",
-    "genre": "",
+    "genre": "Fantasy",
     "ageCategory": "Young Adult Fantasy",
     "bestseller": true,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690097,
+    "id": 600026,
     "title": "City of Bones",
     "author": "Cassandra Clare",
     "isbn": 9781406307627,
     "fiction": false,
     "condition": "Good",
-    "genre": "",
+    "genre": "Fantasy",
     "ageCategory": "Young Adult Fantasy",
     "bestseller": true,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690098,
+    "id": 600025,
     "title": "Lost in Terror",
     "author": "Nayeema Mahjoor",
     "isbn": 9780143416531,
@@ -9888,13 +9871,13 @@
     "bestseller": true,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690099,
+    "id": 600024,
     "title": "The Last Wish",
     "author": "Andrzej Sapkowski'",
     "isbn": 9780316029186,
@@ -9905,13 +9888,13 @@
     "bestseller": false,
     "price": 200,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
-    "id": 690100,
+    "id": 600023,
     "title": "Messenger",
     "author": "Lois Lowry",
     "isbn": "",
@@ -9922,26 +9905,9 @@
     "bestseller": false,
     "price": 100,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
-    "remarks": ""
-  },
-  {
-    "id": 501737,
-    "title": "Robin Hood",
-    "author": "Junior Classics",
-    "isbn": "",
-    "fiction": true,
-    "condition": "Good",
-    "genre": "Fiction",
-    "ageCategory": "Above 10",
-    "bestseller": true,
-    "price": 100,
-    "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   },
   {
@@ -9956,9 +9922,9 @@
     "bestseller": true,
     "price": 50,
     "discount": "",
-    "sold": "",
-    "issued": "",
-    "active": "",
+    "sold": false,
+    "issued": false,
+    "active": true,
     "remarks": ""
   }
 ]
