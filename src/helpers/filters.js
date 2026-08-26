@@ -2,7 +2,7 @@ import data from "../assets/data/data_with_isbn.json";
 
 export const search = (searchTerm) => {
   const filtererData = [];
-  data.map((book) => {
+  Array.from(data).reverse().map((book) => {
     if (
       book.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
       book.author.toLowerCase().includes(searchTerm.toLowerCase())

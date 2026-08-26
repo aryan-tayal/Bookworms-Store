@@ -14,7 +14,8 @@ import handleSearchAndFilters from "./helpers/filters";
 import Sidebar from "./Sidebar";
 
 const App = () => {
-  const [bookData, setBookData] = useState(data);
+  const reversedData = Array.from(data).reverse();
+  const [bookData, setBookData] = useState(reversedData);
   const [search, setSearch] = useState("");
   const [filters, setFilters] = useState({
     fiction: [true, true],
@@ -35,7 +36,6 @@ const App = () => {
   return (
     <div>
       <Navbar handleSearch={handleSearch} search={search} />
-
       <BrowserRouter>
         <Routes>
           <Route index element={<Home />} />
