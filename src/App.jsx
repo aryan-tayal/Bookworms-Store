@@ -5,6 +5,7 @@ import MainSection from "./MainSection";
 import InfoPage from "./InfoPage";
 import Home from "./Home";
 import ContactPage from "./ContactPage";
+import BookPage from "./BookPage";
 
 import data from "./assets/data/data_with_isbn.json";
 
@@ -48,6 +49,7 @@ const App = () => {
               />
             }
           />
+          <Route path="/books/:id" element={<BookPage />} />
           <Route path="/contact" element={<ContactPage />} />
           <Route path="/info" element={<InfoPage />} />
         </Routes>

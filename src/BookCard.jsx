@@ -18,42 +18,44 @@ const BookCard = ({
   isbn,
 }) => {
   const localSrc = `/covers/${id}.png`;
-const fallbackSrc = `https://covers.openlibrary.org/b/isbn/${isbn}-M.jpg`;
+  const fallbackSrc = `https://covers.openlibrary.org/b/isbn/${isbn}-M.jpg`;
   const [image, setImage] = useState("");
   const [cardColors, setCardColors] = useState({
     lightColor: "#dcf0d0",
     mainColor: "#a6d28b",
     darkColor: "#07a559",
   });
-const rotation = useMemo(() => {
-  const str = String(isbn ?? id ?? "");
-  let hash = 0;
-  for (let i = 0; i < str.length; i++) {
-    hash = hash * 33 ^ str.charCodeAt(i);
-  }
-  return `${(Math.abs(hash) % 50) - 25}deg`;
-}, [isbn, id]);
+  const rotation = useMemo(() => {
+    const str = String(isbn ?? id ?? "");
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+      hash = (hash * 33) ^ str.charCodeAt(i);
+    }
+    return `${(Math.abs(hash) % 50) - 25}deg`;
+  }, [isbn, id]);
 
-  const { colors, dominantColor, darkerColor, lighterColor } =
-    useExtractColors(image, { format: "hex" });
+  const { colors, dominantColor, darkerColor, lighterColor } = useExtractColors(
+    image,
+    { format: "hex" },
+  );
 
-useEffect(() => {
-  if (!image || colors.length === 0) return;
+  useEffect(() => {
+    if (!image || colors.length === 0) return;
 
-  if (colorCache.has(image)) {
-    setCardColors(colorCache.get(image));
-    return;
-  }
+    if (colorCache.has(image)) {
+      setCardColors(colorCache.get(image));
+      return;
+    }
 
-  const palette = {
-    mainColor: `${dominantColor}aa`,
-    lightColor: `${lighterColor}55`,
-    darkColor: darkerColor,
-  };
+    const palette = {
+      mainColor: `${dominantColor}aa`,
+      lightColor: `${lighterColor}55`,
+      darkColor: darkerColor,
+    };
 
-  colorCache.set(image, palette);
-  setCardColors(palette);
-}, [image, colors, dominantColor, lighterColor, darkerColor]);
+    colorCache.set(image, palette);
+    setCardColors(palette);
+  }, [image, colors, dominantColor, lighterColor, darkerColor]);
 
   // 🖼️ Render
   return (
@@ -71,20 +73,18 @@ useEffect(() => {
           transform: `rotate(${rotation})`,
         }}
       >
-    <img
-  src={localSrc}
-  onLoad={(e) => setImage(e.currentTarget.src)}
-  onError={(e) => {
-    e.currentTarget.onerror = null;
-    e.currentTarget.onload = (ev) =>
-      setImage(ev.currentTarget.src);
-    e.currentTarget.src = fallbackSrc;
-  }}
-  loading="lazy"
-  decoding="async"
-  alt={`${title} cover`}
-/>
-
+        <img
+          src={localSrc}
+          onLoad={(e) => setImage(e.currentTarget.src)}
+          onError={(e) => {
+            e.currentTarget.onerror = null;
+            e.currentTarget.onload = (ev) => setImage(ev.currentTarget.src);
+            e.currentTarget.src = fallbackSrc;
+          }}
+          loading="lazy"
+          decoding="async"
+          alt={`${title} cover`}
+        />
       </div>
 
       <div className="BookCardContent">
