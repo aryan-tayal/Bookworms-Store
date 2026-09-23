@@ -1,5 +1,5 @@
 import "./styles/BookCard.css";
-import React, { useState, useEffect, useRef, useMemo } from "react";
+import React, { useState, useEffect, useMemo } from "react";
 import { Category, Tag, PriceButton } from "./Utils";
 import { useExtractColors } from "react-extract-colors";
 
@@ -57,7 +57,6 @@ const BookCard = ({
     setCardColors(palette);
   }, [image, colors, dominantColor, lighterColor, darkerColor]);
 
-  // 🖼️ Render
   return (
     <div
       className="BookCard"

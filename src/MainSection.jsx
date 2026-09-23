@@ -2,7 +2,6 @@ import { useState } from "react";
 import BookCardContainer from "./BookCardContainer.jsx";
 import Filters from "./Filters.jsx";
 import "./styles/MainSection.css";
-import "./styles/MainSection.css";
 
 const MainSection = ({ bookData, handleFiltersChange }) => {
   const [isFilterOpen, setIsFilterOpen] = useState(false);
