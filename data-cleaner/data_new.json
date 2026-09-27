@@ -12,7 +12,8 @@
     "condition":"Good",
     "award":"Winner of the Raymond Crossword Book Award",
     "bestseller":false,
-    "id":"ccc1d7b3-bbad-4a83-b388-1a0fc5e4e305"
+    "id":"ea6e4c59-c412-44bc-aacd-0293199d7e7f",
+    "price":188
   },
   {
     "title":"Papillon",
@@ -28,7 +29,8 @@
     "condition":"Good",
     "award":"Global Bestselling Memoir",
     "bestseller":false,
-    "id":"8b7ac19b-32f9-4062-8ece-7e3b704038e0"
+    "id":"8699f423-76f2-47d4-af36-407ad99e9a00",
+    "price":225
   },
   {
     "title":"Stranger to History: A Son's Journey",
@@ -44,7 +46,8 @@
     "condition":"Good",
     "award":"Highly Acclaimed Travelogue",
     "bestseller":false,
-    "id":"918bf3b6-8654-4098-a65c-27951329458e"
+    "id":"3a0a2ad6-346c-46c0-a376-f55179bbed11",
+    "price":199
   },
   {
     "title":"I Am Malala",
@@ -59,7 +62,8 @@
     "condition":"Good",
     "award":"Written by the Nobel Peace Prize Laureate",
     "bestseller":false,
-    "id":"897036ca-a07a-4509-82e9-5478ef2e27a5"
+    "id":"33fdff71-f427-4a62-a3c1-d07a443b6604",
+    "price":175
   },
   {
     "title":"Khullam Khulla: Rishi Kapoor Uncensored",
@@ -74,7 +78,8 @@
     "condition":"Good",
     "award":"Highly Popular National Bestseller",
     "bestseller":false,
-    "id":"7431f867-e0e3-4352-b258-6ca2ae1e5532"
+    "id":"29fd199c-cb11-4dd0-9ef8-235c59d4f96a",
+    "price":199
   },
   {
     "title":"Father Dearest: The Life and Times",
@@ -90,7 +95,8 @@
     "condition":"Good",
     "award":"Critically Acclaimed Biography",
     "bestseller":false,
-    "id":"64354419-6889-4591-aed6-c8a4c1663107"
+    "id":"432b5728-ea0c-4fd5-85e0-71cea25a7875",
+    "price":160
   },
   {
     "title":"Mother Mary Comes To Me",
@@ -105,7 +111,8 @@
     "condition":"Good",
     "award":"Written by Sahitya Akademi Awardee",
     "bestseller":false,
-    "id":"2871253c-0879-4782-a9b7-3eb8340441f4"
+    "id":"861cc51c-8b25-4510-bcc1-aefcfcacb167",
+    "price":199
   },
   {
     "title":"Memoirs of a Geisha",
@@ -120,7 +127,8 @@
     "condition":"Good",
     "award":"Bestseller lists globally",
     "bestseller":false,
-    "id":"bb66f9d2-1db6-4ad9-8970-caaa23324f2b"
+    "id":"99dd7a55-5feb-47a9-9159-7cef9ad04ee1",
+    "price":212
   },
   {
     "title":"Running with Scissors",
@@ -135,7 +143,8 @@
     "condition":"Good",
     "award":"#1 New York Times Bestseller",
     "bestseller":false,
-    "id":"1e4ceb9e-d423-42ca-bb81-031a93d6f437"
+    "id":"880380c6-1118-400b-80f1-fc595eb7d1c3",
+    "price":299
   },
   {
     "title":"Da Vinci Decoded",
@@ -150,7 +159,8 @@
     "condition":"Good",
     "award":"Acclaimed Spiritual & Growth Guide",
     "bestseller":false,
-    "id":"1b113971-cf71-40dc-a9ea-4d94f65e44d2"
+    "id":"829569a9-6299-49e1-86d8-d6e8f22fe7b1",
+    "price":170
   },
   {
     "title":"Reading Lolita in Tehran",
@@ -165,7 +175,8 @@
     "condition":"Good",
     "award":"Winner of the Nonfiction Book of the Year",
     "bestseller":false,
-    "id":"c79c5c43-8df7-4d31-9f3d-6d701eccac17"
+    "id":"8f64edb4-c00e-42cf-8c06-066fbe3a9b44",
+    "price":249
   },
   {
     "title":"Princess Sultana's Daughters",
@@ -181,7 +192,8 @@
     "condition":"Good",
     "award":"International Bestselling Sequel",
     "bestseller":false,
-    "id":"55c474f8-bb14-4d73-878f-1fa87e6d8178"
+    "id":"c6c017a2-1e3b-4431-9d26-7013454ec78a",
+    "price":197
   },
   {
     "title":"Chaos Monkeys: Obscene Fortune...",
@@ -197,7 +209,8 @@
     "condition":"Good",
     "award":"New York Times Editor's Choice",
     "bestseller":false,
-    "id":"c0273dd8-dc74-4303-8732-42610b0eb820"
+    "id":"0263fd71-36a6-46a8-856d-d8398bcf83ad",
+    "price":249
   },
   {
     "title":"The Life Impossible",
@@ -212,7 +225,8 @@
     "condition":"Good",
     "award":"Instant International Hit",
     "bestseller":false,
-    "id":"f2edda0b-f6d5-4235-a73b-daa595cd987c"
+    "id":"68da4542-c8c2-488d-843e-0af672e2c865",
+    "price":225
   },
   {
     "title":"Born Again on the Mountain",
@@ -228,7 +242,8 @@
     "condition":"Good",
     "award":"Inspiring Account of Resilience",
     "bestseller":false,
-    "id":"2d001cdd-91ef-4b3e-8557-8beb029f1621"
+    "id":"5363fc52-fc1b-4774-b714-2b02a3b0dff6",
+    "price":107
   },
   {
     "title":"A Gift of Goddess Lakshmi",
@@ -243,7 +258,8 @@
     "condition":"Good",
     "award":"Groundbreaking Transgender Memoir",
     "bestseller":false,
-    "id":"d057edc2-f79f-4002-a953-f78ba03aee9b"
+    "id":"e31b6b20-5e0b-41e3-8c76-83ba4431a7b2",
+    "price":149
   },
   {
     "title":"Unbreakable",
@@ -258,7 +274,8 @@
     "condition":"Good",
     "award":"Autobiography of Olympic Medalist",
     "bestseller":false,
-    "id":"ae56cf8b-fcbe-4dd2-ab6a-9b7c4e61c983"
+    "id":"8a9699e0-fefd-4eb6-8830-225756a799a4",
+    "price":125
   },
   {
     "title":"Follow Every Rainbow",
@@ -273,7 +290,8 @@
     "condition":"Good",
     "award":"National Bestselling Compilation",
     "bestseller":false,
-    "id":"c86fe2cc-4d5a-42c4-ac1b-9d0763a86c33"
+    "id":"4a55c1ef-2afc-4f52-8370-5f0cfeaddc87",
+    "price":110
   },
   {
     "title":"Stay Hungry Stay Foolish",
@@ -288,7 +306,8 @@
     "condition":"Good",
     "award":"Bestselling Business Entrepreneur Book",
     "bestseller":false,
-    "id":"604796fa-527a-497b-872d-1747f40ed935"
+    "id":"ed7b0630-75f5-4406-a226-0345f63a0165",
+    "price":97
   },
   {
     "title":"An Autobiography: The Story of...",
@@ -304,7 +323,8 @@
     "condition":"Good",
     "award":"Designated as One of 100 Best Spiritual Books",
     "bestseller":false,
-    "id":"a045d03a-2bc6-4eae-b3d4-e8cf9e476b17"
+    "id":"8bd7e185-498c-4790-9629-c0ce75cd22dc",
+    "price":75
   },
   {
     "title":"Who Was Marie Curie?",
@@ -319,7 +339,8 @@
     "condition":"Good",
     "award":"Part of the Globally Popular History Series",
     "bestseller":false,
-    "id":"e1bbd4e7-9a71-401f-9a44-19d3cb89b16c"
+    "id":"14f4368c-b3d7-4895-8d89-1bf16604bea6",
+    "price":137
   },
   {
     "title":"Hot Seat: What I Learned Led",
@@ -335,7 +356,8 @@
     "condition":"Good",
     "award":"Axiom Business Book Award Winner",
     "bestseller":false,
-    "id":"9deb8808-6bf5-4d82-8c54-0905041c08eb"
+    "id":"4c0c4f5b-ba54-44fc-838e-7a694fdb7dda",
+    "price":299
   },
   {
     "title":"In the Shadow of the Mahatma",
@@ -351,7 +373,8 @@
     "condition":"Good",
     "award":"Historically Vital Account",
     "bestseller":false,
-    "id":"8a248400-8d40-4b75-ab1d-1c31c16622a3"
+    "id":"bcbd227a-be58-436f-bf65-db66dbd31e7b",
+    "price":225
   },
   {
     "title":"Richard Branson: Business Stripped Bare",
@@ -367,7 +390,8 @@
     "condition":"Good",
     "award":"Global Business Leader Insight",
     "bestseller":false,
-    "id":"0e0bb667-5fb6-49ee-b992-7ed5581b6a3b"
+    "id":"6fa4516d-d1b0-4751-912a-a2cac6bfa338",
+    "price":249
   },
   {
     "title":"Steve Jobs",
@@ -383,7 +407,8 @@
     "condition":"Good",
     "award":"Winner of the Goodreads Choice Award",
     "bestseller":false,
-    "id":"31e94ae0-372e-4166-9863-f5094e927337"
+    "id":"527623c8-0927-48ff-98db-68f293196351",
+    "price":275
   },
   {
     "title":"Open",
@@ -399,7 +424,8 @@
     "condition":"Good",
     "award":"Winner of the ITWA Best Memoir",
     "bestseller":false,
-    "id":"a978ff6c-4783-4bdd-9aaa-170492e94b0f"
+    "id":"cc08d588-3ad4-4087-8d7f-498d10744e75",
+    "price":225
   },
   {
     "title":"Playing It My Way",
@@ -415,7 +441,8 @@
     "condition":"Good",
     "award":"Broke Limca Book of Records for Sales",
     "bestseller":false,
-    "id":"8e9209fe-4554-4f45-9b88-eca77fb0bda4"
+    "id":"7b0a5ac0-2b62-405d-9809-482bdde371f8",
+    "price":249
   },
   {
     "title":"Too Big to Fail",
@@ -430,6 +457,7 @@
     "condition":"Good",
     "award":"Winner of the Gerald Loeb Award",
     "bestseller":false,
-    "id":"649c0ef7-9cfd-4fdc-87bf-d4b57bf99853"
+    "id":"c00096ec-2856-4e2a-8a69-94a92a0204d8",
+    "price":299
   }
 ]
