@@ -6,12 +6,12 @@ const CarouselCard = ({
   bgcolor,
   color,
   bookTitle,
-  bookAuthor,
+  bookauthor,
   bookBlurb,
   bookCover,
   bookCategory,
   price,
-  handleCardClick
+  handleCardClick,
 }) => {
   return (
     <div
@@ -24,7 +24,7 @@ const CarouselCard = ({
       </div>
       <div className="CarouselCardContent">
         <h2 className="CarouselCardTitle text-700">{bookTitle}</h2>
-        <h3 className="CarouselCardAuthor">{bookAuthor}</h3>
+        <h3 className="CarouselCardauthor">{bookauthor}</h3>
         <p className="CarouselCardBlurb">{bookBlurb}</p>
         <Category category={bookCategory} />
         <PriceButton price={price} color={color} />

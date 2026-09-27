@@ -22,7 +22,7 @@ const Navbar = ({ search, handleSearch }) => {
           id="searchInput"
           name="searchInput"
           onChange={handleFormSubmit}
-          placeholder="Book Title or Author"
+          placeholder="Book Title or author"
           value={search}
           ref={inputRef}
         />

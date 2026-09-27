@@ -1,0 +1,435 @@
+[
+  {
+    "title":"Desperately Seeking Shah Rukh",
+    "author":"Shrayana Bhattacharya",
+    "tags":[
+      "Memoir"
+    ],
+    "amazon-price":377,
+    "rating":4.33,
+    "isbn":"978-9354891939",
+    "blurb":"Maps the personal trajectories of a diverse group of Indian women united by their fandom for Shah Rukh Khan.",
+    "condition":"Good",
+    "award":"Winner of the Raymond Crossword Book Award",
+    "bestseller":false,
+    "id":"ccc1d7b3-bbad-4a83-b388-1a0fc5e4e305"
+  },
+  {
+    "title":"Papillon",
+    "author":"Henri Charrière",
+    "tags":[
+      "Memoir",
+      "Autobiography"
+    ],
+    "amazon-price":450,
+    "rating":4.27,
+    "isbn":"978-0061120084",
+    "blurb":"A thrilling and iconic autobiographical account of a sensational escape from the penal colony of French Guiana.",
+    "condition":"Good",
+    "award":"Global Bestselling Memoir",
+    "bestseller":false,
+    "id":"8b7ac19b-32f9-4062-8ece-7e3b704038e0"
+  },
+  {
+    "title":"Stranger to History: A Son's Journey",
+    "author":"Aatish Taseer",
+    "tags":[
+      "Memoir",
+      "Travelogue"
+    ],
+    "amazon-price":399,
+    "rating":3.91,
+    "isbn":"978-0330511155",
+    "blurb":"Part memoir and part travelogue charting the author's journey across Islamic lands to explore his own identity.",
+    "condition":"Good",
+    "award":"Highly Acclaimed Travelogue",
+    "bestseller":false,
+    "id":"918bf3b6-8654-4098-a65c-27951329458e"
+  },
+  {
+    "title":"I Am Malala",
+    "author":"Malala Yousafzai",
+    "tags":[
+      "Memoir"
+    ],
+    "amazon-price":350,
+    "rating":4.17,
+    "isbn":"978-0316322409",
+    "blurb":"The remarkable tale of a young Pakistani girl who stood up for education and was targeted by the Taliban.",
+    "condition":"Good",
+    "award":"Written by the Nobel Peace Prize Laureate",
+    "bestseller":false,
+    "id":"897036ca-a07a-4509-82e9-5478ef2e27a5"
+  },
+  {
+    "title":"Khullam Khulla: Rishi Kapoor Uncensored",
+    "author":"Rishi Kapoor (with Meena Iyer)",
+    "tags":[
+      "Memoir"
+    ],
+    "amazon-price":399,
+    "rating":3.88,
+    "isbn":"978-9352643806",
+    "blurb":"A candid, uninhibited look into the personal life and cinematic journey of one of Bollywood's legendary actors.",
+    "condition":"Good",
+    "award":"Highly Popular National Bestseller",
+    "bestseller":false,
+    "id":"7431f867-e0e3-4352-b258-6ca2ae1e5532"
+  },
+  {
+    "title":"Father Dearest: The Life and Times",
+    "author":"Neelima Dalmia Adhar",
+    "tags":[
+      "Memoir",
+      "Biography"
+    ],
+    "amazon-price":321,
+    "rating":3.22,
+    "isbn":"978-9386224361",
+    "blurb":"An uncompromising, intimate biography exploring the complex life of industrialist R.K. Dalmia.",
+    "condition":"Good",
+    "award":"Critically Acclaimed Biography",
+    "bestseller":false,
+    "id":"64354419-6889-4591-aed6-c8a4c1663107"
+  },
+  {
+    "title":"Mother Mary Comes To Me",
+    "author":"Arundhathi Subramaniam",
+    "tags":[
+      "Memoir"
+    ],
+    "amazon-price":399,
+    "rating":4.4,
+    "isbn":"978-1668094716",
+    "blurb":"A deeply moving memoir chronicling the author's intricate and fierce relationship with her mother.",
+    "condition":"Good",
+    "award":"Written by Sahitya Akademi Awardee",
+    "bestseller":false,
+    "id":"2871253c-0879-4782-a9b7-3eb8340441f4"
+  },
+  {
+    "title":"Memoirs of a Geisha",
+    "author":"Arthur Golden",
+    "tags":[
+      "Memoir"
+    ],
+    "amazon-price":425,
+    "rating":4.16,
+    "isbn":"978-0679781585",
+    "blurb":"A beautifully woven historical fiction piece depicting the secret, disciplined world of a geisha in 20th-century Japan.",
+    "condition":"Good",
+    "award":"Bestseller lists globally",
+    "bestseller":false,
+    "id":"bb66f9d2-1db6-4ad9-8970-caaa23324f2b"
+  },
+  {
+    "title":"Running with Scissors",
+    "author":"Augusten Burroughs",
+    "tags":[
+      "Memoir"
+    ],
+    "amazon-price":599,
+    "rating":3.73,
+    "isbn":"978-0312422271",
+    "blurb":"A fiercely funny yet disturbing memoir of a boy surviving a bizarre, highly unorthodox childhood.",
+    "condition":"Good",
+    "award":"#1 New York Times Bestseller",
+    "bestseller":false,
+    "id":"1e4ceb9e-d423-42ca-bb81-031a93d6f437"
+  },
+  {
+    "title":"Da Vinci Decoded",
+    "author":"Michael J. Gelb",
+    "tags":[
+      "Memoir"
+    ],
+    "amazon-price":340,
+    "rating":3.95,
+    "isbn":"978-1585424269",
+    "blurb":"A self-help guide applying Leonardo da Vinci’s seven foundational geniuses to maximize creative capability.",
+    "condition":"Good",
+    "award":"Acclaimed Spiritual & Growth Guide",
+    "bestseller":false,
+    "id":"1b113971-cf71-40dc-a9ea-4d94f65e44d2"
+  },
+  {
+    "title":"Reading Lolita in Tehran",
+    "author":"Azar Nafisi",
+    "tags":[
+      "Memoir"
+    ],
+    "amazon-price":499,
+    "rating":4.01,
+    "isbn":"978-0812971064",
+    "blurb":"A moving memoir of an English teacher who secretly gathered female students to read forbidden Western classics in Iran.",
+    "condition":"Good",
+    "award":"Winner of the Nonfiction Book of the Year",
+    "bestseller":false,
+    "id":"c79c5c43-8df7-4d31-9f3d-6d701eccac17"
+  },
+  {
+    "title":"Princess Sultana's Daughters",
+    "author":"Jean Sasson",
+    "tags":[
+      "Memoir",
+      "Biography"
+    ],
+    "amazon-price":395,
+    "rating":4.13,
+    "isbn":"978-0967112213",
+    "blurb":"Continues the striking, true struggles of a Saudi princess trying to protect her daughters in a restrictive society.",
+    "condition":"Good",
+    "award":"International Bestselling Sequel",
+    "bestseller":false,
+    "id":"55c474f8-bb14-4d73-878f-1fa87e6d8178"
+  },
+  {
+    "title":"Chaos Monkeys: Obscene Fortune...",
+    "author":"Antonio García Martínez",
+    "tags":[
+      "Memoir",
+      "Business"
+    ],
+    "amazon-price":499,
+    "rating":3.94,
+    "isbn":"978-0062458193",
+    "blurb":"An chaotic, inner look into the high-stakes, disruptive mechanics of Silicon Valley tech giants.",
+    "condition":"Good",
+    "award":"New York Times Editor's Choice",
+    "bestseller":false,
+    "id":"c0273dd8-dc74-4303-8732-42610b0eb820"
+  },
+  {
+    "title":"The Life Impossible",
+    "author":"Matt Haig",
+    "tags":[
+      "Memoir"
+    ],
+    "amazon-price":450,
+    "rating":4.02,
+    "isbn":"978-0593492727",
+    "blurb":"A magical, soul-stirring story about a retired teacher finding transformation and purpose in the wild landscapes of Ibiza.",
+    "condition":"Good",
+    "award":"Instant International Hit",
+    "bestseller":false,
+    "id":"f2edda0b-f6d5-4235-a73b-daa595cd987c"
+  },
+  {
+    "title":"Born Again on the Mountain",
+    "author":"Arunima Sinha",
+    "tags":[
+      "Memoir",
+      "Sports"
+    ],
+    "amazon-price":214,
+    "rating":4.38,
+    "isbn":"978-0143422839",
+    "blurb":"The deeply inspiring memoir of the first female amputee to conquer Mount Everest through sheer resilience.",
+    "condition":"Good",
+    "award":"Inspiring Account of Resilience",
+    "bestseller":false,
+    "id":"2d001cdd-91ef-4b3e-8557-8beb029f1621"
+  },
+  {
+    "title":"A Gift of Goddess Lakshmi",
+    "author":"Manobi Bandopadhyay",
+    "tags":[
+      "Memoir"
+    ],
+    "amazon-price":299,
+    "rating":4.26,
+    "isbn":"978-0670089154",
+    "blurb":"The groundbreaking autobiography detailing the triumphant journey of India's first transgender college principal.",
+    "condition":"Good",
+    "award":"Groundbreaking Transgender Memoir",
+    "bestseller":false,
+    "id":"d057edc2-f79f-4002-a953-f78ba03aee9b"
+  },
+  {
+    "title":"Unbreakable",
+    "author":"M.C. Mary Kom",
+    "tags":[
+      "Memoir"
+    ],
+    "amazon-price":250,
+    "rating":4.15,
+    "isbn":"978-9351160090",
+    "blurb":"The relentless personal account of a small-town girl who overcame barriers to become a global boxing champion.",
+    "condition":"Good",
+    "award":"Autobiography of Olympic Medalist",
+    "bestseller":false,
+    "id":"ae56cf8b-fcbe-4dd2-ab6a-9b7c4e61c983"
+  },
+  {
+    "title":"Follow Every Rainbow",
+    "author":"Rashmi Bansal",
+    "tags":[
+      "Memoir"
+    ],
+    "amazon-price":220,
+    "rating":3.78,
+    "isbn":"978-9382618416",
+    "blurb":"Captures the entrepreneurial journeys of 25 women who successfully balanced their homes with thriving businesses.",
+    "condition":"Good",
+    "award":"National Bestselling Compilation",
+    "bestseller":false,
+    "id":"c86fe2cc-4d5a-42c4-ac1b-9d0763a86c33"
+  },
+  {
+    "title":"Stay Hungry Stay Foolish",
+    "author":"Rashmi Bansal",
+    "tags":[
+      "Memoir"
+    ],
+    "amazon-price":195,
+    "rating":3.67,
+    "isbn":"978-8190455657",
+    "blurb":"Shares the inspiring success strategies of 25 top IIM-Ahmedabad graduates who chose the path of entrepreneurship.",
+    "condition":"Good",
+    "award":"Bestselling Business Entrepreneur Book",
+    "bestseller":false,
+    "id":"604796fa-527a-497b-872d-1747f40ed935"
+  },
+  {
+    "title":"An Autobiography: The Story of...",
+    "author":"M.K. Gandhi",
+    "tags":[
+      "Memoir",
+      "History"
+    ],
+    "amazon-price":150,
+    "rating":4.14,
+    "isbn":"978-0486245935",
+    "blurb":"A foundational spiritual and political document charting Mahatma Gandhi's personal experiments with truth.",
+    "condition":"Good",
+    "award":"Designated as One of 100 Best Spiritual Books",
+    "bestseller":false,
+    "id":"a045d03a-2bc6-4eae-b3d4-e8cf9e476b17"
+  },
+  {
+    "title":"Who Was Marie Curie?",
+    "author":"Megan Stine",
+    "tags":[
+      "Memoir"
+    ],
+    "amazon-price":275,
+    "rating":4.27,
+    "isbn":"978-0448478968",
+    "blurb":"An accessible, illustrative history book summarizing the life and Nobel prize-winning physics triumphs of Marie Curie.",
+    "condition":"Good",
+    "award":"Part of the Globally Popular History Series",
+    "bestseller":false,
+    "id":"e1bbd4e7-9a71-401f-9a44-19d3cb89b16c"
+  },
+  {
+    "title":"Hot Seat: What I Learned Led",
+    "author":"Jeff Immelt",
+    "tags":[
+      "Memoir",
+      "Business"
+    ],
+    "amazon-price":599,
+    "rating":3.51,
+    "isbn":"978-1541674448",
+    "blurb":"A raw account of leading GE through historic crises, offering crucial lessons in crisis management.",
+    "condition":"Good",
+    "award":"Axiom Business Book Award Winner",
+    "bestseller":false,
+    "id":"9deb8808-6bf5-4d82-8c54-0905041c08eb"
+  },
+  {
+    "title":"In the Shadow of the Mahatma",
+    "author":"G.D. Birla",
+    "tags":[
+      "Memoir",
+      "History"
+    ],
+    "amazon-price":450,
+    "rating":4.1,
+    "isbn":"978-0853457008",
+    "blurb":"A personal and historical memoir detailing the close relationship between the industrialist and Mahatma Gandhi.",
+    "condition":"Good",
+    "award":"Historically Vital Account",
+    "bestseller":false,
+    "id":"8a248400-8d40-4b75-ab1d-1c31c16622a3"
+  },
+  {
+    "title":"Richard Branson: Business Stripped Bare",
+    "author":"Richard Branson",
+    "tags":[
+      "Memoir",
+      "Self-help"
+    ],
+    "amazon-price":499,
+    "rating":3.89,
+    "isbn":"978-1846684784",
+    "blurb":"A revealing look at the billionaire's philosophies on business, life, leadership, and disruptive innovation.",
+    "condition":"Good",
+    "award":"Global Business Leader Insight",
+    "bestseller":false,
+    "id":"0e0bb667-5fb6-49ee-b992-7ed5581b6a3b"
+  },
+  {
+    "title":"Steve Jobs",
+    "author":"Walter Isaacson",
+    "tags":[
+      "Memoir",
+      "Biography"
+    ],
+    "amazon-price":550,
+    "rating":4.17,
+    "isbn":"978-1451648539",
+    "blurb":"The definitive, bestselling biography detailing the brilliant and volatile life of Apple's co-founder.",
+    "condition":"Good",
+    "award":"Winner of the Goodreads Choice Award",
+    "bestseller":false,
+    "id":"31e94ae0-372e-4166-9863-f5094e927337"
+  },
+  {
+    "title":"Open",
+    "author":"Andre Agassi",
+    "tags":[
+      "Memoir",
+      "Sports"
+    ],
+    "amazon-price":450,
+    "rating":4.3,
+    "isbn":"978-0307388407",
+    "blurb":"A captivating, intensely personal look into the high-pressure life and career of the tennis legend.",
+    "condition":"Good",
+    "award":"Winner of the ITWA Best Memoir",
+    "bestseller":false,
+    "id":"a978ff6c-4783-4bdd-9aaa-170492e94b0f"
+  },
+  {
+    "title":"Playing It My Way",
+    "author":"Sachin Tendulkar",
+    "tags":[
+      "Memoir",
+      "Sports"
+    ],
+    "amazon-price":499,
+    "rating":4.1,
+    "isbn":"978-1473605206",
+    "blurb":"The record-breaking autobiography detailing the iconic journey of cricket's most celebrated batsman.",
+    "condition":"Good",
+    "award":"Broke Limca Book of Records for Sales",
+    "bestseller":false,
+    "id":"8e9209fe-4554-4f45-9b88-eca77fb0bda4"
+  },
+  {
+    "title":"Too Big to Fail",
+    "author":"Andrew Ross Sorkin",
+    "tags":[
+      "Memoir"
+    ],
+    "amazon-price":599,
+    "rating":4.18,
+    "isbn":"978-0143119678",
+    "blurb":"A gripping, fly-on-the-wall account of the dramatic financial crisis of 2008 and the global economic collapse.",
+    "condition":"Good",
+    "award":"Winner of the Gerald Loeb Award",
+    "bestseller":false,
+    "id":"649c0ef7-9cfd-4fdc-87bf-d4b57bf99853"
+  }
+]

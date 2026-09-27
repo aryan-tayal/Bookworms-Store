@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
   const [isFictionChecked, setIsFictionChecked] = useState(true);
   const [isNonFictionChecked, setIsNonFictionChecked] = useState(true);
-  const [areConditionsChecked, setAreConditionsChecked] = useState([
+  const [areconditionsChecked, setAreconditionsChecked] = useState([
     true,
     true,
     true,
@@ -21,23 +21,23 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
   useEffect(() => {
     const filterInputs = {
       fiction: [isFictionChecked, isNonFictionChecked],
-      condition: areConditionsChecked,
+      condition: areconditionsChecked,
       age: areAgesChecked,
-      bestseller:isBestsellerChecked
+      bestseller: isBestsellerChecked,
     };
     handleFiltersChange(filterInputs);
   }, [
     isFictionChecked,
     isNonFictionChecked,
-    areConditionsChecked,
+    areconditionsChecked,
     areAgesChecked,
-    isBestsellerChecked
+    isBestsellerChecked,
   ]);
 
   const resetFilters = () => {
     setIsFictionChecked(true);
     setIsNonFictionChecked(true);
-    setAreConditionsChecked([true, true, true, true]);
+    setAreconditionsChecked([true, true, true, true]);
     setAreAgesChecked([true, true, true, true, true]);
     setIsBestsellerChecked(false);
   };
@@ -85,16 +85,16 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
           </div>
         </div>
         <div className="FilterCategory">
-          <h6>Condition</h6>
+          <h6>condition</h6>
           <div className="FilterCategoryInputs">
             <div className="FilterCategoryInput">
               <label htmlFor="new">New</label>
               <input
                 type="checkbox"
-                checked={areConditionsChecked[0]}
+                checked={areconditionsChecked[0]}
                 onChange={() =>
-                  setAreConditionsChecked(
-                    areConditionsChecked.map((c, i) => (i === 0 ? !c : c))
+                  setAreconditionsChecked(
+                    areconditionsChecked.map((c, i) => (i === 0 ? !c : c)),
                   )
                 }
                 id="new"
@@ -105,12 +105,12 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
               <label htmlFor="likenew">Like New</label>
               <input
                 type="checkbox"
-                checked={areConditionsChecked[1]}
+                checked={areconditionsChecked[1]}
                 id="likenew"
                 name="condition"
                 onChange={() =>
-                  setAreConditionsChecked(
-                    areConditionsChecked.map((c, i) => (i === 1 ? !c : c))
+                  setAreconditionsChecked(
+                    areconditionsChecked.map((c, i) => (i === 1 ? !c : c)),
                   )
                 }
               />
@@ -119,12 +119,12 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
               <label htmlFor="good">Good</label>
               <input
                 type="checkbox"
-                checked={areConditionsChecked[2]}
+                checked={areconditionsChecked[2]}
                 id="good"
                 name="condition"
                 onChange={() =>
-                  setAreConditionsChecked(
-                    areConditionsChecked.map((c, i) => (i === 2 ? !c : c))
+                  setAreconditionsChecked(
+                    areconditionsChecked.map((c, i) => (i === 2 ? !c : c)),
                   )
                 }
               />
@@ -133,12 +133,12 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
               <label htmlFor="used">Used</label>
               <input
                 type="checkbox"
-                checked={areConditionsChecked[3]}
+                checked={areconditionsChecked[3]}
                 id="used"
                 name="condition"
                 onChange={() =>
-                  setAreConditionsChecked(
-                    areConditionsChecked.map((c, i) => (i === 3 ? !c : c))
+                  setAreconditionsChecked(
+                    areconditionsChecked.map((c, i) => (i === 3 ? !c : c)),
                   )
                 }
               />
@@ -155,7 +155,7 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
                 checked={areAgesChecked[0]}
                 onChange={() =>
                   setAreAgesChecked(
-                    areAgesChecked.map((c, i) => (i === 0 ? !c : c))
+                    areAgesChecked.map((c, i) => (i === 0 ? !c : c)),
                   )
                 }
                 id="under10"
@@ -171,7 +171,7 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
                 name="age"
                 onChange={() =>
                   setAreAgesChecked(
-                    areAgesChecked.map((c, i) => (i === 1 ? !c : c))
+                    areAgesChecked.map((c, i) => (i === 1 ? !c : c)),
                   )
                 }
               />
@@ -185,7 +185,7 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
                 name="age"
                 onChange={() =>
                   setAreAgesChecked(
-                    areAgesChecked.map((c, i) => (i === 2 ? !c : c))
+                    areAgesChecked.map((c, i) => (i === 2 ? !c : c)),
                   )
                 }
               />
@@ -199,7 +199,7 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
                 name="age"
                 onChange={() =>
                   setAreAgesChecked(
-                    areAgesChecked.map((c, i) => (i === 3 ? !c : c))
+                    areAgesChecked.map((c, i) => (i === 3 ? !c : c)),
                   )
                 }
               />
@@ -213,7 +213,7 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
                 name="age"
                 onChange={() =>
                   setAreAgesChecked(
-                    areAgesChecked.map((c, i) => (i === 4 ? !c : c))
+                    areAgesChecked.map((c, i) => (i === 4 ? !c : c)),
                   )
                 }
               />

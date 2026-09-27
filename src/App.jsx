@@ -7,7 +7,7 @@ import Home from "./Home";
 import ContactPage from "./ContactPage";
 import BookPage from "./BookPage";
 
-import data from "./assets/data/data_with_isbn.json";
+import data from "./assets/data/data_new.json";
 
 import { BrowserRouter, Routes, Route } from "react-router";
 

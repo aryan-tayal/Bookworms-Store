@@ -9,7 +9,6 @@ const BookPage = () => {
   const [book, setBook] = useState(
     data.filter((b) => b.id === parseInt(id))[0],
   );
-  const [image, setImage] = useState("");
   const localSrc = `/covers/${book.id}.png`;
   const fallbackSrc = `https://covers.openlibrary.org/b/isbn/${book.isbn}-M.jpg`;
   return (
@@ -19,10 +18,8 @@ const BookPage = () => {
         <div>
           <img
             src={localSrc}
-            onLoad={(e) => setImage(e.currentTarget.src)}
             onError={(e) => {
               e.currentTarget.onerror = null;
-              e.currentTarget.onload = (ev) => setImage(ev.currentTarget.src);
               e.currentTarget.src = fallbackSrc;
             }}
             loading="lazy"
@@ -47,7 +44,7 @@ const BookPage = () => {
             )}
           </div>
 
-          <div className="BookCardCondition">
+          <div className="BookCardcondition">
             <i className="fa-solid fa-book"></i> {book.condition}
           </div>
 

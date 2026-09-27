@@ -10,7 +10,7 @@ const carouselData = [
     bookCover:
       "https://m.media-amazon.com/images/I/815qVQVm0QL._AC_UF1000,1000_QL80_.jpg",
     bookTitle: "Book Title 1",
-    bookAuthor: "Book Title",
+    bookauthor: "Book Title",
     bookBlurb:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reprehenderit quod velit, voluptatum illo quidem ab rem minima sapiente deleniti. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam et modi corrupti repellendus magni totam dolor accusamus incidunt nostrum, dolorum a voluptatem dolorem autem placeat tempore error saepe deserunt sed officiis numquam! Porro vitae est quis ullam suscipit quo dolorem eius expedita nobis officiis eos, natus similique sit modi vero.",
     bookCategory: "Young Adult",
@@ -22,7 +22,7 @@ const carouselData = [
     bookCover:
       "https://m.media-amazon.com/images/I/815qVQVm0QL._AC_UF1000,1000_QL80_.jpg",
     bookTitle: "Book Title 2",
-    bookAuthor: "Book Title",
+    bookauthor: "Book Title",
     bookBlurb:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reprehenderit quod velit, voluptatum illo quidem ab rem minima sapiente deleniti. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam et modi corrupti repellendus magni totam dolor accusamus incidunt nostrum, dolorum a voluptatem dolorem autem placeat tempore error saepe deserunt sed officiis numquam! Porro vitae est quis ullam suscipit quo dolorem eius expedita nobis officiis eos, natus similique sit modi vero.",
     bookCategory: "Young Adult",
@@ -34,7 +34,7 @@ const carouselData = [
     bookCover:
       "https://m.media-amazon.com/images/I/815qVQVm0QL._AC_UF1000,1000_QL80_.jpg",
     bookTitle: "Book Title 3",
-    bookAuthor: "Book Title",
+    bookauthor: "Book Title",
     bookBlurb:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reprehenderit quod velit, voluptatum illo quidem ab rem minima sapiente deleniti. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam et modi corrupti repellendus magni totam dolor accusamus incidunt nostrum, dolorum a voluptatem dolorem autem placeat tempore error saepe deserunt sed officiis numquam! Porro vitae est quis ullam suscipit quo dolorem eius expedita nobis officiis eos, natus similique sit modi vero.",
     bookCategory: "Young Adult",
@@ -46,7 +46,7 @@ const carouselData = [
     bookCover:
       "https://m.media-amazon.com/images/I/815qVQVm0QL._AC_UF1000,1000_QL80_.jpg",
     bookTitle: "Book Title 4",
-    bookAuthor: "Book Title",
+    bookauthor: "Book Title",
     bookBlurb:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reprehenderit quod velit, voluptatum illo quidem ab rem minima sapiente deleniti. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam et modi corrupti repellendus magni totam dolor accusamus incidunt nostrum, dolorum a voluptatem dolorem autem placeat tempore error saepe deserunt sed officiis numquam! Porro vitae est quis ullam suscipit quo dolorem eius expedita nobis officiis eos, natus similique sit modi vero.",
     bookCategory: "Young Adult",
@@ -58,7 +58,7 @@ const carouselData = [
     bookCover:
       "https://m.media-amazon.com/images/I/815qVQVm0QL._AC_UF1000,1000_QL80_.jpg",
     bookTitle: "Book Title 5",
-    bookAuthor: "Book Title",
+    bookauthor: "Book Title",
     bookBlurb:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reprehenderit quod velit, voluptatum illo quidem ab rem minima sapiente deleniti. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam et modi corrupti repellendus magni totam dolor accusamus incidunt nostrum, dolorum a voluptatem dolorem autem placeat tempore error saepe deserunt sed officiis numquam! Porro vitae est quis ullam suscipit quo dolorem eius expedita nobis officiis eos, natus similique sit modi vero.",
     bookCategory: "Young Adult",
@@ -70,7 +70,7 @@ const carouselData = [
     bookCover:
       "https://m.media-amazon.com/images/I/815qVQVm0QL._AC_UF1000,1000_QL80_.jpg",
     bookTitle: "Book Title 6",
-    bookAuthor: "Book Title",
+    bookauthor: "Book Title",
     bookBlurb:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reprehenderit quod velit, voluptatum illo quidem ab rem minima sapiente deleniti. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam et modi corrupti repellendus magni totam dolor accusamus incidunt nostrum, dolorum a voluptatem dolorem autem placeat tempore error saepe deserunt sed officiis numquam! Porro vitae est quis ullam suscipit quo dolorem eius expedita nobis officiis eos, natus similique sit modi vero.",
     bookCategory: "Young Adult",
@@ -85,7 +85,7 @@ const Carousel = () => {
   const chunkToThree = (arr) =>
     arr.reduce(
       (r, e, i) => (i % 3 ? r[r.length - 1].push(e) : r.push([e])) && r,
-      []
+      [],
     );
   return (
     <div id="carousel">

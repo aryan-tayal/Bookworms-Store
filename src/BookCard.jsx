@@ -105,7 +105,7 @@ const BookCard = ({
           )}
         </div>
 
-        <div className="BookCardCondition">
+        <div className="BookCardcondition">
           <i className="fa-solid fa-book"></i> {condition}
         </div>
 

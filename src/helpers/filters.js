@@ -1,15 +1,17 @@
-import data from "../assets/data/data_with_isbn.json";
+import data from "../assets/data/data_new.json";
 
 export const search = (searchTerm) => {
   const filtererData = [];
-  Array.from(data).reverse().map((book) => {
-    if (
-      book.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      book.author.toLowerCase().includes(searchTerm.toLowerCase())
-    ) {
-      filtererData.push(book);
-    }
-  });
+  Array.from(data)
+    .reverse()
+    .map((book) => {
+      if (
+        book.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        book.author.toLowerCase().includes(searchTerm.toLowerCase())
+      ) {
+        filtererData.push(book);
+      }
+    });
   return filtererData;
 };
 
@@ -31,7 +33,7 @@ export const filters = {
     isNewChecked,
     isLikeNewChecked,
     isGoodChecked,
-    isUsedChecked
+    isUsedChecked,
   ) => {
     const filtererData = [];
     bookData.map((book) => {
@@ -50,7 +52,7 @@ export const filters = {
     isAbove10Checked,
     isYoungAdultChecked,
     isAdultChecked,
-    isAllChecked
+    isAllChecked,
   ) => {
     const filtererData = [];
     bookData.map((book) => {
@@ -78,10 +80,10 @@ export default function handleSearchAndFilters(searchTerm, filterInputs) {
     filters.age(
       filters.condition(
         filters.fiction(search(searchTerm), ...filterInputs.fiction),
-        ...filterInputs.condition
+        ...filterInputs.condition,
       ),
-      ...filterInputs.age
+      ...filterInputs.age,
     ),
-    filterInputs.bestseller
+    filterInputs.bestseller,
   );
 }
