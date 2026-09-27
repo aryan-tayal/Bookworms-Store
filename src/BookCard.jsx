@@ -10,6 +10,7 @@ const BookCard = ({
   title,
   author,
   price,
+  tags,
   fiction,
   genre = "Novel",
   ageCategory,
@@ -91,10 +92,10 @@ const BookCard = ({
         <h4>{author}</h4>
 
         <div className="BookCardTags">
-          <Tag
-            tag={fiction ? "Fiction" : "Non-Fiction"}
-            color={cardColors.mainColor}
-          />
+          {tags.map((tag) => (
+            <Tag tag={tag} color={cardColors.mainColor} />
+          ))}
+
           <Tag tag={genre || "Novel"} color={cardColors.mainColor} />
           {bestseller && (
             <Tag

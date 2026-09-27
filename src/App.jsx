@@ -30,9 +30,10 @@ const App = () => {
   const handleFiltersChange = (filterInputs) => {
     setFilters(filterInputs);
   };
-  useEffect(() => {
-    setBookData(handleSearchAndFilters(search, filters));
-  }, [filters, search]);
+  console.log(bookData);
+  // useEffect(() => {
+  //   setBookData(handleSearchAndFilters(search, filters));
+  // }, [filters, search]);
 
   return (
     <div>
