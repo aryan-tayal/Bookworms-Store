@@ -2,6 +2,7 @@ import "./styles/BookCard.css";
 import React, { useState, useEffect, useMemo } from "react";
 import { Category, Tag, PriceButton } from "./Utils";
 import { useExtractColors } from "react-extract-colors";
+import { Link } from "react-router";
 
 const colorCache = new Map();
 
@@ -96,7 +97,6 @@ const BookCard = ({
             <Tag tag={tag} color={cardColors.mainColor} />
           ))}
 
-          <Tag tag={genre || "Novel"} color={cardColors.mainColor} />
           {bestseller && (
             <Tag
               bestseller
@@ -105,18 +105,13 @@ const BookCard = ({
             />
           )}
         </div>
-
-        <div className="BookCardcondition">
-          <i className="fa-solid fa-book"></i> {condition}
-        </div>
-
         <div className="BookCardFooter">
-          <Category category={ageCategory} />
           <PriceButton
             price={price}
             color={cardColors.mainColor}
             borderColor={cardColors.darkColor}
           />
+          <Link to={`/books/${id}`}>View Details</Link>
         </div>
       </div>
     </div>
