@@ -1,19 +1,16 @@
 import { useParams } from "react-router";
-import data from "./assets/data/data_with_isbn.json";
+import data from "./assets/data/data_new.json";
 import { useState } from "react";
 import { Category, Tag, PriceButton } from "./Utils";
 import "./styles/MainSection.css";
 
 const BookPage = () => {
   let { id } = useParams();
-  const [book, setBook] = useState(
-    data.filter((b) => b.id === parseInt(id))[0],
-  );
+  const [book, setBook] = useState(data.filter((b) => b.id === id)[0]);
   const localSrc = `/covers/${book.id}.png`;
   const fallbackSrc = `https://covers.openlibrary.org/b/isbn/${book.isbn}-M.jpg`;
   return (
     <div className="MainSection">
-      {book.title}
       <div>
         <div>
           <img
@@ -31,10 +28,11 @@ const BookPage = () => {
         <div>
           <h3>{book.title}</h3>
           <h4>{book.author}</h4>
-
+          <p>{book.blurb}</p>
           <div className="BookCardTags">
-            <Tag tag={book.fiction ? "Fiction" : "Non-Fiction"} />
-            <Tag tag={book.genre || "Novel"} />
+            {book.tags.map((tag) => (
+              <Tag tag={tag} />
+            ))}
             {book.bestseller && (
               <Tag
                 bestseller
@@ -43,7 +41,8 @@ const BookPage = () => {
               />
             )}
           </div>
-
+          <div className="BookRating">Goodreads Rating : {book.rating}</div>
+          <div className="BookAward">{book.award}</div>
           <div className="BookCardcondition">
             <i className="fa-solid fa-book"></i> {book.condition}
           </div>
