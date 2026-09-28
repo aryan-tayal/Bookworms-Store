@@ -4,21 +4,11 @@ import { Category, Tag, PriceButton } from "./Utils";
 import { useExtractColors } from "react-extract-colors";
 import { Link } from "react-router";
 
+import "./styles/utils.css";
+
 const colorCache = new Map();
 
-const BookCard = ({
-  id,
-  title,
-  author,
-  price,
-  tags,
-  fiction,
-  genre = "Novel",
-  ageCategory,
-  bestseller,
-  condition = "Good",
-  isbn,
-}) => {
+const BookCard = ({ id, title, author, price, tags, bestseller, isbn }) => {
   const localSrc = `/covers/${id}.png`;
   const fallbackSrc = `https://covers.openlibrary.org/b/isbn/${isbn}-M.jpg`;
   const [image, setImage] = useState("");

@@ -25,3 +25,24 @@
 .tag.bestseller > i {
   color: #fff;
 }
+
+.stars {
+  position: relative;
+  display: inline-block;
+}
+.stars-back > i,
+.stars-coloured > i {
+  color: inherit;
+}
+.stars-back {
+  color: #ccc;
+  display: flex;
+}
+.stars-coloured {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #d04949;
+  overflow: hidden;
+  display: flex;
+}

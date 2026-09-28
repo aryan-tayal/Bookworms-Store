@@ -1,7 +1,7 @@
 import { useParams } from "react-router";
 import data from "./assets/data/data_new.json";
 import { useState } from "react";
-import { Category, Tag, PriceButton } from "./Utils";
+import { Category, Tag, PriceButton, Stars } from "./Utils";
 import "./styles/MainSection.css";
 
 const BookPage = () => {
@@ -41,7 +41,9 @@ const BookPage = () => {
               />
             )}
           </div>
-          <div className="BookRating">Goodreads Rating : {book.rating}</div>
+          <div className="BookRating">
+            Goodreads Rating : <Stars rating={book.rating} />
+          </div>
           <div className="BookAward">{book.award}</div>
           <div className="BookCardcondition">
             <i className="fa-solid fa-book"></i> {book.condition}
