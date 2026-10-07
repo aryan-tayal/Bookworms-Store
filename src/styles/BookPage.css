@@ -1,16 +1,12 @@
 .BookPage {
-  margin-top: 120px;
-  padding: 0 40px;
+  padding: 2rem;
   display: grid;
-  grid-template-columns: 2fr 7fr;
-  gap: 3rem;
-}
-.BookPage-Img {
-  width: 100%;
-  aspect-ratio: 9/14.5;
-}
-.BookPage-Img > img {
-  width: 100%;
+  grid-template-columns: 220px minmax(0, 1fr) 180px;
+  gap: 2.5rem;
+  max-width: 1100px;
+  margin: auto;
+  margin-top: 120px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
 }
 .BookRating {
   display: flex;
@@ -24,4 +20,180 @@
 .BookPage-Content > h4 {
   font-size: 1.2rem;
   color: #444;
+}
+
+.BookPage-Side {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.BookPage-Img {
+  width: 190px;
+  aspect-ratio: 2 / 3;
+  overflow: hidden;
+  background: #f2f2f2;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.BookPage-Img img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+.BookRating {
+  display: flex;
+  justify-content: center;
+}
+.BookPage-Content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 0;
+}
+
+.BookPage-Content h3 {
+  margin: 0;
+  font-size: 2rem;
+  line-height: 1.15;
+}
+
+.BookPage-Content h4 {
+  margin: 0.45rem 0 1.25rem;
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: var(--text-accent);
+}
+
+.BookPage-Content p {
+  margin: 0 0 1.5rem;
+  max-width: 650px;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.BookPage-Content > div {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.BookAward {
+  margin-top: 1.5rem;
+  padding: 0.6rem 0.9rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #806000;
+  background: #fff8dc;
+  border: 1px solid #f0df9b;
+}
+.BookAward > i {
+  color: inherit;
+}
+/* Price */
+
+.BookPage-Content > div:last-child {
+  margin-top: auto;
+  padding-top: 2rem;
+}
+
+/* ---------- DETAILS ---------- */
+
+.BookPage-Details {
+  border-left: 1px solid #e5e5e5;
+  padding-left: 1.5rem;
+
+  display: flex;
+  align-items: flex-start;
+}
+
+.BookPage-Details > div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.9rem;
+
+  color: #555;
+  font-size: 0.9rem;
+}
+
+.BookPage-Details i {
+  margin-right: 0.4rem;
+  color: #888;
+}
+
+/* ---------- TABLET ---------- */
+
+@media (max-width: 850px) {
+  .BookPage {
+    grid-template-columns: 180px minmax(0, 1fr);
+    gap: 2rem;
+  }
+
+  .BookPage-Details {
+    grid-column: 1 / -1;
+
+    border-left: none;
+    border-top: 1px solid #e5e5e5;
+    padding: 1.5rem 0 0;
+  }
+
+  .BookPage-Details > div {
+    flex-direction: row;
+    align-items: center;
+  }
+}
+
+/* ---------- MOBILE ---------- */
+
+@media (max-width: 600px) {
+  .BookPage {
+    display: flex;
+    flex-direction: column;
+
+    margin: 1rem;
+    padding: 1.5rem;
+    gap: 1.5rem;
+
+    border-radius: 12px;
+  }
+
+  .BookPage-Side {
+    width: 100%;
+  }
+
+  .BookPage-Img {
+    width: 150px;
+  }
+
+  .BookPage-Content h3 {
+    font-size: 1.5rem;
+  }
+
+  .BookPage-Content {
+    width: 100%;
+  }
+
+  .BookPage-Details {
+    width: 100%;
+  }
+
+  .BookPage-Details > div {
+    flex-wrap: wrap;
+  }
+}
+
+.BookPage-Tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.BookPage-Price {
+  margin-top: auto;
+  padding-top: 2rem;
 }

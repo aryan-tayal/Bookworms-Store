@@ -31,11 +31,14 @@ const BookPage = () => {
       <div className="BookPage-Content">
         <h3>{book.title}</h3>
         <h4>{book.author}</h4>
+
         <p>{book.blurb}</p>
-        <div>
+
+        <div className="BookPage-Tags">
           {book.tags.map((tag) => (
-            <Tag tag={tag} />
+            <Tag key={tag} tag={tag} />
           ))}
+
           {book.bestseller && (
             <Tag
               bestseller
@@ -45,14 +48,21 @@ const BookPage = () => {
           )}
         </div>
 
-        <div className="BookAward">{book.award}</div>
-        <div>
-          <i className="fa-solid fa-book"></i> {book.condition}
-        </div>
+        {book.award && (
+          <div className="BookAward">
+            <i className="fa-solid fa-award"></i>
+            {book.award}
+          </div>
+        )}
 
+        <div className="BookPage-Price">
+          <PriceButton price={book.price} />
+        </div>
+      </div>
+      <div className="BookPage-Details">
         <div>
           <Category category={book.ageCategory} />
-          <PriceButton price={book.price} />
+          <i className="fa-solid fa-book"></i> {book.condition}
         </div>
       </div>
     </div>
