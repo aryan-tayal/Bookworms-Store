@@ -12,7 +12,7 @@ def createPrice(row):
     print(row["amazon-price"], row["condition"])
 
 
-df = pd.read_csv("data_new.csv", encoding="utf-8", encoding_errors="replace")
+df = pd.read_csv("data.csv", encoding="utf-8", encoding_errors="replace")
 df["id"] = [str(uuid.uuid4()) for _ in range(len(df))]
 df["tags"] = df["tags"].apply(cleanTags)
 df["price"] = np.select(
@@ -24,7 +24,7 @@ df["price"] = np.select(
     ],
     [
         df["amazon-price"] * 0.9,
-        df["amazon-price"] * 0.75,
+        df["amazon-price"] * 0.8,
         df["amazon-price"] * 0.5,
         df["amazon-price"] * 0.3,
     ],

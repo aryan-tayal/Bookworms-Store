@@ -1,463 +1,1442 @@
 [
   {
-    "title":"Desperately Seeking Shah Rukh",
-    "author":"Shrayana Bhattacharya",
+    "title":"Harry Potter and the Deathly Hallows",
+    "author":"J.K. Rowling",
     "tags":[
-      "Memoir"
-    ],
-    "amazon-price":377,
-    "rating":4.33,
-    "isbn":"978-9354891939",
-    "blurb":"Maps the personal trajectories of a diverse group of Indian women united by their fandom for Shah Rukh Khan.",
-    "condition":"Good",
-    "award":"Winner of the Raymond Crossword Book Award",
-    "bestseller":false,
-    "id":"ea6e4c59-c412-44bc-aacd-0293199d7e7f",
-    "price":188
-  },
-  {
-    "title":"Papillon",
-    "author":"Henri Charrière",
-    "tags":[
-      "Memoir",
-      "Autobiography"
-    ],
-    "amazon-price":450,
-    "rating":4.27,
-    "isbn":"978-0061120084",
-    "blurb":"A thrilling and iconic autobiographical account of a sensational escape from the penal colony of French Guiana.",
-    "condition":"Good",
-    "award":"Global Bestselling Memoir",
-    "bestseller":false,
-    "id":"8699f423-76f2-47d4-af36-407ad99e9a00",
-    "price":225
-  },
-  {
-    "title":"Stranger to History: A Son's Journey",
-    "author":"Aatish Taseer",
-    "tags":[
-      "Memoir",
-      "Travelogue"
-    ],
-    "amazon-price":399,
-    "rating":3.91,
-    "isbn":"978-0330511155",
-    "blurb":"Part memoir and part travelogue charting the author's journey across Islamic lands to explore his own identity.",
-    "condition":"Good",
-    "award":"Highly Acclaimed Travelogue",
-    "bestseller":false,
-    "id":"3a0a2ad6-346c-46c0-a376-f55179bbed11",
-    "price":199
-  },
-  {
-    "title":"I Am Malala",
-    "author":"Malala Yousafzai",
-    "tags":[
-      "Memoir"
-    ],
-    "amazon-price":350,
-    "rating":4.17,
-    "isbn":"978-0316322409",
-    "blurb":"The remarkable tale of a young Pakistani girl who stood up for education and was targeted by the Taliban.",
-    "condition":"Good",
-    "award":"Written by the Nobel Peace Prize Laureate",
-    "bestseller":false,
-    "id":"33fdff71-f427-4a62-a3c1-d07a443b6604",
-    "price":175
-  },
-  {
-    "title":"Khullam Khulla: Rishi Kapoor Uncensored",
-    "author":"Rishi Kapoor (with Meena Iyer)",
-    "tags":[
-      "Memoir"
-    ],
-    "amazon-price":399,
-    "rating":3.88,
-    "isbn":"978-9352643806",
-    "blurb":"A candid, uninhibited look into the personal life and cinematic journey of one of Bollywood's legendary actors.",
-    "condition":"Good",
-    "award":"Highly Popular National Bestseller",
-    "bestseller":false,
-    "id":"29fd199c-cb11-4dd0-9ef8-235c59d4f96a",
-    "price":199
-  },
-  {
-    "title":"Father Dearest: The Life and Times",
-    "author":"Neelima Dalmia Adhar",
-    "tags":[
-      "Memoir",
-      "Biography"
-    ],
-    "amazon-price":321,
-    "rating":3.22,
-    "isbn":"978-9386224361",
-    "blurb":"An uncompromising, intimate biography exploring the complex life of industrialist R.K. Dalmia.",
-    "condition":"Good",
-    "award":"Critically Acclaimed Biography",
-    "bestseller":false,
-    "id":"432b5728-ea0c-4fd5-85e0-71cea25a7875",
-    "price":160
-  },
-  {
-    "title":"Mother Mary Comes To Me",
-    "author":"Arundhathi Subramaniam",
-    "tags":[
-      "Memoir"
-    ],
-    "amazon-price":399,
-    "rating":4.4,
-    "isbn":"978-1668094716",
-    "blurb":"A deeply moving memoir chronicling the author's intricate and fierce relationship with her mother.",
-    "condition":"Good",
-    "award":"Written by Sahitya Akademi Awardee",
-    "bestseller":false,
-    "id":"861cc51c-8b25-4510-bcc1-aefcfcacb167",
-    "price":199
-  },
-  {
-    "title":"Memoirs of a Geisha",
-    "author":"Arthur Golden",
-    "tags":[
-      "Memoir"
-    ],
-    "amazon-price":425,
-    "rating":4.16,
-    "isbn":"978-0679781585",
-    "blurb":"A beautifully woven historical fiction piece depicting the secret, disciplined world of a geisha in 20th-century Japan.",
-    "condition":"Good",
-    "award":"Bestseller lists globally",
-    "bestseller":false,
-    "id":"99dd7a55-5feb-47a9-9159-7cef9ad04ee1",
-    "price":212
-  },
-  {
-    "title":"Running with Scissors",
-    "author":"Augusten Burroughs",
-    "tags":[
-      "Memoir"
+      "Fantasy"
     ],
     "amazon-price":599,
-    "rating":3.73,
-    "isbn":"978-0312422271",
-    "blurb":"A fiercely funny yet disturbing memoir of a boy surviving a bizarre, highly unorthodox childhood.",
+    "rating":4.62,
+    "isbn":9780545139700.0,
+    "blurb":"Harry, Ron and Hermione hunt the remaining Horcruxes and face Lord Voldemort in the final battle for the wizarding world.",
     "condition":"Good",
-    "award":"#1 New York Times Bestseller",
+    "award":"Winner of the Colorado Blue Spruce Book Award (2010); ALA Notable Book",
     "bestseller":false,
-    "id":"880380c6-1118-400b-80f1-fc595eb7d1c3",
+    "id":"fe25acbd-b3f3-42dd-83df-7dbfba4cbf2e",
     "price":299
   },
   {
-    "title":"Da Vinci Decoded",
-    "author":"Michael J. Gelb",
+    "title":"Harry Potter and the Half-Blood Prince",
+    "author":"J.K. Rowling",
     "tags":[
-      "Memoir"
-    ],
-    "amazon-price":340,
-    "rating":3.95,
-    "isbn":"978-1585424269",
-    "blurb":"A self-help guide applying Leonardo da Vinci’s seven foundational geniuses to maximize creative capability.",
-    "condition":"Good",
-    "award":"Acclaimed Spiritual & Growth Guide",
-    "bestseller":false,
-    "id":"829569a9-6299-49e1-86d8-d6e8f22fe7b1",
-    "price":170
-  },
-  {
-    "title":"Reading Lolita in Tehran",
-    "author":"Azar Nafisi",
-    "tags":[
-      "Memoir"
+      "Fantasy"
     ],
     "amazon-price":499,
-    "rating":4.01,
-    "isbn":"978-0812971064",
-    "blurb":"A moving memoir of an English teacher who secretly gathered female students to read forbidden Western classics in Iran.",
+    "rating":4.57,
+    "isbn":9780439785969.0,
+    "blurb":"Dumbledore guides Harry through Voldemort's past while danger closes in on Hogwarts and a shocking loss changes everything.",
     "condition":"Good",
-    "award":"Winner of the Nonfiction Book of the Year",
+    "award":"Winner of the British Book of the Year (2006); WH Smith Book of the Year",
     "bestseller":false,
-    "id":"8f64edb4-c00e-42cf-8c06-066fbe3a9b44",
+    "id":"c0db6aa7-2d5c-46ef-90c7-2a870fe07819",
     "price":249
   },
   {
-    "title":"Princess Sultana's Daughters",
-    "author":"Jean Sasson",
+    "title":"Murtagh",
+    "author":"Christopher Paolini",
     "tags":[
-      "Memoir",
-      "Biography"
+      "Fantasy"
     ],
-    "amazon-price":395,
-    "rating":4.13,
-    "isbn":"978-0967112213",
-    "blurb":"Continues the striking, true struggles of a Saudi princess trying to protect her daughters in a restrictive society.",
-    "condition":"Good",
-    "award":"International Bestselling Sequel",
-    "bestseller":false,
-    "id":"c6c017a2-1e3b-4431-9d26-7013454ec78a",
-    "price":197
+    "amazon-price":699,
+    "rating":3.9,
+    "isbn":null,
+    "blurb":"Set after Inheritance, Murtagh and his dragon Thorn wander Alagaesia, haunted by their past and pulled into a new threat.",
+    "condition":"Like New",
+    "award":"Instant #1 New York Times Bestseller; Goodreads Choice Award Nominee (2023)",
+    "bestseller":true,
+    "id":"3f3a1403-ac86-4e33-8c53-6625318c9f3b",
+    "price":559
   },
   {
-    "title":"Chaos Monkeys: Obscene Fortune...",
-    "author":"Antonio García Martínez",
+    "title":"Defy the Night",
+    "author":"Brigid Kemmerer",
     "tags":[
-      "Memoir",
-      "Business"
-    ],
-    "amazon-price":499,
-    "rating":3.94,
-    "isbn":"978-0062458193",
-    "blurb":"An chaotic, inner look into the high-stakes, disruptive mechanics of Silicon Valley tech giants.",
-    "condition":"Good",
-    "award":"New York Times Editor's Choice",
-    "bestseller":false,
-    "id":"0263fd71-36a6-46a8-856d-d8398bcf83ad",
-    "price":249
-  },
-  {
-    "title":"The Life Impossible",
-    "author":"Matt Haig",
-    "tags":[
-      "Memoir"
+      "Fantasy"
     ],
     "amazon-price":450,
-    "rating":4.02,
-    "isbn":"978-0593492727",
-    "blurb":"A magical, soul-stirring story about a retired teacher finding transformation and purpose in the wild landscapes of Ibiza.",
-    "condition":"Good",
-    "award":"Instant International Hit",
+    "rating":4.2,
+    "isbn":null,
+    "blurb":"A Robin Hood-style thief in a plague-ridden kingdom steals medicine meant for the king and is hunted by the prince.",
+    "condition":"Like New",
+    "award":"Goodreads Choice Award Nominee for Best Young Adult Fantasy & Sci-Fi (2021)",
     "bestseller":false,
-    "id":"68da4542-c8c2-488d-843e-0af672e2c865",
-    "price":225
+    "id":"ca55c0b3-86d7-4b6d-8027-33918df20f16",
+    "price":360
   },
   {
-    "title":"Born Again on the Mountain",
-    "author":"Arunima Sinha",
+    "title":"Defend the Dawn",
+    "author":"Brigid Kemmerer",
     "tags":[
-      "Memoir",
-      "Sports"
-    ],
-    "amazon-price":214,
-    "rating":4.38,
-    "isbn":"978-0143422839",
-    "blurb":"The deeply inspiring memoir of the first female amputee to conquer Mount Everest through sheer resilience.",
-    "condition":"Good",
-    "award":"Inspiring Account of Resilience",
-    "bestseller":false,
-    "id":"5363fc52-fc1b-4774-b714-2b02a3b0dff6",
-    "price":107
-  },
-  {
-    "title":"A Gift of Goddess Lakshmi",
-    "author":"Manobi Bandopadhyay",
-    "tags":[
-      "Memoir"
-    ],
-    "amazon-price":299,
-    "rating":4.26,
-    "isbn":"978-0670089154",
-    "blurb":"The groundbreaking autobiography detailing the triumphant journey of India's first transgender college principal.",
-    "condition":"Good",
-    "award":"Groundbreaking Transgender Memoir",
-    "bestseller":false,
-    "id":"e31b6b20-5e0b-41e3-8c76-83ba4431a7b2",
-    "price":149
-  },
-  {
-    "title":"Unbreakable",
-    "author":"M.C. Mary Kom",
-    "tags":[
-      "Memoir"
-    ],
-    "amazon-price":250,
-    "rating":4.15,
-    "isbn":"978-9351160090",
-    "blurb":"The relentless personal account of a small-town girl who overcame barriers to become a global boxing champion.",
-    "condition":"Good",
-    "award":"Autobiography of Olympic Medalist",
-    "bestseller":false,
-    "id":"8a9699e0-fefd-4eb6-8830-225756a799a4",
-    "price":125
-  },
-  {
-    "title":"Follow Every Rainbow",
-    "author":"Rashmi Bansal",
-    "tags":[
-      "Memoir"
-    ],
-    "amazon-price":220,
-    "rating":3.78,
-    "isbn":"978-9382618416",
-    "blurb":"Captures the entrepreneurial journeys of 25 women who successfully balanced their homes with thriving businesses.",
-    "condition":"Good",
-    "award":"National Bestselling Compilation",
-    "bestseller":false,
-    "id":"4a55c1ef-2afc-4f52-8370-5f0cfeaddc87",
-    "price":110
-  },
-  {
-    "title":"Stay Hungry Stay Foolish",
-    "author":"Rashmi Bansal",
-    "tags":[
-      "Memoir"
-    ],
-    "amazon-price":195,
-    "rating":3.67,
-    "isbn":"978-8190455657",
-    "blurb":"Shares the inspiring success strategies of 25 top IIM-Ahmedabad graduates who chose the path of entrepreneurship.",
-    "condition":"Good",
-    "award":"Bestselling Business Entrepreneur Book",
-    "bestseller":false,
-    "id":"ed7b0630-75f5-4406-a226-0345f63a0165",
-    "price":97
-  },
-  {
-    "title":"An Autobiography: The Story of...",
-    "author":"M.K. Gandhi",
-    "tags":[
-      "Memoir",
-      "History"
-    ],
-    "amazon-price":150,
-    "rating":4.14,
-    "isbn":"978-0486245935",
-    "blurb":"A foundational spiritual and political document charting Mahatma Gandhi's personal experiments with truth.",
-    "condition":"Good",
-    "award":"Designated as One of 100 Best Spiritual Books",
-    "bestseller":false,
-    "id":"8bd7e185-498c-4790-9629-c0ce75cd22dc",
-    "price":75
-  },
-  {
-    "title":"Who Was Marie Curie?",
-    "author":"Megan Stine",
-    "tags":[
-      "Memoir"
-    ],
-    "amazon-price":275,
-    "rating":4.27,
-    "isbn":"978-0448478968",
-    "blurb":"An accessible, illustrative history book summarizing the life and Nobel prize-winning physics triumphs of Marie Curie.",
-    "condition":"Good",
-    "award":"Part of the Globally Popular History Series",
-    "bestseller":false,
-    "id":"14f4368c-b3d7-4895-8d89-1bf16604bea6",
-    "price":137
-  },
-  {
-    "title":"Hot Seat: What I Learned Led",
-    "author":"Jeff Immelt",
-    "tags":[
-      "Memoir",
-      "Business"
-    ],
-    "amazon-price":599,
-    "rating":3.51,
-    "isbn":"978-1541674448",
-    "blurb":"A raw account of leading GE through historic crises, offering crucial lessons in crisis management.",
-    "condition":"Good",
-    "award":"Axiom Business Book Award Winner",
-    "bestseller":false,
-    "id":"4c0c4f5b-ba54-44fc-838e-7a694fdb7dda",
-    "price":299
-  },
-  {
-    "title":"In the Shadow of the Mahatma",
-    "author":"G.D. Birla",
-    "tags":[
-      "Memoir",
-      "History"
-    ],
-    "amazon-price":450,
-    "rating":4.1,
-    "isbn":"978-0853457008",
-    "blurb":"A personal and historical memoir detailing the close relationship between the industrialist and Mahatma Gandhi.",
-    "condition":"Good",
-    "award":"Historically Vital Account",
-    "bestseller":false,
-    "id":"bcbd227a-be58-436f-bf65-db66dbd31e7b",
-    "price":225
-  },
-  {
-    "title":"Richard Branson: Business Stripped Bare",
-    "author":"Richard Branson",
-    "tags":[
-      "Memoir",
-      "Self-help"
-    ],
-    "amazon-price":499,
-    "rating":3.89,
-    "isbn":"978-1846684784",
-    "blurb":"A revealing look at the billionaire's philosophies on business, life, leadership, and disruptive innovation.",
-    "condition":"Good",
-    "award":"Global Business Leader Insight",
-    "bestseller":false,
-    "id":"6fa4516d-d1b0-4751-912a-a2cac6bfa338",
-    "price":249
-  },
-  {
-    "title":"Steve Jobs",
-    "author":"Walter Isaacson",
-    "tags":[
-      "Memoir",
-      "Biography"
-    ],
-    "amazon-price":550,
-    "rating":4.17,
-    "isbn":"978-1451648539",
-    "blurb":"The definitive, bestselling biography detailing the brilliant and volatile life of Apple's co-founder.",
-    "condition":"Good",
-    "award":"Winner of the Goodreads Choice Award",
-    "bestseller":false,
-    "id":"527623c8-0927-48ff-98db-68f293196351",
-    "price":275
-  },
-  {
-    "title":"Open",
-    "author":"Andre Agassi",
-    "tags":[
-      "Memoir",
-      "Sports"
+      "Fantasy"
     ],
     "amazon-price":450,
     "rating":4.3,
-    "isbn":"978-0307388407",
-    "blurb":"A captivating, intensely personal look into the high-pressure life and career of the tennis legend.",
-    "condition":"Good",
-    "award":"Winner of the ITWA Best Memoir",
-    "bestseller":false,
-    "id":"cc08d588-3ad4-4087-8d7f-498d10744e75",
-    "price":225
+    "isbn":null,
+    "blurb":"Sequel to Defy the Night: Tessa, Corrick and the rebels fight to topple a tyrant king and save their kingdom.",
+    "condition":"Like New",
+    "award":"Bestselling installment in the Defy the Night trilogy",
+    "bestseller":true,
+    "id":"e5b8556d-ee55-41a3-8270-0577adcef71d",
+    "price":360
   },
   {
-    "title":"Playing It My Way",
-    "author":"Sachin Tendulkar",
+    "title":"Vespertine",
+    "author":"Margaret Rogerson",
     "tags":[
-      "Memoir",
-      "Sports"
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":4.1,
+    "isbn":null,
+    "blurb":"A teenage novice in a convent must wield an ancient relic and a vengeful spirit to defend her order from the restless dead.",
+    "condition":"Like New",
+    "award":"Goodreads Choice Award Nominee for Best Young Adult Fantasy & Sci-Fi (2021)",
+    "bestseller":false,
+    "id":"b51049bc-1106-4cb5-ad54-97376f8c4766",
+    "price":340
+  },
+  {
+    "title":"The Prisoner's Throne",
+    "author":"Holly Black",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":550,
+    "rating":4.2,
+    "isbn":null,
+    "blurb":"Wren and Oak, bound by a dangerous alliance, face betrayal and a war that could shatter the courts of Faerie.",
+    "condition":"Good",
+    "award":"Instant #1 New York Times Bestseller (2024)",
+    "bestseller":true,
+    "id":"9525deb9-5203-4b82-acc0-8c4d63418c74",
+    "price":275
+  },
+  {
+    "title":"The Stolen Heir",
+    "author":"Holly Black",
+    "tags":[
+      "Fantasy"
     ],
     "amazon-price":499,
-    "rating":4.1,
-    "isbn":"978-1473605206",
-    "blurb":"The record-breaking autobiography detailing the iconic journey of cricket's most celebrated batsman.",
+    "rating":4.0,
+    "isbn":null,
+    "blurb":"A fugitive princess and an exiled prince team up on a perilous quest through the frozen Court of Teeth.",
     "condition":"Good",
-    "award":"Broke Limca Book of Records for Sales",
+    "award":"Goodreads Choice Award Nominee for Best Young Adult Fantasy & Sci-Fi (2023)",
     "bestseller":false,
-    "id":"7b0a5ac0-2b62-405d-9809-482bdde371f8",
+    "id":"42ff1556-920d-405d-9063-549c1d564d39",
     "price":249
   },
   {
-    "title":"Too Big to Fail",
-    "author":"Andrew Ross Sorkin",
+    "title":"The Chronicles of Narnia: The Last Battle",
+    "author":"C.S. Lewis",
     "tags":[
-      "Memoir"
+      "Fantasy"
+    ],
+    "amazon-price":299,
+    "rating":4.2,
+    "isbn":null,
+    "blurb":"Narnia faces its final days as a false Aslan deceives the land and King Tirian fights to save it.",
+    "condition":"Good",
+    "award":"Winner of the Carnegie Medal (1956)",
+    "bestseller":false,
+    "id":"8d9d931f-5866-4b69-9497-cdadacd8e830",
+    "price":149
+  },
+  {
+    "title":"The Hitchhiker's Guide to the Galaxy",
+    "author":"Douglas Adams",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":350,
+    "rating":4.22,
+    "isbn":9780345391803.0,
+    "blurb":"Seconds before Earth is demolished for a hyperspace bypass, Arthur Dent is whisked into space for a hilarious tour of the galaxy.",
+    "condition":"Good",
+    "award":"Ranked #4 on the BBC's The Big Read poll",
+    "bestseller":false,
+    "id":"27ebe3db-1413-41dd-9359-c240dab9614f",
+    "price":175
+  },
+  {
+    "title":"An Ember in the Ashes",
+    "author":"Sabaa Tahir",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":399,
+    "rating":4.37,
+    "isbn":9781595143914.0,
+    "blurb":"In a brutal empire modelled on ancient Rome, a young scholar and a reluctant soldier are caught in a deadly web of rebellion.",
+    "condition":"Like New",
+    "award":"A Time Magazine Best Fantasy Book of All Time nominee",
+    "bestseller":false,
+    "id":"a8bc0e7d-714e-4ef2-a05c-7c47d5bbec60",
+    "price":319
+  },
+  {
+    "title":"A Torch Against the Night",
+    "author":"Sabaa Tahir",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":4.45,
+    "isbn":null,
+    "blurb":"Laia and Elias flee separate dangers as the Empire tightens its grip and impossible choices loom.",
+    "condition":"Like New",
+    "award":"Goodreads Choice Award Nominee for Best Young Adult Fantasy (2016)",
+    "bestseller":false,
+    "id":"a81b91d3-c0df-45a6-a25d-16110cb011b8",
+    "price":340
+  },
+  {
+    "title":"A Reaper at the Gates",
+    "author":"Sabaa Tahir",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.4,
+    "isbn":null,
+    "blurb":"Laia, Elias and Helene confront the Nightbringer as war and ancient magic threaten to crush the Empire.",
+    "condition":"Like New",
+    "award":"New York Times Bestseller",
+    "bestseller":true,
+    "id":"31bdcc8e-b5f3-433f-9eaf-b850c0816acd",
+    "price":360
+  },
+  {
+    "title":"City of Bones",
+    "author":"Cassandra Clare",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":399,
+    "rating":4.1,
+    "isbn":9781416914280.0,
+    "blurb":"Fifteen-year-old Clary discovers she is a Shadowhunter and is pulled into a hidden world of demons, angels and secrets.",
+    "condition":"Good",
+    "award":"Locus Award Nominee for Best First Novel (2008)",
+    "bestseller":false,
+    "id":"170aa47c-db26-445b-9806-dbcdba2d9b25",
+    "price":199
+  },
+  {
+    "title":"City of Ashes",
+    "author":"Cassandra Clare",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":4.2,
+    "isbn":9781416914297.0,
+    "blurb":"Clary searches for a cure for her mother while Valentine's schemes close in on the Shadowhunters.",
+    "condition":"Good",
+    "award":"Goodreads Choice Award Nominee for Young Adult Fiction (2008)",
+    "bestseller":false,
+    "id":"f3ab80c2-b0e6-4ce0-9078-fec51c4e040b",
+    "price":212
+  },
+  {
+    "title":"City of Glass",
+    "author":"Cassandra Clare",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":4.3,
+    "isbn":9781416914303.0,
+    "blurb":"Clary and Jace race to Idris, the Shadowhunters' homeland, for the explosive final showdown with Valentine.",
+    "condition":"Good",
+    "award":"Mainstay on the New York Times Children's Series Bestseller list",
+    "bestseller":true,
+    "id":"d0f7fa51-4521-4498-88dd-15307be9b0b4",
+    "price":212
+  },
+  {
+    "title":"City of Fallen Angels",
+    "author":"Cassandra Clare",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.1,
+    "isbn":9781442416864.0,
+    "blurb":"Peace in the Shadowhunter world is shaken as Clary and Jace face a new dark threat and a murder mystery.",
+    "condition":"Good",
+    "award":"#1 New York Times Bestseller",
+    "bestseller":true,
+    "id":"a37052f3-b2c1-4107-b802-8f142c39795c",
+    "price":225
+  },
+  {
+    "title":"City of Lost Souls",
+    "author":"Cassandra Clare",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.2,
+    "isbn":9781442416895.0,
+    "blurb":"Clary and her friends race to stop Sebastian's plan as bonds of love and loyalty are tested.",
+    "condition":"Good",
+    "award":"Goodreads Choice Award Nominee for Best Young Adult Fantasy (2012)",
+    "bestseller":false,
+    "id":"e249fb39-a306-4113-9533-7c543fa53ec2",
+    "price":225
+  },
+  {
+    "title":"Brisingr",
+    "author":"Christopher Paolini",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":499,
+    "rating":4.2,
+    "isbn":9780375826726.0,
+    "blurb":"Eragon and Saphira join the Varden in the rebellion against King Galbatorix as new powers and hard truths emerge.",
+    "condition":"Good",
+    "award":"Winner of the Quill Award (2008)",
+    "bestseller":false,
+    "id":"491e726d-5881-4373-a40b-6151a59b19e1",
+    "price":249
+  },
+  {
+    "title":"Eldest",
+    "author":"Christopher Paolini",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.0,
+    "isbn":null,
+    "blurb":"Eragon trains with the elves while Roran protects the village, as the war against Galbatorix deepens.",
+    "condition":"Good",
+    "award":"Winner of the Quill Award (2006); Bill Konigsberg Award Winner",
+    "bestseller":false,
+    "id":"2859900a-f2d1-49ff-a819-0c4448906c22",
+    "price":225
+  },
+  {
+    "title":"Inheritance",
+    "author":"Christopher Paolini",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":550,
+    "rating":3.46,
+    "isbn":9780141027289.0,
+    "blurb":"A story exploring colonialism, nationalism, and identity in the Himalayas.",
+    "condition":"Good",
+    "award":"Goodreads Choice Award Nominee for Best Fantasy (2011)",
+    "bestseller":false,
+    "id":"2d65848b-c310-4f39-9fbe-59f414ec5691",
+    "price":275
+  },
+  {
+    "title":"Young Samurai: The Ring of Wind",
+    "author":"Chris Bradford",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":399,
+    "rating":3.9,
+    "isbn":null,
+    "blurb":"A young English boy in 1600s Japan trains as a samurai after his father's death, facing rivalry and deadly challenges.",
+    "condition":"Good",
+    "award":"Highly acclaimed martial arts historical fiction series",
+    "bestseller":false,
+    "id":"93658241-1f93-447f-af9e-d655d149eb09",
+    "price":199
+  },
+  {
+    "title":"The Magician King",
+    "author":"Lev Grossman",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":3.9,
+    "isbn":9780670022304.0,
+    "blurb":"Quentin and his friends rule Fillory, but a quest across the sea lets dark and dangerous magic spill out.",
+    "condition":"Good",
+    "award":"New York Times Bestseller",
+    "bestseller":true,
+    "id":"218dc3aa-03ed-4556-95e9-459186d562ab",
+    "price":225
+  },
+  {
+    "title":"Gladiator: Fight for Freedom",
+    "author":"Simon Scarrow",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":350,
+    "rating":4.0,
+    "isbn":null,
+    "blurb":"Marcus, a young Roman, is sold into the gladiator ring and must fight to survive and earn his freedom.",
+    "condition":"Good",
+    "award":"Highly acclaimed juvenile historical fiction nominee",
+    "bestseller":false,
+    "id":"1943806a-f582-4c3e-a14f-4ea9b215e3cd",
+    "price":175
+  },
+  {
+    "title":"Gladiator: Son of Spartacus",
+    "author":"Simon Scarrow",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":350,
+    "rating":4.0,
+    "isbn":null,
+    "blurb":"Spartacus's son Marcus is a Roman gladiator caught between loyalty and the legacy of his father's rebellion.",
+    "condition":"Good",
+    "award":"Renowned Roman army adventure narrative",
+    "bestseller":false,
+    "id":"aef15319-3999-47f2-97b5-c1f00cf734f9",
+    "price":175
+  },
+  {
+    "title":"Demigods and Magicians",
+    "author":"Rick Riordan",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":399,
+    "rating":4.1,
+    "isbn":null,
+    "blurb":"A crossover short-story collection joining Percy Jackson with Carter and Sadie Kane in a battle of gods and magicians.",
+    "condition":"Good",
+    "award":"Bestselling crossover compilation of Percy Jackson and Kane Chronicles",
+    "bestseller":true,
+    "id":"0243b33a-a0a8-405f-b86a-74829bb60319",
+    "price":199
+  },
+  {
+    "title":"The Serpent's Shadow",
+    "author":"Rick Riordan",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":4.3,
+    "isbn":9781423140573.0,
+    "blurb":"Carter and Sadie Kane race to awaken Apophis' enemy and stop the chaos serpent from devouring the world.",
+    "condition":"Good",
+    "award":"Goodreads Choice Award Nominee for Best Middle Grade & Children's (2012)",
+    "bestseller":false,
+    "id":"fbc493af-499e-4187-8374-11ec50512566",
+    "price":212
+  },
+  {
+    "title":"The Throne of Fire",
+    "author":"Rick Riordan",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":4.2,
+    "isbn":null,
+    "blurb":"The Kanes must find the lost Book of Ra and awaken the sun god before Apophis rises to destroy the world.",
+    "condition":"Good",
+    "award":"Goodreads Choice Award Nominee for Best Middle Grade & Children's (2011)",
+    "bestseller":false,
+    "id":"c5cb3b96-a790-4dcc-85aa-75fb523a1b98",
+    "price":212
+  },
+  {
+    "title":"Magnus Chase and the Gods of Asgard: The Ship of the Dead",
+    "author":"Rick Riordan",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.3,
+    "isbn":null,
+    "blurb":"Magnus and his friends set sail on Naglfar, the ship of the dead, to stop Loki from unleashing Ragnarok.",
+    "condition":"Like New",
+    "award":"Winner of the Goodreads Choice Award for Best Middle Grade & Children's (2017)",
+    "bestseller":false,
+    "id":"1f2dadb0-ff66-462a-9f40-b152fe4d6a2f",
+    "price":360
+  },
+  {
+    "title":"Heroes of Olympus: The Son of Neptune",
+    "author":"Rick Riordan",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.4,
+    "isbn":null,
+    "blurb":"Percy Jackson has lost his memory and finds refuge at a Roman camp for demigods in the Greek-Roman crossover series.",
+    "condition":"Like New",
+    "award":"Winner of the Goodreads Choice Award for Best Middle Grade & Children's (2012)",
+    "bestseller":false,
+    "id":"191f3ddc-0c9a-4499-a349-668a30bf6a5d",
+    "price":360
+  },
+  {
+    "title":"Carve the Mark",
+    "author":"Veronica Roth",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":499,
+    "rating":3.5,
+    "isbn":null,
+    "blurb":"Two warrior-heirs from rival planets, one cursed with a dangerous gift, become fated to each other and a deadly conflict.",
+    "condition":"Like New",
+    "award":"Goodreads Choice Award Nominee for Best Young Adult Sci-Fi (2017)",
+    "bestseller":false,
+    "id":"8eb901fc-ae74-49bd-98e1-baf069a6618d",
+    "price":399
+  },
+  {
+    "title":"York: The Shadow Cipher",
+    "author":"Laura Ruby",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":4.0,
+    "isbn":null,
+    "blurb":"Twelve-year-old Tess and her friends hunt for a hidden puzzle in their mysterious New York building.",
+    "condition":"Like New",
+    "award":"Goodreads Choice Award Nominee for Best Middle Grade & Children's (2017)",
+    "bestseller":false,
+    "id":"e1659f9c-8d21-4c14-b10e-cb1c32b6f2ea",
+    "price":340
+  },
+  {
+    "title":"Miss Peregrine's Home for Peculiar Children: The Conference of the Birds",
+    "author":"Ransom Riggs",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":499,
+    "rating":4.1,
+    "isbn":null,
+    "blurb":"The peculiar children are tested by a battle for the loop and a mission that could end their way of life.",
+    "condition":"Like New",
+    "award":"#1 New York Times Children's Series Bestseller",
+    "bestseller":true,
+    "id":"cc51a730-7e48-449c-861c-aeaa7c10aa35",
+    "price":399
+  },
+  {
+    "title":"Miss Peregrine's Home for Peculiar Children: A Map of Days",
+    "author":"Ransom Riggs",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":499,
+    "rating":3.9,
+    "isbn":null,
+    "blurb":"Jacob and Emma start new lives in America and find the peculiar world far from safe in this third Peregrine novel.",
+    "condition":"Like New",
+    "award":"Goodreads Choice Award Nominee for Best Young Adult Fantasy (2018)",
+    "bestseller":false,
+    "id":"6d6babeb-2eab-4a1e-b673-57ec0d1be76b",
+    "price":399
+  },
+  {
+    "title":"Breaking Dawn",
+    "author":"Stephenie Meyer",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":499,
+    "rating":3.8,
+    "isbn":9780316067928.0,
+    "blurb":"Bella faces marriage, motherhood and an even greater danger as the Volturi threaten the Cullens.",
+    "condition":"Good",
+    "award":"Winner of the British Book Award for Children's Book of the Year (2009)",
+    "bestseller":false,
+    "id":"0789ae66-c42f-4a4d-9745-2e3b3d0b1f2b",
+    "price":249
+  },
+  {
+    "title":"New Moon",
+    "author":"Stephenie Meyer",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":3.6,
+    "isbn":9780316160193.0,
+    "blurb":"Bella is left heartbroken when Edward departs, and finds comfort and new danger in Jacob Black.",
+    "condition":"Good",
+    "award":"Winner of the Children's Choice Book Award (2007)",
+    "bestseller":false,
+    "id":"a52cc1a3-1c3d-488f-a928-307e8837ff93",
+    "price":225
+  },
+  {
+    "title":"Eclipse",
+    "author":"Stephenie Meyer",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":3.7,
+    "isbn":9780316160209.0,
+    "blurb":"Bella must choose between Edward and Jacob as an army of newborn vampires threatens Forks.",
+    "condition":"Good",
+    "award":"Goodreads Choice Award Nominee for Favorite Book (2007)",
+    "bestseller":false,
+    "id":"df1f559e-4da7-4445-9bca-d57a3d3383c7",
+    "price":225
+  },
+  {
+    "title":"The City of Brass",
+    "author":"S.A. Chakraborty",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":499,
+    "rating":4.1,
+    "isbn":9780062678102.0,
+    "blurb":"Nahri, a con artist in 18th-century Cairo, is swept into the magical world of the djinn by a mysterious warrior.",
+    "condition":"Good",
+    "award":"Finalist for the World Fantasy Award, Locus Award, and British Fantasy Award (2018)",
+    "bestseller":false,
+    "id":"f132a40d-763b-443b-a631-66bb0a1b4b75",
+    "price":249
+  },
+  {
+    "title":"The Kingdom of Copper",
+    "author":"S.A. Chakraborty",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":525,
+    "rating":4.2,
+    "isbn":9780062678119.0,
+    "blurb":"Nahri and Ali face betrayal in the djinn court as the fate of Daevabad hangs in the balance.",
+    "condition":"Good",
+    "award":"Locus Award Nominee for Best Fantasy Novel (2020)",
+    "bestseller":false,
+    "id":"487e829a-5181-4cf7-9df4-10a1b268f120",
+    "price":262
+  },
+  {
+    "title":"The Empire of Gold",
+    "author":"S.A. Chakraborty",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":550,
+    "rating":4.4,
+    "isbn":null,
+    "blurb":"The fall of Daevabad's rulers leaves Nahri, Ali and Dara confronting the secrets that could end their world.",
+    "condition":"Good",
+    "award":"Goodreads Choice Award Nominee for Best Fantasy (2020)",
+    "bestseller":false,
+    "id":"a7592c90-39f9-41dc-ba7f-ebb0c033843e",
+    "price":275
+  },
+  {
+    "title":"The Shadow of What Was Lost",
+    "author":"James Islington",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.2,
+    "isbn":null,
+    "blurb":"A shy boy in a world where magic is banned discovers his powers as an ancient evil returns.",
+    "condition":"Good",
+    "award":"Highly acclaimed epic fantasy debut novel",
+    "bestseller":false,
+    "id":"c5273c71-84ba-4d22-8017-f2c6b9f32036",
+    "price":225
+  },
+  {
+    "title":"Valour",
+    "author":"John Gwynne",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.2,
+    "isbn":null,
+    "blurb":"The clash between the Order and the Banished Lords intensifies as old loyalties are tested.",
+    "condition":"Like New",
+    "award":"Highly rated installment in The Faithful and the Fallen series",
+    "bestseller":false,
+    "id":"bb44f0c7-3792-43ba-9188-26585ce2e195",
+    "price":360
+  },
+  {
+    "title":"Ruin",
+    "author":"John Gwynne",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.4,
+    "isbn":null,
+    "blurb":"As war ravages the Banished Lands, Corban and his allies fight to protect their world and keep hope alive.",
+    "condition":"Like New",
+    "award":"Shortlisted for the David Gemmell Legend Award",
+    "bestseller":false,
+    "id":"1b642a03-1d95-4078-9341-2bbbb8fb6156",
+    "price":360
+  },
+  {
+    "title":"Malice",
+    "author":"John Gwynne",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":4.2,
+    "isbn":null,
+    "blurb":"Young Corban, a shepherd, grows into a warrior as demons, giants and dark forces gather in the Banished Lands.",
+    "condition":"Like New",
+    "award":"Winner of the David Gemmell Morningstar Award for Best Debut (2013)",
+    "bestseller":false,
+    "id":"5ea94b88-55b1-446d-8e0e-8b2e7e3b4207",
+    "price":340
+  },
+  {
+    "title":"Wrath",
+    "author":"John Gwynne",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":499,
+    "rating":4.4,
+    "isbn":null,
+    "blurb":"The thrilling final book in The Faithful and the Fallen, where the destiny of the Banished Lands is decided.",
+    "condition":"Like New",
+    "award":"Epic finale to the Gemmell-award winning grimdark saga",
+    "bestseller":false,
+    "id":"729f9fbb-c2e1-41ba-bd0d-925de88e05c2",
+    "price":399
+  },
+  {
+    "title":"A Game of Thrones",
+    "author":"George R.R. Martin",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":4.45,
+    "isbn":9780553593716.0,
+    "blurb":"Noble families fight for the Iron Throne in Westeros while an ancient threat gathers beyond the Wall.",
+    "condition":"Like New",
+    "award":"Winner of the Locus Award for Best Fantasy Novel (1997); Hugo Nominee",
+    "bestseller":false,
+    "id":"f24aea29-1feb-4314-86e9-9c2cde48df70",
+    "price":340
+  },
+  {
+    "title":"The Heroes",
+    "author":"Joe Abercrombie",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":499,
+    "rating":4.2,
+    "isbn":null,
+    "blurb":"Three armies clash in the north as Joe Abercrombie's cast of scoundrels and warriors fight for glory and survival.",
+    "condition":"Like New",
+    "award":"Shortlisted for the David Gemmell Legend Award (2012)",
+    "bestseller":false,
+    "id":"056d9e8d-cdcf-41ac-981d-2540332cc394",
+    "price":399
+  },
+  {
+    "title":"Best Served Cold",
+    "author":"Joe Abercrombie",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":499,
+    "rating":4.2,
+    "isbn":null,
+    "blurb":"Monza Murcatto is betrayed and left for dead, then sets out for revenge on the seven men who wronged her.",
+    "condition":"Like New",
+    "award":"Winner of the David Gemmell Legend Award for Best Fantasy Novel (Author)",
+    "bestseller":false,
+    "id":"765a341c-80f0-4840-9bd3-a996cf67c82d",
+    "price":399
+  },
+  {
+    "title":"Artemis Fowl: The Wish List",
+    "author":"Eoin Colfer",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":350,
+    "rating":3.9,
+    "isbn":null,
+    "blurb":"Twelve-year-old criminal genius Artemis Fowl returns with a bold new plan involving fairies and gold.",
+    "condition":"Good",
+    "award":"WH Smith People's Choice Award Nominated Author",
+    "bestseller":false,
+    "id":"c605fc15-de21-46aa-ada2-60fcea1494ed",
+    "price":175
+  },
+  {
+    "title":"Artemis Fowl and the Arctic Incident",
+    "author":"Eoin Colfer",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":399,
+    "rating":3.9,
+    "isbn":null,
+    "blurb":"Artemis teams up with the fairies to stop a threat from the Russian Mafia and a rogue goblin.",
+    "condition":"Good",
+    "award":"Winner of the WH Smith Children's Book of the Year (2003)",
+    "bestseller":false,
+    "id":"6ea549a5-5a33-4418-acc9-a62420c3ac57",
+    "price":199
+  },
+  {
+    "title":"Artemis Fowl and the Atlantis Complex",
+    "author":"Eoin Colfer",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":399,
+    "rating":3.9,
+    "isbn":null,
+    "blurb":"Artemis must face his own mind as a mysterious illness threatens his genius and his friendships.",
+    "condition":"Good",
+    "award":"Bestselling young adult urban fantasy entry",
+    "bestseller":true,
+    "id":"109f5311-edd0-4e99-a802-53239d33f8b5",
+    "price":199
+  },
+  {
+    "title":"The Fowl Twins: Get What They Deserve",
+    "author":"Eoin Colfer",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":3.8,
+    "isbn":null,
+    "blurb":"Myles and Beckett Fowl, the younger Fowl twins, face their own mysterious adventure with a fairy-tech edge.",
+    "condition":"Good",
+    "award":"Acclaimed Artemis Fowl spin-off series finale",
+    "bestseller":false,
+    "id":"5e39d61b-875f-4871-b111-4807e151d9f8",
+    "price":212
+  },
+  {
+    "title":"The Fowl Twins: Deny All Charges",
+    "author":"Eoin Colfer",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":3.9,
+    "isbn":null,
+    "blurb":"Myles and Beckett Fowl are drawn into a high-stakes plot involving a ruthless villain and powerful artifacts.",
+    "condition":"Good",
+    "award":"Irish Book Award Nominee for Children's Book of the Year",
+    "bestseller":false,
+    "id":"70df6203-3d68-4212-9a69-78194f31e236",
+    "price":212
+  },
+  {
+    "title":"W.A.R.P. The Hangman's Revolution",
+    "author":"Eoin Colfer",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.0,
+    "isbn":null,
+    "blurb":"Riley, a teen in 1890s London, is swept through time by the WARP agency into a deadly game against assassins.",
+    "condition":"Good",
+    "award":"Highly rated sci-fi fantasy time travel thriller",
+    "bestseller":false,
+    "id":"9758e220-60b6-4b19-ac7a-7dbb2876ff4d",
+    "price":225
+  },
+  {
+    "title":"Artemis Fowl and the Eternity Code",
+    "author":"Eoin Colfer",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":399,
+    "rating":4.1,
+    "isbn":null,
+    "blurb":"Artemis steals a powerful fairy computer and must unravel a deadly conspiracy to keep it from the wrong hands.",
+    "condition":"Good",
+    "award":"Winner of the Irish Children's Book of the Year Award",
+    "bestseller":false,
+    "id":"b1ce0572-7c9b-4435-9b35-81acc43bb435",
+    "price":199
+  },
+  {
+    "title":"W.A.R.P. The Reluctant Assassin",
+    "author":"Eoin Colfer",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.0,
+    "isbn":null,
+    "blurb":"Riley and Garrick are propelled across time to stop a murder plot that could change history.",
+    "condition":"Good",
+    "award":"Shortlisted for the Irish Book Awards Children's Book of the Year",
+    "bestseller":false,
+    "id":"312dfec0-5404-42dc-a169-f14fe66076e3",
+    "price":225
+  },
+  {
+    "title":"W.A.R.P. The Forever Man",
+    "author":"Eoin Colfer",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":499,
+    "rating":4.0,
+    "isbn":null,
+    "blurb":"Riley and her allies face the final battle as they chase the forever man through the shifting streams of time.",
+    "condition":"Good",
+    "award":"Epic conclusion to the W.A.R.P. trilogy",
+    "bestseller":false,
+    "id":"41b12d39-464c-4b1c-b61f-67125508a766",
+    "price":249
+  },
+  {
+    "title":"The Girl Who Drank the Moon",
+    "author":"Kelly Barnhill",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":399,
+    "rating":4.0,
+    "isbn":9781616206673.0,
+    "blurb":"A witch accidentally feeds a baby on moonlight, and the child grows up with magic she can't control.",
+    "condition":"Good",
+    "award":"Winner of the Newbery Medal (2017)",
+    "bestseller":false,
+    "id":"a6ba27a4-27e5-46bb-850f-e0f98777937f",
+    "price":199
+  },
+  {
+    "title":"The Last Wish",
+    "author":"Andrzej Sapkowski",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":4.3,
+    "isbn":9780316029186.0,
+    "blurb":"Geralt of Rivia, a monster-hunting witcher, faces moral dilemmas and mythical beasts in this story collection.",
+    "condition":"Good",
+    "award":"Winner of the David Gemmell Legend Award for Fantasy recognition influence",
+    "bestseller":false,
+    "id":"fd6e61aa-5d6d-42b4-8aae-9766378cfb66",
+    "price":212
+  },
+  {
+    "title":"Aru Shah and the End of Time",
+    "author":"Roshani Chokshi",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":399,
+    "rating":3.9,
+    "isbn":null,
+    "blurb":"Twelve-year-old Aru Shah accidentally frees a demon and must race across Indian mythology to save the world.",
+    "condition":"Good",
+    "award":"Named one of Time Magazine's 100 Best Fantasy Books of All Time",
+    "bestseller":false,
+    "id":"69218bdc-41af-47b0-b7bb-133a089aa8ca",
+    "price":199
+  },
+  {
+    "title":"The Hunger Games",
+    "author":"Suzanne Collins",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":399,
+    "rating":4.34,
+    "isbn":9780439023481.0,
+    "blurb":"Katniss Everdeen volunteers to take her sister's place in a televised fight to the death in the dystopian nation of Panem.",
+    "condition":"Good",
+    "award":"California Young Reader Medal Winner; Publishers Weekly Best Book of the Year",
+    "bestseller":false,
+    "id":"ddcdb071-4010-4f12-8040-65bd2373bf9f",
+    "price":199
+  },
+  {
+    "title":"Catching Fire",
+    "author":"Suzanne Collins",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":4.31,
+    "isbn":9780439023498.0,
+    "blurb":"Katniss and Peeta's victory has sparked a revolution as the Capitol forces them back into the arena.",
+    "condition":"Good",
+    "award":"Winner of the Goodreads Choice Award for Favorite Book (2009)",
+    "bestseller":false,
+    "id":"b56fa9d9-2a4a-400e-9562-7f6f76ed4b7b",
+    "price":212
+  },
+  {
+    "title":"Mockingjay",
+    "author":"Suzanne Collins",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":4.03,
+    "isbn":9780439023511.0,
+    "blurb":"Katniss leads the rebels in the final war against the Capitol, with brutal costs for her and those she loves.",
+    "condition":"Good",
+    "award":"Winner of the Goodreads Choice Award for Favorite Book (2010)",
+    "bestseller":false,
+    "id":"404a3e2e-2195-45d2-a412-88719559ba72",
+    "price":212
+  },
+  {
+    "title":"Red Queen",
+    "author":"Victoria Aveyard",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":399,
+    "rating":4.07,
+    "isbn":9780062310637.0,
+    "blurb":"In a world divided by blood colour, a Red girl with a silver power is thrown into the Silver court and a deadly game.",
+    "condition":"Good",
+    "award":"Winner of the Goodreads Choice Award for Debut Author (2015)",
+    "bestseller":false,
+    "id":"43507e78-e6dc-44d4-9daa-db18796c9218",
+    "price":199
+  },
+  {
+    "title":"Glass Sword",
+    "author":"Victoria Aveyard",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":4.1,
+    "isbn":9780062310668.0,
+    "blurb":"Mare is on the run with other newbloods as the Scarlet Guard builds an army against the Silvers.",
+    "condition":"Like New",
+    "award":"Mainstay on global Young Adult bestseller tracks; Nominated for Goodreads Choice",
+    "bestseller":true,
+    "id":"bb4b627c-086b-4f5a-91b8-115adf2767a2",
+    "price":340
+  },
+  {
+    "title":"King's Cage",
+    "author":"Victoria Aveyard",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":4.2,
+    "isbn":null,
+    "blurb":"Mare is imprisoned and plots her escape as the revolution faces its greatest betrayal yet.",
+    "condition":"Like New",
+    "award":"Nominated for the Goodreads Choice Award (2017)",
+    "bestseller":false,
+    "id":"2babe0f9-22dd-41fc-833b-77e43c7f3de0",
+    "price":340
+  },
+  {
+    "title":"War Storm",
+    "author":"Victoria Aveyard",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.3,
+    "isbn":null,
+    "blurb":"The war for Norta reaches its end as Mare and her allies fight to bring down Maven's rule.",
+    "condition":"Like New",
+    "award":"Conclusion to the chart-topping Red Queen series",
+    "bestseller":false,
+    "id":"6b0a4251-5c5f-4e81-82c5-1c5716fc203e",
+    "price":360
+  },
+  {
+    "title":"Realm Breaker",
+    "author":"Victoria Aveyard",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":3.9,
+    "isbn":null,
+    "blurb":"Corayne, a young swordswoman, is drawn into a battle against a power that threatens her world.",
+    "condition":"Like New",
+    "award":"Acclaimed high-fantasy world-building launch; Nominated for Goodreads Choice",
+    "bestseller":false,
+    "id":"6836e9be-85c6-46bf-b47e-9d1e93ca014e",
+    "price":360
+  },
+  {
+    "title":"Blade Breaker",
+    "author":"Victoria Aveyard",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.0,
+    "isbn":null,
+    "blurb":"Corayne and her allies press on against a rising darkness as ancient powers collide.",
+    "condition":"Like New",
+    "award":"Continuing entry in the Realm Breaker saga; Locus Award Nominee",
+    "bestseller":false,
+    "id":"be7b801f-bd70-4553-8777-ebda50d262c9",
+    "price":360
+  },
+  {
+    "title":"Siege and Storm",
+    "author":"Leigh Bardugo",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":371,
+    "rating":4.1,
+    "isbn":null,
+    "blurb":"Alina and Mal flee the Darkling, who gathers power for a bid to rule Ravka.",
+    "condition":"Like New",
+    "award":"International Netflix Sensation adaptation tie-in; NYT Bestselling Universe",
+    "bestseller":true,
+    "id":"abf0efe8-9e2c-415b-a2d2-97b9566554cc",
+    "price":296
+  },
+  {
+    "title":"The Blade Itself",
+    "author":"Joe Abercrombie",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.2,
+    "isbn":9780575077874.0,
+    "blurb":"A torturer, a barbarian and a noble swordsman are drawn into a dark world of war and magic in the opening of the First Law.",
+    "condition":"Like New",
+    "award":"Longlisted for the John W. Campbell Award for Best New Writer",
+    "bestseller":false,
+    "id":"c81eacc2-22e1-49a5-9372-9c1051972e31",
+    "price":360
+  },
+  {
+    "title":"Before They Are Hanged",
+    "author":"Joe Abercrombie",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":499,
+    "rating":4.3,
+    "isbn":9780575077881.0,
+    "blurb":"Glokta, Logen and Jezal's paths diverge in a gritty second novel full of treachery and war.",
+    "condition":"Like New",
+    "award":"Highly acclaimed second volume of The First Law Trilogy",
+    "bestseller":false,
+    "id":"349c0408-ac91-49f6-b7e3-7e29b68dc66a",
+    "price":399
+  },
+  {
+    "title":"Last Argument of Kings",
+    "author":"Joe Abercrombie",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":499,
+    "rating":4.4,
+    "isbn":9780575077898.0,
+    "blurb":"The First Law trilogy reaches its brutal climax as long-held secrets and ambitions collide.",
+    "condition":"Like New",
+    "award":"Epic conclusion to the foundational Grimdark trilogy",
+    "bestseller":false,
+    "id":"ffee5b16-4b71-4ba4-8f92-314463e9ac32",
+    "price":399
+  },
+  {
+    "title":"The Immortals of Meluha",
+    "author":"Amish Tripathi",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":350,
+    "rating":3.9,
+    "isbn":9789380658742.0,
+    "blurb":"A warrior tribe's mythical leader awakens in the land of Meluha, a utopia under threat, in this reimagining of Shiva's story.",
+    "condition":"Like New",
+    "award":"One of the fastest-selling books in Indian publishing history",
+    "bestseller":false,
+    "id":"8f2c04c7-26f3-41d3-94b2-b3b96eaea441",
+    "price":280
+  },
+  {
+    "title":"The Secret of the Nagas",
+    "author":"Amish Tripathi",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":350,
+    "rating":3.9,
+    "isbn":null,
+    "blurb":"Shiva's quest to find a legendary assassin leads him into the mystery of the Nagas, a people with deformities.",
+    "condition":"Like New",
+    "award":"Massive commercial mass-market bestseller",
+    "bestseller":true,
+    "id":"0ca08e0b-d081-4631-bf93-78d4503fc4bd",
+    "price":280
+  },
+  {
+    "title":"The Oath of the Vayuputras",
+    "author":"Amish Tripathi",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":395,
+    "rating":3.9,
+    "isbn":null,
+    "blurb":"The final volume of the Shiva Trilogy, as Shiva faces the ultimate truth behind evil and sacrifice.",
+    "condition":"Like New",
+    "award":"Raymond Crossword Book Award Popular Choice Nominee",
+    "bestseller":false,
+    "id":"242b0d94-6040-4a1f-a3a6-d29ad9c23bec",
+    "price":316
+  },
+  {
+    "title":"Scion of Ikshvaku",
+    "author":"Amish Tripathi",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":259,
+    "rating":4.0,
+    "isbn":null,
+    "blurb":"The first book of the Ram Chandra series retells the Ramayana through the eyes of a young prince.",
+    "condition":"Like New",
+    "award":"Winner of the Raymond Crossword Book Award (Popular Fiction - 2016)",
+    "bestseller":false,
+    "id":"82ea15e2-7534-4388-8577-e04895669363",
+    "price":207
+  },
+  {
+    "title":"Legend of Suheldev",
+    "author":"Amish Tripathi",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":399,
+    "rating":3.9,
+    "isbn":null,
+    "blurb":"The story of King Suheldev, who united rulers to defeat Mahmud of Ghazni's invasion of India.",
+    "condition":"Like New",
+    "award":"Bestselling historical martial fiction mythological transformation",
+    "bestseller":true,
+    "id":"b558705e-d4c0-4ca6-a96f-cef3b0a6925b",
+    "price":319
+  },
+  {
+    "title":"Powerless",
+    "author":"Lauren Roberts",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.1,
+    "isbn":null,
+    "blurb":"In a kingdom where almost everyone has a power, a woman without one must survive a deadly competition.",
+    "condition":"Like New",
+    "award":"Social media breakout fantasy hit & major global bestseller",
+    "bestseller":true,
+    "id":"84a0cdd3-8b69-43de-aca9-8f4ff70afde5",
+    "price":360
+  },
+  {
+    "title":"Reckless",
+    "author":"Lauren Roberts",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":499,
+    "rating":4.1,
+    "isbn":null,
+    "blurb":"Paedyn and Kai's tense alliance is tested when the Trials end and a bigger fight begins.",
+    "condition":"Like New",
+    "award":"Instant international bestseller continuation",
+    "bestseller":true,
+    "id":"a8640256-7f9e-4096-83f7-fd83547971d8",
+    "price":399
+  },
+  {
+    "title":"Fearless",
+    "author":"Lauren Roberts",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":499,
+    "rating":4.2,
+    "isbn":null,
+    "blurb":"The final book of the Powerless trilogy, where Paedyn and Kai face the ultimate battle for their kingdom.",
+    "condition":"Like New",
+    "award":"Core piece of the viral Powerless romantic fantasy trilogy",
+    "bestseller":false,
+    "id":"11b6c361-a100-4eea-a1c7-1ff2f323a985",
+    "price":399
+  },
+  {
+    "title":"Wind and Truth",
+    "author":"Brandon Sanderson",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":699,
+    "rating":4.7,
+    "isbn":9781250319180.0,
+    "blurb":"Book Five of The Stormlight Archive epic fantasy series.",
+    "condition":"Like New",
+    "award":"Instant #1 Global Bestseller; Stormlight Archive continuation",
+    "bestseller":true,
+    "id":"9513f759-b9f2-4da6-89d8-7f2415b11993",
+    "price":559
+  },
+  {
+    "title":"Onyx Storm",
+    "author":"Rebecca Yarros",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":699,
+    "rating":4.4,
+    "isbn":null,
+    "blurb":"Violet Sorrengail returns for a dangerous third year at Basgiath War College as the war with Navarre escalates.",
+    "condition":"Like New",
+    "award":"Highly anticipated continuation of the Empyrean saga",
+    "bestseller":false,
+    "id":"9cb528f2-aaf7-48c4-8d81-59b9ecfcd2d7",
+    "price":559
+  },
+  {
+    "title":"Iron Flame",
+    "author":"Rebecca Yarros",
+    "tags":[
+      "Fantasy"
     ],
     "amazon-price":599,
-    "rating":4.18,
-    "isbn":"978-0143119678",
-    "blurb":"A gripping, fly-on-the-wall account of the dramatic financial crisis of 2008 and the global economic collapse.",
-    "condition":"Good",
-    "award":"Winner of the Gerald Loeb Award",
+    "rating":4.1,
+    "isbn":9781649374172.0,
+    "blurb":"Violet faces new dangers in her second year at Basgiath as secrets about the war and her dragon bonds come to light.",
+    "condition":"Like New",
+    "award":"Record-breaking instant #1 international bestseller",
+    "bestseller":true,
+    "id":"0f6825d4-ffdc-4b0e-9f18-e690efffd48e",
+    "price":479
+  },
+  {
+    "title":"Fourth Wing",
+    "author":"Rebecca Yarros",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":550,
+    "rating":4.55,
+    "isbn":9781649374042.0,
+    "blurb":"Twenty-year-old Violet Sorrengail is forced to join the brutal dragon riders' war college, where the deadly odds are stacked against her.",
+    "condition":"Like New",
+    "award":"Winner of the Goodreads Choice Award for Best Fantasy (2023)",
     "bestseller":false,
-    "id":"c00096ec-2856-4e2a-8a69-94a92a0204d8",
-    "price":299
+    "id":"195ddf32-7a7e-4958-b458-f04fdd847f8f",
+    "price":440
+  },
+  {
+    "title":"The Way of Shadows",
+    "author":"Brent Weeks",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":399,
+    "rating":4.1,
+    "isbn":9780316033671.0,
+    "blurb":"Azoth, a guild rat in a brutal city, trains as an assassin under a master and learns the price of survival.",
+    "condition":"Like New",
+    "award":"Nominated for the David Gemmell Legend Award for Best Fantasy Novel",
+    "bestseller":false,
+    "id":"0783b980-4d26-4c2d-9884-1c1a64f17652",
+    "price":319
+  },
+  {
+    "title":"Shadow's Edge",
+    "author":"Brent Weeks",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.2,
+    "isbn":null,
+    "blurb":"Azoth's choices pit him against old enemies and a looming war in the second Night Angel book.",
+    "condition":"Like New",
+    "award":"Highly acclaimed second book in the Night Angel trilogy",
+    "bestseller":false,
+    "id":"e6280b66-31ad-4947-a17e-bf6501a55595",
+    "price":360
+  },
+  {
+    "title":"Beyond the Shadows",
+    "author":"Brent Weeks",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.2,
+    "isbn":null,
+    "blurb":"The Night Angel trilogy ends as Kylar Stern faces the cost of vengeance and the fate of Cenaria.",
+    "condition":"Like New",
+    "award":"High-octane conclusion to the Night Angel trilogy",
+    "bestseller":false,
+    "id":"c723d6a6-0acf-4996-977f-92e8d939161a",
+    "price":360
+  },
+  {
+    "title":"A Game of Thrones",
+    "author":"George R.R. Martin",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":425,
+    "rating":4.45,
+    "isbn":9780553593716.0,
+    "blurb":"Noble families fight for the Iron Throne in Westeros while an ancient threat gathers beyond the Wall.",
+    "condition":"Like New",
+    "award":"Winner of the Locus Award for Best Fantasy Novel (1997)",
+    "bestseller":false,
+    "id":"006235e0-065c-4c34-8932-0afd397e36cd",
+    "price":340
+  },
+  {
+    "title":"The Shadow of What Was Lost",
+    "author":"James Islington",
+    "tags":[
+      "Fantasy"
+    ],
+    "amazon-price":450,
+    "rating":4.2,
+    "isbn":null,
+    "blurb":"In a world where magic is forbidden, a boy discovers his powers as an ancient evil returns.",
+    "condition":"Like New",
+    "award":"Highly acclaimed epic fantasy debut; Locus Best First Novel finalist indicator",
+    "bestseller":false,
+    "id":"61a1b7e2-3438-4b21-8acd-7160a8ed8333",
+    "price":360
   }
 ]

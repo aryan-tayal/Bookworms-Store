@@ -1,0 +1,27 @@
+.BookPage {
+  margin-top: 120px;
+  padding: 0 40px;
+  display: grid;
+  grid-template-columns: 2fr 7fr;
+  gap: 3rem;
+}
+.BookPage-Img {
+  width: 100%;
+  aspect-ratio: 9/14.5;
+}
+.BookPage-Img > img {
+  width: 100%;
+}
+.BookRating {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.BookPage-Content > h3 {
+  font-size: 2.2rem;
+  font-weight: 400;
+}
+.BookPage-Content > h4 {
+  font-size: 1.2rem;
+  color: #444;
+}

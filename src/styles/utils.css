@@ -28,11 +28,13 @@
 
 .stars {
   position: relative;
-  display: inline-block;
+  display: inline-flex;
 }
 .stars-back > i,
 .stars-coloured > i {
   color: inherit;
+  font-size: 1.5rem;
+  margin: 0 5px;
 }
 .stars-back {
   color: #ccc;
