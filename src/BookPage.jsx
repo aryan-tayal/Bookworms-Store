@@ -60,9 +60,33 @@ const BookPage = () => {
         </div>
       </div>
       <div className="BookPage-Details">
-        <div>
-          <Category category={book.ageCategory} />
-          <i className="fa-solid fa-book"></i> {book.condition}
+        <div className="BookDetail">
+          <i className="fa-solid fa-users"></i>
+          <div>
+            <span>Age Category</span>
+            <strong>{book.ageCategory}</strong>
+          </div>
+        </div>
+
+        <div className="BookCondition">
+          <div className="BookDetailLabel">
+            <i className="fa-solid fa-star"></i>
+            <strong>Book Condition</strong>
+          </div>
+
+          <div className="ConditionScale">
+            {["New", "Like New", "Good", "Used"].map((condition) => (
+              <div
+                key={condition}
+                className={`ConditionStep ${
+                  book.condition === condition ? "active" : ""
+                }`}
+              >
+                <div className="ConditionDot"></div>
+                <span>{condition}</span>
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     </div>
