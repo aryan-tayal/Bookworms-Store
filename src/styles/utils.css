@@ -37,14 +37,14 @@
   margin: 0 5px;
 }
 .stars-back {
-  color: #ccc;
+  color: var(--text-muted);
   display: flex;
 }
 .stars-coloured {
   position: absolute;
   top: 0;
   left: 0;
-  color: #d04949;
+  color: var(--green-accent);
   overflow: hidden;
   display: flex;
 }

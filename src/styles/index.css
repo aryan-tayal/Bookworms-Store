@@ -4,11 +4,13 @@
 @import url("./responsive/phone.css");
 
 :root {
-  --green-light: #dcf0d0;
-  --green-main: #a6d28b;
+  --green-light: #d5fdc7;
+  --green-main: #a5e98e;
   --green-accent: #07a559;
-  --bg: #fff;
-  --text-color: #000;
+  --bg: #f3f8ee;
+  --text-color: #222;
+  --text-accent: #434343;
+  --text-muted: #ccc;
 }
 * {
   padding: 0;
