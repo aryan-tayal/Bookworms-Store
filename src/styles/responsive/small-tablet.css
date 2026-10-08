@@ -2,6 +2,23 @@
   #NavbarBrand {
     display: none;
   }
+  .BookCardContainer {
+    grid-template-columns: 100%;
+  }
+  .BookCard {
+    flex-direction: row;
+  }
+  .BookCardContent {
+    width: 60%;
+    text-align: left;
+    margin-top: 0;
+  }
+  .BookCardTags {
+    margin: 5px 0;
+  }
+    .BookCardTags {
+    margin: 15px 0;
+  }
   .BookPage {
     display: flex;
     flex-direction: column;

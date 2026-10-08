@@ -5,6 +5,17 @@
   .BookPage {
     grid-template-columns: 220px minmax(0, 1fr);
   }
+  .BookCard {
+    flex-direction: column;
+  }
+  .BookCardContent {
+    width: 100%;
+    text-align: center;
+    margin-top: 0.5rem;
+  }
+  .BookCardTags {
+    margin: 5px 0;
+  }
   .BookPage-Details {
     grid-column: span 2;
     border: none;
