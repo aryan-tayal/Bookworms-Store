@@ -58,7 +58,7 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
             />
           </div>
         </div>
-        <div className="FilterCategory">
+        {/* <div className="FilterCategory">
           <h6>Fiction</h6>
           <div className="FilterCategoryInputs">
             <div className="FilterCategoryInput">
@@ -83,9 +83,9 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
               />
             </div>
           </div>
-        </div>
+        </div> */}
         <div className="FilterCategory">
-          <h6>condition</h6>
+          <h6>Condition</h6>
           <div className="FilterCategoryInputs">
             <div className="FilterCategoryInput">
               <label htmlFor="new">New</label>
