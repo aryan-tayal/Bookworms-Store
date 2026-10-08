@@ -16,18 +16,6 @@ export const search = (searchTerm) => {
 };
 
 export const filters = {
-  fiction: (bookData, isFictionChecked, isNonFictionChecked) => {
-    const filtererData = [];
-    bookData.map((book) => {
-      if (isFictionChecked && book.fiction) {
-        filtererData.push(book);
-      }
-      if (isNonFictionChecked && !book.fiction) {
-        filtererData.push(book);
-      }
-    });
-    return filtererData;
-  },
   condition: (
     bookData,
     isNewChecked,
@@ -77,13 +65,7 @@ export const filters = {
 
 export default function handleSearchAndFilters(searchTerm, filterInputs) {
   return filters.bestseller(
-    filters.age(
-      filters.condition(
-        filters.fiction(search(searchTerm), ...filterInputs.fiction),
-        ...filterInputs.condition,
-      ),
-      ...filterInputs.age,
-    ),
+    filters.condition(search(searchTerm), ...filterInputs.condition),
     filterInputs.bestseller,
   );
 }
