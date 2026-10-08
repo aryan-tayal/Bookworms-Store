@@ -2,6 +2,7 @@
 @import url("./utils.css");
 @import url("./responsive/tablet.css");
 @import url("./responsive/small-tablet.css");
+@import url("./responsive/small-laptop.css");
 @import url("./responsive/phone.css");
 
 :root {

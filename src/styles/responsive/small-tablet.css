@@ -1,18 +1,18 @@
-@media (max-width: 600px) {
+@media (max-width: 660px) {
+  #NavbarBrand {
+    display: none;
+  }
   .BookPage {
     display: flex;
     flex-direction: column;
     margin: 70px 1rem;
     padding: 1.5rem;
     gap: 1.5rem;
-
     border-radius: 12px;
   }
-
   .BookPage-Side {
     width: 100%;
   }
-
   .BookPage-Img {
     width: 150px;
   }
@@ -35,9 +35,7 @@
     padding-top: 1rem;
   }
   .BookPage-Details {
-    width: 100%;
     padding: 0;
-    border: none;
   }
   .BookPage-Details > div {
     flex-wrap: wrap;
