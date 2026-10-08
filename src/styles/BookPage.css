@@ -21,14 +21,12 @@
   font-size: 1.2rem;
   color: #444;
 }
-
 .BookPage-Side {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 1rem;
 }
-
 .BookPage-Img {
   width: 190px;
   aspect-ratio: 2 / 3;
@@ -36,14 +34,12 @@
   background: #f2f2f2;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 }
-
 .BookPage-Img img {
   width: 100%;
   height: 100%;
   display: block;
   object-fit: cover;
 }
-
 .BookRating {
   display: flex;
   justify-content: center;
@@ -54,34 +50,29 @@
   align-items: flex-start;
   min-width: 0;
 }
-
 .BookPage-Content h3 {
   margin: 0;
   font-size: 2rem;
   line-height: 1.15;
 }
-
 .BookPage-Content h4 {
   margin: 0.45rem 0 1.25rem;
   font-size: 1.05rem;
   font-weight: 500;
   color: var(--text-accent);
 }
-
 .BookPage-Content p {
   margin: 0 0 1.5rem;
   max-width: 650px;
   font-size: 1rem;
   line-height: 1.7;
 }
-
 .BookPage-Content > div {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 0.5rem;
 }
-
 .BookAward {
   margin-top: 1.5rem;
   padding: 0.6rem 0.9rem;
@@ -102,31 +93,25 @@
   display: flex;
   flex-direction: column;
   gap: 1.25rem;
-
   border-left: 1px solid #e5e5e5;
   padding-left: 1.5rem;
 }
-
 .BookDetail {
   display: flex;
   align-items: flex-start;
   gap: 0.75rem;
 }
-
 .BookDetail > i {
   width: 20px;
   margin-top: 3px;
-
   color: #888;
   font-size: 0.95rem;
 }
-
 .BookDetail > div {
   display: flex;
   flex-direction: column;
   gap: 0.2rem;
 }
-
 .BookDetail span {
   font-size: 0.75rem;
   font-weight: 600;
@@ -195,49 +180,11 @@
   background: #333;
   outline: 3px solid #eee;
 }
-@media (max-width: 600px) {
-  .BookPage {
-    display: flex;
-    flex-direction: column;
-
-    margin: 1rem;
-    padding: 1.5rem;
-    gap: 1.5rem;
-
-    border-radius: 12px;
-  }
-
-  .BookPage-Side {
-    width: 100%;
-  }
-
-  .BookPage-Img {
-    width: 150px;
-  }
-
-  .BookPage-Content h3 {
-    font-size: 1.5rem;
-  }
-
-  .BookPage-Content {
-    width: 100%;
-  }
-
-  .BookPage-Details {
-    width: 100%;
-  }
-
-  .BookPage-Details > div {
-    flex-wrap: wrap;
-  }
-}
-
 .BookPage-Tags {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
 }
-
 .BookPage-Price {
   margin-top: auto;
   padding-top: 2rem;
