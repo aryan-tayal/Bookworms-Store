@@ -19,7 +19,7 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
   ]);
   const genreOptions = [
     "Thriller",
-    "Literary, Fiction and Romance",
+    "Literary and Romance",
     "Fantasy",
     "History",
     "Memoir",
@@ -74,32 +74,6 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
             />
           </div>
         </div>
-        {/* <div className="FilterCategory">
-          <h6>Fiction</h6>
-          <div className="FilterCategoryInputs">
-            <div className="FilterCategoryInput">
-              <label htmlFor="fiction">Fiction</label>
-              <input
-                type="checkbox"
-                checked={isFictionChecked}
-                onChange={() => setIsFictionChecked(!isFictionChecked)}
-                id="fiction"
-                name="fiction"
-              />
-            </div>
-
-            <div className="FilterCategoryInput">
-              <label htmlFor="nonfiction">Non Fiction</label>
-              <input
-                type="checkbox"
-                checked={isNonFictionChecked}
-                id="nonfiction"
-                name="fiction"
-                onChange={() => setIsNonFictionChecked(!isNonFictionChecked)}
-              />
-            </div>
-          </div>
-        </div> */}
         <div className="FilterCategory">
           <h6>Genre</h6>
 
