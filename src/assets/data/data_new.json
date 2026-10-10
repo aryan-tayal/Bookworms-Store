@@ -11,7 +11,7 @@
     "award": "Winner of the Colorado Blue Spruce Book Award (2010); ALA Notable Book",
     "bestseller": false,
     "price": 300,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "20a8fcbf-4b3a-4026-a067-e813cf878ae9"
   },
   {
@@ -26,7 +26,7 @@
     "award": "Winner of the British Book of the Year (2006); WH Smith Book of the Year",
     "bestseller": false,
     "price": 250,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "0a810ba9-f9f0-4f93-99e1-7afcb5780a26"
   },
   {
@@ -41,7 +41,7 @@
     "award": "Instant #1 New York Times Bestseller; Goodreads Choice Award Nominee (2023)",
     "bestseller": true,
     "price": 550,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "5d7ff6eb-7bd4-4cae-af51-d80759cb2fba"
   },
   {
@@ -56,7 +56,7 @@
     "award": "Goodreads Choice Award Nominee for Best Young Adult Fantasy & Sci-Fi (2021)",
     "bestseller": false,
     "price": 350,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "c9809fb0-44d8-4bef-86a9-be16a158010b"
   },
   {
@@ -71,7 +71,7 @@
     "award": "Bestselling installment in the Defy the Night trilogy",
     "bestseller": true,
     "price": 350,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "0661491d-7712-4375-8d4b-3dad2231f98b"
   },
   {
@@ -86,7 +86,7 @@
     "award": "Goodreads Choice Award Nominee for Best Young Adult Fantasy & Sci-Fi (2021)",
     "bestseller": false,
     "price": 350,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "397b6241-d8eb-4c26-9ab8-8346b16204be"
   },
   {
@@ -101,7 +101,7 @@
     "award": "Instant #1 New York Times Bestseller (2024)",
     "bestseller": true,
     "price": 250,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "aea2b55d-d7b0-4d80-bcdc-2921066167ef"
   },
   {
@@ -116,7 +116,7 @@
     "award": "Goodreads Choice Award Nominee for Best Young Adult Fantasy & Sci-Fi (2023)",
     "bestseller": false,
     "price": 250,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "608a2966-e140-46b0-9bf5-d9317bc71d46"
   },
   {
@@ -131,7 +131,7 @@
     "award": "Winner of the Carnegie Medal (1956)",
     "bestseller": false,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "949bc2f3-aad0-4708-a9b2-f3c494616193"
   },
   {
@@ -146,7 +146,7 @@
     "award": "Ranked #4 on the BBC's The Big Read poll",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "e72a63ca-fdbf-4b97-8193-9f25da9b55a8"
   },
   {
@@ -161,7 +161,7 @@
     "award": "A Time Magazine Best Fantasy Book of All Time nominee",
     "bestseller": false,
     "price": 300,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "6e9e6deb-a806-4fa8-a8e4-5c81128b4f7a"
   },
   {
@@ -176,7 +176,7 @@
     "award": "Goodreads Choice Award Nominee for Best Young Adult Fantasy (2016)",
     "bestseller": false,
     "price": 300,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "68303b0c-c7d1-4eba-912d-f149f3807f76"
   },
   {
@@ -191,7 +191,7 @@
     "award": "New York Times Bestseller",
     "bestseller": true,
     "price": 300,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "ef7f1c98-a0d9-4e38-9e13-b6622b6d924e"
   },
   {
@@ -206,7 +206,7 @@
     "award": "Locus Award Nominee for Best First Novel (2008)",
     "bestseller": false,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "7bbdc691-0287-40ba-949e-c39ca7b0d075"
   },
   {
@@ -221,7 +221,7 @@
     "award": "Goodreads Choice Award Nominee for Young Adult Fiction (2008)",
     "bestseller": false,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "1e6103a7-d2af-436b-9a99-3485ffe09284"
   },
   {
@@ -236,7 +236,7 @@
     "award": "Mainstay on the New York Times Children's Series Bestseller list",
     "bestseller": true,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "ea200867-ba48-47df-890d-e31a2bb2f834"
   },
   {
@@ -251,7 +251,7 @@
     "award": "#1 New York Times Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "a1dbc564-bbba-4643-98d1-beeafa119e16"
   },
   {
@@ -266,7 +266,7 @@
     "award": "Goodreads Choice Award Nominee for Best Young Adult Fantasy (2012)",
     "bestseller": false,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "750751ce-034a-4240-bcf7-5bd6c4e54775"
   },
   {
@@ -281,7 +281,7 @@
     "award": "Winner of the Quill Award (2008)",
     "bestseller": false,
     "price": 150,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "c6c04c71-7f1d-45fc-a6a3-3fa5ddb24cc1"
   },
   {
@@ -296,7 +296,7 @@
     "award": "Winner of the Quill Award (2006); Bill Konigsberg Award Winner",
     "bestseller": false,
     "price": 150,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "2137f127-3e28-4d39-a23c-7e84dd695f04"
   },
   {
@@ -311,7 +311,7 @@
     "award": "Goodreads Choice Award Nominee for Best Fantasy (2011)",
     "bestseller": false,
     "price": 100,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "0cb90fc5-9b0c-4264-bd1f-74b2269200a0"
   },
   {
@@ -326,7 +326,7 @@
     "award": "Highly acclaimed martial arts historical fiction series",
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "0798d892-cfdf-42c8-8264-c1fd160f74af"
   },
   {
@@ -341,7 +341,7 @@
     "award": "Highly acclaimed juvenile historical fiction nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "6936052b-a17d-4fb8-a688-9c9dd39e5a54"
   },
   {
@@ -356,7 +356,7 @@
     "award": "Renowned Roman army adventure narrative",
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "ef0c0765-333b-44de-abbf-7bcf0ff6b265"
   },
   {
@@ -371,7 +371,7 @@
     "award": "Bestselling crossover compilation of Percy Jackson and Kane Chronicles",
     "bestseller": true,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "10954caf-9000-4061-bda7-81860c2a7b0b"
   },
   {
@@ -386,7 +386,7 @@
     "award": "Goodreads Choice Award Nominee for Best Middle Grade & Children's (2012)",
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "b65b476f-bb13-41cd-b567-598c31a245b8"
   },
   {
@@ -401,7 +401,7 @@
     "award": "Goodreads Choice Award Nominee for Best Middle Grade & Children's (2011)",
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "450791c6-d56d-4c50-b34e-987aebcc79de"
   },
   {
@@ -416,7 +416,7 @@
     "award": "Winner of the Goodreads Choice Award for Best Middle Grade & Children's (2017)",
     "bestseller": false,
     "price": 250,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "299b0565-4166-47cc-b02f-ced69f28ced3"
   },
   {
@@ -431,7 +431,7 @@
     "award": "Winner of the Goodreads Choice Award for Best Middle Grade & Children's (2012)",
     "bestseller": false,
     "price": 250,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "40b71b31-999e-49dc-98d5-df08ae1c54ad"
   },
   {
@@ -446,7 +446,7 @@
     "award": "Goodreads Choice Award Nominee for Best Young Adult Sci-Fi (2017)",
     "bestseller": false,
     "price": 150,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "584c448e-8573-4dba-9216-d62f52b05978"
   },
   {
@@ -461,7 +461,7 @@
     "award": "Goodreads Choice Award Nominee for Best Middle Grade & Children's (2017)",
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "2d0cf7fb-6dfe-4570-ad23-08f75a2e44ae"
   },
   {
@@ -476,7 +476,7 @@
     "award": "#1 New York Times Children's Series Bestseller",
     "bestseller": true,
     "price": 400,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "f2ff147c-8e9f-40fc-b7e2-738c3a66d520"
   },
   {
@@ -491,7 +491,7 @@
     "award": "Goodreads Choice Award Nominee for Best Young Adult Fantasy (2018)",
     "bestseller": false,
     "price": 400,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "2f1ecab1-5471-4016-9a3c-230e46816b48"
   },
   {
@@ -506,7 +506,7 @@
     "award": "Winner of the British Book Award for Children's Book of the Year (2009)",
     "bestseller": false,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "e6ae98de-6255-4722-b3b7-de06c3e1ee23"
   },
   {
@@ -521,7 +521,7 @@
     "award": "Winner of the Children's Choice Book Award (2007)",
     "bestseller": false,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "a1611bcb-f1fb-482a-a7b7-771d57c81baa"
   },
   {
@@ -536,7 +536,7 @@
     "award": "Goodreads Choice Award Nominee for Favorite Book (2007)",
     "bestseller": false,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "fd876e94-3a1a-430a-8509-04e28c48ffc0"
   },
   {
@@ -551,7 +551,7 @@
     "award": "Finalist for the World Fantasy Award, Locus Award, and British Fantasy Award (2018)",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "5e4abda9-0017-424e-9bea-bfc4c31899b1"
   },
   {
@@ -566,7 +566,7 @@
     "award": "Locus Award Nominee for Best Fantasy Novel (2020)",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "2fa20a20-75b1-4ee4-aaf9-8e1a3d3dba27"
   },
   {
@@ -581,7 +581,7 @@
     "award": "Goodreads Choice Award Nominee for Best Fantasy (2020)",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "cdd20728-693c-4377-9fc1-fb5db58e4655"
   },
   {
@@ -596,7 +596,7 @@
     "award": "Highly acclaimed epic fantasy debut novel",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "183a6eae-0cad-46c3-839a-3cda5154b6ca"
   },
   {
@@ -611,7 +611,7 @@
     "award": "Highly rated installment in The Faithful and the Fallen series",
     "bestseller": false,
     "price": 400,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "02c00ebb-42a7-4635-a284-0251bfc1030b"
   },
   {
@@ -626,7 +626,7 @@
     "award": "Shortlisted for the David Gemmell Legend Award",
     "bestseller": false,
     "price": 400,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "fd0d8f69-7198-40bd-93f6-c80857a311aa"
   },
   {
@@ -641,7 +641,7 @@
     "award": "Winner of the David Gemmell Morningstar Award for Best Debut (2013)",
     "bestseller": false,
     "price": 400,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "17e99eae-163e-4cdd-8646-fcda5399d3a7"
   },
   {
@@ -656,7 +656,7 @@
     "award": "Epic finale to the Gemmell-award winning grimdark saga",
     "bestseller": false,
     "price": 400,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "cdaaf118-3b4f-4245-9ddf-974b6a3dd6e3"
   },
   {
@@ -671,7 +671,7 @@
     "award": "Winner of the Locus Award for Best Fantasy Novel (1997); Hugo Nominee",
     "bestseller": false,
     "price": 350,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "850328fe-1d1b-4d95-a10f-1b216665e912"
   },
   {
@@ -686,7 +686,7 @@
     "award": "Shortlisted for the David Gemmell Legend Award (2012)",
     "bestseller": false,
     "price": 400,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "135560c6-e800-422a-90fa-d9e483d03935"
   },
   {
@@ -701,7 +701,7 @@
     "award": "Winner of the David Gemmell Legend Award for Best Fantasy Novel (Author)",
     "bestseller": false,
     "price": 400,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "bb5b4bd1-6b6e-4d5c-93de-9f23b6bb085f"
   },
   {
@@ -716,7 +716,7 @@
     "award": "WH Smith People's Choice Award Nominated Author",
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "21903df8-41e3-47d0-b51f-5bfd247a152a"
   },
   {
@@ -731,7 +731,7 @@
     "award": "Winner of the WH Smith Children's Book of the Year (2003)",
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "ba6dc206-aae2-4f15-8ebe-1cbd862bc225"
   },
   {
@@ -746,7 +746,7 @@
     "award": "Bestselling young adult urban fantasy entry",
     "bestseller": true,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "34399ac2-571f-4d77-b892-368561c66908"
   },
   {
@@ -761,7 +761,7 @@
     "award": "Acclaimed Artemis Fowl spin-off series finale",
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "6fef70e8-2331-421b-9572-dbcbcd81a226"
   },
   {
@@ -776,7 +776,7 @@
     "award": "Irish Book Award Nominee for Children's Book of the Year",
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "41d2581f-b5f2-48d6-960f-f9f10312d122"
   },
   {
@@ -791,7 +791,7 @@
     "award": "Highly rated sci-fi fantasy time travel thriller",
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "4b194b38-efff-4879-91ab-cab2a83d7278"
   },
   {
@@ -806,7 +806,7 @@
     "award": "Winner of the Irish Children's Book of the Year Award",
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "5433de2f-915a-4efa-b21a-3239ef13a9cb"
   },
   {
@@ -821,7 +821,7 @@
     "award": "Shortlisted for the Irish Book Awards Children's Book of the Year",
     "bestseller": false,
     "price": 250,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "9c1af99f-6b17-4781-8499-7fc20b0154b0"
   },
   {
@@ -836,7 +836,7 @@
     "award": "Epic conclusion to the W.A.R.P. trilogy",
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "59e4a9cd-e5ed-4a28-aa93-a3fdad6bf620"
   },
   {
@@ -851,7 +851,7 @@
     "award": "Winner of the David Gemmell Legend Award for Fantasy recognition influence",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "c1d37e7d-2587-44c1-ab2c-b54032cda5cd"
   },
   {
@@ -866,7 +866,7 @@
     "award": "Named one of Time Magazine's 100 Best Fantasy Books of All Time",
     "bestseller": false,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "93a97f6e-eb88-4819-8223-696362f998ec"
   },
   {
@@ -881,7 +881,7 @@
     "award": "California Young Reader Medal Winner; Publishers Weekly Best Book of the Year",
     "bestseller": false,
     "price": 100,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "0a0abdf9-de13-4f3a-9322-32ff368b10fd"
   },
   {
@@ -896,7 +896,7 @@
     "award": "Winner of the Goodreads Choice Award for Favorite Book (2009)",
     "bestseller": false,
     "price": 100,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "dfce6a27-1677-4843-adc2-87ad53ff695a"
   },
   {
@@ -911,7 +911,7 @@
     "award": "Winner of the Goodreads Choice Award for Favorite Book (2010)",
     "bestseller": false,
     "price": 100,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "ae3d6883-675c-4c36-b6f1-b564547e4c71"
   },
   {
@@ -926,7 +926,7 @@
     "award": "Winner of the Goodreads Choice Award for Debut Author (2015)",
     "bestseller": false,
     "price": 150,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "01dfd340-317a-4f02-acf4-55b5ef3a4b4f"
   },
   {
@@ -941,7 +941,7 @@
     "award": "Mainstay on global Young Adult bestseller tracks; Nominated for Goodreads Choice",
     "bestseller": true,
     "price": 250,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "e4a963b8-85cf-48a9-b9ae-54c61aa9ba0f"
   },
   {
@@ -956,7 +956,7 @@
     "award": "Nominated for the Goodreads Choice Award (2017)",
     "bestseller": false,
     "price": 250,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "d19f64bc-3fa5-4af7-9675-d79ce440aaab"
   },
   {
@@ -971,7 +971,7 @@
     "award": "Conclusion to the chart-topping Red Queen series",
     "bestseller": false,
     "price": 250,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "8f756ed8-fab1-4fc8-be27-ea89163134e7"
   },
   {
@@ -986,7 +986,7 @@
     "award": "Acclaimed high-fantasy world-building launch; Nominated for Goodreads Choice",
     "bestseller": false,
     "price": 350,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "c866e0c3-492d-43ea-ab11-53124e319a2f"
   },
   {
@@ -1001,7 +1001,7 @@
     "award": "Continuing entry in the Realm Breaker saga; Locus Award Nominee",
     "bestseller": false,
     "price": 350,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "9881133c-a624-435c-9ce4-311bec1d70f9"
   },
   {
@@ -1016,7 +1016,7 @@
     "award": "International Netflix Sensation adaptation tie-in; NYT Bestselling Universe",
     "bestseller": true,
     "price": 300,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "bfcbc9bc-8195-4ec7-94d5-6d8f64398ade"
   },
   {
@@ -1031,7 +1031,7 @@
     "award": "Longlisted for the John W. Campbell Award for Best New Writer",
     "bestseller": false,
     "price": 350,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "330374fd-d9cf-4bc8-9882-39feb06e0862"
   },
   {
@@ -1046,7 +1046,7 @@
     "award": "Highly acclaimed second volume of The First Law Trilogy",
     "bestseller": false,
     "price": 400,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "037a33ec-309f-41d3-a9aa-0f1b3d840b37"
   },
   {
@@ -1061,7 +1061,7 @@
     "award": "Epic conclusion to the foundational Grimdark trilogy",
     "bestseller": false,
     "price": 400,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "28ad6667-455c-4ae7-8855-df24bce3d4f7"
   },
   {
@@ -1076,7 +1076,7 @@
     "award": "Social media breakout fantasy hit & major global bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "b25a4785-19bb-42ea-9021-ce791347b71a"
   },
   {
@@ -1091,7 +1091,7 @@
     "award": "Instant international bestseller continuation",
     "bestseller": true,
     "price": 300,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "8a05c5d3-bea6-4fe0-8c3d-c46a9f4fb8db"
   },
   {
@@ -1106,7 +1106,7 @@
     "award": "Core piece of the viral Powerless romantic fantasy trilogy",
     "bestseller": false,
     "price": 300,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "fe79d07c-6e4b-4112-85d1-0b31f972acbd"
   },
   {
@@ -1121,7 +1121,7 @@
     "award": "Instant #1 Global Bestseller; Stormlight Archive continuation",
     "bestseller": true,
     "price": 500,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "f49fdd49-59ca-46f7-a396-e89cc0406c28"
   },
   {
@@ -1136,7 +1136,7 @@
     "award": "Highly anticipated continuation of the Empyrean saga",
     "bestseller": false,
     "price": 300,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "46834b1d-de57-4cb4-88a7-84c937e893fa"
   },
   {
@@ -1151,7 +1151,7 @@
     "award": "Record-breaking instant #1 international bestseller",
     "bestseller": true,
     "price": 300,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "5669670b-1dbe-457d-a89b-dd46daead8ef"
   },
   {
@@ -1166,7 +1166,7 @@
     "award": "Nominated for the David Gemmell Legend Award for Best Fantasy Novel",
     "bestseller": false,
     "price": 300,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "d1516549-d563-4131-bb19-f59372ebec99"
   },
   {
@@ -1181,7 +1181,7 @@
     "award": "Highly acclaimed second book in the Night Angel trilogy",
     "bestseller": false,
     "price": 350,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "53f81aec-eb64-498a-8d65-e7552ecc8f19"
   },
   {
@@ -1196,7 +1196,7 @@
     "award": "High-octane conclusion to the Night Angel trilogy",
     "bestseller": false,
     "price": 350,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "881e835e-c94d-4d28-910f-03b0dddeb836"
   },
   {
@@ -1211,7 +1211,7 @@
     "award": "Winner of the Locus Award for Best Fantasy Novel (1997)",
     "bestseller": false,
     "price": 350,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "fec380c7-7dd7-4050-b2c5-787b8ac9699e"
   },
   {
@@ -1226,7 +1226,7 @@
     "award": "Highly acclaimed epic fantasy debut; Locus Best First Novel finalist indicator",
     "bestseller": false,
     "price": 350,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "33b691f1-1a3c-4a0a-b557-3b4bd925df4f"
   },
   {
@@ -1241,7 +1241,7 @@
     "award": "Goodreads Choice Nominee",
     "bestseller": true,
     "price": 700,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "42d33af1-5993-4c1a-beaf-de803f61b6e5"
   },
   {
@@ -1256,7 +1256,7 @@
     "award": "Goodreads Choice Award Winner",
     "bestseller": true,
     "price": 600,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "97d9d1b0-a157-4d9d-aff7-cdf7b44f6c02"
   },
   {
@@ -1271,7 +1271,7 @@
     "award": "Dragon Award Winner",
     "bestseller": true,
     "price": 400,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "6517ab32-c5be-43ab-8d09-df730ae1c552"
   },
   {
@@ -1286,7 +1286,7 @@
     "award": "Bestseller",
     "bestseller": true,
     "price": 300,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "fcb4beb6-fee5-4be4-9ff0-6ca36cb8d06c"
   },
   {
@@ -1301,7 +1301,7 @@
     "award": "David Gemmell Legend Award",
     "bestseller": true,
     "price": 400,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "b2def88c-13de-4fb9-9ebe-c489276289c6"
   },
   {
@@ -1316,7 +1316,7 @@
     "award": "Bestseller",
     "bestseller": true,
     "price": 400,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "74090569-8213-43bb-af95-c45743692d98"
   },
   {
@@ -1331,7 +1331,7 @@
     "award": "Bestseller",
     "bestseller": true,
     "price": 400,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "0576eb91-8c3c-4641-8a2d-e961dbe31607"
   },
   {
@@ -1346,7 +1346,7 @@
     "award": "Goodreads Choice Award",
     "bestseller": true,
     "price": null,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "d745ce5d-5ba9-4595-93b5-de246354b698"
   },
   {
@@ -1361,7 +1361,7 @@
     "award": "Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "02a24d0b-80f7-4878-aa8a-1bdb6885b4d3"
   },
   {
@@ -1376,7 +1376,7 @@
     "award": "Goodreads Choice Nominee",
     "bestseller": true,
     "price": 250,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "34319012-8021-4e76-a37c-1a6297475e01"
   },
   {
@@ -1391,7 +1391,7 @@
     "award": "Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "a11cae05-0d13-42f0-92bd-4c651578993f"
   },
   {
@@ -1406,7 +1406,7 @@
     "award": "Bestseller",
     "bestseller": true,
     "price": 250,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "db15631f-081f-4244-8030-965c38bd5cfa"
   },
   {
@@ -1421,7 +1421,7 @@
     "award": "Bestseller",
     "bestseller": true,
     "price": 250,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "939bf9f8-eb45-4030-b17d-2d8db5a4483c"
   },
   {
@@ -1436,7 +1436,7 @@
     "award": "Goodreads Choice Winner",
     "bestseller": true,
     "price": 300,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "0c294e07-e734-4606-8071-bbe2d343b3c6"
   },
   {
@@ -1451,7 +1451,7 @@
     "award": "Edgar Award Nominee",
     "bestseller": true,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "e08e7d83-f4b5-45b7-a213-8e5a2eb1e1a1"
   },
   {
@@ -1466,7 +1466,7 @@
     "award": "Classic Literature",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "15644303-2b6f-42cd-80be-23bb42d7fe22"
   },
   {
@@ -1481,7 +1481,7 @@
     "award": "David Gemmell Legend Award",
     "bestseller": true,
     "price": 350,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "07f77a19-cba6-4895-abfb-0fd2188d6b0f"
   },
   {
@@ -1496,7 +1496,7 @@
     "award": "David Gemmell Legend Award",
     "bestseller": true,
     "price": 350,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "cd30a918-f360-4fbe-a1e6-612047441d3a"
   },
   {
@@ -1511,7 +1511,7 @@
     "award": null,
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "07e9dc73-7b80-43d5-8295-935829c4c285"
   },
   {
@@ -1526,7 +1526,7 @@
     "award": "Bestseller",
     "bestseller": true,
     "price": 250,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "34a58ee2-c4c8-4e32-a26d-1ffe72be9db4"
   },
   {
@@ -1541,7 +1541,7 @@
     "award": "Winner of the 2026 Mark Lynton History Prize; Bestseller",
     "bestseller": true,
     "price": 300,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "99ea2482-cf08-4bd5-b688-d610fa9e4a5e"
   },
   {
@@ -1556,7 +1556,7 @@
     "award": "Winner of the Duff Cooper Prize (2007); Shortlisted for Samuel Johnson Prize",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "90c220a8-8af2-48f8-90b1-c3583cd2ca31"
   },
   {
@@ -1571,7 +1571,7 @@
     "award": "Winner of the National Library of China Wenjin Book Award",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "521fb09f-4115-403e-9454-df125b02358b"
   },
   {
@@ -1586,7 +1586,7 @@
     "award": "Foundational Text of Western Political Philosophy & Ethics",
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "551f8b25-29ee-4e66-ae90-ead4f07a040d"
   },
   {
@@ -1601,7 +1601,7 @@
     "award": "Essential Exposition of Objectivist Philosophy",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "5e2e545a-92ca-4124-bbe7-0aab8ccc47f5"
   },
   {
@@ -1616,7 +1616,7 @@
     "award": "Renowned Metaphysics Narrative; Multi-million Copy Bestseller",
     "bestseller": true,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "2fcb5d7d-7b59-4869-af10-7e08e89f3aad"
   },
   {
@@ -1631,7 +1631,7 @@
     "award": "Aventis Prize for Science Books Nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "fc6a7714-b7f0-49cf-b35a-423d832e80b6"
   },
   {
@@ -1646,7 +1646,7 @@
     "award": "Highly Acclaimed Investigative Journalistic Chronicle",
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "0d865b87-73ec-4987-9268-b79438346614"
   },
   {
@@ -1661,7 +1661,7 @@
     "award": "Financial Times and Goldman Sachs Business Book of the Year Nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "d7bf61a0-6a27-421e-a7d2-b1c77ebc8a9c"
   },
   {
@@ -1676,7 +1676,7 @@
     "award": "Historic Soviet-Era Archival Documentation",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "ea68ec18-8a70-43f0-9aab-a72ed0c9194a"
   },
   {
@@ -1691,7 +1691,7 @@
     "award": "Soviet Era Historical Record",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "1f5b66e8-d5fc-4143-997d-6395737fcd1d"
   },
   {
@@ -1706,7 +1706,7 @@
     "award": "New York Times & Wall Street Journal Geopolitical Bestseller",
     "bestseller": true,
     "price": 300,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "3b822f32-de20-4631-b6d4-b0f9e8be5fa6"
   },
   {
@@ -1721,7 +1721,7 @@
     "award": "Shortlisted for the Conkeldice History Prize",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "b933fb51-112c-49ae-868a-9e65c2a3a6d9"
   },
   {
@@ -1736,7 +1736,7 @@
     "award": "Classic Scriptural and Metaphysical Foundational Text",
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "3dcaec94-e820-4d34-b3fc-b0a9246e3b1a"
   },
   {
@@ -1751,7 +1751,7 @@
     "award": "Acclaimed Cricket Biography \/ Sports History",
     "bestseller": false,
     "price": 300,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "3582e54d-668b-4398-ac59-6d65ef6dd12a"
   },
   {
@@ -1766,7 +1766,7 @@
     "award": "Insightful Historical Narrative",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "38d80e4e-9d4a-4675-95b7-73421bb42078"
   },
   {
@@ -1781,7 +1781,7 @@
     "award": "Bestselling Historical Fiction Epic",
     "bestseller": true,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "43ed3bc9-8093-4432-9035-b5888ff631a6"
   },
   {
@@ -1796,7 +1796,7 @@
     "award": "Cultural Non-fiction Exploration",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "3f585175-e116-4ff2-a698-3698a0abed41"
   },
   {
@@ -1811,7 +1811,7 @@
     "award": "New York Times Bestseller Documenting Youth Activism",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "91d3ecaa-b453-4d37-b9eb-2baa812f9d65"
   },
   {
@@ -1826,7 +1826,7 @@
     "award": "Acclaimed Collection of Literary and Cultural Essays",
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "9acaedef-7844-4f52-8f0b-496b84fce8cf"
   },
   {
@@ -1841,7 +1841,7 @@
     "award": "Educational History Editions",
     "bestseller": false,
     "price": 50,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "0e98dcd3-461e-4c9d-9ee0-2650a8d9db9e"
   },
   {
@@ -1856,7 +1856,7 @@
     "award": "Educational History Editions",
     "bestseller": false,
     "price": 50,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "9129778e-1780-4803-bd19-609b75d9b99a"
   },
   {
@@ -1871,7 +1871,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "fc8a746c-02cf-432c-8f2d-35ea81d26660"
   },
   {
@@ -1886,7 +1886,7 @@
     "award": null,
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "310e10f3-840c-4638-95d3-797e3643e52e"
   },
   {
@@ -1901,7 +1901,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "aef0d3de-9dd7-4112-8fbe-57f67de26740"
   },
   {
@@ -1916,7 +1916,7 @@
     "award": null,
     "bestseller": false,
     "price": 200,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "b2ea024e-7aa8-4588-90e5-077b1dd0901d"
   },
   {
@@ -1931,7 +1931,7 @@
     "award": null,
     "bestseller": false,
     "price": 200,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "dcbd389e-5e08-402b-8b57-e3796bba98fd"
   },
   {
@@ -1946,7 +1946,7 @@
     "award": null,
     "bestseller": false,
     "price": 175,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "07158db1-1d4c-455d-a854-3714d547e956"
   },
   {
@@ -1961,7 +1961,7 @@
     "award": null,
     "bestseller": false,
     "price": 175,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "46e8d496-5bf8-4327-bfb4-1a838dc1b90d"
   },
   {
@@ -1976,7 +1976,7 @@
     "award": null,
     "bestseller": false,
     "price": 175,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "1bc5bba3-2af9-4f2a-b895-cfd42febb65a"
   },
   {
@@ -1991,7 +1991,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "0a6b398f-c00f-46ab-b6cd-1bf42977cda8"
   },
   {
@@ -2006,7 +2006,7 @@
     "award": null,
     "bestseller": false,
     "price": 162,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "24836b21-ff4c-4aa7-9c63-8d21fba3f536"
   },
   {
@@ -2021,7 +2021,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "6b747eda-8409-49fd-b3d8-19fe6d293239"
   },
   {
@@ -2036,7 +2036,7 @@
     "award": null,
     "bestseller": false,
     "price": 138,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "21ae5357-9364-44c4-bda7-bc8b5d5944d8"
   },
   {
@@ -2051,7 +2051,7 @@
     "award": null,
     "bestseller": false,
     "price": 100,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "6ad6d83c-3199-4550-902c-797706ac0db0"
   },
   {
@@ -2066,7 +2066,7 @@
     "award": null,
     "bestseller": false,
     "price": 125,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "715a9684-7f36-4286-9786-f91facb16d4a"
   },
   {
@@ -2081,7 +2081,7 @@
     "award": null,
     "bestseller": false,
     "price": 75,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "b0cfe697-4c28-4cc0-9a36-2d77c985c900"
   },
   {
@@ -2096,7 +2096,7 @@
     "award": null,
     "bestseller": false,
     "price": 88,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "8d6a17d7-d798-4e2d-ba80-6c7078cc2882"
   },
   {
@@ -2111,7 +2111,7 @@
     "award": null,
     "bestseller": false,
     "price": 100,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "43301dc6-f9d8-4781-9e41-8606e85314e4"
   },
   {
@@ -2126,7 +2126,7 @@
     "award": null,
     "bestseller": false,
     "price": 75,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "a46bc149-2879-41cd-bee6-1fc9efd5fdf9"
   },
   {
@@ -2141,7 +2141,7 @@
     "award": null,
     "bestseller": false,
     "price": 75,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "7fc39556-451a-46b9-93a1-a71b6d6cecd1"
   },
   {
@@ -2156,7 +2156,7 @@
     "award": null,
     "bestseller": false,
     "price": 125,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "fabf3731-b4d8-4a82-8ab3-bffc3fa32db0"
   },
   {
@@ -2171,7 +2171,7 @@
     "award": null,
     "bestseller": false,
     "price": 100,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "e04f8e36-82c7-4def-a8cc-3a2ce1c27c37"
   },
   {
@@ -2186,7 +2186,7 @@
     "award": null,
     "bestseller": false,
     "price": 90,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "65887f8c-c37c-4e28-9a7c-a726ce9187b1"
   },
   {
@@ -2201,7 +2201,7 @@
     "award": null,
     "bestseller": false,
     "price": 100,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "bbc5305f-db5b-4b23-8cca-034c72660d49"
   },
   {
@@ -2216,7 +2216,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "1584e771-043c-49b3-97e6-7dedf57f6f6b"
   },
   {
@@ -2231,7 +2231,7 @@
     "award": null,
     "bestseller": false,
     "price": 74,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "0f3d5833-c706-40fa-8bd6-7c2bbea610fb"
   },
   {
@@ -2246,7 +2246,7 @@
     "award": null,
     "bestseller": false,
     "price": 100,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "3f5627dd-f41d-49e7-9560-1fd39672cbb1"
   },
   {
@@ -2261,7 +2261,7 @@
     "award": null,
     "bestseller": false,
     "price": 100,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "de0e331b-3b43-4a44-840a-54fb69df9d19"
   },
   {
@@ -2276,7 +2276,7 @@
     "award": null,
     "bestseller": false,
     "price": 112,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "37a0ca82-1a2c-4afd-af7d-1d794f001fe5"
   },
   {
@@ -2291,7 +2291,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "fefaca66-5061-4078-93ac-a8a18677aec0"
   },
   {
@@ -2306,7 +2306,7 @@
     "award": null,
     "bestseller": false,
     "price": 100,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "e0022642-e61b-4e77-9e37-9e471d6cf2a5"
   },
   {
@@ -2321,7 +2321,7 @@
     "award": null,
     "bestseller": false,
     "price": 125,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "158400d9-1574-4e06-b568-35486e68d19f"
   },
   {
@@ -2336,7 +2336,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "3a278989-7b54-43b9-9c49-4ce3315d4e1c"
   },
   {
@@ -2351,7 +2351,7 @@
     "award": null,
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "586c6aa4-639f-42c0-94f7-43331da29e51"
   },
   {
@@ -2366,7 +2366,7 @@
     "award": null,
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "77958a9d-bc09-45cc-8339-09bae86f7647"
   },
   {
@@ -2381,7 +2381,7 @@
     "award": null,
     "bestseller": false,
     "price": 225,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "45848658-a368-40b1-84c1-0f38cee0bb35"
   },
   {
@@ -2396,7 +2396,7 @@
     "award": null,
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "f7510e2e-2937-4118-9aa1-547676360992"
   },
   {
@@ -2411,7 +2411,7 @@
     "award": null,
     "bestseller": false,
     "price": 225,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "34fc3a73-7c1f-489d-ae12-90e74e22decb"
   },
   {
@@ -2426,7 +2426,7 @@
     "award": null,
     "bestseller": false,
     "price": 175,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "ca8f6581-a5de-41b4-b31c-d01fb879cfd2"
   },
   {
@@ -2441,7 +2441,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "0097d6f4-5f75-4eef-b0a7-33192821df47"
   },
   {
@@ -2456,7 +2456,7 @@
     "award": null,
     "bestseller": false,
     "price": 125,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "4769fa22-d96e-4525-868d-63be55c908f6"
   },
   {
@@ -2471,7 +2471,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "9f20ca97-8f04-4386-aea6-319f0d056ad2"
   },
   {
@@ -2486,7 +2486,7 @@
     "award": null,
     "bestseller": false,
     "price": 250,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "90812a23-1be5-42bd-8d43-aef067a83994"
   },
   {
@@ -2501,7 +2501,7 @@
     "award": null,
     "bestseller": false,
     "price": 138,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "8d1f1ed6-6d15-40bc-8ebe-2a2016eb89c3"
   },
   {
@@ -2516,7 +2516,7 @@
     "award": null,
     "bestseller": false,
     "price": 175,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "a1b8b1c6-b3de-4054-920d-3dd10ccd54c9"
   },
   {
@@ -2531,7 +2531,7 @@
     "award": null,
     "bestseller": false,
     "price": 175,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "baa73e01-87ea-4827-ab47-f5ebe9140c4e"
   },
   {
@@ -2546,7 +2546,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "69cd0782-f488-4629-94d3-58a09edf53f7"
   },
   {
@@ -2561,7 +2561,7 @@
     "award": null,
     "bestseller": false,
     "price": 125,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "1d3945b2-c5a6-41dd-b7e0-29e8dd42a328"
   },
   {
@@ -2576,7 +2576,7 @@
     "award": null,
     "bestseller": false,
     "price": 125,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "99eb52bd-f6f7-4d40-acb1-5c623c9948e9"
   },
   {
@@ -2591,7 +2591,7 @@
     "award": "Popular daily trivia learning book",
     "bestseller": false,
     "price": 100,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "edf1693b-e462-462b-9019-e7c91b139bbe"
   },
   {
@@ -2606,7 +2606,7 @@
     "award": "Popular daily trivia learning book",
     "bestseller": false,
     "price": 100,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "35782d71-5930-47a2-814b-9d4a8df95820"
   },
   {
@@ -2621,7 +2621,7 @@
     "award": "Popular daily trivia learning book",
     "bestseller": false,
     "price": 100,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "bc7fc618-c9ea-4d81-a61f-8a78f9b6c4d6"
   },
   {
@@ -2636,7 +2636,7 @@
     "award": "Popular daily trivia learning book",
     "bestseller": false,
     "price": 100,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "608a79fd-2691-43ca-a82a-1224ca5e3fbe"
   },
   {
@@ -2651,7 +2651,7 @@
     "award": "Popular daily trivia learning book",
     "bestseller": false,
     "price": 100,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "a7f93020-f33a-4192-bd9d-105d18b4dde3"
   },
   {
@@ -2666,7 +2666,7 @@
     "award": "Popular daily trivia learning book",
     "bestseller": false,
     "price": 100,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "a09fd55e-75ae-4c19-bd71-7b62f268bc88"
   },
   {
@@ -2681,7 +2681,7 @@
     "award": "Popular daily trivia learning book",
     "bestseller": false,
     "price": 100,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "a8ba5306-170c-4c08-b00e-d4a799200c14"
   },
   {
@@ -2696,7 +2696,7 @@
     "award": "Popular daily trivia learning book",
     "bestseller": false,
     "price": 100,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "842c8126-2f8d-4af6-94ac-b133058d00fe"
   },
   {
@@ -2711,7 +2711,7 @@
     "award": "Globally acclaimed visual reference companion",
     "bestseller": false,
     "price": 500,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "3281e30b-6824-48ec-989b-518db85aa25f"
   },
   {
@@ -2726,7 +2726,7 @@
     "award": "Classic highly-rated educational resource",
     "bestseller": false,
     "price": 450,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "84de3a88-7599-4799-a072-123237af2767"
   },
   {
@@ -2741,7 +2741,7 @@
     "award": "Renowned family trivia collection",
     "bestseller": false,
     "price": 500,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "c16918fe-af2e-416d-84c6-43dd5ded2e77"
   },
   {
@@ -2756,7 +2756,7 @@
     "award": "Popular global family quiz & trivia series",
     "bestseller": false,
     "price": 250,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "5f194786-4129-4030-a09a-833bde2839e4"
   },
   {
@@ -2771,7 +2771,7 @@
     "award": "Popular quick-reference compilation",
     "bestseller": false,
     "price": 400,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "3da7006d-45ad-4246-8d1e-10749f86f3cc"
   },
   {
@@ -2786,7 +2786,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "fb976c20-2f05-4ff0-92eb-7f6ff0de2a44"
   },
   {
@@ -2801,7 +2801,7 @@
     "award": "Acclaimed introductory children's reference",
     "bestseller": false,
     "price": 500,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "1f5b21c8-7637-485c-85f4-66b4e86a78b8"
   },
   {
@@ -2816,7 +2816,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "7093e0fe-20fc-4b41-9abe-94e7eef0a514"
   },
   {
@@ -2831,7 +2831,7 @@
     "award": "Premium educational foundational series",
     "bestseller": false,
     "price": null,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "9055a324-9eb4-443a-820d-71f3afb6a8ea"
   },
   {
@@ -2846,7 +2846,7 @@
     "award": null,
     "bestseller": false,
     "price": 250,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "d0abb188-6c61-4264-ba05-e863d6e81b4f"
   },
   {
@@ -2861,7 +2861,7 @@
     "award": null,
     "bestseller": false,
     "price": 250,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "b3ed1e53-b180-4fce-95ee-576483fdd780"
   },
   {
@@ -2876,7 +2876,7 @@
     "award": null,
     "bestseller": false,
     "price": 250,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "d1d99937-b0bb-4aec-836d-758c715af2eb"
   },
   {
@@ -2891,7 +2891,7 @@
     "award": null,
     "bestseller": false,
     "price": 250,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "fe4d8aec-424e-46e3-b1ff-9964d5d54df2"
   },
   {
@@ -2906,7 +2906,7 @@
     "award": null,
     "bestseller": false,
     "price": 250,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "f008727c-50e3-4216-9e12-5faeccbea855"
   },
   {
@@ -2921,7 +2921,7 @@
     "award": "Acclaimed interactive pop-up educational book",
     "bestseller": false,
     "price": 250,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "3721bf94-9d06-4144-bc17-761c604e2559"
   },
   {
@@ -2936,7 +2936,7 @@
     "award": "Core scholastic geographical companion",
     "bestseller": false,
     "price": 250,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "5b67567f-ae2f-4a2d-a9e0-0c1f3ce7a2ec"
   },
   {
@@ -2951,7 +2951,7 @@
     "award": null,
     "bestseller": false,
     "price": 250,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "1d957e1e-5fb6-48fc-9269-4ac153998b2e"
   },
   {
@@ -2966,7 +2966,7 @@
     "award": null,
     "bestseller": false,
     "price": 250,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "c63c5f1a-f588-460b-bd2a-ed463a09c852"
   },
   {
@@ -2981,7 +2981,7 @@
     "award": null,
     "bestseller": false,
     "price": 100,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "892e974c-d536-4711-89a3-1025b1399756"
   },
   {
@@ -2996,7 +2996,7 @@
     "award": null,
     "bestseller": false,
     "price": 250,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "4eeb5343-53b2-408d-885f-1b38888df424"
   },
   {
@@ -3011,7 +3011,7 @@
     "award": null,
     "bestseller": false,
     "price": 100,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "5acab505-cdaa-4e06-9e97-a2322455ff5a"
   },
   {
@@ -3026,7 +3026,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "70dc7a8e-001f-42dd-8ca3-29d7283f494a"
   },
   {
@@ -3041,7 +3041,7 @@
     "award": null,
     "bestseller": false,
     "price": 100,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "86220298-a847-4370-9164-52d9b5f6b664"
   },
   {
@@ -3056,7 +3056,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "b947f3d9-571e-4b6c-984a-082f9b976f04"
   },
   {
@@ -3071,7 +3071,7 @@
     "award": "Industry-standard illustrated reference guide",
     "bestseller": false,
     "price": 450,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "6548ef5e-3639-42d2-82f7-4670f6013b2b"
   },
   {
@@ -3086,7 +3086,7 @@
     "award": "Heavily utilized school-level reference guides",
     "bestseller": false,
     "price": 100,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "0503c24d-e906-40a5-99ac-f91aa5603140"
   },
   {
@@ -3101,7 +3101,7 @@
     "award": "Comprehensive cultural and spiritual overview",
     "bestseller": false,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "4f604ee8-c43b-4e03-879b-7f8770be22f5"
   },
   {
@@ -3116,7 +3116,7 @@
     "award": "Highly recommended STEM activity resource",
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "40cc3881-03ec-4f54-bc7f-77466d4bf386"
   },
   {
@@ -3131,7 +3131,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "5bf4beaf-e5ae-4585-89c7-122fa39734bd"
   },
   {
@@ -3146,7 +3146,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "b34dc210-8e19-49fc-a5e4-f37b720ad45b"
   },
   {
@@ -3161,7 +3161,7 @@
     "award": "Historically legendary foundational learning set",
     "bestseller": false,
     "price": null,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "6841a875-efc4-4bd2-af99-671f39795b28"
   },
   {
@@ -3176,7 +3176,7 @@
     "award": null,
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "c1242f27-ad47-476e-aa34-23be0b3e1274"
   },
   {
@@ -3191,7 +3191,7 @@
     "award": null,
     "bestseller": false,
     "price": 500,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "03f00448-bc68-49eb-93c8-22738010233c"
   },
   {
@@ -3206,7 +3206,7 @@
     "award": null,
     "bestseller": false,
     "price": 50,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "7264cc07-005d-43db-aceb-8a9132395458"
   },
   {
@@ -3221,7 +3221,7 @@
     "award": null,
     "bestseller": false,
     "price": 50,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "8eec09f6-de3c-43a7-a8b5-dc97cd994154"
   },
   {
@@ -3236,7 +3236,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "9b84dade-6b4a-47c4-8fc5-444a99a26d24"
   },
   {
@@ -3251,7 +3251,7 @@
     "award": null,
     "bestseller": false,
     "price": 500,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "cb397e28-2109-481e-8edf-2bcc884bb510"
   },
   {
@@ -3266,7 +3266,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "bf37ee5a-7f8a-4538-8123-0125c158ad03"
   },
   {
@@ -3281,7 +3281,7 @@
     "award": null,
     "bestseller": false,
     "price": 200,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "3f9aab53-855d-4a50-b46b-d59226e68b46"
   },
   {
@@ -3296,7 +3296,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Under 8",
+    "ageCategory": "Under 8",
     "id": "362d2dcf-aaa6-4e56-a0f9-9ccfba92cbff"
   },
   {
@@ -3311,7 +3311,7 @@
     "award": null,
     "bestseller": false,
     "price": 200,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "a49f1ab8-f431-4f98-a1d3-fb6c187e94c8"
   },
   {
@@ -3326,7 +3326,7 @@
     "award": "#1 New York Times Bestseller List",
     "bestseller": true,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "84261f2e-b7fb-4890-8207-66cb9c26b4e2"
   },
   {
@@ -3341,7 +3341,7 @@
     "award": "Victorian Classic Literature standard",
     "bestseller": false,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "06085078-0131-4a69-b4b2-27e3d99274d1"
   },
   {
@@ -3356,7 +3356,7 @@
     "award": "Ranked #2 on Modern Library's 100 Best Novels",
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "2536e9c4-21f3-4fce-9cc5-fa3e404288a0"
   },
   {
@@ -3371,7 +3371,7 @@
     "award": "Acclaimed French Historical Epic",
     "bestseller": false,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "c7aa1f33-48eb-4f60-9a54-b85c7007168a"
   },
   {
@@ -3386,7 +3386,7 @@
     "award": "Padma Vibhushan Awarded Author collection",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "60503042-16f8-44d3-b451-6b696ad331d7"
   },
   {
@@ -3401,7 +3401,7 @@
     "award": "Winner of the Pulitzer Prize for the Novel (1939)",
     "bestseller": false,
     "price": 150,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "dd596c6c-1174-4ebf-9cf2-47efc1763f20"
   },
   {
@@ -3416,7 +3416,7 @@
     "award": "Basis for the Golden Globe Nominated Series",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "f717efe5-e680-4821-b792-072add9d698b"
   },
   {
@@ -3431,7 +3431,7 @@
     "award": "Classic English Literature Landmark",
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "0b96a31b-2097-4e64-98e5-d8654d317dfc"
   },
   {
@@ -3446,7 +3446,7 @@
     "award": "Exclusive British Book Award Winner",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "15018436-63b7-4fa2-b449-f67bc4736d1e"
   },
   {
@@ -3461,7 +3461,7 @@
     "award": "Irish Book Award Nominee",
     "bestseller": false,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "a60d5717-fe15-475a-a187-4ecb7f392cf3"
   },
   {
@@ -3476,7 +3476,7 @@
     "award": "Massive Indian Fiction Bestseller",
     "bestseller": true,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "78399c29-48cd-471f-8538-b54765437562"
   },
   {
@@ -3491,7 +3491,7 @@
     "award": "Adapted into a major motion picture",
     "bestseller": false,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "7fa1b0d6-b899-44ba-8fff-84ee16e6af68"
   },
   {
@@ -3506,7 +3506,7 @@
     "award": "Goodreads Choice Award Nominee (2014)",
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "efcb0490-53a9-4d75-bac8-ca2e11788534"
   },
   {
@@ -3521,7 +3521,7 @@
     "award": "New York Times Blockbuster Novel",
     "bestseller": true,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "33e25c36-363f-4482-8624-c679d9dfb792"
   },
   {
@@ -3536,7 +3536,7 @@
     "award": "Bestselling sequel to Love Story",
     "bestseller": true,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "511416d8-b8c9-4469-9b0c-d8a753b4d08c"
   },
   {
@@ -3551,7 +3551,7 @@
     "award": "Bestseller \/ Highly Acclaimed",
     "bestseller": true,
     "price": 400,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "c8535347-261a-4112-9964-b562f10d74a7"
   },
   {
@@ -3566,7 +3566,7 @@
     "award": "Frank O'Connor Short Story Award Longlist",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "21e9a716-92e3-4551-8ac0-9f311994abb7"
   },
   {
@@ -3581,7 +3581,7 @@
     "award": "International Cult Phenomenon \/ Masterpiece",
     "bestseller": false,
     "price": 300,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "71a4af63-2710-4dd3-a63d-aea76abaff3c"
   },
   {
@@ -3596,7 +3596,7 @@
     "award": "Goodreads Choice Award Nominee (2015)",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "51f864c9-e324-4266-aa6a-654c2902b887"
   },
   {
@@ -3611,7 +3611,7 @@
     "award": "Goodreads Choice Award Winner (2018)",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "f28b7b42-a916-4f1d-a1bb-acd03d0d2868"
   },
   {
@@ -3626,7 +3626,7 @@
     "award": "Adapted into an award-winning Indian film",
     "bestseller": false,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "72963789-e167-4940-acb1-97312220d6dc"
   },
   {
@@ -3641,7 +3641,7 @@
     "award": "Critical Acclaim \/ Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "7995174d-9d72-462d-835d-1e7b73ad4085"
   },
   {
@@ -3656,7 +3656,7 @@
     "award": "International Bestselling Epic Drama",
     "bestseller": true,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "642c3351-5cb8-446f-8cca-387697f1524b"
   },
   {
@@ -3671,7 +3671,7 @@
     "award": "Highly Acclaimed Contemporary Fiction",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "69ccbe94-7fd7-4504-9cab-d257d4d7fa7f"
   },
   {
@@ -3686,7 +3686,7 @@
     "award": "Time Magazine 100 Best English-language Novels",
     "bestseller": false,
     "price": 100,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "ec795751-f534-4122-9111-4c2301905218"
   },
   {
@@ -3701,7 +3701,7 @@
     "award": "Bestselling Short Story Anthology",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "a3c5136c-690b-4cb9-aeb8-539834b62511"
   },
   {
@@ -3716,7 +3716,7 @@
     "award": "Inaugural Clifton Chronicles installment",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "903ea9c7-a0ab-4e7d-ba8e-821a5f658246"
   },
   {
@@ -3731,7 +3731,7 @@
     "award": "Frank O'Connor International Short Story Award",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "cdcb0a60-0be6-4869-b57e-0254a12476d6"
   },
   {
@@ -3746,7 +3746,7 @@
     "award": "Goodreads Choice Award Nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "acc0e621-d4a0-48a5-abc5-bb272e2de911"
   },
   {
@@ -3761,7 +3761,7 @@
     "award": "Meredith Award Winner",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "41a0c8c6-0d84-472e-a75c-0d472fbf1ed5"
   },
   {
@@ -3776,7 +3776,7 @@
     "award": "New York Times Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "45f971d3-8005-404b-a3d6-bd878f06e6a3"
   },
   {
@@ -3791,7 +3791,7 @@
     "award": "#1 New York Times Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "b75d6abf-53a5-4d77-904e-1337dcf4e265"
   },
   {
@@ -3806,7 +3806,7 @@
     "award": "Goodreads Choice Award for Historical Fiction (2013)",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "a34555b9-e7e9-4c02-97f6-943b2d8d8d6f"
   },
   {
@@ -3821,7 +3821,7 @@
     "award": null,
     "bestseller": null,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "41724413-b71b-4dc7-bf30-c0063b93d778"
   },
   {
@@ -3836,7 +3836,7 @@
     "award": null,
     "bestseller": null,
     "price": 100,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "f9bcb7c6-c959-42ca-8188-40bcbd7ac857"
   },
   {
@@ -3851,7 +3851,7 @@
     "award": null,
     "bestseller": null,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "0b615b91-c77f-43d6-beb8-c4830faf9278"
   },
   {
@@ -3866,7 +3866,7 @@
     "award": null,
     "bestseller": null,
     "price": 100,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "94749742-1316-4304-8bfb-6b00d1ad1c73"
   },
   {
@@ -3881,7 +3881,7 @@
     "award": null,
     "bestseller": null,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "ee557b5a-2221-4f49-a236-37382f33a0de"
   },
   {
@@ -3896,7 +3896,7 @@
     "award": null,
     "bestseller": null,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "333d1fa3-57e3-4387-8159-f4401b36d9ef"
   },
   {
@@ -3911,7 +3911,7 @@
     "award": null,
     "bestseller": null,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "89b29ccc-124f-463e-be48-630767f6b393"
   },
   {
@@ -3926,7 +3926,7 @@
     "award": null,
     "bestseller": null,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "47d7a400-611d-44fa-8c62-0851bb41364c"
   },
   {
@@ -3941,7 +3941,7 @@
     "award": null,
     "bestseller": null,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "9bcca7da-17fe-41cd-8452-8e41c1dbadcc"
   },
   {
@@ -3956,7 +3956,7 @@
     "award": "Goodreads Choice Nominee",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "352bc432-d037-424e-9dc7-c1ab91f8e34b"
   },
   {
@@ -3971,7 +3971,7 @@
     "award": "Pulitzer Prize for Fiction",
     "bestseller": true,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "a6a69611-df7b-4bf2-b0fd-a54c27437d14"
   },
   {
@@ -3986,7 +3986,7 @@
     "award": "International Bestseller",
     "bestseller": true,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "9ac7f995-3552-4542-b11f-c12d2af6f307"
   },
   {
@@ -4001,7 +4001,7 @@
     "award": "Oprah's Book Club Selection",
     "bestseller": true,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "007eaa31-3c35-4ba8-9a53-63d428e15537"
   },
   {
@@ -4016,7 +4016,7 @@
     "award": "Sunday Times Bestseller",
     "bestseller": true,
     "price": 350,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "9e4b0d0b-4b70-4a65-81ff-99d1d4ef6d61"
   },
   {
@@ -4031,7 +4031,7 @@
     "award": "Dayton Literary Peace Prize",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "4bcfcb5e-31df-4aa7-bb1d-d094524ead28"
   },
   {
@@ -4046,7 +4046,7 @@
     "award": "Grand Prix des Lectrices",
     "bestseller": true,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "b19b5dd0-e7ed-40ac-907a-62a23098ec3c"
   },
   {
@@ -4061,7 +4061,7 @@
     "award": "Asian\/Pacific American Award",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "e907e5ac-4ab9-4a3a-9229-b019b656e481"
   },
   {
@@ -4076,7 +4076,7 @@
     "award": "Anisfield-Wolf Book Award",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "efb05a5c-6c42-4c68-90e4-036fcf8fa1e5"
   },
   {
@@ -4091,7 +4091,7 @@
     "award": "Nobel Prize in Literature 2021",
     "bestseller": true,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "3e8be9b1-c7d7-453d-b84a-6c857c6d3dc3"
   },
   {
@@ -4106,7 +4106,7 @@
     "award": "Pulitzer Prize for Fiction",
     "bestseller": true,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "a2e6f600-2737-4ec8-8f6a-a3febc7865af"
   },
   {
@@ -4121,7 +4121,7 @@
     "award": "Pulitzer Prize for Fiction",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "56219957-7daf-4fd3-beea-11f772e29a8d"
   },
   {
@@ -4136,7 +4136,7 @@
     "award": "National Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "e18c759c-719c-4338-b4bd-9d77e5e9d39b"
   },
   {
@@ -4151,7 +4151,7 @@
     "award": "Women's Prize for Fiction",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "9b6ee876-49be-49d9-89ac-15607d56fa56"
   },
   {
@@ -4166,7 +4166,7 @@
     "award": "The Story Prize Winner",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "0f3de86e-3a7e-478f-9499-63d4bda21ae8"
   },
   {
@@ -4181,7 +4181,7 @@
     "award": "Commonwealth Writers' Prize Nominee",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "ca45300b-f2ee-49fe-a2f7-2915d8e573c6"
   },
   {
@@ -4196,7 +4196,7 @@
     "award": "Commonwealth Writers' Prize",
     "bestseller": true,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "583fffe9-ad96-4365-9e27-4d2cfdb5fade"
   },
   {
@@ -4211,7 +4211,7 @@
     "award": "Classic Literature",
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "c2680ad6-528f-4191-add5-64fb3fd3ac3c"
   },
   {
@@ -4226,7 +4226,7 @@
     "award": "New York Times Bestseller",
     "bestseller": true,
     "price": 300,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "b2527532-0e4b-4641-b73d-4870ee89971a"
   },
   {
@@ -4241,7 +4241,7 @@
     "award": "Booker Prize Nominee",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "3f0a8273-72cc-473e-9c5b-a58aa9873d0b"
   },
   {
@@ -4256,7 +4256,7 @@
     "award": "Booker Prize",
     "bestseller": true,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "6b76c1c2-ef07-40bc-a9de-fc42737d69e1"
   },
   {
@@ -4271,7 +4271,7 @@
     "award": "PEN\/Faulkner Award",
     "bestseller": true,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "438e6660-5b43-4173-9e7f-91462073b3f3"
   },
   {
@@ -4286,7 +4286,7 @@
     "award": "Giller Prize",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "daa0b640-74c9-481d-8ec8-8083fbd96a61"
   },
   {
@@ -4301,7 +4301,7 @@
     "award": "International Booker Prize",
     "bestseller": true,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "50612570-6170-4064-ae10-ed1ed3d6485d"
   },
   {
@@ -4316,7 +4316,7 @@
     "award": "Booker Prize",
     "bestseller": true,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "f7b94204-22e0-4b09-b91f-cf70119eeb84"
   },
   {
@@ -4331,7 +4331,7 @@
     "award": "International Booker Prize",
     "bestseller": true,
     "price": 400,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "6d6164c6-a81c-4514-936a-53abe4ac1b14"
   },
   {
@@ -4346,7 +4346,7 @@
     "award": null,
     "bestseller": true,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "ab97b483-e22d-403f-ad52-e92070a6e7bd"
   },
   {
@@ -4361,7 +4361,7 @@
     "award": "Winner of the Raymond Crossword Book Award",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "2c79536d-f9f5-4229-9476-53f553e28cb8"
   },
   {
@@ -4376,7 +4376,7 @@
     "award": "Global Bestselling Memoir",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "4571f371-885c-46cf-99dc-a3acf6d02373"
   },
   {
@@ -4391,7 +4391,7 @@
     "award": "Highly Acclaimed Travelogue",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "fdbfa6f3-5203-4203-9ace-9b543925e0f3"
   },
   {
@@ -4406,7 +4406,7 @@
     "award": "Written by the Nobel Peace Prize Laureate",
     "bestseller": false,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "8440f23d-e037-4229-9347-16553134a7df"
   },
   {
@@ -4421,7 +4421,7 @@
     "award": "Highly Popular National Bestseller",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "6e945e67-1798-495b-b72c-8d099add408c"
   },
   {
@@ -4436,7 +4436,7 @@
     "award": "Critically Acclaimed Biography",
     "bestseller": false,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "2909e6fe-5710-46aa-8366-592045e5adda"
   },
   {
@@ -4451,7 +4451,7 @@
     "award": "Written by Sahitya Akademi Awardee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "4b8519e3-8a44-4672-b69e-5066e1211983"
   },
   {
@@ -4466,7 +4466,7 @@
     "award": "Bestseller lists globally",
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "3a7e0e82-188e-496d-b880-050aac038d0d"
   },
   {
@@ -4481,7 +4481,7 @@
     "award": "#1 New York Times Bestseller",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "e7a50b79-06ef-4dd3-9aeb-43d4562a83a9"
   },
   {
@@ -4496,7 +4496,7 @@
     "award": "Acclaimed Spiritual & Growth Guide",
     "bestseller": false,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "1d0530ea-70e6-4942-a7b3-8cf24f6a4aba"
   },
   {
@@ -4511,7 +4511,7 @@
     "award": "Winner of the Nonfiction Book of the Year",
     "bestseller": false,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "0c5508e6-96ba-435f-baae-094a12a3908d"
   },
   {
@@ -4526,7 +4526,7 @@
     "award": "International Bestselling Sequel",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "0ec8ae05-b0dd-471a-9b84-500bf3d4edd2"
   },
   {
@@ -4541,7 +4541,7 @@
     "award": "New York Times Editor's Choice",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "4199187c-23d7-4e0f-a196-06e074689219"
   },
   {
@@ -4556,7 +4556,7 @@
     "award": "Instant International Hit",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "503eacff-12f4-4bca-830c-69cd7d2328fd"
   },
   {
@@ -4571,7 +4571,7 @@
     "award": "Inspiring Account of Resilience",
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "12a529f7-be2a-49b5-82a7-d052f46a7dea"
   },
   {
@@ -4586,7 +4586,7 @@
     "award": "Groundbreaking Transgender Memoir",
     "bestseller": false,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "0e17af5b-e2dc-4558-9459-34a42c0d4689"
   },
   {
@@ -4601,7 +4601,7 @@
     "award": "Autobiography of Olympic Medalist",
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "fc739620-36ef-4d0b-9a5b-024062a9c75d"
   },
   {
@@ -4616,7 +4616,7 @@
     "award": "National Bestselling Compilation",
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "c89c8321-3fed-45bd-b980-230940fe5de7"
   },
   {
@@ -4631,7 +4631,7 @@
     "award": "Bestselling Business Entrepreneur Book",
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "34f03257-4600-4f30-9d7c-985390026960"
   },
   {
@@ -4646,7 +4646,7 @@
     "award": "Designated as One of 100 Best Spiritual Books",
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "dfe08d7a-e1ac-4c12-9575-9b1fa85c5b47"
   },
   {
@@ -4661,7 +4661,7 @@
     "award": "Part of the Globally Popular History Series",
     "bestseller": false,
     "price": 150,
-    "age-category": "Above 8",
+    "ageCategory": "Above 8",
     "id": "fde5e770-3ae7-4c29-aa06-0c44814893d6"
   },
   {
@@ -4676,7 +4676,7 @@
     "award": "Axiom Business Book Award Winner",
     "bestseller": false,
     "price": 300,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "499a93f9-34ed-430e-b654-962fb16dfef7"
   },
   {
@@ -4691,7 +4691,7 @@
     "award": "Historically Vital Account",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "2d07d139-90fb-4ec6-8a85-9100dfacae63"
   },
   {
@@ -4706,7 +4706,7 @@
     "award": "Global Business Leader Insight",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "0ebb6cbc-d344-4929-8dd2-57e9b955a9f8"
   },
   {
@@ -4721,7 +4721,7 @@
     "award": "Winner of the Gerald Loeb Award",
     "bestseller": false,
     "price": 300,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "73f56e14-79da-4db1-af34-81470a8d821c"
   },
   {
@@ -4736,7 +4736,7 @@
     "award": "Highly acclaimed true survival chronicle",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "2982567c-cd5d-4c4a-b2c4-80936d553562"
   },
   {
@@ -4751,7 +4751,7 @@
     "award": null,
     "bestseller": null,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "9300ce19-75c7-48ba-98e1-9266dc863486"
   },
   {
@@ -4766,7 +4766,7 @@
     "award": null,
     "bestseller": null,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "efc41153-8f7b-4f2b-b3ac-d57c707f0011"
   },
   {
@@ -4781,7 +4781,7 @@
     "award": null,
     "bestseller": null,
     "price": 50,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "5e501127-8d6a-4e83-8ed5-117533f53a0c"
   },
   {
@@ -4796,7 +4796,7 @@
     "award": "Winner of the ITWA Best Memoir",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "c6d08731-e39c-4f85-9cd4-f59fd4b8d81d"
   },
   {
@@ -4811,7 +4811,7 @@
     "award": "New York Times Bestseller",
     "bestseller": true,
     "price": 300,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "0b413c53-b8d9-4877-9b4c-6729517c3baa"
   },
   {
@@ -4826,7 +4826,7 @@
     "award": "Crossword Book Award",
     "bestseller": true,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "4e9c8e03-6fa7-4649-8793-c4062d61e090"
   },
   {
@@ -4841,7 +4841,7 @@
     "award": "Bestseller",
     "bestseller": true,
     "price": 350,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "9c1be9eb-ec9f-4b22-9bd3-db10324725df"
   },
   {
@@ -4856,7 +4856,7 @@
     "award": "Golf Book Award",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "1ba9a3e2-cf60-46f5-8e2d-a8a4301c9682"
   },
   {
@@ -4871,7 +4871,7 @@
     "award": null,
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "a718446b-ee70-4336-b822-c3d119742406"
   },
   {
@@ -4886,7 +4886,7 @@
     "award": "Critical Acclaim",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "80505a12-1405-404e-a2c4-313e1ac8d91f"
   },
   {
@@ -4901,7 +4901,7 @@
     "award": null,
     "bestseller": null,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "e491baf5-1cd5-479b-93b6-d6e3ad54fed9"
   },
   {
@@ -4916,7 +4916,7 @@
     "award": "National Bestseller",
     "bestseller": true,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "776fc077-fa25-4eb3-af58-d70a7414fb50"
   },
   {
@@ -4931,7 +4931,7 @@
     "award": "International Bestseller",
     "bestseller": true,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "5477db16-36b1-465b-8718-47043e288c54"
   },
   {
@@ -4946,7 +4946,7 @@
     "award": "Winner of the Grand Prix Littéraire d'Elle (1995)",
     "bestseller": false,
     "price": 100,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "d7800302-5bc1-4a75-8257-afd4942c283c"
   },
   {
@@ -4961,7 +4961,7 @@
     "award": "International Bestseller",
     "bestseller": true,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "064e739f-43f0-41db-a9c4-8f14c15ec745"
   },
   {
@@ -4976,7 +4976,7 @@
     "award": "New York Times Bestseller",
     "bestseller": true,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "f8573e6d-75d7-4534-bf10-9c0a8d125000"
   },
   {
@@ -4991,7 +4991,7 @@
     "award": "International Bestseller (Over 12 Million Copies Sold)",
     "bestseller": true,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "1e304139-681c-4e06-9d76-0999be902649"
   },
   {
@@ -5006,7 +5006,7 @@
     "award": "Named a 'Must-Read' book by Adam Grant and Susan Cain",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "cf720a62-a052-41c1-b72b-786285f9e483"
   },
   {
@@ -5021,7 +5021,7 @@
     "award": "#1 New York Times Bestseller, Bloomberg Best Book of the Year",
     "bestseller": true,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "7f67fc8b-35c8-4273-9909-9de53825788d"
   },
   {
@@ -5036,7 +5036,7 @@
     "award": "Bestselling sports psychology handbook",
     "bestseller": true,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "80ad39af-4b5a-475e-913f-e5a9b1f395d5"
   },
   {
@@ -5051,7 +5051,7 @@
     "award": "New York Times Bestseller",
     "bestseller": true,
     "price": 50,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "6a18da2c-1dd3-4d56-9aa0-ba83a6ab6c51"
   },
   {
@@ -5066,7 +5066,7 @@
     "award": "Acclaimed spiritual guide",
     "bestseller": false,
     "price": 50,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "aed016d8-6851-486c-b32f-3ba1cf973921"
   },
   {
@@ -5081,7 +5081,7 @@
     "award": "Part of the multi-million-selling Chicken Soup series",
     "bestseller": false,
     "price": 50,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "0f13aaac-d7c6-428b-adc8-dba97404ae79"
   },
   {
@@ -5096,7 +5096,7 @@
     "award": "National Bestseller",
     "bestseller": true,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "38615f54-0b1b-475c-8fd5-57208709ef5f"
   },
   {
@@ -5111,7 +5111,7 @@
     "award": "Shortlisted for the Financial Times and McKinsey Business Book of the Year",
     "bestseller": false,
     "price": 400,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "7e4eb6f4-21e7-4ddb-aad9-b453e026bce6"
   },
   {
@@ -5126,7 +5126,7 @@
     "award": "Classic guide with over a million copies sold",
     "bestseller": true,
     "price": 50,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "be74bdfa-a8c4-4474-92b5-f404e0209d25"
   },
   {
@@ -5141,7 +5141,7 @@
     "award": "One of the most influential self-help books of all time",
     "bestseller": false,
     "price": 50,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "99b9b832-dec0-4a9c-9248-5148bcaa2014"
   },
   {
@@ -5156,7 +5156,7 @@
     "award": "Popular Indian self-improvement guide",
     "bestseller": false,
     "price": 50,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "8b90ac54-48a7-4154-b9fc-f331503ab7f3"
   },
   {
@@ -5171,7 +5171,7 @@
     "award": "Amazon India Bestseller",
     "bestseller": true,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "ac55399f-8f14-480e-9a8f-974a20a6f778"
   },
   {
@@ -5186,7 +5186,7 @@
     "award": "Acclaimed positive psychology guide",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "36f23dcf-c567-4b30-a314-df98e27950e9"
   },
   {
@@ -5201,7 +5201,7 @@
     "award": "International Bestseller (Over 3.8 Million Copies Sold)",
     "bestseller": true,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "070cb9af-1e6f-4d5c-9f4c-467cc65e4990"
   },
   {
@@ -5216,7 +5216,7 @@
     "award": "National Bestseller (Over 500,000 copies sold)",
     "bestseller": true,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "9bdb54ae-b657-47a9-8cd5-368a8b97f76e"
   },
   {
@@ -5231,7 +5231,7 @@
     "award": null,
     "bestseller": true,
     "price": 50,
-    "age-category": "All",
+    "ageCategory": "All",
     "id": "0bd05be3-4526-4ad4-9cd3-fad00551dca4"
   },
   {
@@ -5246,7 +5246,7 @@
     "award": "Bestselling Rizzoli & Isles series",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "3009fd51-f5b3-46de-afbb-c8cc5c9c1bb0"
   },
   {
@@ -5261,7 +5261,7 @@
     "award": "NYT Bestseller",
     "bestseller": true,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "7c490393-36e3-4268-a03c-86bb068575be"
   },
   {
@@ -5276,7 +5276,7 @@
     "award": "Specsavers National Book Award nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "aec2fb19-5936-4ee8-abc2-afd465eaa963"
   },
   {
@@ -5291,7 +5291,7 @@
     "award": "Waterstones Thriller of the Month",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "df727e37-520d-4b3b-a753-210c5cfc1123"
   },
   {
@@ -5306,7 +5306,7 @@
     "award": "Science Thriller of the Year nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "24b6ffe2-0646-4e11-9173-6a1546b17d35"
   },
   {
@@ -5321,7 +5321,7 @@
     "award": "ALA Best Fiction for Young Adults",
     "bestseller": false,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "103e7a13-ab17-4ca6-b6b7-3491035e0e35"
   },
   {
@@ -5336,7 +5336,7 @@
     "award": "NYT Children's Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "0fbf6204-0847-4628-8120-b5f6d4abc24f"
   },
   {
@@ -5351,7 +5351,7 @@
     "award": "Goodreads Choice Award for Favorite Book",
     "bestseller": false,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "7a47d0c6-2caf-4a21-8ad5-3473632e2635"
   },
   {
@@ -5366,7 +5366,7 @@
     "award": "British Book Award for Crime Thriller",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "51edbad8-3eab-40ee-a521-3d4a55ed3900"
   },
   {
@@ -5381,7 +5381,7 @@
     "award": "Glass Key Award",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "fe1f42f5-4b08-4ff6-a571-00c37f446f80"
   },
   {
@@ -5396,7 +5396,7 @@
     "award": "Classic Espionage Thriller",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "42170459-e85f-416d-bc1e-6b03c5e67750"
   },
   {
@@ -5411,7 +5411,7 @@
     "award": "British Book Award nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "914a484a-41b4-4df6-b447-bad710fcc664"
   },
   {
@@ -5426,7 +5426,7 @@
     "award": "Adventure Thriller Highlight",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "a3b7cae8-a501-4818-afe5-2cb1b18164e6"
   },
   {
@@ -5441,7 +5441,7 @@
     "award": "Edgar Award nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "d92aa89f-036b-4a76-90a6-b808b40576ca"
   },
   {
@@ -5456,7 +5456,7 @@
     "award": "Ian Fleming Steel Dagger nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "888c6518-c807-4151-b1b3-90a3e441ce0c"
   },
   {
@@ -5471,7 +5471,7 @@
     "award": "Audie Award for Mystery",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "a26e1d21-fd6d-4aac-918e-7f946cda7cd3"
   },
   {
@@ -5486,7 +5486,7 @@
     "award": "British Book Awards Crime Thriller",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "3016507a-06a4-4ff6-bec4-43d80c0e8786"
   },
   {
@@ -5501,7 +5501,7 @@
     "award": "Historical Adventure Classic",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "a27e76ff-0adb-4038-a5c5-ab7cd62529f3"
   },
   {
@@ -5516,7 +5516,7 @@
     "award": "Non-Fiction Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "30fb0f86-9f20-4ca6-aa7c-210b021a0f3c"
   },
   {
@@ -5531,7 +5531,7 @@
     "award": "True Crime Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "0c9921c7-ec04-447d-801c-c0b0f48370ee"
   },
   {
@@ -5546,7 +5546,7 @@
     "award": "Time's 100 Best English-language Novels",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "96650f9e-b511-49f7-990b-77fcca07d467"
   },
   {
@@ -5561,7 +5561,7 @@
     "award": "International Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "ca310f6b-cbc7-4fd6-b26e-0caa3a4163e5"
   },
   {
@@ -5576,7 +5576,7 @@
     "award": "Espionage Masterpiece",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "ccf43c61-02ff-4d94-9f3f-556ef0507b01"
   },
   {
@@ -5591,7 +5591,7 @@
     "award": "NPR Best Book of the Year",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "fecbd03b-7039-4d61-925e-5f30614e3cd7"
   },
   {
@@ -5606,7 +5606,7 @@
     "award": "Thriller Award nominee",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "b7940b64-f650-4d04-a2bb-d6fa8eb1be72"
   },
   {
@@ -5621,7 +5621,7 @@
     "award": "Barry Award nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "c5cda817-5eb8-4809-818f-b4ac7092de91"
   },
   {
@@ -5636,7 +5636,7 @@
     "award": "NYT Bestseller",
     "bestseller": true,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "13ec6650-8387-4d3d-8768-45da5210e717"
   },
   {
@@ -5651,7 +5651,7 @@
     "award": "Specsavers National Book Award",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "c1372cd7-f1a9-4015-b33a-8e97453055fb"
   },
   {
@@ -5666,7 +5666,7 @@
     "award": "RBA Prize for Crime Writing",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "cce9f7dd-a1d0-4e2b-920c-a88c78d201eb"
   },
   {
@@ -5681,7 +5681,7 @@
     "award": "Anthony Award nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "a7bde96a-0ed2-43e0-a35a-15757bf8f164"
   },
   {
@@ -5696,7 +5696,7 @@
     "award": "NYT Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "35c2165b-b175-496f-beb0-88ebeaadc73f"
   },
   {
@@ -5711,7 +5711,7 @@
     "award": "Bestselling Thriller",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "8309cdb0-c2f7-439f-ac0a-29c2ae0e4945"
   },
   {
@@ -5726,7 +5726,7 @@
     "award": "Sidney Sheldon Classic",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "abde05a5-943f-43a5-877f-8906982e5be4"
   },
   {
@@ -5741,7 +5741,7 @@
     "award": "NYT Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "20f651e1-af11-4eec-8bc2-22c2a78e638e"
   },
   {
@@ -5756,7 +5756,7 @@
     "award": "Global Thriller Favorite",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "5a9126bc-7b5d-405b-be6d-be45f93ec9d0"
   },
   {
@@ -5771,7 +5771,7 @@
     "award": "Bestselling Mystery",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "9f7d0b9f-066f-45e5-8534-c1d20c33dc55"
   },
   {
@@ -5786,7 +5786,7 @@
     "award": "Legal Thriller of the Year",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "a99bbe14-c980-4230-9288-e59ac1f10632"
   },
   {
@@ -5801,7 +5801,7 @@
     "award": "Harper Lee Prize nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "570a32a4-278f-4753-b5a0-f4bf6ab9bb05"
   },
   {
@@ -5816,7 +5816,7 @@
     "award": "Nods for Techno-Thriller",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "b13d353e-0fa7-471e-866b-a70385f8cb11"
   },
   {
@@ -5831,7 +5831,7 @@
     "award": "Edgar Award for Best Short Story",
     "bestseller": false,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "712c8998-19a6-49df-8a03-3fe62850162e"
   },
   {
@@ -5846,7 +5846,7 @@
     "award": "Locus Award nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "9ef32b20-254b-4423-b991-4d13a1e6304f"
   },
   {
@@ -5861,7 +5861,7 @@
     "award": "NYT Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "31cb738c-d59c-4739-be68-3d1a3eeca0d1"
   },
   {
@@ -5876,7 +5876,7 @@
     "award": "Goodreads Choice Award nominee",
     "bestseller": false,
     "price": 300,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "b8bbe356-284b-4166-bcf4-a0fe06b17d43"
   },
   {
@@ -5891,7 +5891,7 @@
     "award": "Bestselling Thriller",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "31f8244f-d7d2-4b2e-bfa9-1e3d5aff1cad"
   },
   {
@@ -5906,7 +5906,7 @@
     "award": "Techno-Thriller Classic",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "d1c75f35-91e7-4c7f-a4c9-3aa2d2933abf"
   },
   {
@@ -5921,7 +5921,7 @@
     "award": "Record-breaking Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "026acda2-ec54-4354-ad0a-1ad1b4a10442"
   },
   {
@@ -5936,7 +5936,7 @@
     "award": "NYT Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "1ad7aeef-418e-441f-a6b3-97de2e5538f1"
   },
   {
@@ -5951,7 +5951,7 @@
     "award": "Sigma Force Favorite",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "e74ff2d4-f64b-4887-81bd-62d56b1385bc"
   },
   {
@@ -5966,7 +5966,7 @@
     "award": "NYT Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "e06d495a-d179-4ad8-9aae-5855b861ecc2"
   },
   {
@@ -5981,7 +5981,7 @@
     "award": "British Book Awards Author of the Year",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "cd6e8588-0f28-4f53-bb5c-86f202295a9f"
   },
   {
@@ -5996,7 +5996,7 @@
     "award": "Bestselling Cozy Mystery",
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "0960a795-300e-49f4-819b-2dc69de2396d"
   },
   {
@@ -6011,7 +6011,7 @@
     "award": "Vodafone Crossword Book Award",
     "bestseller": false,
     "price": 300,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "971c4511-5d54-43e7-911e-a82f66c2004c"
   },
   {
@@ -6026,7 +6026,7 @@
     "award": "Edgar Award nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "a776a109-4854-4a5e-900c-43b205e32069"
   },
   {
@@ -6041,7 +6041,7 @@
     "award": "Goodreads Choice Award nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "51763a37-81c8-4021-b541-e795429274be"
   },
   {
@@ -6056,7 +6056,7 @@
     "award": "YA Bestseller",
     "bestseller": true,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "80a9d027-dc03-42ce-b9e6-87ec110515e2"
   },
   {
@@ -6071,7 +6071,7 @@
     "award": "Theological Thriller Favorite",
     "bestseller": false,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "42d89cb9-6b91-4a6c-89fb-78b05733c712"
   },
   {
@@ -6086,7 +6086,7 @@
     "award": "Children's Book Award nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Young Adult",
+    "ageCategory": "Young Adult",
     "id": "aa489212-63b0-4e57-b915-49d738058537"
   },
   {
@@ -6101,7 +6101,7 @@
     "award": "Action Thriller Favorite",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "e8bb9b7d-fb71-45a8-9d14-f3dd66cb148b"
   },
   {
@@ -6116,7 +6116,7 @@
     "award": "Irish Book Award nominee",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "42eb418c-e663-4792-8766-daaf0ebc5650"
   },
   {
@@ -6131,7 +6131,7 @@
     "award": "Crime Fiction Classic",
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "6fdaf654-2603-4051-8867-287ca6b4876b"
   },
   {
@@ -6146,7 +6146,7 @@
     "award": null,
     "bestseller": false,
     "price": 150,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "d58b70a3-6340-4975-89cc-c260b5ce97f7"
   },
   {
@@ -6161,7 +6161,7 @@
     "award": null,
     "bestseller": false,
     "price": 100,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "ff1309cf-ca54-483b-ac6e-66ad10133a83"
   },
   {
@@ -6176,7 +6176,7 @@
     "award": null,
     "bestseller": false,
     "price": 250,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "cd56f08d-d819-4aa4-8cd8-889b01b16042"
   },
   {
@@ -6191,7 +6191,7 @@
     "award": null,
     "bestseller": false,
     "price": 200,
-    "age-category": "Adult",
+    "ageCategory": "Adult",
     "id": "9ba41a2a-9859-442f-bbdd-423116d451f9"
   }
 ]
