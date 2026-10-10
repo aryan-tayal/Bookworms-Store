@@ -17,12 +17,26 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
     true,
     true,
   ]);
+  const genreOptions = [
+    "Thriller",
+    "Literary, Fiction and Romance",
+    "Fantasy",
+    "History",
+    "Memoir",
+    "Self-help",
+    "Knowledge",
+    "Kids",
+  ];
+  const [areGenresChecked, setAreGenresChecked] = useState(
+    Array(genreOptions.length).fill(true),
+  );
   const [isBestsellerChecked, setIsBestsellerChecked] = useState(false);
   useEffect(() => {
     const filterInputs = {
       fiction: [isFictionChecked, isNonFictionChecked],
       condition: areconditionsChecked,
       age: areAgesChecked,
+      genre: areGenresChecked,
       bestseller: isBestsellerChecked,
     };
     handleFiltersChange(filterInputs);
@@ -31,6 +45,7 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
     isNonFictionChecked,
     areconditionsChecked,
     areAgesChecked,
+    areGenresChecked,
     isBestsellerChecked,
   ]);
 
@@ -38,6 +53,7 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
     setIsFictionChecked(true);
     setIsNonFictionChecked(true);
     setAreconditionsChecked([true, true, true, true]);
+    setAreGenresChecked([true, true, true, true, true, true, true, true]);
     setAreAgesChecked([true, true, true, true, true]);
     setIsBestsellerChecked(false);
   };
@@ -84,6 +100,31 @@ const Filters = ({ handleFiltersChange, closeOverlay, isFilterOpen }) => {
             </div>
           </div>
         </div> */}
+        <div className="FilterCategory">
+          <h6>Genre</h6>
+
+          <div className="FilterCategoryInputs">
+            {genreOptions.map((genre, index) => (
+              <div className="FilterCategoryInput" key={genre}>
+                <label htmlFor={`genre-${index}`}>{genre}</label>
+
+                <input
+                  type="checkbox"
+                  id={`genre-${index}`}
+                  name="genre"
+                  checked={areGenresChecked[index]}
+                  onChange={() =>
+                    setAreGenresChecked((previous) =>
+                      previous.map((checked, i) =>
+                        i === index ? !checked : checked,
+                      ),
+                    )
+                  }
+                />
+              </div>
+            ))}
+          </div>
+        </div>
         <div className="FilterCategory">
           <h6>Condition</h6>
           <div className="FilterCategoryInputs">

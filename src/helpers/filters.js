@@ -61,11 +61,34 @@ export const filters = {
       ? bookData.filter((book) => book.bestseller)
       : bookData;
   },
+  genre: (bookData, selectedGenres) => {
+    const selected = [
+      "Thriller",
+      "Literary, Fiction and Romance",
+      "Fantasy",
+      "History",
+      "Memoir",
+      "Self-help",
+      "Knowledge",
+      "Kids",
+    ].filter((_, index) => selectedGenres[index]);
+
+    if (selected.length === 8) return bookData;
+    return bookData.filter((book) => {
+      const tags = Array.isArray(book.tags)
+        ? book.tags
+        : String(book.tags ?? "").split("/");
+
+      return tags.some((tag) => selected.includes(tag.trim()));
+    });
+  },
 };
 
 export default function handleSearchAndFilters(searchTerm, filterInputs) {
-  return filters.bestseller(
-    filters.condition(search(searchTerm), ...filterInputs.condition),
-    filterInputs.bestseller,
-  );
+  let result = search(searchTerm);
+  result = filters.condition(result, ...filterInputs.condition);
+  result = filters.age(result, ...filterInputs.age);
+  result = filters.genre(result, filterInputs.genre);
+  result = filters.bestseller(result, filterInputs.bestseller);
+  return result;
 }
