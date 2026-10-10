@@ -61,8 +61,8 @@ export const filters = {
       ? bookData.filter((book) => book.bestseller)
       : bookData;
   },
-  genre: (bookData, selectedGenres) => {
-    const selected = [
+  genre: (bookData, selectedGenres = []) => {
+    const genres = [
       "Thriller",
       "Literary, Fiction and Romance",
       "Fantasy",
@@ -71,14 +71,14 @@ export const filters = {
       "Self-help",
       "Knowledge",
       "Kids",
-    ].filter((_, index) => selectedGenres[index]);
-
-    if (selected.length === 8) return bookData;
+    ];
+    if (selectedGenres.length === 0) return bookData;
+    const selected = genres.filter((_, index) => selectedGenres[index]);
+    if (selected.length === genres.length) return bookData;
     return bookData.filter((book) => {
       const tags = Array.isArray(book.tags)
         ? book.tags
         : String(book.tags ?? "").split("/");
-
       return tags.some((tag) => selected.includes(tag.trim()));
     });
   },

@@ -83,8 +83,8 @@ const BookCard = ({ id, title, author, price, tags, bestseller, isbn }) => {
         <h4>{author}</h4>
 
         <div className="BookCardTags">
-          {tags.map((tag) => (
-            <Tag tag={tag} color={cardColors.mainColor} />
+          {tags.map((tag, i) => (
+            <Tag tag={tag} color={cardColors.mainColor} key={i} />
           ))}
 
           {bestseller && (

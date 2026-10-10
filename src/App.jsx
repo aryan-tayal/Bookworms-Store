@@ -15,7 +15,7 @@ import handleSearchAndFilters from "./helpers/filters";
 import Sidebar from "./Sidebar";
 
 const App = () => {
-  const reversedData = Array.from(data).reverse();
+  const reversedData = Array.from(data);
   const [bookData, setBookData] = useState(reversedData);
   const [search, setSearch] = useState("");
   const [filters, setFilters] = useState({
@@ -30,7 +30,6 @@ const App = () => {
   const handleFiltersChange = (filterInputs) => {
     setFilters(filterInputs);
   };
-  console.log(bookData);
   useEffect(() => {
     setBookData(handleSearchAndFilters(search, filters));
   }, [filters, search]);
