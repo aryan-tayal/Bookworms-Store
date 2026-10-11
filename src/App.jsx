@@ -16,7 +16,7 @@ import Sidebar from "./Sidebar";
 
 const App = () => {
   const reversedData = Array.from(data);
-  const [bookData, setBookData] = useState(reversedData);
+  const [bookData, setBookData] = useState(data);
   const [search, setSearch] = useState("");
   const [filters, setFilters] = useState({
     fiction: [true, true],
