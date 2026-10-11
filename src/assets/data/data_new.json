@@ -5,14 +5,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 599.0,
     "rating": 4.62,
-    "isbn": 9780545139700.0,
+    "isbn": 9780747595823.0,
     "blurb": "Harry, Ron and Hermione hunt the remaining Horcruxes and face Lord Voldemort in the final battle for the wizarding world.",
     "condition": "Good",
     "award": "Winner of the Colorado Blue Spruce Book Award (2010); ALA Notable Book",
     "bestseller": false,
     "price": 300,
     "ageCategory": "Above 8",
-    "id": "20a8fcbf-4b3a-4026-a067-e813cf878ae9"
+    "id": "5549c502-6c09-4fa9-8de1-b65e7688660a"
   },
   {
     "title": "Harry Potter and the Half-Blood Prince",
@@ -20,14 +20,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 4.57,
-    "isbn": 9780439785969.0,
+    "isbn": 9780747581086.0,
     "blurb": "Dumbledore guides Harry through Voldemort's past while danger closes in on Hogwarts and a shocking loss changes everything.",
     "condition": "Good",
     "award": "Winner of the British Book of the Year (2006); WH Smith Book of the Year",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Above 8",
-    "id": "0a810ba9-f9f0-4f93-99e1-7afcb5780a26"
+    "id": "165e9158-6cb4-4453-ad32-34a8d45217e4"
   },
   {
     "title": "Murtagh",
@@ -35,14 +35,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 699.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780241651407.0,
     "blurb": "Set after Inheritance, Murtagh and his dragon Thorn wander Alagaesia, haunted by their past and pulled into a new threat.",
     "condition": "Like New",
     "award": "Instant #1 New York Times Bestseller; Goodreads Choice Award Nominee (2023)",
     "bestseller": true,
     "price": 550,
     "ageCategory": "Young Adult",
-    "id": "5d7ff6eb-7bd4-4cae-af51-d80759cb2fba"
+    "id": "60947425-3f45-4ea5-8767-b3732dfa2bbc"
   },
   {
     "title": "Defy the Night",
@@ -50,14 +50,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9781526632807.0,
     "blurb": "A Robin Hood-style thief in a plague-ridden kingdom steals medicine meant for the king and is hunted by the prince.",
     "condition": "Like New",
     "award": "Goodreads Choice Award Nominee for Best Young Adult Fantasy & Sci-Fi (2021)",
     "bestseller": false,
     "price": 350,
     "ageCategory": "Young Adult",
-    "id": "c9809fb0-44d8-4bef-86a9-be16a158010b"
+    "id": "8e224c7b-9a62-4991-9b83-215818bfb6eb"
   },
   {
     "title": "Defend the Dawn",
@@ -65,14 +65,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 4.3,
-    "isbn": null,
+    "isbn": 9781547613229.0,
     "blurb": "Sequel to Defy the Night: Tessa, Corrick and the rebels fight to topple a tyrant king and save their kingdom.",
     "condition": "Like New",
     "award": "Bestselling installment in the Defy the Night trilogy",
     "bestseller": true,
     "price": 350,
     "ageCategory": "Young Adult",
-    "id": "0661491d-7712-4375-8d4b-3dad2231f98b"
+    "id": "bbb79108-8048-405d-8f36-0080f4053eb4"
   },
   {
     "title": "Vespertine",
@@ -80,14 +80,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 425.0,
     "rating": 4.1,
-    "isbn": null,
+    "isbn": 9781534477124.0,
     "blurb": "A teenage novice in a convent must wield an ancient relic and a vengeful spirit to defend her order from the restless dead.",
     "condition": "Like New",
     "award": "Goodreads Choice Award Nominee for Best Young Adult Fantasy & Sci-Fi (2021)",
     "bestseller": false,
     "price": 350,
     "ageCategory": "Young Adult",
-    "id": "397b6241-d8eb-4c26-9ab8-8346b16204be"
+    "id": "df2b25ed-7552-4111-b009-d1b19491fe68"
   },
   {
     "title": "The Prisoner's Throne",
@@ -95,14 +95,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 550.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9781471411403.0,
     "blurb": "Wren and Oak, bound by a dangerous alliance, face betrayal and a war that could shatter the courts of Faerie.",
     "condition": "Good",
     "award": "Instant #1 New York Times Bestseller (2024)",
     "bestseller": true,
     "price": 250,
     "ageCategory": "Young Adult",
-    "id": "aea2b55d-d7b0-4d80-bcdc-2921066167ef"
+    "id": "5502b480-8155-4b86-9ade-8c98dca004e9"
   },
   {
     "title": "The Stolen Heir",
@@ -110,14 +110,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780316422260.0,
     "blurb": "A fugitive princess and an exiled prince team up on a perilous quest through the frozen Court of Teeth.",
     "condition": "Good",
     "award": "Goodreads Choice Award Nominee for Best Young Adult Fantasy & Sci-Fi (2023)",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Young Adult",
-    "id": "608a2966-e140-46b0-9bf5-d9317bc71d46"
+    "id": "2cbe5ab1-f5b2-49ee-aafa-77bc400ee40d"
   },
   {
     "title": "The Chronicles of Narnia: The Last Battle",
@@ -132,7 +132,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "949bc2f3-aad0-4708-a9b2-f3c494616193"
+    "id": "a163ebc1-6a1a-4412-b94c-6e9f7ec6d888"
   },
   {
     "title": "The Hitchhiker's Guide to the Galaxy",
@@ -140,14 +140,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 350.0,
     "rating": 4.22,
-    "isbn": 9780345391803.0,
+    "isbn": 9781529046137.0,
     "blurb": "Seconds before Earth is demolished for a hyperspace bypass, Arthur Dent is whisked into space for a hilarious tour of the galaxy.",
     "condition": "Good",
     "award": "Ranked #4 on the BBC's The Big Read poll",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "e72a63ca-fdbf-4b97-8193-9f25da9b55a8"
+    "id": "f327daac-9b5e-4c66-a052-ac3be5e9371c"
   },
   {
     "title": "An Ember in the Ashes",
@@ -155,14 +155,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 399.0,
     "rating": 4.37,
-    "isbn": 9781595143914.0,
+    "isbn": 9780008108427.0,
     "blurb": "In a brutal empire modelled on ancient Rome, a young scholar and a reluctant soldier are caught in a deadly web of rebellion.",
     "condition": "Like New",
     "award": "A Time Magazine Best Fantasy Book of All Time nominee",
     "bestseller": false,
     "price": 300,
     "ageCategory": "Young Adult",
-    "id": "6e9e6deb-a806-4fa8-a8e4-5c81128b4f7a"
+    "id": "3281b701-ce1f-4f02-84da-bed6828f59b8"
   },
   {
     "title": "A Torch Against the Night",
@@ -170,14 +170,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 425.0,
     "rating": 4.45,
-    "isbn": null,
+    "isbn": 9781101998878.0,
     "blurb": "Laia and Elias flee separate dangers as the Empire tightens its grip and impossible choices loom.",
     "condition": "Like New",
     "award": "Goodreads Choice Award Nominee for Best Young Adult Fantasy (2016)",
     "bestseller": false,
     "price": 300,
     "ageCategory": "Young Adult",
-    "id": "68303b0c-c7d1-4eba-912d-f149f3807f76"
+    "id": "84bc8fb8-2c03-48dc-a2a6-bd72f44b57f6"
   },
   {
     "title": "A Reaper at the Gates",
@@ -192,7 +192,7 @@
     "bestseller": true,
     "price": 300,
     "ageCategory": "Young Adult",
-    "id": "ef7f1c98-a0d9-4e38-9e13-b6622b6d924e"
+    "id": "341a1c5d-0b10-4401-a2fa-e64452e7c891"
   },
   {
     "title": "City of Bones",
@@ -200,14 +200,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 399.0,
     "rating": 4.1,
-    "isbn": 9781416914280.0,
+    "isbn": 9781406307627.0,
     "blurb": "Fifteen-year-old Clary discovers she is a Shadowhunter and is pulled into a hidden world of demons, angels and secrets.",
     "condition": "Good",
     "award": "Locus Award Nominee for Best First Novel (2008)",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "7bbdc691-0287-40ba-949e-c39ca7b0d075"
+    "id": "d33f22f5-7388-4404-befb-a9df34aef794"
   },
   {
     "title": "City of Ashes",
@@ -222,7 +222,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "1e6103a7-d2af-436b-9a99-3485ffe09284"
+    "id": "4a0cb02f-26b2-4231-9fc6-173afd5f06b6"
   },
   {
     "title": "City of Glass",
@@ -230,14 +230,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 425.0,
     "rating": 4.3,
-    "isbn": 9781416914303.0,
+    "isbn": 9780606377331.0,
     "blurb": "Clary and Jace race to Idris, the Shadowhunters' homeland, for the explosive final showdown with Valentine.",
     "condition": "Good",
     "award": "Mainstay on the New York Times Children's Series Bestseller list",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "ea200867-ba48-47df-890d-e31a2bb2f834"
+    "id": "19ed32f9-c280-4fc3-aab0-683e42ec98e4"
   },
   {
     "title": "City of Fallen Angels",
@@ -245,14 +245,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 4.1,
-    "isbn": 9781442416864.0,
+    "isbn": 9781406362190.0,
     "blurb": "Peace in the Shadowhunter world is shaken as Clary and Jace face a new dark threat and a murder mystery.",
     "condition": "Good",
     "award": "#1 New York Times Bestseller",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "a1dbc564-bbba-4643-98d1-beeafa119e16"
+    "id": "1eee5d2e-bc14-4397-80aa-77f94cdd3e23"
   },
   {
     "title": "City of Lost Souls",
@@ -267,7 +267,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "750751ce-034a-4240-bcf7-5bd6c4e54775"
+    "id": "521cec99-23e1-4b00-8914-ce75915250e8"
   },
   {
     "title": "Brisingr",
@@ -282,7 +282,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Young Adult",
-    "id": "c6c04c71-7f1d-45fc-a6a3-3fa5ddb24cc1"
+    "id": "9add49fa-9979-4092-a95d-d6c8f6fd4fc9"
   },
   {
     "title": "Eldest",
@@ -290,14 +290,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780440238492.0,
     "blurb": "Eragon trains with the elves while Roran protects the village, as the war against Galbatorix deepens.",
     "condition": "Good",
     "award": "Winner of the Quill Award (2006); Bill Konigsberg Award Winner",
     "bestseller": false,
     "price": 150,
     "ageCategory": "Young Adult",
-    "id": "2137f127-3e28-4d39-a23c-7e84dd695f04"
+    "id": "7217d62f-cbd8-4e89-988c-3be040800a86"
   },
   {
     "title": "Inheritance",
@@ -305,14 +305,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 550.0,
     "rating": 3.46,
-    "isbn": 9780141027289.0,
+    "isbn": 9780375846311.0,
     "blurb": "A story exploring colonialism, nationalism, and identity in the Himalayas.",
     "condition": "Good",
     "award": "Goodreads Choice Award Nominee for Best Fantasy (2011)",
     "bestseller": false,
     "price": 100,
     "ageCategory": "Young Adult",
-    "id": "0cb90fc5-9b0c-4264-bd1f-74b2269200a0"
+    "id": "f2ff5fb9-cfe3-40bd-886e-7c8b3d5143cd"
   },
   {
     "title": "Young Samurai: The Ring of Wind",
@@ -320,14 +320,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 399.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780141339719.0,
     "blurb": "A young English boy in 1600s Japan trains as a samurai after his father's death, facing rivalry and deadly challenges.",
     "condition": "Good",
     "award": "Highly acclaimed martial arts historical fiction series",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "0798d892-cfdf-42c8-8264-c1fd160f74af"
+    "id": "c1c7d6c2-2b50-4f62-bdf5-543fdf9f6a9d"
   },
   {
     "title": "Gladiator: Fight for Freedom",
@@ -335,14 +335,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 350.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780141333632.0,
     "blurb": "Marcus, a young Roman, is sold into the gladiator ring and must fight to survive and earn his freedom.",
     "condition": "Good",
     "award": "Highly acclaimed juvenile historical fiction nominee",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "6936052b-a17d-4fb8-a688-9c9dd39e5a54"
+    "id": "6abb243b-dd84-4551-859a-4e82a3698a97"
   },
   {
     "title": "Gladiator: Son of Spartacus",
@@ -350,14 +350,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 350.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780141338743.0,
     "blurb": "Spartacus's son Marcus is a Roman gladiator caught between loyalty and the legacy of his father's rebellion.",
     "condition": "Good",
     "award": "Renowned Roman army adventure narrative",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "ef0c0765-333b-44de-abbf-7bcf0ff6b265"
+    "id": "f906357f-783a-4474-9b5f-790d7f18dffc"
   },
   {
     "title": "Demigods and Magicians",
@@ -365,14 +365,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 399.0,
     "rating": 4.1,
-    "isbn": null,
+    "isbn": 9780141367286.0,
     "blurb": "A crossover short-story collection joining Percy Jackson with Carter and Sadie Kane in a battle of gods and magicians.",
     "condition": "Good",
     "award": "Bestselling crossover compilation of Percy Jackson and Kane Chronicles",
     "bestseller": true,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "10954caf-9000-4061-bda7-81860c2a7b0b"
+    "id": "e099cd59-a1e9-4a5e-bd0d-3e665b2712dc"
   },
   {
     "title": "The Serpent's Shadow",
@@ -380,14 +380,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 425.0,
     "rating": 4.3,
-    "isbn": 9781423140573.0,
+    "isbn": 9780141335698.0,
     "blurb": "Carter and Sadie Kane race to awaken Apophis' enemy and stop the chaos serpent from devouring the world.",
     "condition": "Good",
     "award": "Goodreads Choice Award Nominee for Best Middle Grade & Children's (2012)",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "b65b476f-bb13-41cd-b567-598c31a245b8"
+    "id": "0c80f81d-e553-4817-84ab-474ecb29c81c"
   },
   {
     "title": "The Throne of Fire",
@@ -395,14 +395,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 425.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9780141335674.0,
     "blurb": "The Kanes must find the lost Book of Ra and awaken the sun god before Apophis rises to destroy the world.",
     "condition": "Good",
     "award": "Goodreads Choice Award Nominee for Best Middle Grade & Children's (2011)",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "450791c6-d56d-4c50-b34e-987aebcc79de"
+    "id": "35d7a961-d9f7-4022-b5b2-e5da7797216c"
   },
   {
     "title": "Magnus Chase and the Gods of Asgard: The Ship of the Dead",
@@ -417,7 +417,7 @@
     "bestseller": false,
     "price": 250,
     "ageCategory": "Above 8",
-    "id": "299b0565-4166-47cc-b02f-ced69f28ced3"
+    "id": "7bc628e0-4d29-4998-b922-00ff8c7d21e1"
   },
   {
     "title": "Heroes of Olympus: The Son of Neptune",
@@ -425,14 +425,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 4.4,
-    "isbn": null,
+    "isbn": 9780141335711.0,
     "blurb": "Percy Jackson has lost his memory and finds refuge at a Roman camp for demigods in the Greek-Roman crossover series.",
     "condition": "Like New",
     "award": "Winner of the Goodreads Choice Award for Best Middle Grade & Children's (2012)",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Above 8",
-    "id": "40b71b31-999e-49dc-98d5-df08ae1c54ad"
+    "id": "be49abc3-db88-4f13-b866-34066da6ede2"
   },
   {
     "title": "Carve the Mark",
@@ -440,14 +440,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 3.5,
-    "isbn": null,
+    "isbn": 9788427211582.0,
     "blurb": "Two warrior-heirs from rival planets, one cursed with a dangerous gift, become fated to each other and a deadly conflict.",
     "condition": "Like New",
     "award": "Goodreads Choice Award Nominee for Best Young Adult Sci-Fi (2017)",
     "bestseller": false,
     "price": 150,
     "ageCategory": "Young Adult",
-    "id": "584c448e-8573-4dba-9216-d62f52b05978"
+    "id": "c1f44158-1db9-4b65-a9bd-f6414a6c85e9"
   },
   {
     "title": "York: The Shadow Cipher",
@@ -462,7 +462,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "2d0cf7fb-6dfe-4570-ad23-08f75a2e44ae"
+    "id": "d664c1b9-2570-4758-b865-6c50ef35c23e"
   },
   {
     "title": "Miss Peregrine's Home for Peculiar Children: The Conference of the Birds",
@@ -470,14 +470,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 4.1,
-    "isbn": null,
+    "isbn": 9780241320914.0,
     "blurb": "The peculiar children are tested by a battle for the loop and a mission that could end their way of life.",
     "condition": "Like New",
     "award": "#1 New York Times Children's Series Bestseller",
     "bestseller": true,
     "price": 400,
     "ageCategory": "Young Adult",
-    "id": "f2ff147c-8e9f-40fc-b7e2-738c3a66d520"
+    "id": "251634ca-e571-4c67-bc74-3b67f8979d07"
   },
   {
     "title": "Miss Peregrine's Home for Peculiar Children: A Map of Days",
@@ -485,14 +485,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780141385921.0,
     "blurb": "Jacob and Emma start new lives in America and find the peculiar world far from safe in this third Peregrine novel.",
     "condition": "Like New",
     "award": "Goodreads Choice Award Nominee for Best Young Adult Fantasy (2018)",
     "bestseller": false,
     "price": 400,
     "ageCategory": "Young Adult",
-    "id": "2f1ecab1-5471-4016-9a3c-230e46816b48"
+    "id": "2c177e96-503d-4d48-a3a0-23ff8c47b7aa"
   },
   {
     "title": "Breaking Dawn",
@@ -500,14 +500,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 3.8,
-    "isbn": 9780316067928.0,
+    "isbn": 9788937832543.0,
     "blurb": "Bella faces marriage, motherhood and an even greater danger as the Volturi threaten the Cullens.",
     "condition": "Good",
     "award": "Winner of the British Book Award for Children's Book of the Year (2009)",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "e6ae98de-6255-4722-b3b7-de06c3e1ee23"
+    "id": "2583bfed-6a3c-4930-b92f-8f00bd2357b8"
   },
   {
     "title": "New Moon",
@@ -515,14 +515,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 3.6,
-    "isbn": 9780316160193.0,
+    "isbn": 9780316065221.0,
     "blurb": "Bella is left heartbroken when Edward departs, and finds comfort and new danger in Jacob Black.",
     "condition": "Good",
     "award": "Winner of the Children's Choice Book Award (2007)",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "a1611bcb-f1fb-482a-a7b7-771d57c81baa"
+    "id": "a51cc1ad-10be-44f3-b821-99130fa92be3"
   },
   {
     "title": "Eclipse",
@@ -530,14 +530,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 3.7,
-    "isbn": 9780316160209.0,
+    "isbn": 9780316008259.0,
     "blurb": "Bella must choose between Edward and Jacob as an army of newborn vampires threatens Forks.",
     "condition": "Good",
     "award": "Goodreads Choice Award Nominee for Favorite Book (2007)",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "fd876e94-3a1a-430a-8509-04e28c48ffc0"
+    "id": "ceea38ae-385c-4e13-9883-b7716712c06a"
   },
   {
     "title": "The City of Brass",
@@ -552,7 +552,7 @@
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "5e4abda9-0017-424e-9bea-bfc4c31899b1"
+    "id": "2d7ce7e3-ac37-47b0-8f31-00db0327d23f"
   },
   {
     "title": "The Kingdom of Copper",
@@ -560,14 +560,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 525.0,
     "rating": 4.2,
-    "isbn": 9780062678119.0,
+    "isbn": 9780062678133.0,
     "blurb": "Nahri and Ali face betrayal in the djinn court as the fate of Daevabad hangs in the balance.",
     "condition": "Good",
     "award": "Locus Award Nominee for Best Fantasy Novel (2020)",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "2fa20a20-75b1-4ee4-aaf9-8e1a3d3dba27"
+    "id": "6caf492a-3d55-4111-8e48-52865cc5de75"
   },
   {
     "title": "The Empire of Gold",
@@ -575,14 +575,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 550.0,
     "rating": 4.4,
-    "isbn": null,
+    "isbn": 9780062678164.0,
     "blurb": "The fall of Daevabad's rulers leaves Nahri, Ali and Dara confronting the secrets that could end their world.",
     "condition": "Good",
     "award": "Goodreads Choice Award Nominee for Best Fantasy (2020)",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "cdd20728-693c-4377-9fc1-fb5db58e4655"
+    "id": "7d6fcd16-56b5-49c5-8555-a841ac56bc73"
   },
   {
     "title": "The Shadow of What Was Lost",
@@ -590,14 +590,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9780356507774.0,
     "blurb": "A shy boy in a world where magic is banned discovers his powers as an ancient evil returns.",
     "condition": "Good",
     "award": "Highly acclaimed epic fantasy debut novel",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "183a6eae-0cad-46c3-839a-3cda5154b6ca"
+    "id": "2025b304-7517-482b-8450-c8abfdd845d2"
   },
   {
     "title": "Valour",
@@ -605,14 +605,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9780316399746.0,
     "blurb": "The clash between the Order and the Banished Lords intensifies as old loyalties are tested.",
     "condition": "Like New",
     "award": "Highly rated installment in The Faithful and the Fallen series",
     "bestseller": false,
     "price": 400,
     "ageCategory": "Adult",
-    "id": "02c00ebb-42a7-4635-a284-0251bfc1030b"
+    "id": "ccec94d1-1d59-41fa-93a2-84820d708264"
   },
   {
     "title": "Ruin",
@@ -620,14 +620,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 4.4,
-    "isbn": null,
+    "isbn": 9780316386326.0,
     "blurb": "As war ravages the Banished Lands, Corban and his allies fight to protect their world and keep hope alive.",
     "condition": "Like New",
     "award": "Shortlisted for the David Gemmell Legend Award",
     "bestseller": false,
     "price": 400,
     "ageCategory": "Adult",
-    "id": "fd0d8f69-7198-40bd-93f6-c80857a311aa"
+    "id": "d0ef8cf1-59c4-43d4-9e30-1513d1860b79"
   },
   {
     "title": "Malice",
@@ -635,14 +635,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 425.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9780316399739.0,
     "blurb": "Young Corban, a shepherd, grows into a warrior as demons, giants and dark forces gather in the Banished Lands.",
     "condition": "Like New",
     "award": "Winner of the David Gemmell Morningstar Award for Best Debut (2013)",
     "bestseller": false,
     "price": 400,
     "ageCategory": "Adult",
-    "id": "17e99eae-163e-4cdd-8646-fcda5399d3a7"
+    "id": "cf236648-8203-4a25-b307-4326910d2731"
   },
   {
     "title": "Wrath",
@@ -650,14 +650,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 4.4,
-    "isbn": null,
+    "isbn": 9780316386340.0,
     "blurb": "The thrilling final book in The Faithful and the Fallen, where the destiny of the Banished Lands is decided.",
     "condition": "Like New",
     "award": "Epic finale to the Gemmell-award winning grimdark saga",
     "bestseller": false,
     "price": 400,
     "ageCategory": "Adult",
-    "id": "cdaaf118-3b4f-4245-9ddf-974b6a3dd6e3"
+    "id": "503b2b86-31d6-4fe3-a553-a473f5d08782"
   },
   {
     "title": "A Game of Thrones",
@@ -672,7 +672,7 @@
     "bestseller": false,
     "price": 350,
     "ageCategory": "Adult",
-    "id": "850328fe-1d1b-4d95-a10f-1b216665e912"
+    "id": "71b54059-744e-4b4b-ac6b-d5fcaa7eefe7"
   },
   {
     "title": "The Heroes",
@@ -680,14 +680,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9780316193566.0,
     "blurb": "Three armies clash in the north as Joe Abercrombie's cast of scoundrels and warriors fight for glory and survival.",
     "condition": "Like New",
     "award": "Shortlisted for the David Gemmell Legend Award (2012)",
     "bestseller": false,
     "price": 400,
     "ageCategory": "Adult",
-    "id": "135560c6-e800-422a-90fa-d9e483d03935"
+    "id": "378b095c-42e7-44eb-a338-523fd474a27d"
   },
   {
     "title": "Best Served Cold",
@@ -702,7 +702,7 @@
     "bestseller": false,
     "price": 400,
     "ageCategory": "Adult",
-    "id": "bb5b4bd1-6b6e-4d5c-93de-9f23b6bb085f"
+    "id": "0a70b999-cd21-485c-9f48-b5215fdb5e86"
   },
   {
     "title": "Artemis Fowl: The Wish List",
@@ -717,7 +717,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "21903df8-41e3-47d0-b51f-5bfd247a152a"
+    "id": "1384167d-fd48-47d0-8dd4-a4908d0aa7a5"
   },
   {
     "title": "Artemis Fowl and the Arctic Incident",
@@ -725,14 +725,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 399.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780141321325.0,
     "blurb": "Artemis teams up with the fairies to stop a threat from the Russian Mafia and a rogue goblin.",
     "condition": "Good",
     "award": "Winner of the WH Smith Children's Book of the Year (2003)",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "ba6dc206-aae2-4f15-8ebe-1cbd862bc225"
+    "id": "286be743-e961-4a7a-acc0-29911da506d3"
   },
   {
     "title": "Artemis Fowl and the Atlantis Complex",
@@ -740,14 +740,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 399.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780141328027.0,
     "blurb": "Artemis must face his own mind as a mysterious illness threatens his genius and his friendships.",
     "condition": "Good",
     "award": "Bestselling young adult urban fantasy entry",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "34399ac2-571f-4d77-b892-368561c66908"
+    "id": "f26938d0-e897-4cbc-846c-6e5f4ce0f0ba"
   },
   {
     "title": "The Fowl Twins: Get What They Deserve",
@@ -755,14 +755,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 425.0,
     "rating": 3.8,
-    "isbn": null,
+    "isbn": 9781368075671.0,
     "blurb": "Myles and Beckett Fowl, the younger Fowl twins, face their own mysterious adventure with a fairy-tech edge.",
     "condition": "Good",
     "award": "Acclaimed Artemis Fowl spin-off series finale",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "6fef70e8-2331-421b-9572-dbcbcd81a226"
+    "id": "ac05da05-c969-4f9e-88b8-484ed4a5fca8"
   },
   {
     "title": "The Fowl Twins: Deny All Charges",
@@ -770,14 +770,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 425.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9781368052290.0,
     "blurb": "Myles and Beckett Fowl are drawn into a high-stakes plot involving a ruthless villain and powerful artifacts.",
     "condition": "Good",
     "award": "Irish Book Award Nominee for Children's Book of the Year",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "41d2581f-b5f2-48d6-960f-f9f10312d122"
+    "id": "c4798f3d-3d00-468f-bd2c-e2c95ee78fd1"
   },
   {
     "title": "W.A.R.P. The Hangman's Revolution",
@@ -785,14 +785,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780141341804.0,
     "blurb": "Riley, a teen in 1890s London, is swept through time by the WARP agency into a deadly game against assassins.",
     "condition": "Good",
     "award": "Highly rated sci-fi fantasy time travel thriller",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "4b194b38-efff-4879-91ab-cab2a83d7278"
+    "id": "cac703cc-aee6-4c89-8e27-dcf3e5a67f23"
   },
   {
     "title": "Artemis Fowl and the Eternity Code",
@@ -800,14 +800,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 399.0,
     "rating": 4.1,
-    "isbn": null,
+    "isbn": 9780141321318.0,
     "blurb": "Artemis steals a powerful fairy computer and must unravel a deadly conspiracy to keep it from the wrong hands.",
     "condition": "Good",
     "award": "Winner of the Irish Children's Book of the Year Award",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "5433de2f-915a-4efa-b21a-3239ef13a9cb"
+    "id": "44cd35f7-15c0-4dac-b816-29aaca354f82"
   },
   {
     "title": "W.A.R.P. The Reluctant Assassin",
@@ -815,14 +815,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780141341767.0,
     "blurb": "Riley and Garrick are propelled across time to stop a murder plot that could change history.",
     "condition": "Good",
     "award": "Shortlisted for the Irish Book Awards Children's Book of the Year",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Above 8",
-    "id": "9c1af99f-6b17-4781-8499-7fc20b0154b0"
+    "id": "1bf50101-6de2-4ff7-bbf0-768854b3fe64"
   },
   {
     "title": "W.A.R.P. The Forever Man",
@@ -830,14 +830,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780141361093.0,
     "blurb": "Riley and her allies face the final battle as they chase the forever man through the shifting streams of time.",
     "condition": "Good",
     "award": "Epic conclusion to the W.A.R.P. trilogy",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "59e4a9cd-e5ed-4a28-aa93-a3fdad6bf620"
+    "id": "8c14bdc8-6906-4ec3-af5b-d364410152a1"
   },
   {
     "title": "The Last Wish",
@@ -852,7 +852,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "c1d37e7d-2587-44c1-ab2c-b54032cda5cd"
+    "id": "340ca380-f69c-4d23-8567-bb184d2cfda2"
   },
   {
     "title": "Aru Shah and the End of Time",
@@ -860,14 +860,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 399.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9788592783808.0,
     "blurb": "Twelve-year-old Aru Shah accidentally frees a demon and must race across Indian mythology to save the world.",
     "condition": "Good",
     "award": "Named one of Time Magazine's 100 Best Fantasy Books of All Time",
     "bestseller": false,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "93a97f6e-eb88-4819-8223-696362f998ec"
+    "id": "3168633e-8546-4699-8306-57a7746bcd68"
   },
   {
     "title": "The Hunger Games",
@@ -882,7 +882,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Young Adult",
-    "id": "0a0abdf9-de13-4f3a-9322-32ff368b10fd"
+    "id": "8a66ea90-1121-492f-a5cf-22bb6ddc7f96"
   },
   {
     "title": "Catching Fire",
@@ -890,14 +890,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 425.0,
     "rating": 4.31,
-    "isbn": 9780439023498.0,
+    "isbn": 9780545586177.0,
     "blurb": "Katniss and Peeta's victory has sparked a revolution as the Capitol forces them back into the arena.",
     "condition": "Good",
     "award": "Winner of the Goodreads Choice Award for Favorite Book (2009)",
     "bestseller": false,
     "price": 100,
     "ageCategory": "Young Adult",
-    "id": "dfce6a27-1677-4843-adc2-87ad53ff695a"
+    "id": "f9831893-63b3-4b08-95a2-8740f4c53e4d"
   },
   {
     "title": "Mockingjay",
@@ -905,14 +905,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 425.0,
     "rating": 4.03,
-    "isbn": 9780439023511.0,
+    "isbn": 9780439023542.0,
     "blurb": "Katniss leads the rebels in the final war against the Capitol, with brutal costs for her and those she loves.",
     "condition": "Good",
     "award": "Winner of the Goodreads Choice Award for Favorite Book (2010)",
     "bestseller": false,
     "price": 100,
     "ageCategory": "Young Adult",
-    "id": "ae3d6883-675c-4c36-b6f1-b564547e4c71"
+    "id": "4c4aa933-a1a9-4f78-a66c-4f7c273b46f5"
   },
   {
     "title": "Red Queen",
@@ -920,14 +920,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 399.0,
     "rating": 4.07,
-    "isbn": 9780062310637.0,
+    "isbn": 9780062362711.0,
     "blurb": "In a world divided by blood colour, a Red girl with a silver power is thrown into the Silver court and a deadly game.",
     "condition": "Good",
     "award": "Winner of the Goodreads Choice Award for Debut Author (2015)",
     "bestseller": false,
     "price": 150,
     "ageCategory": "Young Adult",
-    "id": "01dfd340-317a-4f02-acf4-55b5ef3a4b4f"
+    "id": "f58fcc46-a613-4337-ac94-0a0e03a93aae"
   },
   {
     "title": "Glass Sword",
@@ -942,7 +942,7 @@
     "bestseller": true,
     "price": 250,
     "ageCategory": "Young Adult",
-    "id": "e4a963b8-85cf-48a9-b9ae-54c61aa9ba0f"
+    "id": "3913c866-a312-4057-8ed8-e511d54b0317"
   },
   {
     "title": "King's Cage",
@@ -950,14 +950,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 425.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9781409151197.0,
     "blurb": "Mare is imprisoned and plots her escape as the revolution faces its greatest betrayal yet.",
     "condition": "Like New",
     "award": "Nominated for the Goodreads Choice Award (2017)",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Young Adult",
-    "id": "d19f64bc-3fa5-4af7-9675-d79ce440aaab"
+    "id": "e61ae46e-1dcd-44d6-b04c-4796ae199e47"
   },
   {
     "title": "War Storm",
@@ -965,14 +965,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 4.3,
-    "isbn": null,
+    "isbn": 9781409178804.0,
     "blurb": "The war for Norta reaches its end as Mare and her allies fight to bring down Maven's rule.",
     "condition": "Like New",
     "award": "Conclusion to the chart-topping Red Queen series",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Young Adult",
-    "id": "8f756ed8-fab1-4fc8-be27-ea89163134e7"
+    "id": "f7d2d23a-1386-4331-8e75-8a339a26a6d5"
   },
   {
     "title": "Realm Breaker",
@@ -980,14 +980,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9781409193951.0,
     "blurb": "Corayne, a young swordswoman, is drawn into a battle against a power that threatens her world.",
     "condition": "Like New",
     "award": "Acclaimed high-fantasy world-building launch; Nominated for Goodreads Choice",
     "bestseller": false,
     "price": 350,
     "ageCategory": "Young Adult",
-    "id": "c866e0c3-492d-43ea-ab11-53124e319a2f"
+    "id": "d555a7e4-e66d-414d-8425-9d42249ec4db"
   },
   {
     "title": "Blade Breaker",
@@ -995,14 +995,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780062872661.0,
     "blurb": "Corayne and her allies press on against a rising darkness as ancient powers collide.",
     "condition": "Like New",
     "award": "Continuing entry in the Realm Breaker saga; Locus Award Nominee",
     "bestseller": false,
     "price": 350,
     "ageCategory": "Young Adult",
-    "id": "9881133c-a624-435c-9ce4-311bec1d70f9"
+    "id": "779a5f9b-30fd-4b33-a9ec-e669e9549e5e"
   },
   {
     "title": "Siege and Storm",
@@ -1010,14 +1010,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 371.0,
     "rating": 4.1,
-    "isbn": null,
+    "isbn": 9781250044433.0,
     "blurb": "Alina and Mal flee the Darkling, who gathers power for a bid to rule Ravka.",
     "condition": "Like New",
     "award": "International Netflix Sensation adaptation tie-in; NYT Bestselling Universe",
     "bestseller": true,
     "price": 300,
     "ageCategory": "Young Adult",
-    "id": "bfcbc9bc-8195-4ec7-94d5-6d8f64398ade"
+    "id": "faa1e269-ef00-4ffc-a578-fab8f407012a"
   },
   {
     "title": "The Blade Itself",
@@ -1032,7 +1032,7 @@
     "bestseller": false,
     "price": 350,
     "ageCategory": "Adult",
-    "id": "330374fd-d9cf-4bc8-9882-39feb06e0862"
+    "id": "63e55a94-ef78-46b6-9272-ab51c2be1c8e"
   },
   {
     "title": "Before They Are Hanged",
@@ -1040,14 +1040,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 4.3,
-    "isbn": 9780575077881.0,
+    "isbn": 9780316387354.0,
     "blurb": "Glokta, Logen and Jezal's paths diverge in a gritty second novel full of treachery and war.",
     "condition": "Like New",
     "award": "Highly acclaimed second volume of The First Law Trilogy",
     "bestseller": false,
     "price": 400,
     "ageCategory": "Adult",
-    "id": "037a33ec-309f-41d3-a9aa-0f1b3d840b37"
+    "id": "9c34a75b-0b1b-437b-8be2-7b0d4a2ebfd6"
   },
   {
     "title": "Last Argument of Kings",
@@ -1055,14 +1055,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 4.4,
-    "isbn": 9780575077898.0,
+    "isbn": 9780316387408.0,
     "blurb": "The First Law trilogy reaches its brutal climax as long-held secrets and ambitions collide.",
     "condition": "Like New",
     "award": "Epic conclusion to the foundational Grimdark trilogy",
     "bestseller": false,
     "price": 400,
     "ageCategory": "Adult",
-    "id": "28ad6667-455c-4ae7-8855-df24bce3d4f7"
+    "id": "2b1c2293-82ba-466b-b59c-0a7ad355ce7a"
   },
   {
     "title": "Powerless",
@@ -1077,7 +1077,7 @@
     "bestseller": true,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "b25a4785-19bb-42ea-9021-ce791347b71a"
+    "id": "1577171e-0594-4b6c-b151-1cb8aa5d6884"
   },
   {
     "title": "Reckless",
@@ -1085,14 +1085,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 4.1,
-    "isbn": null,
+    "isbn": 9781665955430.0,
     "blurb": "Paedyn and Kai's tense alliance is tested when the Trials end and a bigger fight begins.",
     "condition": "Like New",
     "award": "Instant international bestseller continuation",
     "bestseller": true,
     "price": 300,
     "ageCategory": "Young Adult",
-    "id": "8a05c5d3-bea6-4fe0-8c3d-c46a9f4fb8db"
+    "id": "19bf5a26-6907-4050-bf4e-5476a0f862a0"
   },
   {
     "title": "Fearless",
@@ -1100,14 +1100,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9781665955461.0,
     "blurb": "The final book of the Powerless trilogy, where Paedyn and Kai face the ultimate battle for their kingdom.",
     "condition": "Like New",
     "award": "Core piece of the viral Powerless romantic fantasy trilogy",
     "bestseller": false,
     "price": 300,
     "ageCategory": "Young Adult",
-    "id": "fe79d07c-6e4b-4112-85d1-0b31f972acbd"
+    "id": "a22fbe6b-39d0-4943-847a-1f24f97f6356"
   },
   {
     "title": "Wind and Truth",
@@ -1122,7 +1122,7 @@
     "bestseller": true,
     "price": 500,
     "ageCategory": "Adult",
-    "id": "f49fdd49-59ca-46f7-a396-e89cc0406c28"
+    "id": "7b20a8db-2ad1-4443-8c78-7db55a1220ee"
   },
   {
     "title": "Onyx Storm",
@@ -1130,14 +1130,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 699.0,
     "rating": 4.4,
-    "isbn": null,
+    "isbn": 9781649376947.0,
     "blurb": "Violet Sorrengail returns for a dangerous third year at Basgiath War College as the war with Navarre escalates.",
     "condition": "Like New",
     "award": "Highly anticipated continuation of the Empyrean saga",
     "bestseller": false,
     "price": 300,
     "ageCategory": "Adult",
-    "id": "46834b1d-de57-4cb4-88a7-84c937e893fa"
+    "id": "e545286f-aa18-4c57-87c1-22cdfe063890"
   },
   {
     "title": "Iron Flame",
@@ -1145,14 +1145,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 599.0,
     "rating": 4.1,
-    "isbn": 9781649374172.0,
+    "isbn": 9781649377579.0,
     "blurb": "Violet faces new dangers in her second year at Basgiath as secrets about the war and her dragon bonds come to light.",
     "condition": "Like New",
     "award": "Record-breaking instant #1 international bestseller",
     "bestseller": true,
     "price": 300,
     "ageCategory": "Adult",
-    "id": "5669670b-1dbe-457d-a89b-dd46daead8ef"
+    "id": "878351d3-be37-4f97-abaf-f93398747a82"
   },
   {
     "title": "The Way of Shadows",
@@ -1167,7 +1167,7 @@
     "bestseller": false,
     "price": 300,
     "ageCategory": "Adult",
-    "id": "d1516549-d563-4131-bb19-f59372ebec99"
+    "id": "2240d76a-1afa-4dd3-a6d3-59efa77642f8"
   },
   {
     "title": "Shadow's Edge",
@@ -1182,7 +1182,7 @@
     "bestseller": false,
     "price": 350,
     "ageCategory": "Adult",
-    "id": "53f81aec-eb64-498a-8d65-e7552ecc8f19"
+    "id": "a58310d0-3538-40ae-ab70-fc458d7825f4"
   },
   {
     "title": "Beyond the Shadows",
@@ -1197,7 +1197,7 @@
     "bestseller": false,
     "price": 350,
     "ageCategory": "Adult",
-    "id": "881e835e-c94d-4d28-910f-03b0dddeb836"
+    "id": "b64574da-9cb2-474e-8ce8-05a2b7f68876"
   },
   {
     "title": "A Game of Thrones",
@@ -1212,7 +1212,7 @@
     "bestseller": false,
     "price": 350,
     "ageCategory": "Adult",
-    "id": "fec380c7-7dd7-4050-b2c5-787b8ac9699e"
+    "id": "d289fa8e-dbde-49a9-b62a-f594e213dad6"
   },
   {
     "title": "The Shadow of What Was Lost",
@@ -1220,14 +1220,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9780356507774.0,
     "blurb": "In a world where magic is forbidden, a boy discovers his powers as an ancient evil returns.",
     "condition": "Like New",
     "award": "Highly acclaimed epic fantasy debut; Locus Best First Novel finalist indicator",
     "bestseller": false,
     "price": 350,
     "ageCategory": "Adult",
-    "id": "33b691f1-1a3c-4a0a-b557-3b4bd925df4f"
+    "id": "238558a4-c679-48ce-83f9-48690db32f7f"
   },
   {
     "title": "Wind and Truth",
@@ -1242,7 +1242,7 @@
     "bestseller": true,
     "price": 700,
     "ageCategory": "Adult",
-    "id": "42d33af1-5993-4c1a-beaf-de803f61b6e5"
+    "id": "2cbadf4f-b478-4c54-a45c-c52e1187ad30"
   },
   {
     "title": "Rhythm of War",
@@ -1257,7 +1257,7 @@
     "bestseller": true,
     "price": 600,
     "ageCategory": "Adult",
-    "id": "97d9d1b0-a157-4d9d-aff7-cdf7b44f6c02"
+    "id": "c827f8e3-233b-441d-8d69-825334e01fb5"
   },
   {
     "title": "Oathbringer",
@@ -1272,7 +1272,7 @@
     "bestseller": true,
     "price": 400,
     "ageCategory": "Adult",
-    "id": "6517ab32-c5be-43ab-8d09-df730ae1c552"
+    "id": "1f5fedeb-8d1e-4d77-984a-7da6727a82d5"
   },
   {
     "title": "The Alloy of Law",
@@ -1287,7 +1287,7 @@
     "bestseller": true,
     "price": 300,
     "ageCategory": "Adult",
-    "id": "fcb4beb6-fee5-4be4-9ff0-6ca36cb8d06c"
+    "id": "87b43bc0-87c0-444d-9432-4ca2461b058a"
   },
   {
     "title": "The Final Empire (Mistborn)",
@@ -1295,14 +1295,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 4.47,
-    "isbn": 9780765350381.0,
+    "isbn": 9780575089914.0,
     "blurb": "In a world where ash falls from the sky and mist dominates the night, an impossible heist is planned.",
     "condition": "Like New",
     "award": "David Gemmell Legend Award",
     "bestseller": true,
     "price": 400,
     "ageCategory": "Adult",
-    "id": "b2def88c-13de-4fb9-9ebe-c489276289c6"
+    "id": "4086d42c-c6f4-4a38-b578-5a03a161fc25"
   },
   {
     "title": "The Well of Ascension (Mistborn)",
@@ -1310,14 +1310,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 4.38,
-    "isbn": 9780765356130.0,
+    "isbn": 9780575089938.0,
     "blurb": "The second book in the epic Mistborn trilogy.",
     "condition": "Like New",
     "award": "Bestseller",
     "bestseller": true,
     "price": 400,
     "ageCategory": "Adult",
-    "id": "74090569-8213-43bb-af95-c45743692d98"
+    "id": "240e304a-335b-4038-b250-9efa787c7def"
   },
   {
     "title": "The Hero of Ages (Mistborn)",
@@ -1325,14 +1325,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 499.0,
     "rating": 4.51,
-    "isbn": 9780765356147.0,
+    "isbn": 9780575089945.0,
     "blurb": "The thrilling conclusion to the Mistborn trilogy.",
     "condition": "Like New",
     "award": "Bestseller",
     "bestseller": true,
     "price": 400,
     "ageCategory": "Adult",
-    "id": "0576eb91-8c3c-4641-8a2d-e961dbe31607"
+    "id": "f47cf86a-0b81-4eb6-9a24-b9202de2a37d"
   },
   {
     "title": "Throne of Glass (Box Set)",
@@ -1347,7 +1347,7 @@
     "bestseller": true,
     "price": null,
     "ageCategory": "Young Adult",
-    "id": "d745ce5d-5ba9-4595-93b5-de246354b698"
+    "id": "8f142b7d-7a66-43c4-b7a0-05350a76df18"
   },
   {
     "title": "The Assassin's Blade",
@@ -1355,14 +1355,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 399.0,
     "rating": 4.34,
-    "isbn": 9781619636033.0,
+    "isbn": 9781639731091.0,
     "blurb": "Prequel novellas to the Throne of Glass series.",
     "condition": "Good",
     "award": "Bestseller",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "02a24d0b-80f7-4878-aa8a-1bdb6885b4d3"
+    "id": "246bf6b3-d34b-41c8-9541-d10cc4b34077"
   },
   {
     "title": "Queen of Shadows",
@@ -1370,14 +1370,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 4.53,
-    "isbn": 9781619636040.0,
+    "isbn": 9783423717076.0,
     "blurb": "Book 4 in the Throne of Glass series.",
     "condition": "Good",
     "award": "Goodreads Choice Nominee",
     "bestseller": true,
     "price": 250,
     "ageCategory": "Young Adult",
-    "id": "34319012-8021-4e76-a37c-1a6297475e01"
+    "id": "28e5dfc0-f34d-41ba-b6e2-14757f013943"
   },
   {
     "title": "Crown of Midnight",
@@ -1392,7 +1392,7 @@
     "bestseller": true,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "a11cae05-0d13-42f0-92bd-4c651578993f"
+    "id": "853f3d8c-5aa9-43e8-b3c9-d77e9f0b9dcc"
   },
   {
     "title": "Empire of Storms",
@@ -1400,14 +1400,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 480.0,
     "rating": 4.56,
-    "isbn": 9781619636071.0,
+    "isbn": 9781408872895.0,
     "blurb": "Book 5 in the Throne of Glass series.",
     "condition": "Good",
     "award": "Bestseller",
     "bestseller": true,
     "price": 250,
     "ageCategory": "Young Adult",
-    "id": "db15631f-081f-4244-8030-965c38bd5cfa"
+    "id": "7fa204f4-fad4-4df5-a0c6-4b14ca7f77d8"
   },
   {
     "title": "Tower of Dawn",
@@ -1415,14 +1415,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 480.0,
     "rating": 4.36,
-    "isbn": 9781681195773.0,
+    "isbn": 9781408887974.0,
     "blurb": "Book 6 in the Throne of Glass series.",
     "condition": "Good",
     "award": "Bestseller",
     "bestseller": true,
     "price": 250,
     "ageCategory": "Young Adult",
-    "id": "939bf9f8-eb45-4030-b17d-2d8db5a4483c"
+    "id": "a8a95a70-1296-496c-89c1-34ca07ceebe1"
   },
   {
     "title": "Kingdom of Ash",
@@ -1430,14 +1430,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 550.0,
     "rating": 4.62,
-    "isbn": 9781681196312.0,
+    "isbn": 9781408872918.0,
     "blurb": "The epic finale to the Throne of Glass series.",
     "condition": "Good",
     "award": "Goodreads Choice Winner",
     "bestseller": true,
     "price": 300,
     "ageCategory": "Young Adult",
-    "id": "0c294e07-e734-4606-8071-bbe2d343b3c6"
+    "id": "76b93e56-771a-4e3b-b83b-e06a88c30d56"
   },
   {
     "title": "Truly Devious",
@@ -1452,7 +1452,7 @@
     "bestseller": true,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "e08e7d83-f4b5-45b7-a213-8e5a2eb1e1a1"
+    "id": "923b3ea4-0e72-460d-a7e0-43611c9eee12"
   },
   {
     "title": "The Bloody Chamber",
@@ -1467,7 +1467,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "15644303-2b6f-42cd-80be-23bb42d7fe22"
+    "id": "50c7a078-43dd-4424-a60b-0dd08e6e3723"
   },
   {
     "title": "Words of Radiance",
@@ -1482,7 +1482,7 @@
     "bestseller": true,
     "price": 350,
     "ageCategory": "Adult",
-    "id": "07f77a19-cba6-4895-abfb-0fd2188d6b0f"
+    "id": "cb6f7c8b-23d1-49ab-b33e-28492f7f50a9"
   },
   {
     "title": "The Way of Kings",
@@ -1497,7 +1497,7 @@
     "bestseller": true,
     "price": 350,
     "ageCategory": "Adult",
-    "id": "cd30a918-f360-4fbe-a1e6-612047441d3a"
+    "id": "44eac133-7905-4c1d-8f35-15fa1329fe2b"
   },
   {
     "title": "Edgedancer",
@@ -1512,7 +1512,7 @@
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "07e9dc73-7b80-43d5-8295-935829c4c285"
+    "id": "65e978a7-725b-45f1-af5b-8de5ec967dfb"
   },
   {
     "title": "Heir of Fire",
@@ -1520,14 +1520,14 @@
     "tags": ["Fantasy"],
     "amazon-price": 450.0,
     "rating": 4.41,
-    "isbn": 9781408858639.0,
+    "isbn": 9783423716536.0,
     "blurb": "Book 3 in the epic Throne of Glass series.",
     "condition": "Like New",
     "award": "Bestseller",
     "bestseller": true,
     "price": 250,
     "ageCategory": "Young Adult",
-    "id": "34a58ee2-c4c8-4e32-a26d-1ffe72be9db4"
+    "id": "b6f6003c-8fd9-4116-b40c-bd5fdbcd8c54"
   },
   {
     "title": "The Golden Road: How Ancient India Transformed the World",
@@ -1542,7 +1542,7 @@
     "bestseller": true,
     "price": 300,
     "ageCategory": "Adult",
-    "id": "99ea2482-cf08-4bd5-b688-d610fa9e4a5e"
+    "id": "cb1ae001-d732-46b2-aa40-81e197cb9e1e"
   },
   {
     "title": "The Last Mughal",
@@ -1550,14 +1550,14 @@
     "tags": ["History"],
     "amazon-price": 434.0,
     "rating": 4.3,
-    "isbn": null,
+    "isbn": 9780143102434.0,
     "blurb": "The story of the last Mughal emperor, Bahadur Shah Zafar, and the fall of Delhi in 1857.",
     "condition": "Good",
     "award": "Winner of the Duff Cooper Prize (2007); Shortlisted for Samuel Johnson Prize",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "90c220a8-8af2-48f8-90b1-c3583cd2ca31"
+    "id": "fb1d8821-039d-47ab-913b-7fabe2aaa5fd"
   },
   {
     "title": "Sapiens: A Brief History of Humankind",
@@ -1565,14 +1565,14 @@
     "tags": ["History"],
     "amazon-price": 499.0,
     "rating": 4.4,
-    "isbn": 9780099590088.0,
+    "isbn": 9788377059968.0,
     "blurb": "Yuval Noah Harari's sweeping history of humankind from the Stone Age to the present.",
     "condition": "Good",
     "award": "Winner of the National Library of China Wenjin Book Award",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "521fb09f-4115-403e-9454-df125b02358b"
+    "id": "cb6a6177-49a1-4a75-aa84-2858723b9c91"
   },
   {
     "title": "The Republic",
@@ -1587,7 +1587,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "551f8b25-29ee-4e66-ae90-ead4f07a040d"
+    "id": "fa5efd47-4d37-4412-827e-ce36bbe93511"
   },
   {
     "title": "The Virtue of Selfishness",
@@ -1602,7 +1602,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "5e2e545a-92ca-4124-bbe7-0aab8ccc47f5"
+    "id": "1a9810ac-b516-4c4f-ad17-0609472da58e"
   },
   {
     "title": "Zen and the Art of Motorcycle Maintenance",
@@ -1610,14 +1610,14 @@
     "tags": ["History"],
     "amazon-price": 450.0,
     "rating": 3.8,
-    "isbn": 9780060839871.0,
+    "isbn": 9781593979829.0,
     "blurb": "A father-son motorcycle journey that becomes a philosophical inquiry into Quality.",
     "condition": "Good",
     "award": "Renowned Metaphysics Narrative; Multi-million Copy Bestseller",
     "bestseller": true,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "2fcb5d7d-7b59-4869-af10-7e08e89f3aad"
+    "id": "6b484ad3-fd1d-47f3-b281-c0bc13514cfc"
   },
   {
     "title": "A Brief History of Time",
@@ -1632,7 +1632,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "fc6a7714-b7f0-49cf-b35a-423d832e80b6"
+    "id": "00547838-6b25-43e2-8cdf-4c592f50d25e"
   },
   {
     "title": "Aarushi",
@@ -1640,14 +1640,14 @@
     "tags": ["History"],
     "amazon-price": 247.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780143421214.0,
     "blurb": "An investigative account of the Aarushi Talwar murder case and the trial that followed.",
     "condition": "Good",
     "award": "Highly Acclaimed Investigative Journalistic Chronicle",
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "0d865b87-73ec-4987-9268-b79438346614"
+    "id": "44126c58-3d97-4a2c-a7be-ac4cd7d09675"
   },
   {
     "title": "Superfreakonomics",
@@ -1655,14 +1655,14 @@
     "tags": ["History"],
     "amazon-price": 380.0,
     "rating": 4.0,
-    "isbn": 9780060889579.0,
+    "isbn": 9780062312877.0,
     "blurb": "The authors of Freakonomics use economics to look at climate change, terrorism and other surprising puzzles.",
     "condition": "Good",
     "award": "Financial Times and Goldman Sachs Business Book of the Year Nominee",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "d7bf61a0-6a27-421e-a7d2-b1c77ebc8a9c"
+    "id": "32fe612c-3512-4c30-bc4a-de5c6b909611"
   },
   {
     "title": "A Short History of the USSR (Part I)",
@@ -1677,7 +1677,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "ea68ec18-8a70-43f0-9aab-a72ed0c9194a"
+    "id": "e61076b1-f269-4683-beca-167881f36ced"
   },
   {
     "title": "A Short History of Soviet Society",
@@ -1685,21 +1685,21 @@
     "tags": ["History"],
     "amazon-price": 410.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780898757613.0,
     "blurb": "A survey of Soviet society, its politics and economy, from a Soviet-era perspective.",
     "condition": "Good",
     "award": "Soviet Era Historical Record",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "1f5b66e8-d5fc-4143-997d-6395737fcd1d"
+    "id": "00506848-3206-4f86-9ea6-ae14eb5e22cf"
   },
   {
     "title": "The Colder War",
     "author": "Marin Katusa",
     "tags": ["History"],
     "amazon-price": 550.0,
-    "rating": null,
+    "rating": 3.9,
     "isbn": null,
     "blurb": "An investor's look at the new geopolitical energy conflict between Russia and the West.",
     "condition": "Good",
@@ -1707,7 +1707,7 @@
     "bestseller": true,
     "price": 300,
     "ageCategory": "Adult",
-    "id": "3b822f32-de20-4631-b6d4-b0f9e8be5fa6"
+    "id": "7be1d784-7c15-4759-b36b-9691ffa5fcbc"
   },
   {
     "title": "Indian Summer: The Secret History of the End of an Empire",
@@ -1715,14 +1715,14 @@
     "tags": ["History"],
     "amazon-price": 499.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9780312428112.0,
     "blurb": "Alex von Tunzelmann tells the dramatic, personal story of the final years of the British Raj.",
     "condition": "Good",
     "award": "Shortlisted for the Conkeldice History Prize",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "b933fb51-112c-49ae-868a-9e65c2a3a6d9"
+    "id": "3f8d627a-968f-41b6-a9dc-c71c5aa955e9"
   },
   {
     "title": "Bhagavad Gita",
@@ -1737,7 +1737,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "3dcaec94-e820-4d34-b3fc-b0a9246e3b1a"
+    "id": "0b10b03b-bd49-4019-b9b3-3bf8733afbcd"
   },
   {
     "title": "Bradman's Best",
@@ -1745,14 +1745,14 @@
     "tags": ["History"],
     "amazon-price": 599.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780593049013.0,
     "blurb": "A cricket biography on Don Bradman's finest innings, matches and career highlights.",
     "condition": "Good",
     "award": "Acclaimed Cricket Biography \/ Sports History",
     "bestseller": false,
     "price": 300,
     "ageCategory": "Adult",
-    "id": "3582e54d-668b-4398-ac59-6d65ef6dd12a"
+    "id": "8c4ccbc0-b73d-4db2-b0de-29d273cca5fa"
   },
   {
     "title": "The Mahatma & the Millionaire",
@@ -1760,14 +1760,14 @@
     "tags": ["History"],
     "amazon-price": 395.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9788187496984.0,
     "blurb": "A narrative exploring the relationship between Mahatma Gandhi and the industrialist G.D. Birla.",
     "condition": "Good",
     "award": "Insightful Historical Narrative",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "38d80e4e-9d4a-4675-95b7-73421bb42078"
+    "id": "34e591fd-bfe4-4399-b7cc-c64c7960a145"
   },
   {
     "title": "Empire of the Moghul: Raiders from the North",
@@ -1775,14 +1775,14 @@
     "tags": ["History"],
     "amazon-price": 450.0,
     "rating": 4.1,
-    "isbn": null,
+    "isbn": 9781472207180.0,
     "blurb": "The first novel of Alex Rutherford's Moghul series follows Babur's rise to power in the 16th century.",
     "condition": "Good",
     "award": "Bestselling Historical Fiction Epic",
     "bestseller": true,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "43ed3bc9-8093-4432-9035-b5888ff631a6"
+    "id": "ee1f6263-b812-464f-b24a-dfd4f4f7b9ed"
   },
   {
     "title": "India Unboxed",
@@ -1790,29 +1790,29 @@
     "tags": ["History"],
     "amazon-price": 350.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9789353769819.0,
     "blurb": "A cultural exploration of India's contradictions and diversity through everyday life.",
     "condition": "Good",
     "award": "Cultural Non-fiction Exploration",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "3f585175-e116-4ff2-a698-3698a0abed41"
+    "id": "1948b143-edc6-4e6a-96c3-98647503ad02"
   },
   {
     "title": "Glimmer of Hope",
     "author": "March for Our Lives Founders",
     "tags": ["History"],
     "amazon-price": 399.0,
-    "rating": null,
-    "isbn": null,
+    "rating": 4.3,
+    "isbn": 9781984836090.0,
     "blurb": "The founders of March for Our Lives tell the story of the youth movement against gun violence.",
     "condition": "Good",
     "award": "New York Times Bestseller Documenting Youth Activism",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "91d3ecaa-b453-4d37-b9eb-2baa812f9d65"
+    "id": "3c1674e2-cd3f-4b66-bed8-9321c98a125d"
   },
   {
     "title": "Imaginary Homelands",
@@ -1827,7 +1827,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "9acaedef-7844-4f52-8f0b-496b84fce8cf"
+    "id": "35a8f297-2b6e-4738-8e9b-2d4c21c42365"
   },
   {
     "title": "The Story of Spying",
@@ -1835,14 +1835,14 @@
     "tags": ["History"],
     "amazon-price": 299.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780794517205.0,
     "blurb": "Usborne's illustrated histories of espionage for young readers.",
     "condition": "Good",
     "award": "Educational History Editions",
     "bestseller": false,
     "price": 50,
     "ageCategory": "Above 8",
-    "id": "0e98dcd3-461e-4c9d-9ee0-2650a8d9db9e"
+    "id": "dc1897a5-6c9e-4338-be71-6060c78eda76"
   },
   {
     "title": "The Story of Spying",
@@ -1850,14 +1850,14 @@
     "tags": ["History"],
     "amazon-price": 299.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780794517205.0,
     "blurb": "Usborne's illustrated histories of Islam for young readers.",
     "condition": "Good",
     "award": "Educational History Editions",
     "bestseller": false,
     "price": 50,
     "ageCategory": "Above 8",
-    "id": "9129778e-1780-4803-bd19-609b75d9b99a"
+    "id": "878643c7-9a86-45b7-bdee-99e233795285"
   },
   {
     "title": "Mahatma and the Millionare",
@@ -1865,14 +1865,14 @@
     "tags": ["History"],
     "amazon-price": 350.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9788187496984.0,
     "blurb": "The story of the close friendship between Mahatma Gandhi and industrialist G.D. Birla, drawn from their letters and the years of India's freedom struggle.",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "fc8a746c-02cf-432c-8f2d-35ea81d26660"
+    "id": "62870ff6-d3fe-407a-a48b-e16c609b968b"
   },
   {
     "title": "India as Seen by Babur",
@@ -1880,14 +1880,14 @@
     "tags": ["History"],
     "amazon-price": 299.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9788175330009.0,
     "blurb": "Extracts from Babur's memoirs, the Baburnama, give his first-hand view of India's land, people, climate and customs after his conquest.",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "310e10f3-840c-4638-95d3-797e3643e52e"
+    "id": "3ce95d78-0ed6-4471-9cf1-120b4cad049f"
   },
   {
     "title": "How to Cheat a Dragon's Sword",
@@ -1902,7 +1902,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "aef0d3de-9dd7-4112-8fbe-57f67de26740"
+    "id": "01ac7613-d774-49b2-ad22-c54246a94c31"
   },
   {
     "title": "My Family and Other Animals (Copy 1)",
@@ -1910,14 +1910,14 @@
     "tags": ["Kids"],
     "amazon-price": 399.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780194248242.0,
     "blurb": "Classic autobiographical nature chronicle",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 200,
     "ageCategory": "All",
-    "id": "b2ea024e-7aa8-4588-90e5-077b1dd0901d"
+    "id": "dfeba7d7-a619-4820-8375-014acf7f77d2"
   },
   {
     "title": "My Family and Other Animals (Copy 2)",
@@ -1925,14 +1925,14 @@
     "tags": ["Kids"],
     "amazon-price": 399.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780194248242.0,
     "blurb": "Classic autobiographical nature chronicle",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 200,
     "ageCategory": "All",
-    "id": "dcbd389e-5e08-402b-8b57-e3796bba98fd"
+    "id": "8ccaeca5-2393-4d78-a396-9e896314efde"
   },
   {
     "title": "The Stationary Ark",
@@ -1940,14 +1940,14 @@
     "tags": ["Kids"],
     "amazon-price": 350.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780671507589.0,
     "blurb": "Acclaimed wildlife conservation book",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 175,
     "ageCategory": "Adult",
-    "id": "07158db1-1d4c-455d-a854-3714d547e956"
+    "id": "cabcc7c5-0f87-4565-bc44-0c525aacdf42"
   },
   {
     "title": "The Drunken Forest",
@@ -1955,14 +1955,14 @@
     "tags": ["Kids"],
     "amazon-price": 350.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780140013146.0,
     "blurb": "Renowned wildlife travelogue",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 175,
     "ageCategory": "Adult",
-    "id": "46e8d496-5bf8-4327-bfb4-1a838dc1b90d"
+    "id": "fdd65f83-3e3f-4ffe-ac92-063d675cd6c4"
   },
   {
     "title": "The Whispering Land",
@@ -1970,14 +1970,14 @@
     "tags": ["Kids"],
     "amazon-price": 350.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780140020830.0,
     "blurb": "Acclaimed South American expedition journal",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 175,
     "ageCategory": "Adult",
-    "id": "1bc5bba3-2af9-4f2a-b895-cfd42febb65a"
+    "id": "69f558d6-8b6a-4aa5-bbdc-fd36edd7d605"
   },
   {
     "title": "For One More Day",
@@ -1985,14 +1985,14 @@
     "tags": ["Kids"],
     "amazon-price": 299.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780753178157.0,
     "blurb": "#1 New York Times Bestseller",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "0a6b398f-c00f-46ab-b6cd-1bf42977cda8"
+    "id": "fb94121c-8fe8-451a-85b0-852fcd0411c0"
   },
   {
     "title": "The Time Keeper",
@@ -2000,14 +2000,14 @@
     "tags": ["Kids"],
     "amazon-price": 325.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780316311533.0,
     "blurb": "New York Times Bestseller",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 162,
     "ageCategory": "Adult",
-    "id": "24836b21-ff4c-4aa7-9c63-8d21fba3f536"
+    "id": "7bc83d7d-05d1-4812-9a3e-757349b50c6f"
   },
   {
     "title": "The Five People You Meet in Heaven",
@@ -2015,14 +2015,14 @@
     "tags": ["Kids"],
     "amazon-price": 299.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780786868711.0,
     "blurb": "Stayed 95 weeks on the NYT Bestseller List",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "6b747eda-8409-49fd-b3d8-19fe6d293239"
+    "id": "e4d82d5a-77fe-4a25-a354-6cd934e6e9bb"
   },
   {
     "title": "Tuesdays with Morrie",
@@ -2030,14 +2030,14 @@
     "tags": ["Kids"],
     "amazon-price": 275.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780767905923.0,
     "blurb": "Best-selling memoir of all time globally",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 138,
     "ageCategory": "Adult",
-    "id": "21ae5357-9364-44c4-bda7-bc8b5d5944d8"
+    "id": "50bcdc06-da4f-4c14-87e6-125c29f66100"
   },
   {
     "title": "Mudpuddle Farm: Cock-A-Doodle-Doo!",
@@ -2045,29 +2045,29 @@
     "tags": ["Kids"],
     "amazon-price": 199.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780007270125.0,
     "blurb": "Beloved children's farmyard series",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 100,
     "ageCategory": "Under 8",
-    "id": "6ad6d83c-3199-4550-902c-797706ac0db0"
+    "id": "c45cf0d7-7f94-42b8-a038-e19515927e05"
   },
   {
     "title": "The Golden Fortress",
     "author": "Satyajit Ray",
     "tags": ["Kids"],
     "amazon-price": 250.0,
-    "rating": null,
-    "isbn": null,
+    "rating": 4.0,
+    "isbn": 9780143335771.0,
     "blurb": "Classic Feluda mystery masterpiece",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 125,
     "ageCategory": "Above 8",
-    "id": "715a9684-7f36-4286-9786-f91facb16d4a"
+    "id": "c32f6f81-86da-4d05-b6ae-3947a1629fc3"
   },
   {
     "title": "Vikram & Betal",
@@ -2082,7 +2082,7 @@
     "bestseller": false,
     "price": 75,
     "ageCategory": "All",
-    "id": "b0cfe697-4c28-4cc0-9a36-2d77c985c900"
+    "id": "63e2ad44-91f8-489d-88e3-ad30952d4396"
   },
   {
     "title": "The Invisible Man",
@@ -2097,7 +2097,7 @@
     "bestseller": false,
     "price": 88,
     "ageCategory": "Above 8",
-    "id": "8d6a17d7-d798-4e2d-ba80-6c7078cc2882"
+    "id": "32b6d8c8-4ca1-4ec9-a0fc-aeb753a4fcad"
   },
   {
     "title": "The Adventures of Tom Sawyer",
@@ -2112,7 +2112,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Above 8",
-    "id": "43301dc6-f9d8-4781-9e41-8606e85314e4"
+    "id": "68a8bfa7-e639-473f-8dee-95549dfb70e8"
   },
   {
     "title": "Black Beauty (Copy 1)",
@@ -2120,14 +2120,14 @@
     "tags": ["Kids"],
     "amazon-price": 150.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9781503251281.0,
     "blurb": "One of the top-selling children's classics of all time",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 75,
     "ageCategory": "Above 8",
-    "id": "a46bc149-2879-41cd-bee6-1fc9efd5fdf9"
+    "id": "ade544c4-3007-4ec6-b7d0-79b0917a4906"
   },
   {
     "title": "Black Beauty (Copy 2)",
@@ -2135,14 +2135,14 @@
     "tags": ["Kids"],
     "amazon-price": 150.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9781503251281.0,
     "blurb": "Classic animal perspective narrative novel",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 75,
     "ageCategory": "Above 8",
-    "id": "7fc39556-451a-46b9-93a1-a71b6d6cecd1"
+    "id": "1c841053-69b5-488c-b660-96d6fae1ff0f"
   },
   {
     "title": "Alice in Wonderland and Through the Looking Glass (Copy 1)",
@@ -2150,14 +2150,14 @@
     "tags": ["Kids"],
     "amazon-price": 250.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780194227230.0,
     "blurb": "Masterpiece of literary nonsense and children's fantasy",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 125,
     "ageCategory": "All",
-    "id": "fabf3731-b4d8-4a82-8ab3-bffc3fa32db0"
+    "id": "129667c1-3e90-4b54-81f2-ce8882411619"
   },
   {
     "title": "Alice in Wonderland (Copy 2)",
@@ -2172,7 +2172,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "All",
-    "id": "e04f8e36-82c7-4def-a8cc-3a2ce1c27c37"
+    "id": "484ba43f-0d47-4b49-a0b6-ecca32692a9b"
   },
   {
     "title": "Dr Jekyll and Mr Hyde and other stories",
@@ -2187,7 +2187,7 @@
     "bestseller": false,
     "price": 90,
     "ageCategory": "Young Adult",
-    "id": "65887f8c-c37c-4e28-9a7c-a726ce9187b1"
+    "id": "27a7ab7c-95fb-4339-a6ee-90a9832e4e93"
   },
   {
     "title": "Peter Pan",
@@ -2195,14 +2195,14 @@
     "tags": ["Kids"],
     "amazon-price": 199.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9789386538376.0,
     "blurb": "Timeless children's fantasy adventure",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 100,
     "ageCategory": "All",
-    "id": "bbc5305f-db5b-4b23-8cca-034c72660d49"
+    "id": "f3bde59f-3def-4d9c-bdd7-9484cbc07690"
   },
   {
     "title": "The Trumpet of the Swan",
@@ -2210,14 +2210,14 @@
     "tags": ["Kids"],
     "amazon-price": 299.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780141354842.0,
     "blurb": "Nominated for the William Allen White Children's Book Award",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "1584e771-043c-49b3-97e6-7dedf57f6f6b"
+    "id": "981ecd5e-0251-473c-a2d4-d5dc56a4f1b3"
   },
   {
     "title": "As You Like It",
@@ -2225,14 +2225,14 @@
     "tags": ["Kids"],
     "amazon-price": 149.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9789352231713.0,
     "blurb": "Classic pastoral romantic comedy play",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 74,
     "ageCategory": "Young Adult",
-    "id": "0f3d5833-c706-40fa-8bd6-7c2bbea610fb"
+    "id": "f6329ef5-0967-421e-a6ec-4680a71a9d3f"
   },
   {
     "title": "Gulliver's Travels (Copy 1)",
@@ -2240,14 +2240,14 @@
     "tags": ["Kids"],
     "amazon-price": 199.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780141439495.0,
     "blurb": "Famous satirical adventure fiction classic",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 100,
     "ageCategory": "Above 8",
-    "id": "3f5627dd-f41d-49e7-9560-1fd39672cbb1"
+    "id": "b1b6e9a6-c9c2-454d-9181-8646eb0078d6"
   },
   {
     "title": "Gulliver's Travels (Copy 2)",
@@ -2255,14 +2255,14 @@
     "tags": ["Kids"],
     "amazon-price": 199.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780141439495.0,
     "blurb": "Classic satirical literary traveler novel",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 100,
     "ageCategory": "Above 8",
-    "id": "de0e331b-3b43-4a44-840a-54fb69df9d19"
+    "id": "943def20-62a4-4489-8002-ef68613bc990"
   },
   {
     "title": "David Copperfield",
@@ -2270,14 +2270,14 @@
     "tags": ["Kids"],
     "amazon-price": 225.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9789381607770.0,
     "blurb": "Dickens' self-proclaimed favorite autobiographical novel",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 112,
     "ageCategory": "Young Adult",
-    "id": "37a0ca82-1a2c-4afd-af7d-1d794f001fe5"
+    "id": "26cd07a8-c463-410b-b8dd-5eb6e9ed9966"
   },
   {
     "title": "Little House on the Prairie",
@@ -2285,14 +2285,14 @@
     "tags": ["Kids"],
     "amazon-price": 299.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780060000462.0,
     "blurb": "Classic historical frontier generational chronicle",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "fefaca66-5061-4078-93ac-a8a18677aec0"
+    "id": "fd07a585-52d3-4a6e-9263-a9c91dbc94bd"
   },
   {
     "title": "Around the World in Eighty Days",
@@ -2307,7 +2307,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Above 8",
-    "id": "e0022642-e61b-4e77-9e37-9e471d6cf2a5"
+    "id": "d9ac5533-0004-44a5-ab8a-2245ea16305d"
   },
   {
     "title": "Mary Poppins",
@@ -2315,14 +2315,14 @@
     "tags": ["Kids"],
     "amazon-price": 250.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780001811010.0,
     "blurb": "Iconic magical children's literature benchmark",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 125,
     "ageCategory": "Above 8",
-    "id": "158400d9-1574-4e06-b568-35486e68d19f"
+    "id": "787728ac-2a13-4090-b0f2-78b636b4b8a3"
   },
   {
     "title": "Past Eight O'Clock",
@@ -2330,14 +2330,14 @@
     "tags": ["Kids"],
     "amazon-price": 299.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780670816361.0,
     "blurb": "Highly acclaimed children's bedtime collection",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 150,
     "ageCategory": "Under 8",
-    "id": "3a278989-7b54-43b9-9c49-4ce3315d4e1c"
+    "id": "c8b9cbef-fe1c-496e-92fa-6e3ba5878943"
   },
   {
     "title": "Ratburger (Copy 1)",
@@ -2352,7 +2352,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "586c6aa4-639f-42c0-94f7-43331da29e51"
+    "id": "28778257-958b-4777-a654-1efd63dd9386"
   },
   {
     "title": "The Midnight Gang",
@@ -2367,7 +2367,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "77958a9d-bc09-45cc-8339-09bae86f7647"
+    "id": "4ee03daa-2291-4a25-b177-396d36414813"
   },
   {
     "title": "The Ice Monster",
@@ -2382,7 +2382,7 @@
     "bestseller": false,
     "price": 225,
     "ageCategory": "Above 8",
-    "id": "45848658-a368-40b1-84c1-0f38cee0bb35"
+    "id": "128de891-e710-4f1a-aa55-b8cefbfc66c7"
   },
   {
     "title": "Ratburger (Copy 2)",
@@ -2397,7 +2397,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "f7510e2e-2937-4118-9aa1-547676360992"
+    "id": "86665cf7-8c1a-4593-93e8-bd2f6d206afe"
   },
   {
     "title": "The Best of Roald Dahl",
@@ -2405,14 +2405,14 @@
     "tags": ["Kids"],
     "amazon-price": 450.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780140066944.0,
     "blurb": "Acclaimed anthology compilation",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 225,
     "ageCategory": "All",
-    "id": "34fc3a73-7c1f-489d-ae12-90e74e22decb"
+    "id": "1b70a26a-0b5b-46fe-bbc7-a4647abedfdf"
   },
   {
     "title": "Skin and Other Stories",
@@ -2420,14 +2420,14 @@
     "tags": ["Kids"],
     "amazon-price": 350.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780141305530.0,
     "blurb": "Acclaimed macabre short stories for older readers",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 175,
     "ageCategory": "Adult",
-    "id": "ca8f6581-a5de-41b4-b31c-d01fb879cfd2"
+    "id": "a033ee55-115c-4739-aaf5-1eb16486e322"
   },
   {
     "title": "Charlie and the Great Glass Elevator",
@@ -2435,14 +2435,14 @@
     "tags": ["Kids"],
     "amazon-price": 299.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780142410325.0,
     "blurb": "Sequel to the legendary children's masterpiece novel",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "0097d6f4-5f75-4eef-b0a7-33192821df47"
+    "id": "842f37a4-f542-4eb1-ad4a-4729d09fdba1"
   },
   {
     "title": "Esio Trot",
@@ -2450,14 +2450,14 @@
     "tags": ["Kids"],
     "amazon-price": 250.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780140360998.0,
     "blurb": "Winner of the Smarties Book Award (1990)",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 125,
     "ageCategory": "Under 8",
-    "id": "4769fa22-d96e-4525-868d-63be55c908f6"
+    "id": "ffc5dff2-fd7c-4650-bfb7-10b257d60b4c"
   },
   {
     "title": "Charlie and the Chocolate Factory",
@@ -2465,14 +2465,14 @@
     "tags": ["Kids"],
     "amazon-price": 299.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780141326191.0,
     "blurb": "Inducted into the Millennium Children's Book list landmarks",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "9f20ca97-8f04-4386-aea6-319f0d056ad2"
+    "id": "27bebfb2-3042-40ce-a9c9-3fd39adb685a"
   },
   {
     "title": "Glorious Galumptious Story Collection",
@@ -2487,7 +2487,7 @@
     "bestseller": false,
     "price": 250,
     "ageCategory": "Above 8",
-    "id": "90812a23-1be5-42bd-8d43-aef067a83994"
+    "id": "a9e8f060-539e-40d7-a7a3-2b5e3f318d30"
   },
   {
     "title": "Billy and the Minpins",
@@ -2502,7 +2502,7 @@
     "bestseller": false,
     "price": 138,
     "ageCategory": "Under 8",
-    "id": "8d1f1ed6-6d15-40bc-8ebe-2a2016eb89c3"
+    "id": "ceca8b30-5960-478e-ba2c-fd093bf93e1b"
   },
   {
     "title": "Alone on a Wide Wide Sea",
@@ -2510,44 +2510,44 @@
     "tags": ["Kids"],
     "amazon-price": 350.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780007230587.0,
     "blurb": "Shortlisted for the Carnegie Medal",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 175,
     "ageCategory": "Above 8",
-    "id": "a1b8b1c6-b3de-4054-920d-3dd10ccd54c9"
+    "id": "37960ab3-3004-4326-bf61-01a291c94d36"
   },
   {
     "title": "Flamingo Boy",
     "author": "Michael Morpurgo",
     "tags": ["Kids"],
     "amazon-price": 350.0,
-    "rating": null,
-    "isbn": null,
+    "rating": 4.0,
+    "isbn": 9780008134662.0,
     "blurb": "Highly acclaimed WWII historical drama novel",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 175,
     "ageCategory": "Above 8",
-    "id": "baa73e01-87ea-4827-ab47-f5ebe9140c4e"
+    "id": "1724b7c2-f49a-49cd-bedb-6e6305766253"
   },
   {
     "title": "Outlaw: The Story of Robin Hood",
     "author": "Michael Morpurgo",
     "tags": ["Kids"],
     "amazon-price": 299.0,
-    "rating": null,
-    "isbn": null,
+    "rating": 4.0,
+    "isbn": 9780007465927.0,
     "blurb": "Bestselling historical legend adventure adaptation",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "69cd0782-f488-4629-94d3-58a09edf53f7"
+    "id": "f051718d-72cf-403e-9002-99f40807178e"
   },
   {
     "title": "The Parakeet That Squawked in English & Other Bird Stories",
@@ -2562,7 +2562,7 @@
     "bestseller": false,
     "price": 125,
     "ageCategory": "Above 8",
-    "id": "1d3945b2-c5a6-41dd-b7e0-29e8dd42a328"
+    "id": "65fae7bf-5233-4a48-b79a-9aff60f96443"
   },
   {
     "title": "Birds from My Window",
@@ -2570,14 +2570,14 @@
     "tags": ["Kids"],
     "amazon-price": 250.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9788184776690.0,
     "blurb": "Highly rated Indian wildlife observation journal",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 125,
     "ageCategory": "Above 8",
-    "id": "99eb52bd-f6f7-4d40-acb1-5c623c9948e9"
+    "id": "39dd1213-ace6-451c-b4e9-1450574aa528"
   },
   {
     "title": "365 Questions & Answers : What about Vegetables",
@@ -2592,7 +2592,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Under 8",
-    "id": "edf1693b-e462-462b-9019-e7c91b139bbe"
+    "id": "32d7daa5-7928-43f0-925e-455783ba5eff"
   },
   {
     "title": "365 Questions & Answers : What about Aquatic Animals",
@@ -2607,7 +2607,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Under 8",
-    "id": "35782d71-5930-47a2-814b-9d4a8df95820"
+    "id": "51d862ac-2199-4e9e-b052-448a0bfb1f6a"
   },
   {
     "title": "365 Questions & Answers : Animal Kingdom",
@@ -2622,7 +2622,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Under 8",
-    "id": "bc7fc618-c9ea-4d81-a61f-8a78f9b6c4d6"
+    "id": "d9d138ff-b7d3-4e24-9d28-9cf51e10b049"
   },
   {
     "title": "365 Questions & Answers : Natural Wonders",
@@ -2637,7 +2637,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Under 8",
-    "id": "608a79fd-2691-43ca-a82a-1224ca5e3fbe"
+    "id": "f5c9c184-0075-4482-8e63-e62649f547db"
   },
   {
     "title": "365 Questions & Answers : What about Fruits",
@@ -2652,7 +2652,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Under 8",
-    "id": "a7f93020-f33a-4192-bd9d-105d18b4dde3"
+    "id": "39f0bddc-5a14-4bdd-9f3b-7272edff7565"
   },
   {
     "title": "365 Questions & Answers : What about Vehicles",
@@ -2667,7 +2667,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Under 8",
-    "id": "a09fd55e-75ae-4c19-bd71-7b62f268bc88"
+    "id": "3daae5e1-26df-4114-8a2e-9584bbbfb4d6"
   },
   {
     "title": "365 Questions & Answers : What about Wild Animals",
@@ -2682,7 +2682,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Under 8",
-    "id": "a8ba5306-170c-4c08-b00e-d4a799200c14"
+    "id": "69541375-915c-422e-b2bb-9a0380e6a6d1"
   },
   {
     "title": "365 Questions & Answers : What about Buddhism",
@@ -2697,14 +2697,14 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Above 8",
-    "id": "842c8126-2f8d-4af6-94ac-b133058d00fe"
+    "id": "7188556a-9a81-4754-9a95-6137efcaf8ad"
   },
   {
     "title": "Knowledge Encyclopedia",
     "author": "DK Publishing",
     "tags": ["Knowledge"],
     "amazon-price": 799.0,
-    "rating": null,
+    "rating": 4.5,
     "isbn": null,
     "blurb": "A visual reference covering science, history, nature, the human body and more, with detailed illustrations and clear text.",
     "condition": "Good",
@@ -2712,7 +2712,7 @@
     "bestseller": false,
     "price": 500,
     "ageCategory": "All",
-    "id": "3281e30b-6824-48ec-989b-518db85aa25f"
+    "id": "4db1b27d-c396-428b-bfef-dd1db864c361"
   },
   {
     "title": "1000 Wonders of Nature",
@@ -2720,14 +2720,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 650.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780276426148.0,
     "blurb": "A richly illustrated Reader's Digest guide to the natural world's most spectacular marvels.",
     "condition": "Good",
     "award": "Classic highly-rated educational resource",
     "bestseller": false,
     "price": 450,
     "ageCategory": "All",
-    "id": "84de3a88-7599-4799-a072-123237af2767"
+    "id": "0d8ef9c6-09bd-479a-ae6b-764060770283"
   },
   {
     "title": "Amazing Quiz Challenge",
@@ -2742,7 +2742,7 @@
     "bestseller": false,
     "price": 500,
     "ageCategory": "All",
-    "id": "c16918fe-af2e-416d-84c6-43dd5ded2e77"
+    "id": "f5a4681b-fc08-4e9c-86c3-61928bb7d2c9"
   },
   {
     "title": "Knowledge Genius!",
@@ -2757,7 +2757,7 @@
     "bestseller": false,
     "price": 250,
     "ageCategory": "Above 8",
-    "id": "5f194786-4129-4030-a09a-833bde2839e4"
+    "id": "8b7af058-f1fd-4b63-8a21-9d4f614b4a6c"
   },
   {
     "title": "Facts at your Fingertips",
@@ -2765,14 +2765,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 450.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780276424984.0,
     "blurb": "A quick-reference collection of everyday facts on a wide range of subjects.",
     "condition": "Good",
     "award": "Popular quick-reference compilation",
     "bestseller": false,
     "price": 400,
     "ageCategory": "All",
-    "id": "3da7006d-45ad-4246-8d1e-10749f86f3cc"
+    "id": "e40e12e9-d1f4-44ed-bab5-eceb4718abcc"
   },
   {
     "title": "Bumper Family Quiz Book",
@@ -2787,7 +2787,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "All",
-    "id": "fb976c20-2f05-4ff0-92eb-7f6ff0de2a44"
+    "id": "82c3de05-9e16-4f72-b87c-595d5019c238"
   },
   {
     "title": "Your World: A First Encyclopedia",
@@ -2795,14 +2795,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 350.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780753403754.0,
     "blurb": "A first encyclopedia introducing children to the world around them in simple text and pictures.",
     "condition": "Good",
     "award": "Acclaimed introductory children's reference",
     "bestseller": false,
     "price": 500,
     "ageCategory": "Under 8",
-    "id": "1f5b21c8-7637-485c-85f4-66b4e86a78b8"
+    "id": "dee08782-0338-431c-9808-38ac36858ef8"
   },
   {
     "title": "Wow",
@@ -2817,7 +2817,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "7093e0fe-20fc-4b41-9abe-94e7eef0a514"
+    "id": "798abbec-0abd-4570-b50d-6e7cd8292b46"
   },
   {
     "title": "A Child's First Library of Learning (Series)",
@@ -2832,7 +2832,7 @@
     "bestseller": false,
     "price": null,
     "ageCategory": "Under 8",
-    "id": "9055a324-9eb4-443a-820d-71f3afb6a8ea"
+    "id": "10040ec3-3642-49ff-9ee7-5d277a10f253"
   },
   {
     "title": "Science",
@@ -2840,14 +2840,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 350.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9781474825696.0,
     "blurb": "A children's introduction to scientific principles, discoveries and everyday science.",
     "condition": "Good",
     "award": null,
     "bestseller": false,
     "price": 250,
     "ageCategory": "Above 8",
-    "id": "d0abb188-6c61-4264-ba05-e863d6e81b4f"
+    "id": "0cf0aca2-29fd-489c-9bfa-d0038e27f9d5"
   },
   {
     "title": "Planet Earth and Universe",
@@ -2855,14 +2855,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 350.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780276427152.0,
     "blurb": "An illustrated guide to planet Earth, the solar system and the wider universe.",
     "condition": "Good",
     "award": null,
     "bestseller": false,
     "price": 250,
     "ageCategory": "Above 8",
-    "id": "b3ed1e53-b180-4fce-95ee-576483fdd780"
+    "id": "f5b4750b-e8bb-4435-a23b-d235ccbf15c7"
   },
   {
     "title": "Book of universe",
@@ -2877,7 +2877,7 @@
     "bestseller": false,
     "price": 250,
     "ageCategory": "Above 8",
-    "id": "d1d99937-b0bb-4aec-836d-758c715af2eb"
+    "id": "711d2249-de4a-4fda-acc6-6effb7a6d623"
   },
   {
     "title": "Animals at Play",
@@ -2885,14 +2885,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 250.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9781592135516.0,
     "blurb": "An illustrated children's book about how animals play and why it matters.",
     "condition": "Good",
     "award": null,
     "bestseller": false,
     "price": 250,
     "ageCategory": "Under 8",
-    "id": "fe4d8aec-424e-46e3-b1ff-9964d5d54df2"
+    "id": "5a83a8fb-4802-4177-9a80-60d1a1404c68"
   },
   {
     "title": "Baby Birds and how they grow",
@@ -2900,14 +2900,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 250.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780751350128.0,
     "blurb": "A children's book about how baby birds hatch, are fed and grow up.",
     "condition": "Good",
     "award": null,
     "bestseller": false,
     "price": 250,
     "ageCategory": "Under 8",
-    "id": "f008727c-50e3-4216-9e12-5faeccbea855"
+    "id": "a5b943f2-f848-412e-89df-36633d891df1"
   },
   {
     "title": "3-D Explorer: Predators",
@@ -2922,7 +2922,7 @@
     "bestseller": false,
     "price": 250,
     "ageCategory": "Above 8",
-    "id": "3721bf94-9d06-4144-bc17-761c604e2559"
+    "id": "5b31cf2a-2bdb-40b0-abf3-7c3cb5650339"
   },
   {
     "title": "Geography Encyclopaedia",
@@ -2930,14 +2930,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 550.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780794501082.0,
     "blurb": "A school-level guide to the world's countries, landforms, climates and cultures.",
     "condition": "Good",
     "award": "Core scholastic geographical companion",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Above 8",
-    "id": "5b67567f-ae2f-4a2d-a9e0-0c1f3ce7a2ec"
+    "id": "4e24054e-ebe3-4c67-b4b9-5501cd422316"
   },
   {
     "title": "Animals",
@@ -2945,14 +2945,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 299.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780787986629.0,
     "blurb": "An illustrated children's introduction to animals and the wild world.",
     "condition": "Good",
     "award": null,
     "bestseller": false,
     "price": 250,
     "ageCategory": "Under 8",
-    "id": "1d957e1e-5fb6-48fc-9269-4ac153998b2e"
+    "id": "ed0bfa30-3a5d-4f6b-8b13-e4838d7c7461"
   },
   {
     "title": "Geography Encyclopaedia",
@@ -2960,14 +2960,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 399.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780794501082.0,
     "blurb": "A school-level guide to the world's countries, landforms, climates and cultures.",
     "condition": "Good",
     "award": null,
     "bestseller": false,
     "price": 250,
     "ageCategory": "Above 8",
-    "id": "c63c5f1a-f588-460b-bd2a-ed463a09c852"
+    "id": "6adfa936-e6a9-464a-b659-0e7d7679f250"
   },
   {
     "title": "Tell me how, why, when, where",
@@ -2982,7 +2982,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Above 8",
-    "id": "892e974c-d536-4711-89a3-1025b1399756"
+    "id": "725c1919-4e8c-4441-bb15-24358bdbe94d"
   },
   {
     "title": "Big Book of Why",
@@ -2997,7 +2997,7 @@
     "bestseller": false,
     "price": 250,
     "ageCategory": "Above 8",
-    "id": "4eeb5343-53b2-408d-885f-1b38888df424"
+    "id": "2db3c233-9671-4a18-af04-6385c1317c17"
   },
   {
     "title": "Tell me how, why, when, where : 2",
@@ -3012,7 +3012,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Above 8",
-    "id": "5acab505-cdaa-4e06-9e97-a2322455ff5a"
+    "id": "f696495c-266a-4fc2-bc81-9da9a05abe5a"
   },
   {
     "title": "Life in the planet kingdom",
@@ -3020,14 +3020,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 250.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9788179931967.0,
     "blurb": "A children's guide to the planet's plant kingdom and the way plants live and grow.",
     "condition": "Good",
     "award": null,
     "bestseller": false,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "70dc7a8e-001f-42dd-8ca3-29d7283f494a"
+    "id": "fcfa4e47-8f40-49e8-8801-eda20784614e"
   },
   {
     "title": "My own book of flowers",
@@ -3035,14 +3035,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 250.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780385140768.0,
     "blurb": "A children's book about flowers, with pictures and facts about their types and uses.",
     "condition": "Good",
     "award": null,
     "bestseller": false,
     "price": 100,
     "ageCategory": "Under 8",
-    "id": "86220298-a847-4370-9164-52d9b5f6b664"
+    "id": "4596510a-be45-40cb-af0f-44d0d3d62247"
   },
   {
     "title": "Dances in India",
@@ -3057,7 +3057,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "All",
-    "id": "b947f3d9-571e-4b6c-984a-082f9b976f04"
+    "id": "7c5e59b0-c4b6-4525-a798-41ea02b75ecf"
   },
   {
     "title": "Ultimate Visual Dictionary",
@@ -3065,14 +3065,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 899.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780756626068.0,
     "blurb": "A comprehensive visual dictionary that explains the world through detailed labelled illustrations.",
     "condition": "Good",
     "award": "Industry-standard illustrated reference guide",
     "bestseller": false,
     "price": 450,
     "ageCategory": "All",
-    "id": "6548ef5e-3639-42d2-82f7-4670f6013b2b"
+    "id": "6eafad64-f7e8-477f-beca-1b0e176df35d"
   },
   {
     "title": "The Navneet Pictopedia (Series)",
@@ -3087,7 +3087,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Above 8",
-    "id": "0503c24d-e906-40a5-99ac-f91aa5603140"
+    "id": "52b11627-4480-4ada-8c5f-54d2c970b20b"
   },
   {
     "title": "Buddhism (Religions of the World)",
@@ -3102,7 +3102,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "4f604ee8-c43b-4e03-879b-7f8770be22f5"
+    "id": "7eb439c1-dabb-4ba4-814e-911c8066d004"
   },
   {
     "title": "150 Great Science Experiments",
@@ -3110,14 +3110,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 399.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9781782142157.0,
     "blurb": "A collection of 150 hands-on science experiments for young learners, with step-by-step instructions.",
     "condition": "Good",
     "award": "Highly recommended STEM activity resource",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "40cc3881-03ec-4f54-bc7f-77466d4bf386"
+    "id": "4156c178-9044-4bf8-9a62-2d94b7c552ef"
   },
   {
     "title": "Science Experiments",
@@ -3125,14 +3125,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 299.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9789354402302.0,
     "blurb": "A hands-on guide to simple science experiments that children can do at home.",
     "condition": "Good",
     "award": null,
     "bestseller": false,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "5bf4beaf-e5ae-4585-89c7-122fa39734bd"
+    "id": "306f119c-8d03-4a15-bc52-9519c24d0613"
   },
   {
     "title": "101 Science Experiments",
@@ -3140,14 +3140,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 299.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780241185131.0,
     "blurb": "A collection of 101 fun science experiments that explain how the world works.",
     "condition": "Good",
     "award": null,
     "bestseller": false,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "b34dc210-8e19-49fc-a5e4-f37b720ad45b"
+    "id": "643f86cc-ee3a-4604-b77a-7e3ef7e12502"
   },
   {
     "title": "Childcraft (Multi-Volume Series)",
@@ -3162,7 +3162,7 @@
     "bestseller": false,
     "price": null,
     "ageCategory": "All",
-    "id": "6841a875-efc4-4bd2-af99-671f39795b28"
+    "id": "b4e31c64-2faa-42cc-81e5-775d3b28815c"
   },
   {
     "title": "The Universe",
@@ -3177,22 +3177,22 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "c1242f27-ad47-476e-aa34-23be0b3e1274"
+    "id": "cd4d94e0-90f7-45ee-b5ac-e0402f208c77"
   },
   {
     "title": "5000 Awesome Facts",
     "author": "National Geographic",
     "tags": ["Knowledge"],
     "amazon-price": 599.0,
-    "rating": null,
-    "isbn": null,
+    "rating": 4.7,
+    "isbn": 9781426324536.0,
     "blurb": "National Geographic Kids' fact-filled collection of thousands of amazing facts about animals, science, space, history and more.",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 500,
     "ageCategory": "Above 8",
-    "id": "03f00448-bc68-49eb-93c8-22738010233c"
+    "id": "41bf3f48-dbdb-414f-9c0a-5aa617226841"
   },
   {
     "title": "Elephants",
@@ -3200,14 +3200,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 199.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9781107143289.0,
     "blurb": "A children's picture book on elephants, covering where they live, what they eat and how they care for their young.",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 50,
     "ageCategory": "Under 8",
-    "id": "7264cc07-005d-43db-aceb-8a9132395458"
+    "id": "61cf8867-3086-4fd9-b34a-ddd69b6a48f4"
   },
   {
     "title": "Bugs Bugs Bugs",
@@ -3222,7 +3222,7 @@
     "bestseller": false,
     "price": 50,
     "ageCategory": "Under 8",
-    "id": "8eec09f6-de3c-43a7-a8b5-dc97cd994154"
+    "id": "9742a103-6c00-494a-947b-49fb2399808a"
   },
   {
     "title": "Geographic Society",
@@ -3237,7 +3237,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "9b84dade-6b4a-47c4-8fc5-444a99a26d24"
+    "id": "4cb21e12-8011-4aac-b50f-f9b00fbb55d2"
   },
   {
     "title": "Predators",
@@ -3245,14 +3245,14 @@
     "tags": ["Knowledge"],
     "amazon-price": 299.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9781684123346.0,
     "blurb": "A children's guide to the world's fiercest hunters, explaining how predators find, chase and catch their prey.",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 500,
     "ageCategory": "Above 8",
-    "id": "cb397e28-2109-481e-8edf-2bcc884bb510"
+    "id": "1816b90b-c889-4444-93d1-0e1b89e71cbd"
   },
   {
     "title": "Fun with Words",
@@ -3267,7 +3267,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Under 8",
-    "id": "bf37ee5a-7f8a-4538-8123-0125c158ad03"
+    "id": "354cdd73-cff3-4fcc-b0aa-5b34e0122dd0"
   },
   {
     "title": "Big Book of Words",
@@ -3282,7 +3282,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Under 8",
-    "id": "3f9aab53-855d-4a50-b46b-d59226e68b46"
+    "id": "6e43ae07-9c98-4d9d-8e1a-d38e551779aa"
   },
   {
     "title": "First Phonics",
@@ -3297,7 +3297,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Under 8",
-    "id": "362d2dcf-aaa6-4e56-a0f9-9ccfba92cbff"
+    "id": "9dc7413f-a04d-4839-be8a-62d606b43cfc"
   },
   {
     "title": "Science Paragon",
@@ -3312,7 +3312,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Above 8",
-    "id": "a49f1ab8-f431-4f98-a1d3-fb6c187e94c8"
+    "id": "7e56bc4a-e2ef-4db9-9826-5547b0c7bf63"
   },
   {
     "title": "Scarlett",
@@ -3327,7 +3327,7 @@
     "bestseller": true,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "84261f2e-b7fb-4890-8207-66cb9c26b4e2"
+    "id": "f8598d67-74e0-4716-8360-f7e1c85cec85"
   },
   {
     "title": "Little Dorrit",
@@ -3335,14 +3335,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 250.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9781435116429.0,
     "blurb": "Dickens's tale of Amy Dorrit, born in a debtors' prison, satirises Victorian bureaucracy, class and money.",
     "condition": "Good",
     "award": "Victorian Classic Literature standard",
     "bestseller": false,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "06085078-0131-4a69-b4b2-27e3d99274d1"
+    "id": "6147d29a-c713-43fb-87d0-bdb24256e1dc"
   },
   {
     "title": "The Great Gatsby",
@@ -3357,7 +3357,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "2536e9c4-21f3-4fce-9cc5-fa3e404288a0"
+    "id": "77be3a8e-e534-4893-af6a-bfe5f267c306"
   },
   {
     "title": "In the City of Gold and Silver",
@@ -3365,14 +3365,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 399.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9788176212373.0,
     "blurb": "Kenize Mourad's epic of royal intrigue and love set in the Mughal and Rajput courts of India.",
     "condition": "Good",
     "award": "Acclaimed French Historical Epic",
     "bestseller": false,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "c7aa1f33-48eb-4f60-9a54-b85c7007168a"
+    "id": "24d99a3f-880f-4ff3-8f34-b268087d56ca"
   },
   {
     "title": "The Collected Novels",
@@ -3380,14 +3380,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 499.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9780140255669.0,
     "blurb": "A collection of Khushwant Singh's best-known novels, including Train to Pakistan, with his sharp wit and humane eye.",
     "condition": "Good",
     "award": "Padma Vibhushan Awarded Author collection",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "60503042-16f8-44d3-b451-6b696ad331d7"
+    "id": "480e6aab-ea1b-4871-938c-034f435cb6cc"
   },
   {
     "title": "The Yearling",
@@ -3402,7 +3402,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Young Adult",
-    "id": "dd596c6c-1174-4ebf-9cf2-47efc1763f20"
+    "id": "ec90979d-2ea2-4a2c-bc24-ad9b4cd2c346"
   },
   {
     "title": "The White Queen",
@@ -3410,14 +3410,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 399.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9781476735481.0,
     "blurb": "Philippa Gregory's novel of Elizabeth Woodville, who rose from commoner to Queen of England during the Wars of the Roses.",
     "condition": "Good",
     "award": "Basis for the Golden Globe Nominated Series",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "f717efe5-e680-4821-b792-072add9d698b"
+    "id": "347eab1e-ca56-4787-8cec-66ea4e65a50d"
   },
   {
     "title": "Tess of the d'Urbervilles",
@@ -3432,7 +3432,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "0b96a31b-2097-4e64-98e5-d8654d317dfc"
+    "id": "b421815d-5c2d-4aea-b457-49755246c5dd"
   },
   {
     "title": "The Time Traveler's Wife",
@@ -3440,14 +3440,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 399.0,
     "rating": 3.98,
-    "isbn": 9780156029438.0,
+    "isbn": 9780099464464.0,
     "blurb": "A love story between Henry, who involuntarily travels through time, and Clare, who waits for him.",
     "condition": "Good",
     "award": "Exclusive British Book Award Winner",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "15018436-63b7-4fa2-b449-f67bc4736d1e"
+    "id": "09e82e86-4391-488a-93a9-1012faf67b1f"
   },
   {
     "title": "If You Could See Me Now",
@@ -3455,14 +3455,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 299.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780007300822.0,
     "blurb": "Cecelia Ahern's romance about a woman who befriends an imaginary boy who turns out to be real.",
     "condition": "Good",
     "award": "Irish Book Award Nominee",
     "bestseller": false,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "a60d5717-fe15-475a-a187-4ecb7f392cf3"
+    "id": "2c1fe31a-9aa7-483e-be4f-6c5b88413812"
   },
   {
     "title": "Half Girlfriend",
@@ -3477,7 +3477,7 @@
     "bestseller": true,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "78399c29-48cd-471f-8538-b54765437562"
+    "id": "bc96a97f-09f7-48a6-b3cb-143381471edf"
   },
   {
     "title": "The Mistress of Spices",
@@ -3485,14 +3485,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 299.0,
     "rating": 3.6,
-    "isbn": 9780385482387.0,
+    "isbn": 9780552996709.0,
     "blurb": "Tilo, a magical spice-shop owner in Oakland, must choose between her powers and love.",
     "condition": "Good",
     "award": "Adapted into a major motion picture",
     "bestseller": false,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "7fa1b0d6-b899-44ba-8fff-84ee16e6af68"
+    "id": "7ac0b10c-74a5-4fb2-8926-4bba5ff8db54"
   },
   {
     "title": "Ugly Love",
@@ -3507,7 +3507,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "efcb0490-53a9-4d75-bac8-ca2e11788534"
+    "id": "89d49d0f-f567-4d7b-8439-d75934e85c74"
   },
   {
     "title": "Toxic Bachelors",
@@ -3515,14 +3515,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 299.0,
     "rating": 3.8,
-    "isbn": null,
+    "isbn": 9789751411471.0,
     "blurb": "Three wealthy bachelors in San Francisco meet love, loss and a second chance.",
     "condition": "Good",
     "award": "New York Times Blockbuster Novel",
     "bestseller": true,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "33e25c36-363f-4482-8624-c679d9dfb792"
+    "id": "dfdffbb7-52e3-4a7d-9dd7-a4edc6d94c85"
   },
   {
     "title": "Oliver's Story",
@@ -3530,14 +3530,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 250.0,
     "rating": 3.4,
-    "isbn": null,
+    "isbn": 9780553275292.0,
     "blurb": "The sequel to Love Story follows Oliver Barrett as he rebuilds his life after his wife's death.",
     "condition": "Good",
     "award": "Bestselling sequel to Love Story",
     "bestseller": true,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "511416d8-b8c9-4469-9b0c-d8a753b4d08c"
+    "id": "228e6815-57e9-4c77-9b9e-863685a554c1"
   },
   {
     "title": "Killing Commendatore",
@@ -3545,14 +3545,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 499.0,
     "rating": 3.8,
-    "isbn": 9780525521112.0,
+    "isbn": 9781784707330.0,
     "blurb": "A portrait painter in the Japanese mountains discovers a hidden painting that opens up a surreal, haunting mystery.",
     "condition": "Like New",
     "award": "Bestseller \/ Highly Acclaimed",
     "bestseller": true,
     "price": 400,
     "ageCategory": "Adult",
-    "id": "c8535347-261a-4112-9964-b562f10d74a7"
+    "id": "2b9a9211-deb3-41bd-82de-de2bfec68b4d"
   },
   {
     "title": "Men Without Women",
@@ -3567,7 +3567,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "21e9a716-92e3-4551-8ac0-9f311994abb7"
+    "id": "b9b3b2ab-e7ce-4d9e-9114-8523f894beb9"
   },
   {
     "title": "Norwegian Wood",
@@ -3582,7 +3582,7 @@
     "bestseller": false,
     "price": 300,
     "ageCategory": "Adult",
-    "id": "71a4af63-2710-4dd3-a63d-aea76abaff3c"
+    "id": "3b2142ab-5780-46ec-9809-5be08ab9536b"
   },
   {
     "title": "After You",
@@ -3590,14 +3590,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 399.0,
     "rating": 3.8,
-    "isbn": null,
+    "isbn": 9781405926751.0,
     "blurb": "Louisa Clark rebuilds her life after loss and learns what comes after Me Before You.",
     "condition": "Good",
     "award": "Goodreads Choice Award Nominee (2015)",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "51f864c9-e324-4266-aa6a-654c2902b887"
+    "id": "43184b94-9a64-4049-b578-433823bf31fa"
   },
   {
     "title": "Still Me",
@@ -3605,14 +3605,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 425.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780718183196.0,
     "blurb": "Lou Clark moves to New York, where her new job pulls her into a different world and a hard choice.",
     "condition": "Good",
     "award": "Goodreads Choice Award Winner (2018)",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "f28b7b42-a916-4f1d-a1bb-acd03d0d2868"
+    "id": "e06ddb6b-7244-4229-9796-ea2abd82815b"
   },
   {
     "title": "The Japanese Wife",
@@ -3620,14 +3620,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 299.0,
     "rating": 3.6,
-    "isbn": null,
+    "isbn": 9781552786758.0,
     "blurb": "A Bengali schoolteacher and his Japanese pen-friend are married by letter for decades without ever meeting.",
     "condition": "Good",
     "award": "Adapted into an award-winning Indian film",
     "bestseller": false,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "72963789-e167-4940-acb1-97312220d6dc"
+    "id": "be059ecc-0ae3-4058-81d1-2eebf3337092"
   },
   {
     "title": "Sister of My Heart",
@@ -3635,14 +3635,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 350.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780385489515.0,
     "blurb": "Two Calcutta cousins raised like sisters see their bond tested by marriage and secrets.",
     "condition": "Good",
     "award": "Critical Acclaim \/ Bestseller",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "7995174d-9d72-462d-835d-1e7b73ad4085"
+    "id": "e2f8959d-a006-4bc6-ae08-d5dd00768b85"
   },
   {
     "title": "The Thorn Birds",
@@ -3657,7 +3657,7 @@
     "bestseller": true,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "642c3351-5cb8-446f-8cca-387697f1524b"
+    "id": "7321a780-c448-43e2-a03e-3bc5adc1becb"
   },
   {
     "title": "Dreaming Water",
@@ -3665,14 +3665,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 420.0,
     "rating": 3.8,
-    "isbn": null,
+    "isbn": 9780312316082.0,
     "blurb": "A mother and daughter in Hong Kong face illness, love and hidden family secrets.",
     "condition": "Good",
     "award": "Highly Acclaimed Contemporary Fiction",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "69ccbe94-7fd7-4504-9cab-d257d4d7fa7f"
+    "id": "f3165e95-2b89-47a4-b081-8e1aee0c4d21"
   },
   {
     "title": "The Catcher in the Rye",
@@ -3687,7 +3687,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Young Adult",
-    "id": "ec795751-f534-4122-9111-4c2301905218"
+    "id": "3cd0cd59-fca1-411c-9731-cda1bbd90fec"
   },
   {
     "title": "And Thereby Hangs a Tale",
@@ -3695,14 +3695,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 350.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780230531451.0,
     "blurb": "Jeffrey Archer's collection of ten short stories with signature twists and humour.",
     "condition": "Good",
     "award": "Bestselling Short Story Anthology",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "a3c5136c-690b-4cb9-aeb8-539834b62511"
+    "id": "2ade7967-e241-4c45-929a-905ed7ff6d5e"
   },
   {
     "title": "Only Time Will Tell",
@@ -3710,14 +3710,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 399.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780330535670.0,
     "blurb": "Harry Clifton's rise from the Bristol docks begins in the first volume of the Clifton Chronicles.",
     "condition": "Good",
     "award": "Inaugural Clifton Chronicles installment",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "903ea9c7-a0ab-4e7d-ba8e-821a5f658246"
+    "id": "6ae7bd3d-9459-4265-8b03-2c19433117a9"
   },
   {
     "title": "Unaccustomed Earth",
@@ -3725,14 +3725,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 399.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9788184000603.0,
     "blurb": "Jhumpa Lahiri's collection of stories about Bengali families in America across generations.",
     "condition": "Good",
     "award": "Frank O'Connor International Short Story Award",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "cdcb0a60-0be6-4869-b57e-0254a12476d6"
+    "id": "95471052-78f8-4d30-a43c-e58f491ce213"
   },
   {
     "title": "Harvesting the heart",
@@ -3740,14 +3740,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 450.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780140230277.0,
     "blurb": "A death-row inmate offers his heart to the sister of the girl he killed, forcing a moral and legal debate.",
     "condition": "Good",
     "award": "Goodreads Choice Award Nominee",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "acc0e621-d4a0-48a5-abc5-bb272e2de911"
+    "id": "8230d76b-240e-48b9-9c7f-2cd8f20a74cb"
   },
   {
     "title": "PicturePerfect",
@@ -3755,14 +3755,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 350.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780399140402.0,
     "blurb": "A mother takes extreme measures to protect her child from abuse and the justice system.",
     "condition": "Good",
     "award": "Meredith Award Winner",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "41a0c8c6-0d84-472e-a75c-0d472fbf1ed5"
+    "id": "d83ea8fa-ebc6-42bd-af5a-8ff11f094284"
   },
   {
     "title": "The Tenth Circle",
@@ -3770,14 +3770,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 399.0,
     "rating": 3.8,
-    "isbn": null,
+    "isbn": 9780743496711.0,
     "blurb": "A father's search for the truth about his daughter's assault reveals dark secrets about family and love.",
     "condition": "Good",
     "award": "New York Times Bestseller",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "45f971d3-8005-404b-a3d6-bd878f06e6a3"
+    "id": "eeef1931-523c-4aa7-be85-5b12592684d8"
   },
   {
     "title": "Vanishing Acts",
@@ -3792,7 +3792,7 @@
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "b75d6abf-53a5-4d77-904e-1337dcf4e265"
+    "id": "83689c1f-cb5a-4812-96ca-0ac3369d00c9"
   },
   {
     "title": "And the Mountains Echoed",
@@ -3800,29 +3800,29 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 450.0,
     "rating": 4.2,
-    "isbn": 9781594631733.0,
+    "isbn": 9781408842454.0,
     "blurb": "Khaled Hosseini's multi-generational novel about family, love and sacrifice starting with a brother and sister in Afghanistan.",
     "condition": "Good",
     "award": "Goodreads Choice Award for Historical Fiction (2013)",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "a34555b9-e7e9-4c02-97f6-943b2d8d8d6f"
+    "id": "d739a33a-1835-4231-ae8b-74aaf12acf73"
   },
   {
     "title": "The Legend of Lakshmi Prasad",
     "author": "Twinkle Khanna",
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 299.0,
-    "rating": null,
-    "isbn": null,
+    "rating": 3.4,
+    "isbn": 9789386228055.0,
     "blurb": "Twinkle Khanna's collection of tales about ordinary Indian women and their quirks, with her trademark wry humour.",
     "condition": null,
     "award": null,
     "bestseller": null,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "41724413-b71b-4dc7-bf30-c0063b93d778"
+    "id": "da821a06-ff98-4f1a-8cbb-0777d014ed40"
   },
   {
     "title": "The Time Machine",
@@ -3830,14 +3830,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 199.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780393927948.0,
     "blurb": "H.G. Wells's classic novella of an inventor who travels to the far future and finds humanity split into two strange races.",
     "condition": null,
     "award": null,
     "bestseller": null,
     "price": 100,
     "ageCategory": "Young Adult",
-    "id": "f9bcb7c6-c959-42ca-8188-40bcbd7ac857"
+    "id": "234ec178-d0df-4c5a-a40f-97a1a05df9f4"
   },
   {
     "title": "In the Walled Gardens",
@@ -3845,14 +3845,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 399.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780316711593.0,
     "blurb": "A literary family drama set among old homes and walled gardens, exploring memory, secrets and belonging.",
     "condition": null,
     "award": null,
     "bestseller": null,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "0b615b91-c77f-43d6-beb8-c4830faf9278"
+    "id": "8cd46d46-907d-4b76-8d0a-5a95a67b96a6"
   },
   {
     "title": "Julius Ceasar",
@@ -3867,14 +3867,14 @@
     "bestseller": null,
     "price": 100,
     "ageCategory": "Young Adult",
-    "id": "94749742-1316-4304-8bfb-6b00d1ad1c73"
+    "id": "feb8abb7-1fef-4147-8e36-ba4980d889d1"
   },
   {
     "title": "Jeeves and the Omnibus",
     "author": "PG Wodehouse",
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 599.0,
-    "rating": null,
+    "rating": 4.3,
     "isbn": null,
     "blurb": "An omnibus of P.G. Wodehouse's comic Jeeves stories, in which the valet Jeeves rescues the hapless Bertie Wooster from his scrapes.",
     "condition": null,
@@ -3882,7 +3882,7 @@
     "bestseller": null,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "ee557b5a-2221-4f49-a236-37382f33a0de"
+    "id": "93827e45-5dd5-4ec7-b22a-aa4742823ac1"
   },
   {
     "title": "To the Lighthouse",
@@ -3890,14 +3890,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 199.0,
     "rating": 3.8,
-    "isbn": null,
+    "isbn": 9780156907392.0,
     "blurb": "Virginia Woolf's modernist novel of the Ramsay family across a summer holiday on the Isle of Skye and the years that follow.",
     "condition": null,
     "award": null,
     "bestseller": null,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "333d1fa3-57e3-4387-8159-f4401b36d9ef"
+    "id": "6bd5dacf-07e7-4291-9185-cfe4ce670394"
   },
   {
     "title": "The Lost Flamingoes of Bombay",
@@ -3905,21 +3905,21 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 450.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780312593490.0,
     "blurb": "A lyrical novel set in Bombay about love, loss and a city of lost dreams.",
     "condition": null,
     "award": null,
     "bestseller": null,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "89b29ccc-124f-463e-be48-630767f6b393"
+    "id": "926eb673-641d-4e20-bee6-828b11bf17ac"
   },
   {
     "title": "The Death of Vishnu",
     "author": "Manil Suti",
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 350.0,
-    "rating": null,
+    "rating": 3.7,
     "isbn": null,
     "blurb": "Manil Suri's novel in which the lives of a Bombay apartment block's residents intersect around the dying odd-job man Vishnu on the stairs.",
     "condition": null,
@@ -3927,7 +3927,7 @@
     "bestseller": null,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "47d7a400-611d-44fa-8c62-0851bb41364c"
+    "id": "ec6e17de-51c3-481c-abf5-74b29e9c602f"
   },
   {
     "title": "The Magician King",
@@ -3935,14 +3935,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 499.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780670022304.0,
     "blurb": "Quentin and his friends rule Fillory, but a quest across the sea lets dark and dangerous magic spill out.",
     "condition": null,
     "award": null,
     "bestseller": null,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "9bcca7da-17fe-41cd-8452-8e41c1dbadcc"
+    "id": "e8fa33ca-08bd-46a1-9f56-8da1f4f9a2ef"
   },
   {
     "title": "The Pearl That Broke Its Shell",
@@ -3957,7 +3957,7 @@
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "352bc432-d037-424e-9dc7-c1ab91f8e34b"
+    "id": "610f5995-e705-4073-a651-791c9aa7c589"
   },
   {
     "title": "A Confederacy of Dunces",
@@ -3972,7 +3972,7 @@
     "bestseller": true,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "a6a69611-df7b-4bf2-b0fd-a54c27437d14"
+    "id": "5f04b32e-2994-4246-a028-87c6b95bf26e"
   },
   {
     "title": "The Shadow of the Wind",
@@ -3987,7 +3987,7 @@
     "bestseller": true,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "9ac7f995-3552-4542-b11f-c12d2af6f307"
+    "id": "094f5e2c-2cc2-40f1-a43a-0ac31b2b33a9"
   },
   {
     "title": "I Know This Much Is True",
@@ -4002,7 +4002,7 @@
     "bestseller": true,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "007eaa31-3c35-4ba8-9a53-63d428e15537"
+    "id": "0ed57e49-a89f-427c-8dce-1a754f4fe4e0"
   },
   {
     "title": "The Armour of Light",
@@ -4017,7 +4017,7 @@
     "bestseller": true,
     "price": 350,
     "ageCategory": "Adult",
-    "id": "9e4b0d0b-4b70-4a65-81ff-99d1d4ef6d61"
+    "id": "80b0ced0-4b66-4beb-b021-2455f8102335"
   },
   {
     "title": "The Mountains Sing",
@@ -4025,14 +4025,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 450.0,
     "rating": 4.38,
-    "isbn": 9781616208738.0,
+    "isbn": 9780861541331.0,
     "blurb": "An epic saga of a Vietnamese family spanning the 20th century.",
     "condition": "Good",
     "award": "Dayton Literary Peace Prize",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "4bcfcb5e-31df-4aa7-bb1d-d094524ead28"
+    "id": "6746d753-c1a6-428f-bccf-d41106d47d18"
   },
   {
     "title": "The Help",
@@ -4040,14 +4040,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 450.0,
     "rating": 4.47,
-    "isbn": 9780425232200.0,
+    "isbn": 9780399155345.0,
     "blurb": "A deeply moving novel about African American maids working in Jackson, Mississippi during the 1960s.",
     "condition": "Good",
     "award": "Grand Prix des Lectrices",
     "bestseller": true,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "b19b5dd0-e7ed-40ac-907a-62a23098ec3c"
+    "id": "591c8e97-b6c3-487f-aeb8-1c957ce020f6"
   },
   {
     "title": "Snow Flower and the Secret Fan",
@@ -4055,14 +4055,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 399.0,
     "rating": 4.07,
-    "isbn": 9780812968439.0,
+    "isbn": 9780812968064.0,
     "blurb": "A story of female friendship in 19th-century China.",
     "condition": "Good",
     "award": "Asian\/Pacific American Award",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "e907e5ac-4ab9-4a3a-9229-b019b656e481"
+    "id": "1df93aed-31c9-4c85-8690-22cefa28ab27"
   },
   {
     "title": "A Gesture Life",
@@ -4077,7 +4077,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "efb05a5c-6c42-4c68-90e4-036fcf8fa1e5"
+    "id": "fe2d31aa-e78d-4ff8-9a19-d04f10576b1b"
   },
   {
     "title": "By the Sea",
@@ -4085,14 +4085,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 450.0,
     "rating": 3.65,
-    "isbn": 9781620401477.0,
+    "isbn": 9780747557852.0,
     "blurb": "A spellbinding story of love, betrayal, and asylum by Nobel laureate Abdulrazak Gurnah.",
     "condition": "Good",
     "award": "Nobel Prize in Literature 2021",
     "bestseller": true,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "3e8be9b1-c7d7-453d-b84a-6c857c6d3dc3"
+    "id": "2bd6fb86-bf7c-44c3-9934-c6cfe72af39a"
   },
   {
     "title": "Middlesex",
@@ -4100,14 +4100,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 480.0,
     "rating": 4.02,
-    "isbn": 9780312422158.0,
+    "isbn": 9780007528646.0,
     "blurb": "A breathtaking saga of a Greek-American family and an intersex narrator.",
     "condition": "Good",
     "award": "Pulitzer Prize for Fiction",
     "bestseller": true,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "a2e6f600-2737-4ec8-8f6a-a3febc7865af"
+    "id": "7fd8f1d0-ac10-4a36-927e-ca2972b21ae0"
   },
   {
     "title": "Independence Day",
@@ -4122,7 +4122,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "56219957-7daf-4fd3-beea-11f772e29a8d"
+    "id": "ba02a669-49b0-4ca9-8d73-01b843af3905"
   },
   {
     "title": "In Other Words",
@@ -4130,14 +4130,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 399.0,
     "rating": 3.59,
-    "isbn": 9781101875551.0,
+    "isbn": 9780345810090.0,
     "blurb": "An intimate account of a writer's love affair with the Italian language.",
     "condition": "Good",
     "award": "National Bestseller",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "e18c759c-719c-4338-b4bd-9d77e5e9d39b"
+    "id": "9b15e0c3-f410-4853-9a67-783124957d74"
   },
   {
     "title": "An American Marriage",
@@ -4145,14 +4145,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 420.0,
     "rating": 3.99,
-    "isbn": 9781616208684.0,
+    "isbn": 9781786075192.0,
     "blurb": "A moving portrayal of a young married couple tested by wrongful conviction.",
     "condition": "Good",
     "award": "Women's Prize for Fiction",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "9b6ee876-49be-49d9-89ac-15607d56fa56"
+    "id": "4c32fa9e-be10-4ab2-88fc-8cc9145e2b3c"
   },
   {
     "title": "The Dew Breaker",
@@ -4167,7 +4167,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "0f3de86e-3a7e-478f-9499-63d4bda21ae8"
+    "id": "a893616f-b13d-484f-a589-be812da6365a"
   },
   {
     "title": "Birds Without Wings",
@@ -4175,14 +4175,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 460.0,
     "rating": 4.14,
-    "isbn": 9780375726576.0,
+    "isbn": 9780099478980.0,
     "blurb": "An epic of a small Anatolian town at the collapse of the Ottoman Empire.",
     "condition": "Good",
     "award": "Commonwealth Writers' Prize Nominee",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "ca45300b-f2ee-49fe-a2f7-2915d8e573c6"
+    "id": "6a9d97a9-7824-4577-9b40-930a3536138f"
   },
   {
     "title": "Purple Hibiscus",
@@ -4190,14 +4190,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 399.0,
     "rating": 4.16,
-    "isbn": 9781616202422.0,
+    "isbn": 9780007182671.0,
     "blurb": "A haunting coming-of-age novel set in post-colonial Nigeria.",
     "condition": "Good",
     "award": "Commonwealth Writers' Prize",
     "bestseller": true,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "583fffe9-ad96-4365-9e27-4d2cfdb5fade"
+    "id": "93885f8c-67fb-48d7-b97a-4f8c2cabe1b4"
   },
   {
     "title": "Kim",
@@ -4212,7 +4212,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "c2680ad6-528f-4191-add5-64fb3fd3ac3c"
+    "id": "bdc911c3-59f5-47b0-baf9-b6a7034e23ad"
   },
   {
     "title": "Victory City",
@@ -4220,14 +4220,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 599.0,
     "rating": 4.09,
-    "isbn": 9780593243398.0,
+    "isbn": 9781787333444.0,
     "blurb": "An epic tale of a woman who breathes a fantastical empire into existence.",
     "condition": "Good",
     "award": "New York Times Bestseller",
     "bestseller": true,
     "price": 300,
     "ageCategory": "Adult",
-    "id": "b2527532-0e4b-4641-b73d-4870ee89971a"
+    "id": "4cf94fb0-9a6b-4363-bb7b-a85b625f46d9"
   },
   {
     "title": "When We Were Orphans",
@@ -4235,14 +4235,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 450.0,
     "rating": 3.53,
-    "isbn": 9780571205257.0,
+    "isbn": 9780375724404.0,
     "blurb": "A detective's journey to Shanghai to uncover the mystery of his parents' disappearance.",
     "condition": "Good",
     "award": "Booker Prize Nominee",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "3f0a8273-72cc-473e-9c5b-a58aa9873d0b"
+    "id": "5962e80b-b906-4962-81ff-0ed75a6861cc"
   },
   {
     "title": "The Narrow Road to the Deep North",
@@ -4257,7 +4257,7 @@
     "bestseller": true,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "6b76c1c2-ef07-40bc-a9de-fc42737d69e1"
+    "id": "081d0dea-b753-4f0f-bb6a-2ca591828f29"
   },
   {
     "title": "Netherland",
@@ -4272,7 +4272,7 @@
     "bestseller": true,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "438e6660-5b43-4173-9e7f-91462073b3f3"
+    "id": "516ff774-1573-48ba-85a6-40a5cf73e557"
   },
   {
     "title": "Alias Grace",
@@ -4287,7 +4287,7 @@
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "daa0b640-74c9-481d-8ec8-8083fbd96a61"
+    "id": "89d60283-14ca-44c8-8010-a72771e1c15f"
   },
   {
     "title": "A Horse Walks Into a Bar",
@@ -4295,14 +4295,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 399.0,
     "rating": 3.37,
-    "isbn": 9781784704773.0,
+    "isbn": 9780451493972.0,
     "blurb": "A stand-up comedian's searing, confessional routine in an Israeli club.",
     "condition": "Good",
     "award": "International Booker Prize",
     "bestseller": true,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "50612570-6170-4064-ae10-ed1ed3d6485d"
+    "id": "241e17d4-e563-4a6c-8526-6e33f9d8526d"
   },
   {
     "title": "The Seven Moons of Maali Almeida",
@@ -4310,14 +4310,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 499.0,
     "rating": 3.89,
-    "isbn": null,
+    "isbn": 9781908745903.0,
     "blurb": "A murdered war photographer in Sri Lanka has seven moons to solve his own death.",
     "condition": "Good",
     "award": "Booker Prize",
     "bestseller": true,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "f7b94204-22e0-4b09-b91f-cf70119eeb84"
+    "id": "fdf72331-9c9b-4768-bda6-1aa089b24ade"
   },
   {
     "title": "Tomb of Sand",
@@ -4325,14 +4325,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 599.0,
     "rating": 3.76,
-    "isbn": 9780143454830.0,
+    "isbn": 9780063299405.0,
     "blurb": "An eighty-year-old woman travels to Pakistan to confront the unresolved trauma of Partition.",
     "condition": "Like New",
     "award": "International Booker Prize",
     "bestseller": true,
     "price": 400,
     "ageCategory": "Adult",
-    "id": "6d6164c6-a81c-4514-936a-53abe4ac1b14"
+    "id": "80562cf9-85d7-4ee5-8719-dabf87213e37"
   },
   {
     "title": "The Stationery Shop of Tehran",
@@ -4340,14 +4340,14 @@
     "tags": ["Literary, Family and Romance"],
     "amazon-price": 399.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9781982107482.0,
     "blurb": "Two young lovers, Roya and Bahman, are separated during Iran's 1953 coup and meet again decades later in America.",
     "condition": null,
     "award": null,
     "bestseller": true,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "ab97b483-e22d-403f-ad52-e92070a6e7bd"
+    "id": "4898a1be-485f-45bb-9422-726dfbec5c12"
   },
   {
     "title": "Desperately Seeking Shah Rukh",
@@ -4362,7 +4362,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "2c79536d-f9f5-4229-9476-53f553e28cb8"
+    "id": "442c07ab-c40f-41df-982c-5e1f5f5595d8"
   },
   {
     "title": "Papillon",
@@ -4370,14 +4370,14 @@
     "tags": ["Memoir"],
     "amazon-price": 450.0,
     "rating": 4.27,
-    "isbn": 9780061120084.0,
+    "isbn": 9780060934798.0,
     "blurb": "A thrilling and iconic autobiographical account of a sensational escape from the penal colony of French Guiana.",
     "condition": "Good",
     "award": "Global Bestselling Memoir",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "4571f371-885c-46cf-99dc-a3acf6d02373"
+    "id": "6aaa8676-48ed-4465-b3e7-ab122526b69d"
   },
   {
     "title": "Stranger to History: A Son's Journey",
@@ -4392,7 +4392,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "fdbfa6f3-5203-4203-9ace-9b543925e0f3"
+    "id": "bec6fa82-f0bc-42eb-a428-d77205a94340"
   },
   {
     "title": "I Am Malala",
@@ -4407,7 +4407,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "8440f23d-e037-4229-9347-16553134a7df"
+    "id": "45f603fc-0ce1-42e5-b204-b3c5828535ee"
   },
   {
     "title": "Khullam Khulla: Rishi Kapoor Uncensored",
@@ -4415,14 +4415,14 @@
     "tags": ["Memoir"],
     "amazon-price": 399.0,
     "rating": 3.88,
-    "isbn": 9789352643806.0,
+    "isbn": 9789352643028.0,
     "blurb": "A candid, uninhibited look into the personal life and cinematic journey of one of Bollywood's legendary actors.",
     "condition": "Good",
     "award": "Highly Popular National Bestseller",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "6e945e67-1798-495b-b72c-8d099add408c"
+    "id": "0e857d50-ac4c-4e00-89ec-0b6e607a4554"
   },
   {
     "title": "Father Dearest: The Life and Times",
@@ -4437,7 +4437,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "2909e6fe-5710-46aa-8366-592045e5adda"
+    "id": "b904c028-f19a-4f43-8d3e-ad7fbc97dd6b"
   },
   {
     "title": "Mother Mary Comes To Me",
@@ -4445,14 +4445,14 @@
     "tags": ["Memoir"],
     "amazon-price": 399.0,
     "rating": 4.4,
-    "isbn": 9781668094716.0,
+    "isbn": 9780241761724.0,
     "blurb": "A deeply moving memoir chronicling the author's intricate and fierce relationship with her mother.",
     "condition": "Good",
     "award": "Written by Sahitya Akademi Awardee",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "4b8519e3-8a44-4672-b69e-5066e1211983"
+    "id": "f0439283-86fc-4e3a-9f45-eac9a18139b6"
   },
   {
     "title": "Memoirs of a Geisha",
@@ -4460,14 +4460,14 @@
     "tags": ["Memoir"],
     "amazon-price": 425.0,
     "rating": 4.16,
-    "isbn": 9780679781585.0,
+    "isbn": 9780099282853.0,
     "blurb": "A beautifully woven historical fiction piece depicting the secret, disciplined world of a geisha in 20th-century Japan.",
     "condition": "Good",
     "award": "Bestseller lists globally",
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "3a7e0e82-188e-496d-b880-050aac038d0d"
+    "id": "79838bb4-287f-411e-b32e-2f04034f9f8c"
   },
   {
     "title": "Running with Scissors",
@@ -4475,14 +4475,14 @@
     "tags": ["Memoir"],
     "amazon-price": 599.0,
     "rating": 3.73,
-    "isbn": 9780312422271.0,
+    "isbn": 9780312283704.0,
     "blurb": "A fiercely funny yet disturbing memoir of a boy surviving a bizarre, highly unorthodox childhood.",
     "condition": "Good",
     "award": "#1 New York Times Bestseller",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "e7a50b79-06ef-4dd3-9aeb-43d4562a83a9"
+    "id": "e2447ae3-4402-4641-84f4-cf6f917f3f3f"
   },
   {
     "title": "Da Vinci Decoded",
@@ -4497,7 +4497,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "1d0530ea-70e6-4942-a7b3-8cf24f6a4aba"
+    "id": "5ce4dbf0-a75a-4cd6-bf83-f2274ac25947"
   },
   {
     "title": "Reading Lolita in Tehran",
@@ -4512,7 +4512,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "0c5508e6-96ba-435f-baae-094a12a3908d"
+    "id": "f5520226-af3e-47ea-9249-1584e0d96f58"
   },
   {
     "title": "Princess Sultana's Daughters",
@@ -4520,14 +4520,14 @@
     "tags": ["Memoir"],
     "amazon-price": 395.0,
     "rating": 4.13,
-    "isbn": 9780967112213.0,
+    "isbn": 9780307274229.0,
     "blurb": "Continues the striking, true struggles of a Saudi princess trying to protect her daughters in a restrictive society.",
     "condition": "Good",
     "award": "International Bestselling Sequel",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "0ec8ae05-b0dd-471a-9b84-500bf3d4edd2"
+    "id": "9c0d7685-89c5-459d-96e5-a71689fefc1a"
   },
   {
     "title": "Chaos Monkeys: Obscene Fortune...",
@@ -4535,14 +4535,14 @@
     "tags": ["Memoir"],
     "amazon-price": 499.0,
     "rating": 3.94,
-    "isbn": 9780062458193.0,
+    "isbn": 9780062458209.0,
     "blurb": "An chaotic, inner look into the high-stakes, disruptive mechanics of Silicon Valley tech giants.",
     "condition": "Good",
     "award": "New York Times Editor's Choice",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "4199187c-23d7-4e0f-a196-06e074689219"
+    "id": "3c3f003d-8876-4303-893a-8d0c3b6a0222"
   },
   {
     "title": "The Life Impossible",
@@ -4550,14 +4550,14 @@
     "tags": ["Memoir"],
     "amazon-price": 450.0,
     "rating": 4.02,
-    "isbn": 9780593492727.0,
+    "isbn": 9781838855611.0,
     "blurb": "A magical, soul-stirring story about a retired teacher finding transformation and purpose in the wild landscapes of Ibiza.",
     "condition": "Good",
     "award": "Instant International Hit",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "503eacff-12f4-4bca-830c-69cd7d2328fd"
+    "id": "34045d51-096a-4f41-9704-05f0e8b58a71"
   },
   {
     "title": "Born Again on the Mountain",
@@ -4572,7 +4572,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "12a529f7-be2a-49b5-82a7-d052f46a7dea"
+    "id": "510b0a58-b1a7-40b3-a888-9c7998678bd0"
   },
   {
     "title": "A Gift of Goddess Lakshmi",
@@ -4587,7 +4587,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "0e17af5b-e2dc-4558-9459-34a42c0d4689"
+    "id": "4e94b399-66ad-46ed-8551-8fafb78471f0"
   },
   {
     "title": "Unbreakable",
@@ -4602,7 +4602,7 @@
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "fc739620-36ef-4d0b-9a5b-024062a9c75d"
+    "id": "b2050ecc-778f-44bb-9c3e-0f65dff866ef"
   },
   {
     "title": "Follow Every Rainbow",
@@ -4610,14 +4610,14 @@
     "tags": ["Memoir"],
     "amazon-price": 220.0,
     "rating": 3.78,
-    "isbn": 9789382618416.0,
+    "isbn": 9789382618423.0,
     "blurb": "Captures the entrepreneurial journeys of 25 women who successfully balanced their homes with thriving businesses.",
     "condition": "Good",
     "award": "National Bestselling Compilation",
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "c89c8321-3fed-45bd-b980-230940fe5de7"
+    "id": "4d83d8dc-a72c-48a3-a952-7aad9f2224e4"
   },
   {
     "title": "Stay Hungry Stay Foolish",
@@ -4625,14 +4625,14 @@
     "tags": ["Memoir"],
     "amazon-price": 195.0,
     "rating": 3.67,
-    "isbn": 9788190455657.0,
+    "isbn": 9789381626719.0,
     "blurb": "Shares the inspiring success strategies of 25 top IIM-Ahmedabad graduates who chose the path of entrepreneurship.",
     "condition": "Good",
     "award": "Bestselling Business Entrepreneur Book",
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "34f03257-4600-4f30-9d7c-985390026960"
+    "id": "3241f42d-f9af-4b46-990c-3099885d0034"
   },
   {
     "title": "An Autobiography: The Story of...",
@@ -4640,14 +4640,14 @@
     "tags": ["Memoir"],
     "amazon-price": 150.0,
     "rating": 4.14,
-    "isbn": 9780486245935.0,
+    "isbn": 9788172343118.0,
     "blurb": "A foundational spiritual and political document charting Mahatma Gandhi's personal experiments with truth.",
     "condition": "Good",
     "award": "Designated as One of 100 Best Spiritual Books",
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "dfe08d7a-e1ac-4c12-9575-9b1fa85c5b47"
+    "id": "e77fb8c3-258a-4a0a-a8b6-adaf5d09bc98"
   },
   {
     "title": "Who Was Marie Curie?",
@@ -4662,7 +4662,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Above 8",
-    "id": "fde5e770-3ae7-4c29-aa06-0c44814893d6"
+    "id": "5423f692-ae5d-47d2-89c3-c227e629d900"
   },
   {
     "title": "Hot Seat: What I Learned Led",
@@ -4670,14 +4670,14 @@
     "tags": ["Memoir"],
     "amazon-price": 599.0,
     "rating": 3.51,
-    "isbn": 9781541674448.0,
+    "isbn": 9781529358728.0,
     "blurb": "A raw account of leading GE through historic crises, offering crucial lessons in crisis management.",
     "condition": "Good",
     "award": "Axiom Business Book Award Winner",
     "bestseller": false,
     "price": 300,
     "ageCategory": "Adult",
-    "id": "499a93f9-34ed-430e-b654-962fb16dfef7"
+    "id": "b6b84051-7503-498b-adad-dfd1201fdf81"
   },
   {
     "title": "In the Shadow of the Mahatma",
@@ -4692,7 +4692,7 @@
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "2d07d139-90fb-4ec6-8a85-9100dfacae63"
+    "id": "51569a0c-a5a4-4034-b519-02156fc4c60f"
   },
   {
     "title": "Richard Branson: Business Stripped Bare",
@@ -4700,14 +4700,14 @@
     "tags": ["Memoir"],
     "amazon-price": 499.0,
     "rating": 3.89,
-    "isbn": 9781846684784.0,
+    "isbn": 9780753519691.0,
     "blurb": "A revealing look at the billionaire's philosophies on business, life, leadership, and disruptive innovation.",
     "condition": "Good",
     "award": "Global Business Leader Insight",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "0ebb6cbc-d344-4929-8dd2-57e9b955a9f8"
+    "id": "7fae58a7-c03a-463c-8c65-c98216f03c19"
   },
   {
     "title": "Too Big to Fail",
@@ -4715,14 +4715,14 @@
     "tags": ["Memoir"],
     "amazon-price": 599.0,
     "rating": 4.18,
-    "isbn": 9780143119678.0,
+    "isbn": 9781846142383.0,
     "blurb": "A gripping, fly-on-the-wall account of the dramatic financial crisis of 2008 and the global economic collapse.",
     "condition": "Good",
     "award": "Winner of the Gerald Loeb Award",
     "bestseller": false,
     "price": 300,
     "ageCategory": "Adult",
-    "id": "73f56e14-79da-4db1-af34-81470a8d821c"
+    "id": "26778599-fc51-4b01-b74e-233c89650e48"
   },
   {
     "title": "Love in a Torn Land",
@@ -4730,14 +4730,14 @@
     "tags": ["Memoir"],
     "amazon-price": 350.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780553818147.0,
     "blurb": "Jean Sasson's account of Jamila, a Kurdish girl fighting for her people under Saddam Hussein's regime.",
     "condition": "Good",
     "award": "Highly acclaimed true survival chronicle",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "2982567c-cd5d-4c4a-b2c4-80936d553562"
+    "id": "ecc9cb67-41e4-464b-9e21-3276c5485753"
   },
   {
     "title": "The House on Carnaval Street",
@@ -4752,7 +4752,7 @@
     "bestseller": null,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "9300ce19-75c7-48ba-98e1-9266dc863486"
+    "id": "00bae526-500f-43c7-b19d-71e3413d5fe9"
   },
   {
     "title": "For the Love of a Son",
@@ -4767,7 +4767,7 @@
     "bestseller": null,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "efc41153-8f7b-4f2b-b3ac-d57c707f0011"
+    "id": "d3307ab2-3092-433a-8789-408d1f5c9b22"
   },
   {
     "title": "The Luminous Life of Adolf Hitler",
@@ -4782,7 +4782,7 @@
     "bestseller": null,
     "price": 50,
     "ageCategory": "Adult",
-    "id": "5e501127-8d6a-4e83-8ed5-117533f53a0c"
+    "id": "6c828ec5-433e-4939-825d-a56a20ee6fc1"
   },
   {
     "title": "Open",
@@ -4797,7 +4797,7 @@
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "c6d08731-e39c-4f85-9cd4-f59fd4b8d81d"
+    "id": "a81f3cd8-2df1-4272-85ab-03592e8c4445"
   },
   {
     "title": "Steve Jobs",
@@ -4812,7 +4812,7 @@
     "bestseller": true,
     "price": 300,
     "ageCategory": "Adult",
-    "id": "0b413c53-b8d9-4877-9b4c-6729517c3baa"
+    "id": "49299467-ced6-4f97-ab65-6def2454556b"
   },
   {
     "title": "Playing It My Way",
@@ -4820,14 +4820,14 @@
     "tags": ["Memoir"],
     "amazon-price": 499.0,
     "rating": 3.73,
-    "isbn": 9781473605206.0,
+    "isbn": 9781473605176.0,
     "blurb": "The autobiography of the greatest cricketer of the modern era.",
     "condition": "Good",
     "award": "Crossword Book Award",
     "bestseller": true,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "4e9c8e03-6fa7-4649-8793-c4062d61e090"
+    "id": "c947b8ec-14c8-47b5-84b0-02e8c922c2c7"
   },
   {
     "title": "My Life",
@@ -4842,7 +4842,7 @@
     "bestseller": true,
     "price": 350,
     "ageCategory": "Adult",
-    "id": "9c1be9eb-ec9f-4b22-9bd3-db10324725df"
+    "id": "1eb5e7b0-ffc3-4414-b0de-411a7602d644"
   },
   {
     "title": "Raising the Bar",
@@ -4857,7 +4857,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "1ba9a3e2-cf60-46f5-8e2d-a8a4301c9682"
+    "id": "c658e88b-9f35-4345-97f1-f5b9518faa18"
   },
   {
     "title": "The Man Who Talked to Machines",
@@ -4872,7 +4872,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "a718446b-ee70-4336-b822-c3d119742406"
+    "id": "fe457c0d-7c3b-44f1-8f77-fe2cecad55ea"
   },
   {
     "title": "Lost in Terror",
@@ -4880,14 +4880,14 @@
     "tags": ["Memoir"],
     "amazon-price": 380.0,
     "rating": 3.75,
-    "isbn": 9780143427216.0,
+    "isbn": 9780143416531.0,
     "blurb": "A powerful account of women living through turmoil in Kashmir.",
     "condition": "Good",
     "award": "Critical Acclaim",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "80505a12-1405-404e-a2c4-313e1ac8d91f"
+    "id": "100851c6-8270-4c95-81e6-eecb68c51aaf"
   },
   {
     "title": "The Light we Carry",
@@ -4902,7 +4902,7 @@
     "bestseller": null,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "e491baf5-1cd5-479b-93b6-d6e3ad54fed9"
+    "id": "5bc9b974-b185-4109-a781-4c3ac2bebeec"
   },
   {
     "title": "Energize Your Mind",
@@ -4910,29 +4910,29 @@
     "tags": ["Self-help"],
     "amazon-price": 250.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9781728265377.0,
     "blurb": "Gaur Gopal Das shares practical life lessons on mindset, relationships and purpose to help readers lead calmer, more meaningful lives.",
     "condition": "Good",
     "award": "National Bestseller",
     "bestseller": true,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "776fc077-fa25-4eb3-af58-d70a7414fb50"
+    "id": "f2e4aa23-7baf-44f1-bf2b-d498874341b7"
   },
   {
     "title": "The Greatness Guide",
     "author": "Robin Sharma",
     "tags": ["Self-help"],
     "amazon-price": 199.0,
-    "rating": null,
-    "isbn": null,
+    "rating": 3.8,
+    "isbn": 9788179925768.0,
     "blurb": "Robin Sharma offers short, powerful chapters on mastering your mind, work and legacy.",
     "condition": "Good",
     "award": "International Bestseller",
     "bestseller": true,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "5477db16-36b1-465b-8718-47043e288c54"
+    "id": "a8956178-7ab5-4b9a-87d6-cefdefc2fca6"
   },
   {
     "title": "The Alchemist",
@@ -4940,21 +4940,21 @@
     "tags": ["Self-help"],
     "amazon-price": 299.0,
     "rating": 3.9,
-    "isbn": 9780062315007.0,
+    "isbn": 9788172234980.0,
     "blurb": "A young shepherd's journey to find treasure becomes a timeless fable about following your dreams.",
     "condition": "Good",
     "award": "Winner of the Grand Prix Littéraire d'Elle (1995)",
     "bestseller": false,
     "price": 100,
     "ageCategory": "All",
-    "id": "d7800302-5bc1-4a75-8257-afd4942c283c"
+    "id": "0b1af6bd-372f-4d17-adbe-3865d58eefbf"
   },
   {
     "title": "The Greatness Guide 2",
     "author": "Robin Sharma",
     "tags": ["Self-help"],
     "amazon-price": 199.0,
-    "rating": null,
+    "rating": 3.9,
     "isbn": null,
     "blurb": "A second collection of Robin Sharma's practical lessons on living with excellence, courage and purpose.",
     "condition": "Good",
@@ -4962,22 +4962,22 @@
     "bestseller": true,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "064e739f-43f0-41db-a9c4-8f14c15ec745"
+    "id": "761151ed-6222-4c81-9d4f-f511f6d02836"
   },
   {
     "title": "Karma: A Yogi's Guide to Crafting Your Destiny",
     "author": "Sadhguru",
     "tags": ["Self-help"],
     "amazon-price": 275.0,
-    "rating": null,
-    "isbn": null,
+    "rating": 4.1,
+    "isbn": 9780143452676.0,
     "blurb": "Sadhguru explores karma as the way to take charge of your life and shape your own destiny.",
     "condition": "Good",
     "award": "New York Times Bestseller",
     "bestseller": true,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "f8573e6d-75d7-4534-bf10-9c0a8d125000"
+    "id": "c0bea264-1dbf-4d6b-9a67-406011404a9a"
   },
   {
     "title": "Why Men Don't Listen and Women Can't Read Maps",
@@ -4985,29 +4985,29 @@
     "tags": ["Self-help"],
     "amazon-price": 350.0,
     "rating": 3.7,
-    "isbn": null,
+    "isbn": 9788184980301.0,
     "blurb": "A humorous, research-based look at why men and women communicate and think differently.",
     "condition": "Good",
     "award": "International Bestseller (Over 12 Million Copies Sold)",
     "bestseller": true,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "1e304139-681c-4e06-9d76-0999be902649"
+    "id": "c1bd79ac-149a-4fb8-8e75-d6f44efe64c7"
   },
   {
     "title": "Think Like a Rocket Scientist",
     "author": "Ozan Varol",
     "tags": ["Self-help"],
     "amazon-price": 399.0,
-    "rating": null,
-    "isbn": null,
+    "rating": 3.9,
+    "isbn": 9781541762596.0,
     "blurb": "A rocket scientist's guide to applying NASA-style problem-solving to everyday life and careers.",
     "condition": "Good",
     "award": "Named a 'Must-Read' book by Adam Grant and Susan Cain",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "cf720a62-a052-41c1-b72b-786285f9e483"
+    "id": "8f674724-c054-457b-9b28-ed348af8e487"
   },
   {
     "title": "Dare to Lead",
@@ -5015,36 +5015,36 @@
     "tags": ["Self-help"],
     "amazon-price": 499.0,
     "rating": 4.2,
-    "isbn": 9780399592522.0,
+    "isbn": 9781785042140.0,
     "blurb": "Brene Brown's research-based guide to courageous leadership: vulnerability, trust and tough conversations.",
     "condition": "Good",
     "award": "#1 New York Times Bestseller, Bloomberg Best Book of the Year",
     "bestseller": true,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "7f67fc8b-35c8-4273-9909-9de53825788d"
+    "id": "970f7410-a9cb-4aa8-b92d-dae6af4e0558"
   },
   {
     "title": "Putting Out of Your Mind",
     "author": "Dr. Bob Rotella with Bob Cullen",
     "tags": ["Self-help"],
     "amazon-price": 320.0,
-    "rating": null,
-    "isbn": null,
+    "rating": 4.1,
+    "isbn": 9780743507745.0,
     "blurb": "A golf psychology guide on mental focus, confidence and consistency by sports psychologist Bob Rotella.",
     "condition": "Good",
     "award": "Bestselling sports psychology handbook",
     "bestseller": true,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "80ad39af-4b5a-475e-913f-e5a9b1f395d5"
+    "id": "6bc0a102-ae13-4fe2-9d38-9ddc94b36224"
   },
   {
     "title": "An Open Heart",
     "author": "The Dalai Lama",
     "tags": ["Self-help"],
     "amazon-price": 250.0,
-    "rating": null,
+    "rating": 4.2,
     "isbn": null,
     "blurb": "The Dalai Lama's guide to compassion and everyday kindness drawn from his teachings.",
     "condition": "Good",
@@ -5052,22 +5052,22 @@
     "bestseller": true,
     "price": 50,
     "ageCategory": "Adult",
-    "id": "6a18da2c-1dd3-4d56-9aa0-ba83a6ab6c51"
+    "id": "e99e83ba-f918-4e77-9ab8-675667480a94"
   },
   {
     "title": "Widening the Circle of Love",
     "author": "The Dalai Lama",
     "tags": ["Self-help"],
     "amazon-price": 280.0,
-    "rating": null,
-    "isbn": null,
+    "rating": 4.1,
+    "isbn": 9781846040283.0,
     "blurb": "A spiritual guide on expanding compassion and love to everyone around us.",
     "condition": "Good",
     "award": "Acclaimed spiritual guide",
     "bestseller": false,
     "price": 50,
     "ageCategory": "Adult",
-    "id": "aed016d8-6851-486c-b32f-3ba1cf973921"
+    "id": "59da6b94-f6cf-4fe8-aeb6-9f9147f33468"
   },
   {
     "title": "Life Lessons for Women",
@@ -5082,7 +5082,7 @@
     "bestseller": false,
     "price": 50,
     "ageCategory": "Adult",
-    "id": "0f13aaac-d7c6-428b-adc8-dba97404ae79"
+    "id": "254bc7a0-9cc0-4222-b5e4-8650db55f22a"
   },
   {
     "title": "Chicken Soup for the Indian Soul At Work",
@@ -5090,14 +5090,14 @@
     "tags": ["Self-help"],
     "amazon-price": 325.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9789381626450.0,
     "blurb": "Heartwarming stories of workplace challenges and triumphs in an Indian context.",
     "condition": "Good",
     "award": "National Bestseller",
     "bestseller": true,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "38615f54-0b1b-475c-8fd5-57208709ef5f"
+    "id": "39c250b3-dbe7-4799-a1b0-f4f83e6735f3"
   },
   {
     "title": "Range",
@@ -5105,14 +5105,14 @@
     "tags": ["Self-help"],
     "amazon-price": 450.0,
     "rating": 4.2,
-    "isbn": 9780735214484.0,
+    "isbn": 9781035053049.0,
     "blurb": "A bestselling argument for the advantages of generalists in a world that rewards narrow specialisation.",
     "condition": "Like New",
     "award": "Shortlisted for the Financial Times and McKinsey Business Book of the Year",
     "bestseller": false,
     "price": 400,
     "ageCategory": "Adult",
-    "id": "7e4eb6f4-21e7-4ddb-aad9-b453e026bce6"
+    "id": "5efa9c55-159d-4632-a398-d89630ecf390"
   },
   {
     "title": "On Writing Well",
@@ -5120,14 +5120,14 @@
     "tags": ["Self-help"],
     "amazon-price": 399.0,
     "rating": 4.3,
-    "isbn": 9780060891541.0,
+    "isbn": 9780063026605.0,
     "blurb": "A classic guide to clear, simple, effective non-fiction writing.",
     "condition": "Good",
     "award": "Classic guide with over a million copies sold",
     "bestseller": true,
     "price": 50,
     "ageCategory": "Adult",
-    "id": "be74bdfa-a8c4-4474-92b5-f404e0209d25"
+    "id": "1cb0aafe-7ac4-4526-bc47-e51365bc67a9"
   },
   {
     "title": "How to Win Friends and Influence People",
@@ -5135,14 +5135,14 @@
     "tags": ["Self-help"],
     "amazon-price": 150.0,
     "rating": 4.2,
-    "isbn": 9780671027032.0,
+    "isbn": 9780143454717.0,
     "blurb": "Dale Carnegie's classic guide to building relationships and influencing others.",
     "condition": "Good",
     "award": "One of the most influential self-help books of all time",
     "bestseller": false,
     "price": 50,
     "ageCategory": "Adult",
-    "id": "99b9b832-dec0-4a9c-9248-5148bcaa2014"
+    "id": "9d81d83d-4b65-41e7-b9b5-4a879499af11"
   },
   {
     "title": "Power Your Personality",
@@ -5150,14 +5150,14 @@
     "tags": ["Self-help"],
     "amazon-price": 195.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9798885217491.0,
     "blurb": "A guide to developing a strong, appealing personality and communicating with confidence.",
     "condition": "Good",
     "award": "Popular Indian self-improvement guide",
     "bestseller": false,
     "price": 50,
     "ageCategory": "Adult",
-    "id": "8b90ac54-48a7-4154-b9fc-f331503ab7f3"
+    "id": "14654340-454e-4f5c-a026-ce6837ab1134"
   },
   {
     "title": "The Art of Laziness",
@@ -5165,14 +5165,14 @@
     "tags": ["Self-help"],
     "amazon-price": 180.0,
     "rating": null,
-    "isbn": null,
+    "isbn": 9780143469124.0,
     "blurb": "An Indian self-help book on working smarter, prioritising and living a balanced life.",
     "condition": "Good",
     "award": "Amazon India Bestseller",
     "bestseller": true,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "ac55399f-8f14-480e-9a8f-974a20a6f778"
+    "id": "790441fe-8a85-41f4-b9e9-c0c8303f8d22"
   },
   {
     "title": "Broadcasting Happiness",
@@ -5180,21 +5180,21 @@
     "tags": ["Self-help"],
     "amazon-price": 399.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9781941631300.0,
     "blurb": "Michelle Gielan shows how a positive mindset can improve work, relationships and success.",
     "condition": "Good",
     "award": "Acclaimed positive psychology guide",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "36f23dcf-c567-4b30-a314-df98e27950e9"
+    "id": "16636300-86f5-4e59-b6f2-00497ee9f060"
   },
   {
     "title": "You Can Win",
     "author": "Shiv Khera",
     "tags": ["Self-help"],
     "amazon-price": 225.0,
-    "rating": null,
+    "rating": 4.1,
     "isbn": null,
     "blurb": "Shiv Khera's classic guide to success through attitude, values and positive thinking.",
     "condition": "Good",
@@ -5202,7 +5202,7 @@
     "bestseller": true,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "070cb9af-1e6f-4d5c-9f4c-467cc65e4990"
+    "id": "aa702ef8-65fb-4fa2-975d-98d16ebf0cec"
   },
   {
     "title": "Stay Hungry Stay Foolish",
@@ -5210,14 +5210,14 @@
     "tags": ["Self-help"],
     "amazon-price": 250.0,
     "rating": 3.67,
-    "isbn": 9788190455657.0,
+    "isbn": 9789381626719.0,
     "blurb": "Shares the inspiring success strategies of 25 top IIM-Ahmedabad graduates who chose the path of entrepreneurship.",
     "condition": "Good",
     "award": "National Bestseller (Over 500,000 copies sold)",
     "bestseller": true,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "9bdb54ae-b657-47a9-8cd5-368a8b97f76e"
+    "id": "17b93615-5e8b-4d4c-be65-5441dc617a72"
   },
   {
     "title": "Old Man and the Sea",
@@ -5225,14 +5225,14 @@
     "tags": ["Self-help"],
     "amazon-price": 199.0,
     "rating": 3.8,
-    "isbn": null,
+    "isbn": 9780099908401.0,
     "blurb": "Hemingway's novella of Santiago, an aging Cuban fisherman, and his epic struggle with a giant marlin.",
     "condition": null,
     "award": null,
     "bestseller": true,
     "price": 50,
     "ageCategory": "All",
-    "id": "0bd05be3-4526-4ad4-9cd3-fad00551dca4"
+    "id": "1cd2415a-9cd8-45bc-b741-0adf2358d556"
   },
   {
     "title": "Never Say Die",
@@ -5240,14 +5240,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780727884831.0,
     "blurb": "Detective Jane Rizzoli and medical examiner Maura Isles investigate a gruesome murder with ties to a wild animal safari.",
     "condition": "Good",
     "award": "Bestselling Rizzoli & Isles series",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "3009fd51-f5b3-46de-afbb-c8cc5c9c1bb0"
+    "id": "792ab17d-7278-4e16-8999-f6dbbff4a133"
   },
   {
     "title": "Chasing Fire",
@@ -5255,14 +5255,14 @@
     "tags": ["Thriller"],
     "amazon-price": 499.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9780515150636.0,
     "blurb": "A group of elite smokejumpers battle raging forest fires and a cunning killer hiding among their ranks.",
     "condition": "Good",
     "award": "NYT Bestseller",
     "bestseller": true,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "7c490393-36e3-4268-a03c-86bb068575be"
+    "id": "134ed21c-d598-4cb7-8d4e-21735e8a070f"
   },
   {
     "title": "The Point of Rescue",
@@ -5270,14 +5270,14 @@
     "tags": ["Thriller"],
     "amazon-price": 350.0,
     "rating": 3.5,
-    "isbn": null,
+    "isbn": 9780143116301.0,
     "blurb": "A gripping psychological thriller where a woman discovers her husband might not be who he claims to be.",
     "condition": "Good",
     "award": "Specsavers National Book Award nominee",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "aec2fb19-5936-4ee8-abc2-afd465eaa963"
+    "id": "e327fa6d-bd13-45a7-8c80-c74e2b2b9a3b"
   },
   {
     "title": "The Other Half Lives",
@@ -5285,14 +5285,14 @@
     "tags": ["Thriller"],
     "amazon-price": 350.0,
     "rating": 3.6,
-    "isbn": null,
+    "isbn": 9783988288257.0,
     "blurb": "A chilling mystery surrounding a man who confesses to a murder that hasn't happened yet.",
     "condition": "Good",
     "award": "Waterstones Thriller of the Month",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "df727e37-520d-4b3b-a753-210c5cfc1123"
+    "id": "34c6ac86-959e-4f27-9563-fe0d262387e4"
   },
   {
     "title": "Blasphemy",
@@ -5300,14 +5300,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.8,
-    "isbn": null,
+    "isbn": 9780765349668.0,
     "blurb": "A supercollider in the Navajo nation creates a religious crisis when it seemingly contacts God.",
     "condition": "Good",
     "award": "Science Thriller of the Year nominee",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "24b6ffe2-0646-4e11-9173-6a1546b17d35"
+    "id": "fb74a071-c5f6-4bbd-bc4d-0ba86b2c2098"
   },
   {
     "title": "The Scorch Trials",
@@ -5315,14 +5315,14 @@
     "tags": ["Thriller"],
     "amazon-price": 350.0,
     "rating": 3.9,
-    "isbn": 9780385738767.0,
+    "isbn": 9780385738750.0,
     "blurb": "Thomas and the Gladers must cross a desolate, scorched landscape filled with deadly obstacles.",
     "condition": "Good",
     "award": "ALA Best Fiction for Young Adults",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "103e7a13-ab17-4ca6-b6b7-3491035e0e35"
+    "id": "5408eb89-3a6c-47d8-9115-a84d5c123dda"
   },
   {
     "title": "The Death Cure",
@@ -5330,14 +5330,14 @@
     "tags": ["Thriller"],
     "amazon-price": 350.0,
     "rating": 3.8,
-    "isbn": 9780385738774.0,
+    "isbn": 9781908435200.0,
     "blurb": "The thrilling conclusion to the Maze Runner series where Thomas must decide who to trust.",
     "condition": "Good",
     "award": "NYT Children's Bestseller",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "0fbf6204-0847-4628-8120-b5f6d4abc24f"
+    "id": "58829077-4dd2-4f54-9715-3df133d42624"
   },
   {
     "title": "Divergent",
@@ -5352,7 +5352,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "7a47d0c6-2caf-4a21-8ad5-3473632e2635"
+    "id": "68c9f950-7b12-49f6-828c-8fb2899329d2"
   },
   {
     "title": "The Girl Who Played with Fire",
@@ -5360,14 +5360,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 4.2,
-    "isbn": 9780307269980.0,
+    "isbn": 9780143170136.0,
     "blurb": "Lisbeth Salander goes on the run when she is framed for three murders in this gripping sequel.",
     "condition": "Good",
     "award": "British Book Award for Crime Thriller",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "51edbad8-3eab-40ee-a521-3d4a55ed3900"
+    "id": "0ca6034b-ca39-42d7-ac70-ddf3f1ed6555"
   },
   {
     "title": "The Girl Who Kicked the Hornets' Nest",
@@ -5382,7 +5382,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "fe1f42f5-4b08-4ff6-a571-00c37f446f80"
+    "id": "32054b20-a9eb-473d-9537-d079e6ba4afd"
   },
   {
     "title": "The Osterman Weekend",
@@ -5397,7 +5397,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "42170459-e85f-416d-bc1e-6b03c5e67750"
+    "id": "a611a442-f0f2-4222-9852-b0a312664f9f"
   },
   {
     "title": "Doors Open",
@@ -5405,14 +5405,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.5,
-    "isbn": null,
+    "isbn": 9781409102014.0,
     "blurb": "A self-made millionaire plans an ambitious art heist just for the thrill of it.",
     "condition": "Good",
     "award": "British Book Award nominee",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "914a484a-41b4-4df6-b447-bad710fcc664"
+    "id": "3c17e441-fd8b-45dc-89de-d2abfd2c3514"
   },
   {
     "title": "The Cloud Maker",
@@ -5420,14 +5420,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.4,
-    "isbn": null,
+    "isbn": 9781409050643.0,
     "blurb": "A high-altitude thriller involving a missing plane and a mysterious Tibetan monastery.",
     "condition": "Good",
     "award": "Adventure Thriller Highlight",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "a3b7cae8-a501-4818-afe5-2cb1b18164e6"
+    "id": "04de3fa0-9702-4f35-a31e-ce7f9d8cd09a"
   },
   {
     "title": "Praying for Sleep",
@@ -5442,7 +5442,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "d92aa89f-036b-4a76-90a6-b808b40576ca"
+    "id": "6ac602d9-228c-482e-b968-f07c4c68f5fc"
   },
   {
     "title": "The Twelfth Card",
@@ -5457,7 +5457,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "888c6518-c807-4151-b1b3-90a3e441ce0c"
+    "id": "3df0e992-a25c-4bb4-af53-ccb504f62dec"
   },
   {
     "title": "The Silkworm",
@@ -5465,14 +5465,14 @@
     "tags": ["Thriller"],
     "amazon-price": 499.0,
     "rating": 4.0,
-    "isbn": 9780316206860.0,
+    "isbn": 9781408704028.0,
     "blurb": "Private investigator Cormoran Strike investigates the brutal murder of a provocative novelist.",
     "condition": "Good",
     "award": "Audie Award for Mystery",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "a26e1d21-fd6d-4aac-918e-7f946cda7cd3"
+    "id": "d9a91f9a-4db4-4a9d-a795-537b7151c39b"
   },
   {
     "title": "Broken",
@@ -5480,14 +5480,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780747255413.0,
     "blurb": "A dark and gritty exploration of gangland violence and family loyalty in the East End.",
     "condition": "Good",
     "award": "British Book Awards Crime Thriller",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "3016507a-06a4-4ff6-bec4-43d80c0e8786"
+    "id": "16504415-bbdd-4b83-a300-bbf3cf5ae319"
   },
   {
     "title": "Monsoon",
@@ -5495,14 +5495,14 @@
     "tags": ["Thriller"],
     "amazon-price": 450.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9780312317126.0,
     "blurb": "A sweeping historical adventure following the Courtney family's maritime battles.",
     "condition": "Good",
     "award": "Historical Adventure Classic",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "a27e76ff-0adb-4038-a5c5-ab7cd62529f3"
+    "id": "a8578747-3951-404d-b142-2bfd2ee8d7ec"
   },
   {
     "title": "The Spy Chronicles",
@@ -5510,14 +5510,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.6,
-    "isbn": null,
+    "isbn": 9789352779253.0,
     "blurb": "Former intelligence chiefs of India and Pakistan engage in a candid conversation about regional security.",
     "condition": "Good",
     "award": "Non-Fiction Bestseller",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "30fb0f86-9f20-4ca6-aa7c-210b021a0f3c"
+    "id": "312dde2c-effd-4bd0-992c-430ceec59234"
   },
   {
     "title": "Dongri to Dubai",
@@ -5532,7 +5532,7 @@
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "0c9921c7-ec04-447d-801c-c0b0f48370ee"
+    "id": "849d1597-f5c7-404d-87e3-64896f29a0ac"
   },
   {
     "title": "The Godfather",
@@ -5547,7 +5547,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "96650f9e-b511-49f7-990b-77fcca07d467"
+    "id": "aaf7075e-64b5-44ca-b3d9-7149314c3da6"
   },
   {
     "title": "Maestra",
@@ -5555,14 +5555,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.0,
-    "isbn": null,
+    "isbn": 9780399184260.0,
     "blurb": "A glamorous art world assistant turns to deceit and murder to climb the social ladder.",
     "condition": "Good",
     "award": "International Bestseller",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "ca310f6b-cbc7-4fd6-b26e-0caa3a4163e5"
+    "id": "05a4b40a-8dd3-44f8-887c-1c1806a8d04c"
   },
   {
     "title": "Single & Single",
@@ -5570,14 +5570,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.8,
-    "isbn": null,
+    "isbn": 9780340738979.0,
     "blurb": "A corporate lawyer uncovers money laundering schemes involving Russian mobsters.",
     "condition": "Good",
     "award": "Espionage Masterpiece",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "ccf43c61-02ff-4d94-9f3f-556ef0507b01"
+    "id": "acd888dc-9b08-4dc8-831c-16250ba623e8"
   },
   {
     "title": "A Legacy of Spies",
@@ -5585,14 +5585,14 @@
     "tags": ["Thriller"],
     "amazon-price": 499.0,
     "rating": 3.8,
-    "isbn": null,
+    "isbn": 9780735225138.0,
     "blurb": "George Smiley returns to confront his past when a historic Cold War operation faces new scrutiny.",
     "condition": "Good",
     "award": "NPR Best Book of the Year",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "fecbd03b-7039-4d61-925e-5f30614e3cd7"
+    "id": "26ac7dc9-8540-439c-aead-538d26f16a23"
   },
   {
     "title": "Night School",
@@ -5600,14 +5600,14 @@
     "tags": ["Thriller"],
     "amazon-price": 499.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9781444834970.0,
     "blurb": "Jack Reacher is sent back to school to solve a globe-threatening mystery in the 1990s.",
     "condition": "Good",
     "award": "Thriller Award nominee",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "b7940b64-f650-4d04-a2bb-d6fa8eb1be72"
+    "id": "cc451f46-d073-4c6f-b9d7-85c89c13295a"
   },
   {
     "title": "The Hard Way",
@@ -5615,14 +5615,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 4.1,
-    "isbn": null,
+    "isbn": 9783442372096.0,
     "blurb": "Reacher is hired by a mercenary director to find his kidnapped wife and stepchild.",
     "condition": "Good",
     "award": "Barry Award nominee",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "c5cda817-5eb8-4809-818f-b4ac7092de91"
+    "id": "9776221e-6429-4ffd-847c-105d2b3b2cc0"
   },
   {
     "title": "Past Tense",
@@ -5630,14 +5630,14 @@
     "tags": ["Thriller"],
     "amazon-price": 499.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780593078198.0,
     "blurb": "Reacher travels to his father's hometown and uncovers dark family secrets.",
     "condition": "Good",
     "award": "NYT Bestseller",
     "bestseller": true,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "13ec6650-8387-4d3d-8768-45da5210e717"
+    "id": "976ba372-cfe4-4c27-bc05-d49ff16e169f"
   },
   {
     "title": "Make Me",
@@ -5645,14 +5645,14 @@
     "tags": ["Thriller"],
     "amazon-price": 499.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780593073896.0,
     "blurb": "Reacher investigates a mysterious remote town named Mother's Rest and uncovers a horrific secret.",
     "condition": "Good",
     "award": "Specsavers National Book Award",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "c1372cd7-f1a9-4015-b33a-8e97453055fb"
+    "id": "1ea89412-f1ea-4a7b-bec2-a9b67978a85e"
   },
   {
     "title": "Personal",
@@ -5660,14 +5660,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780857502827.0,
     "blurb": "Reacher is called in to take down a sniper targeting the President of France.",
     "condition": "Good",
     "award": "RBA Prize for Crime Writing",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "cce9f7dd-a1d0-4e2b-920c-a88c78d201eb"
+    "id": "733b7434-d09c-499e-8eda-2f7a2225dfa6"
   },
   {
     "title": "Bad Luck and Trouble",
@@ -5675,14 +5675,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 4.1,
-    "isbn": null,
+    "isbn": 9780440243663.0,
     "blurb": "When members of his old military unit turn up dead, Reacher reunites with his team for revenge.",
     "condition": "Good",
     "award": "Anthony Award nominee",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "a7bde96a-0ed2-43e0-a35a-15757bf8f164"
+    "id": "0f5614c6-1de1-48c4-9d50-19d54881513c"
   },
   {
     "title": "Deliver Us From Evil",
@@ -5690,14 +5690,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 4.1,
-    "isbn": null,
+    "isbn": 9780446564076.0,
     "blurb": "Shaw and a mysterious woman hunt down a global threat involved in mass murder.",
     "condition": "Good",
     "award": "NYT Bestseller",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "35c2165b-b175-496f-beb0-88ebeaadc73f"
+    "id": "354f75a1-1e85-4f1d-b3cc-4271a30f152a"
   },
   {
     "title": "Total Control",
@@ -5705,14 +5705,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9780446604840.0,
     "blurb": "A woman discovers her husband's corporate firm is involved in a deadly conspiracy.",
     "condition": "Good",
     "award": "Bestselling Thriller",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "8309cdb0-c2f7-439f-ac0a-29c2ae0e4945"
+    "id": "ed444935-5751-45ab-8293-7bb7f3985739"
   },
   {
     "title": "The Sky Is Falling",
@@ -5720,14 +5720,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.8,
-    "isbn": null,
+    "isbn": 9780061752223.0,
     "blurb": "A news anchor investigates the suspicious deaths of a powerful and aristocratic family.",
     "condition": "Good",
     "award": "Sidney Sheldon Classic",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "abde05a5-943f-43a5-877f-8906982e5be4"
+    "id": "17516918-e406-4a46-bcf5-424f1e4da8d0"
   },
   {
     "title": "8th Confession",
@@ -5742,7 +5742,7 @@
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "20f651e1-af11-4eec-8bc2-22c2a78e638e"
+    "id": "356f4d23-4fe9-4225-8ac9-f209e1387d9f"
   },
   {
     "title": "Private Games",
@@ -5750,14 +5750,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.7,
-    "isbn": null,
+    "isbn": 9781455513024.0,
     "blurb": "The Private investigative firm attempts to stop a saboteur targeting the London Olympics.",
     "condition": "Good",
     "award": "Global Thriller Favorite",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "5a9126bc-7b5d-405b-be6d-be45f93ec9d0"
+    "id": "6de86034-b248-4b3d-9dcb-0ebcb1c52f30"
   },
   {
     "title": "Murder House",
@@ -5765,14 +5765,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.8,
-    "isbn": null,
+    "isbn": 9780099594888.0,
     "blurb": "A Hamptons detective uncovers a dark history of killings linked to an extravagant estate.",
     "condition": "Good",
     "award": "Bestselling Mystery",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "9f7d0b9f-066f-45e5-8534-c1d20c33dc55"
+    "id": "b419db43-10d9-4966-9050-364072481757"
   },
   {
     "title": "The Associate",
@@ -5780,14 +5780,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.7,
-    "isbn": null,
+    "isbn": 9780440297031.0,
     "blurb": "A young Yale law grad is blackmailed into taking a job at a prestigious firm to spy for a rival.",
     "condition": "Good",
     "award": "Legal Thriller of the Year",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "a99bbe14-c980-4230-9288-e59ac1f10632"
+    "id": "c2b36a44-24ee-411f-a8e3-191eacbe7e94"
   },
   {
     "title": "The Appeal",
@@ -5795,14 +5795,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.8,
-    "isbn": null,
+    "isbn": 9780099481768.0,
     "blurb": "A corporate giant attempts to buy a seat on the state Supreme Court to overturn a massive verdict.",
     "condition": "Good",
     "award": "Harper Lee Prize nominee",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "570a32a4-278f-4753-b5a0-f4bf6ab9bb05"
+    "id": "92f4545a-75ab-474a-b634-d2c6dc761a44"
   },
   {
     "title": "State of Fear",
@@ -5810,14 +5810,14 @@
     "tags": ["Thriller"],
     "amazon-price": 450.0,
     "rating": 3.8,
-    "isbn": null,
+    "isbn": 9780060554385.0,
     "blurb": "Eco-terrorists manipulate weather events to create mass destruction and incite global panic.",
     "condition": "Good",
     "award": "Nods for Techno-Thriller",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "b13d353e-0fa7-471e-866b-a70385f8cb11"
+    "id": "5ca0044a-c14b-412c-9f35-ad80d4eeb2a1"
   },
   {
     "title": "The Grownup",
@@ -5832,7 +5832,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "712c8998-19a6-49df-8a03-3fe62850162e"
+    "id": "3ac6365d-2979-45f8-b82d-18fd08ff7e73"
   },
   {
     "title": "Nightmares & Dreamscapes",
@@ -5840,14 +5840,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.9,
-    "isbn": null,
+    "isbn": 9781439102565.0,
     "blurb": "A gripping collection of short stories exploring the macabre and the supernatural.",
     "condition": "Good",
     "award": "Locus Award nominee",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "9ef32b20-254b-4423-b991-4d13a1e6304f"
+    "id": "edf0736a-572a-4929-8512-3482de91956f"
   },
   {
     "title": "The Collectors",
@@ -5862,7 +5862,7 @@
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "31cb738c-d59c-4739-be68-3d1a3eeca0d1"
+    "id": "03b64202-3025-4c22-a7a6-eeaf87e0d304"
   },
   {
     "title": "Origin",
@@ -5877,7 +5877,7 @@
     "bestseller": false,
     "price": 300,
     "ageCategory": "Adult",
-    "id": "b8bbe356-284b-4166-bcf4-a0fe06b17d43"
+    "id": "20e37f67-9a59-4a07-98d3-035e74e03bd4"
   },
   {
     "title": "Angels and Demons",
@@ -5892,7 +5892,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "31f8244f-d7d2-4b2e-bfa9-1e3d5aff1cad"
+    "id": "44ad8b83-0f50-4296-8885-9287e15ef44d"
   },
   {
     "title": "Digital Fortress",
@@ -5900,14 +5900,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.7,
-    "isbn": 9780312335281.0,
+    "isbn": 9780312180874.0,
     "blurb": "The NSA's top cryptographer tries to crack a code that threatens national security.",
     "condition": "Good",
     "award": "Techno-Thriller Classic",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "d1c75f35-91e7-4c7f-a4c9-3aa2d2933abf"
+    "id": "137176f2-503f-47f9-83ca-c5cd83bdf6e3"
   },
   {
     "title": "The Lost Symbol",
@@ -5915,14 +5915,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.7,
-    "isbn": 9780385504225.0,
+    "isbn": 9780307950680.0,
     "blurb": "Langdon is drawn into the hidden world of the Freemasons in Washington D.C.",
     "condition": "Good",
     "award": "Record-breaking Bestseller",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "026acda2-ec54-4354-ad0a-1ad1b4a10442"
+    "id": "85b8517b-2bf5-4376-8e5b-49689af67556"
   },
   {
     "title": "Deception Point",
@@ -5930,14 +5930,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.8,
-    "isbn": 9780743486224.0,
+    "isbn": 9780671027384.0,
     "blurb": "An intelligence analyst discovers a shocking scientific fraud in the Arctic.",
     "condition": "Good",
     "award": "NYT Bestseller",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "1ad7aeef-418e-441f-a6b3-97de2e5538f1"
+    "id": "75d8bd49-f15b-4283-b34e-f0a8ae845913"
   },
   {
     "title": "The Devil Colony",
@@ -5945,14 +5945,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780061784781.0,
     "blurb": "Sigma Force investigates a conspiracy tied to America's founding and Native American mythology.",
     "condition": "Good",
     "award": "Sigma Force Favorite",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "e74ff2d4-f64b-4887-81bd-62d56b1385bc"
+    "id": "95627454-3f9f-4113-b760-d35c90d1a626"
   },
   {
     "title": "Kill Shot",
@@ -5960,14 +5960,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9781471148903.0,
     "blurb": "Mitch Rapp becomes the target of a deadly manhunt while operating in Paris.",
     "condition": "Good",
     "award": "NYT Bestseller",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "e06d495a-d179-4ad8-9aae-5855b861ecc2"
+    "id": "63a72f86-948c-4ceb-b31e-3370fbf9062d"
   },
   {
     "title": "The Bullet That Missed",
@@ -5975,14 +5975,14 @@
     "tags": ["Thriller"],
     "amazon-price": 499.0,
     "rating": 4.1,
-    "isbn": null,
+    "isbn": 9780241512432.0,
     "blurb": "The Thursday Murder Club tackles a decade-old cold case involving a murdered journalist.",
     "condition": "Good",
     "award": "British Book Awards Author of the Year",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "cd6e8588-0f28-4f53-bb5c-86f202295a9f"
+    "id": "b5310fea-b487-473a-8485-d5cc75e79d67"
   },
   {
     "title": "The Last Devil To Die",
@@ -5990,14 +5990,14 @@
     "tags": ["Thriller"],
     "amazon-price": 499.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9780593299425.0,
     "blurb": "The amateur sleuths investigate the death of an old friend in the antiques business.",
     "condition": "Good",
     "award": "Bestselling Cozy Mystery",
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "0960a795-300e-49f4-819b-2dc69de2396d"
+    "id": "30df3ca4-111d-4a7e-ad9b-374387e441c0"
   },
   {
     "title": "Sacred Games",
@@ -6005,14 +6005,14 @@
     "tags": ["Thriller"],
     "amazon-price": 599.0,
     "rating": 4.0,
-    "isbn": null,
+    "isbn": 9780061130366.0,
     "blurb": "A Mumbai police inspector is drawn into the complex web of a notorious gang lord.",
     "condition": "Good",
     "award": "Vodafone Crossword Book Award",
     "bestseller": false,
     "price": 300,
     "ageCategory": "Adult",
-    "id": "971c4511-5d54-43e7-911e-a82f66c2004c"
+    "id": "94ce0029-5bd0-40b5-9d73-5e33495b279b"
   },
   {
     "title": "The Inheritance Games",
@@ -6020,14 +6020,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 4.1,
-    "isbn": null,
+    "isbn": 9780241476178.0,
     "blurb": "A teenager inherits a billionaire's fortune but must solve puzzles in his mansion to keep it.",
     "condition": "Good",
     "award": "Edgar Award nominee",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "a776a109-4854-4a5e-900c-43b205e32069"
+    "id": "41285056-7833-4fc1-a8ee-b42a6a4cdfa1"
   },
   {
     "title": "The Final Gambit",
@@ -6035,14 +6035,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9780241573648.0,
     "blurb": "Avery faces the final challenges to secure her inheritance and protect the Hawthorne family.",
     "condition": "Good",
     "award": "Goodreads Choice Award nominee",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "51763a37-81c8-4021-b541-e795429274be"
+    "id": "eea2e76a-dab3-4906-8e28-fc019f7bb8f2"
   },
   {
     "title": "The Brothers Hawthorne",
@@ -6050,14 +6050,14 @@
     "tags": ["Thriller"],
     "amazon-price": 450.0,
     "rating": 4.2,
-    "isbn": null,
+    "isbn": 9780316480772.0,
     "blurb": "The Hawthorne brothers are drawn into separate games across the globe to resolve past secrets.",
     "condition": "Good",
     "award": "YA Bestseller",
     "bestseller": true,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "80a9d027-dc03-42ce-b9e6-87ec110515e2"
+    "id": "d9e5dd19-ec88-48e1-94a1-4202cf76eb55"
   },
   {
     "title": "The Rozabal Line",
@@ -6072,7 +6072,7 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "42d89cb9-6b91-4a6c-89fb-78b05733c712"
+    "id": "3205af06-cf02-4263-a414-af7d9f7ff967"
   },
   {
     "title": "Point Blanc",
@@ -6080,14 +6080,14 @@
     "tags": ["Thriller"],
     "amazon-price": 350.0,
     "rating": 3.9,
-    "isbn": 9780142406113.0,
+    "isbn": 9780399250262.0,
     "blurb": "Teen spy Alex Rider infiltrates an exclusive boarding school for rebellious rich kids.",
     "condition": "Good",
     "award": "Children's Book Award nominee",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Young Adult",
-    "id": "aa489212-63b0-4e57-b915-49d738058537"
+    "id": "8905ee80-2143-4066-9a4a-1166b77dc6f3"
   },
   {
     "title": "The Five Greatest Warriors",
@@ -6102,7 +6102,7 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "e8bb9b7d-fb71-45a8-9d14-f3dd66cb148b"
+    "id": "586378c3-4c97-4781-8b44-25efd5c3e9b7"
   },
   {
     "title": "Plugged",
@@ -6110,14 +6110,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.5,
-    "isbn": null,
+    "isbn": 9780755379996.0,
     "blurb": "An Irish bouncer at a seedy New Jersey club gets caught up in a violent mob dispute.",
     "condition": "Good",
     "award": "Irish Book Award nominee",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "42eb418c-e663-4792-8766-daaf0ebc5650"
+    "id": "130d725e-6002-4232-bf09-066671f411bf"
   },
   {
     "title": "Chaos",
@@ -6125,14 +6125,14 @@
     "tags": ["Thriller"],
     "amazon-price": 399.0,
     "rating": 3.5,
-    "isbn": null,
+    "isbn": 9780749386061.0,
     "blurb": "Dr. Kay Scarpetta investigates a bizarre death linked to a cyber-stalker and unseen forces.",
     "condition": "Good",
     "award": "Crime Fiction Classic",
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "6fdaf654-2603-4051-8867-287ca6b4876b"
+    "id": "c5f364ef-1e0d-4cec-a3b6-e7c640b290b6"
   },
   {
     "title": "Eye of the Needle",
@@ -6147,22 +6147,22 @@
     "bestseller": false,
     "price": 150,
     "ageCategory": "Adult",
-    "id": "d58b70a3-6340-4975-89cc-c260b5ce97f7"
+    "id": "17dadf4a-d49a-49d1-8ca3-58917c7610c8"
   },
   {
     "title": "Mafia Queens of Mumbai",
     "author": "S.Hussain Zaidi",
     "tags": ["Thriller"],
     "amazon-price": 299.0,
-    "rating": null,
-    "isbn": null,
+    "rating": 3.8,
+    "isbn": 9789380283777.0,
     "blurb": "S. Hussain Zaidi tells the true stories of women who rose to power in Mumbai's underworld.",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 100,
     "ageCategory": "Adult",
-    "id": "ff1309cf-ca54-483b-ac6e-66ad10133a83"
+    "id": "f9ea65e7-3fb4-4a50-a4b1-5af15e6f0bd2"
   },
   {
     "title": "Inferno",
@@ -6170,14 +6170,14 @@
     "tags": ["Thriller"],
     "amazon-price": 450.0,
     "rating": 3.8,
-    "isbn": null,
+    "isbn": 9788481094183.0,
     "blurb": "Robert Langdon wakes in a Florence hospital and races through Dante's Inferno to stop a deadly pandemic plot.",
     "condition": null,
     "award": null,
     "bestseller": false,
     "price": 250,
     "ageCategory": "Adult",
-    "id": "cd56f08d-d819-4aa4-8cd8-889b01b16042"
+    "id": "cd7d9fc6-34ec-437e-a803-34f2d51903eb"
   },
   {
     "title": "Ford County Stories",
@@ -6192,6 +6192,6 @@
     "bestseller": false,
     "price": 200,
     "ageCategory": "Adult",
-    "id": "9ba41a2a-9859-442f-bbdd-423116d451f9"
+    "id": "671aad96-f0c8-49e9-8523-87bdfbd1ab68"
   }
 ]

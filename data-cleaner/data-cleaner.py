@@ -12,7 +12,7 @@ def createPrice(row):
     print(row["amazon-price"], row["condition"])
 
 
-df = pd.read_csv("data_new.csv", encoding="utf-8", encoding_errors="replace")
+df = pd.read_csv("data.csv", encoding="utf-8", encoding_errors="replace")
 df["id"] = [str(uuid.uuid4()) for _ in range(len(df))]
 df["tags"] = df["tags"].apply(cleanTags)
 df["amazon-price"] = pd.to_numeric(df["amazon-price"], errors="coerce")
